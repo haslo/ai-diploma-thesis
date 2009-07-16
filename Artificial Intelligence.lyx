@@ -1,0 +1,3226 @@
+#LyX 1.6.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\language english
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Some Thoughts on Artificial Intelligence
+\end_layout
+
+\begin_layout Author
+Guido Gloor Modjib
+\end_layout
+
+\begin_layout Section
+Introduction
+\end_layout
+
+\begin_layout Standard
+Artificial intelligence is a subject of great interest in today's computer
+ science, and was for decades.
+ In fact, thinking machines are a dream that is way older than the short
+ history of modern-day computing:
+\end_layout
+
+\begin_layout Quotation
+Q: How long has the human race dreamed about thinking machines? 
+\end_layout
+
+\begin_layout Quotation
+A: Since at least the time of classical Greece, when Homer's Iliad tells
+ us about robots that are made by the Greek god Hephaestos.
+ Some of them are human-like, and some of them are just machines–for example,
+ golden tripods that serve food and wine at banquets.
+ At about the same time, the Chinese were also telling tales of human-like
+ machines that could think.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "McCorduck2004"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I do believe that it is not impossible to create a machine that thinks (properly
+), and this paper will attempt to show why.
+ Keep in mind however that it actually started out as a part of my diploma
+ thesis (forthcoming), and thus probably can't stand on its own without
+ further explanations or research.
+ I promise it will all make sense
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Or at least, more sense than it does now.
+\end_layout
+
+\end_inset
+
+ once the diploma thesis is out as well.
+\end_layout
+
+\begin_layout Section
+\begin_inset CommandInset label
+LatexCommand label
+name "State-of-Artificial-Intelligence"
+
+\end_inset
+
+The State of Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+When we are talking about artificial intelligence, we immediately think
+ of robots attempting to take over the world, or of vast distributed beings
+ in global networks.
+ Our expectations as to what artificial intelligences are or are not are
+ in large parts shaped by popular culture, by ancient fears and emotional
+ reactions.
+ I think it makes sense to look at a few points in regards to what artificial
+ intelligence really is or could be, what its applications are, and what
+ the implications of these things are.
+\end_layout
+
+\begin_layout Subsection
+Searle: Weak and Strong Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+I may not agree with the point about strong artificial intelligence being
+ impossible that John Searle makes in his Chinese Room thought experiment.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Searle1980"
+
+\end_inset
+
+ for his argument, and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gloor2007"
+
+\end_inset
+
+ for my discussion of it.
+\end_layout
+
+\end_inset
+
+ But in the discussion following the article, he does put forth a very important
+ and necessary distinction: The one between weak and strong artificial intellige
+nce.
+ It truly merits a closer look.
+ While I still believe that Searle didn't successfully show that an artificial
+ intelligence is impossible, he certainly pointed out that it is perfectly
+ possible for a system to appear intelligent and not be intelligent at all.
+ More on this in my chapter on the Turing Test, 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Turing-Test"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+Weak Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+Weak artificial intelligence is a mere simulation of intelligent behaviour.
+ It might fool us, it might even pass the Turing Test, or it might be different
+ altogether and reliably solve problems us humans can't solve.
+ Weak artificial intelligence basically is any kind of systematic behaviour
+ that seems as if it was intelligent to us.
+\end_layout
+
+\begin_layout Standard
+Interestingly, as I will show, all (or at least, most) of today's efforts
+ at producing artificial intelligence are purely behaviourist.
+ We try to replicate human-like behaviour, and think that the machines that
+ we produce will then automatically become intelligent and (more importantly)
+ conscious.
+ Well, they won't.
+ They might act intelligent, and from a purely behaviourist point of view
+ that might be enough to make them seem intelligent, but arguably there
+ is more to consciousness than intelligent behaviour.
+ And that is exactly the point Searle is trying to make.
+ A chess computer might play chess really well.
+ A pattern recognition mechanism might be able to (somewhat) reliably recognize
+ faces, or text.
+ But those things are merely mechanical puzzle pieces that would have to
+ be at the disposal of something that would make sense of them, and put
+ them into context.
+ While these puzzle pieces are interesting on their own, can be tremendously
+ complex, and replicate intelligent behaviour, they only simulate consciousness.
+\end_layout
+
+\begin_layout Standard
+Without discussion, weak artificial intelligence is the only kind of artificial
+ intelligence we have produced to date, and it might well be the only kind
+ we are able to produce for years or even decades to come, until we better
+ understand consciousness and intelligence itself.
+\end_layout
+
+\begin_layout Subsubsection
+Strong Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+Strong artificial intelligence on the other hand is true intelligence that
+ includes subjectivity, phenomenality and intentionality, one that can feel
+ qualia.
+ Essentially, it is artificial intelligence after we've solved the hard
+ problem of consciousness, and successfully applied the solution to an artificia
+l system.
+ As Metzinger rightly points out
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, pages 206f.
+\end_layout
+
+\end_inset
+
+, that doesn't necessarily have to be a purely technological system -- it
+ can well be a postbiotic one, with artificially grown neurons, or maybe
+ with quantum computers, or a technology we haven't discovered yet.
+\end_layout
+
+\begin_layout Standard
+The necessary preconditions and possible implementation details for a strong
+ artificial intelligence are the subject of part 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "State-of-Artificial-Intelligence"
+
+\end_inset
+
+.
+ While I believe that the we will not be certain whether we can create strong
+ artificial intelligence until the very day we manage to create it, I do
+ think that the case is not lost.
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Going-Beyond-Searle"
+
+\end_inset
+
+Going Beyond Searle
+\end_layout
+
+\begin_layout Standard
+It might become necessary to not only think in terms of strong or weak artificia
+l intelligence, but rather, as always, the world is not only black and white.
+ There are not just systems producing fully fleshed-out intentionality,
+ and systems not producing intentionality at all.
+ We might eventually have to introduce a scale ranging from 
+\begin_inset Quotes eld
+\end_inset
+
+not intelligent
+\begin_inset Quotes erd
+\end_inset
+
+, passing 
+\begin_inset Quotes eld
+\end_inset
+
+weakly intelligent
+\begin_inset Quotes erd
+\end_inset
+
+, and ending at 
+\begin_inset Quotes eld
+\end_inset
+
+strongest known intelligence
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Arguably, it is very improbable that we'll sit at the top end of that scale.
+ However, the very definition of intentionality is a priori exactly the
+ way our mental states are intentional, so admittedly another system will
+ probably have a hard time surpassing us in the aptitude in producing intentiona
+lity.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Turing-Test"
+
+\end_inset
+
+Turing Tests and Human Intuitions
+\end_layout
+
+\begin_layout Standard
+When Alan Turing proposed the Turing Test as a measure of the intelligence
+ of candidate machines or other systems (including aliens, I guess), he
+ followed a deep intuition that is widely shared: Us humans are intelligent,
+ so intelligence necessarily has to be human-like.
+ As it turns out, the Turing Test is really good at testing said human-likeness
+ -- but the trouble is, it isn't really good at testing anything else.
+\end_layout
+
+\begin_layout Standard
+The Turing Test makes several unsubstantiated claims that narrow its valid
+ application to very few candidate intelligences, and might well classify
+ some systems as 
+\begin_inset Quotes eld
+\end_inset
+
+not intelligent
+\begin_inset Quotes erd
+\end_inset
+
+ after one or two questions, when they really are -- a trivial example are
+ mentally challenged actual humans, but this also applies to other forms
+ of intelligence.
+\end_layout
+
+\begin_layout Standard
+A few things are openly human-specific, and the examiner in the Turing Test
+ would not have to be allowed to ask about them:
+\end_layout
+
+\begin_layout Itemize
+An artificial intelligence doesn't necessarily need a body, and in particular,
+ it doesn't necessarily need a body that bears any similarity to a human
+ body.
+ So questions relating to body parts would necessarily give away the deviate
+ intelligence, unless it was trained to lie, or would have a self-model
+ and body similar enough to the one of us humans.
+\end_layout
+
+\begin_layout Itemize
+A different kind of intelligence would not share a human-like childhood
+ -- so questions ranging back to the intelligence's genesis, or development,
+ could give away this fact.
+ Again, of course, an artificial system could be trained to pretend to have
+ had such a childhood.
+\end_layout
+
+\begin_layout Itemize
+Everyday tasks for us humans, like bathing or walking, could be out of bounds
+ or, alternatively, very interesting for another kind of intelligence.
+\end_layout
+
+\begin_layout Standard
+There are, however, a few things that aren't so openly human-specific, and
+ would give away a non-human intelligence very quickly:
+\end_layout
+
+\begin_layout Itemize
+Talking is always also empathically attempting to understand what the person
+ we're talking with might be after -- it is, as Metzinger rightly points
+ out
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+ page 366, where he writes: 
+\begin_inset Quotes eld
+\end_inset
+
+To develop successful social strategies, on has to internally model those
+ properties of otehr beings that are not avilable [...] through sensory perception.
+ Because the epistemic target is the content of the self-model of another
+ agent, the task is not only simulation but also 
+\emph on
+emulation
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, always accompanied by us modelling our interlocutor's mind.
+ So we are able to detect very minute changes and inconsistencies, because
+ they don't align with how we're modeling the person we're talking to --
+ they don't align with any way we could possibly see ourselves act or talk
+ in their place.
+ This is, by the way, the reason why some humans might not pass the Turing
+ Test, particularly if they suffer from pathological mental disorders.
+\end_layout
+
+\begin_layout Itemize
+A non-human intelligence could have a different memory structure.
+ It needn't necessarily share the human distinction between episodic and
+ semantic memory, something that probably proved of evolutional benefit
+ for us, for economic reasons.
+ A being that doesn't have the same memory structure would certainly appear
+ alien to us, if not worse.
+\end_layout
+
+\begin_layout Itemize
+Humans have very distinctive patterns of forgetting or suppressing things.
+ We might be able to remember the last few days down to the minute, but
+ our long-term memories have much sparser information, and are often actually
+ factually wrong (often putting ourselves in the most positive light possible
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Mather2003"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+).
+ An artificial intelligence would have to model this perfectly, or it would
+ be given away.
+\end_layout
+
+\begin_layout Itemize
+Our mathematical prowess is very limited.
+ Also, we are sometimes really slow.
+ We make logical errors, we make assumptions regarding context or past history
+ of an argument, we make spelling errors, we are irrational and let emotions
+ guide our actions.
+ Those things are very likely to be different in every single other system
+ producing intelligence than our brains, even if they have errors and irrational
+ities of their own.
+\end_layout
+
+\begin_layout Standard
+Note how for many of those things, not passing the Turing Test would actually
+ be beneficial for at least some aspects of a candidate system.
+\end_layout
+
+\begin_layout Standard
+An entirely different line of argumentation going against the Turing Test,
+ although it overlaps the points I made so far, is the one that not all
+ human behaviour is intelligent, and not all intelligent behaviour is human.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2009g"
+
+\end_inset
+
+ -- although I personally believe the Venn diagram that can be found as
+ of 2009-05-01 depicting the application of the Turing Test to the set of
+ possible behaviours is wrong and the field 
+\begin_inset Quotes eld
+\end_inset
+
+Unintelligent human behaviour
+\begin_inset Quotes erd
+\end_inset
+
+ is actually tested by the Turing Test's questioning as well.
+\end_layout
+
+\end_inset
+
+ So there are things humans do that aren't intelligent, and there are intelligen
+t things humans don't do.
+ If we let the Turing Test compare a candidate's answers to a human's, we
+ compare it to both the intelligent things humans do and the non-intelligent
+ things humans do, and leave out all the intelligent things humans don't
+ do.
+ Or worse, we decide against the candidate's intelligence because it did
+ an intelligent thing humans don't do.
+\end_layout
+
+\begin_layout Subsubsection
+Turing Test a Sufficient Condition for Intelligence?
+\end_layout
+
+\begin_layout Standard
+Shieber makes the argument that while passing the Turing Test may not be
+ a necessary condition, it is at least a sufficient one.
+ His argument is as follows:
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Premise 1:
+\emph default
+ Humans are intelligent.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Premise 2:
+\emph default
+ The conversational behavior of humans reveals that (human) intelligence.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Premise 3:
+\emph default
+ If an agent has behavior of a type that can reveal intelligence and that
+ is indistinguishable from that of an intelligent agent, the former agent
+ is itself intelligent.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Premise 4:
+\emph default
+ Any agent that passes the Turing Test has conversational verbal behavior
+ indistinguishable from that of humans.
+\end_layout
+
+\begin_layout Quote
+
+\emph on
+Conclusion:
+\emph default
+ Therefore, any agent that passes the Turing Test is intelligent.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Shieber2004"
+
+\end_inset
+
+, page 136.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+But there is a problem with this attempted proof: The Turing Test doesn't
+ test what really does lie at the core of consciousness; It is perfectly
+ thinkable that a machine is not intelligent at all, but is very well-trained
+ or hardwired in ways that enable it to answer questions exactly the way
+ us humans expect a human to answer.
+ I'd argue that premise 2 in this syllogism is wrong, and consequently the
+ conclusion is wrong as well.
+ They display a purely behaviourist argumentation, in the true spirit of
+ theTuring Test itself -- while it's true that an agent that has behaviour
+ that reveals intelligence is intelligent (I do agree with premise 3), it's
+ not certain there is such a behaviour at all in the first place.
+\end_layout
+
+\begin_layout Standard
+As I'll show when looking at present-day artificially intelligent systems,
+ many early attempts at creating artificial intelligences have gone exactly
+ the behaviourist way of least resistance: Attempting to model human-like
+ behavior, including typing misstakes (which seems to have been very successful)
+, but being not more than simple state machines in the end.
+ This even coined the term 
+\begin_inset Quotes eld
+\end_inset
+
+artificial stupidity
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "1992"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Essentially, if we want to test for intelligence, we can't really use the
+ Turing Test as a proper guideline.
+ As we will find out later however, a proper replacement isn't really in
+ sight.
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Human-Like-Intelligence"
+
+\end_inset
+
+Human-Like Intelligence: Why Intuitions are Wrong
+\end_layout
+
+\begin_layout Standard
+There is another deeper problem lying beneath the failure of the Turing
+ Test to reliably find out whether an artificial system in particular is
+ intelligent or not: What's hard for a human isn't necessarily hard for
+ a machine.
+ In fact, what's easy for a human might just be what's hardest to copy,
+ for two reasons:
+\end_layout
+
+\begin_layout Enumerate
+Our introspective access to how exactly those lower-level things work is
+ very limited.
+ We have a somewhat thorough understanding of what logic is, and how it's
+ possible to emulate the behaviour a human follows when he's playing chess.
+ Since playing chess, for us humans, is hard, we naturally assumed for decades
+ that as soon as a machine could play chess, it was intelligent.
+ As recent developments have shown however, playing chess has nothing to
+ do with being intelligent.
+ Particularly not when all a machine can do in the end is, well, play chess.
+ That intuition is still deeply rooted however, as popular culture shows,
+ the idea of a machine playing chess just well enough that it might turn
+ sentient does still exist, I was reminded of this when watching an episode
+ of the television series Terminator SCC.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+In this series, the artificial intelligence that eventually rises to power
+ and attempts to destroy all human life is born out of a highly advanced
+ chess program.
+\end_layout
+
+\end_inset
+
+ Philosophers are not immune to popular culture, arguably.
+ Reality on the other hand has machines that play chess follow strictly
+ logical patterns, predicting future behaviour of a human (or other machine)
+ player on the basis of vast databases of past chess matches and, even more
+ important, probability tables -- but not displaying the slightest hint
+ of phenomenality or even empathy.
+\end_layout
+
+\begin_layout Enumerate
+Maybe even more importantly, evolution had millions of years to fine-tune
+ exactly how, for example, data from nerve endings in an eye had to be processed
+ in order to allow for pattern recognition, colour vision, velocity information
+ of moving objects within the field of vision, and various other bits of
+ information -- each ranging from simple to complex.
+ For example, we are able to recognize a human face at first sight, from
+ various angles, and without problems.
+ That is an amazing feat and one of which we've only just begun to emulate
+ the basics, but it comes very natural to us.
+ We're just built that way for countless generations, and inherited much
+ of it from our ancestors.
+ What is easy for us must not be easy for a machine, and tasks that seem
+ complex to us can be trivial for artificial or differently built biological
+ systems.
+\end_layout
+
+\begin_layout Standard
+Keep in mind that while thoroughly fine-tuned and adequate for granting
+ us better chances of survival as a species, our perception of the world
+ is anything but perfect.
+ Metzinger introduces the term of 
+\begin_inset Quotes eld
+\end_inset
+
+autoepistemic closure
+\begin_inset Quotes erd
+\end_inset
+
+ to mean 
+\begin_inset Quotes eld
+\end_inset
+
+a closure or boundeddness of attentional processing with regard to one's
+ own internal representational dynamics
+\begin_inset Quotes erd
+\end_inset
+
+.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 57.
+\end_layout
+
+\end_inset
+
+ This is due to the nature of the transparency constraint I will introduce
+ later -- we never are actually in contact with the world, but merely with
+ a representation of the world, a mental model.
+\end_layout
+
+\begin_layout Standard
+This is true even while our bodies (which we perceive as and identify with
+ as 
+\begin_inset Quotes eld
+\end_inset
+
+ourselves
+\begin_inset Quotes erd
+\end_inset
+
+) seem to physically interact with the physical world; the existence of
+ a mental representation of that interaction is all that is ontologically
+ granted.
+ In other words, seemingly physically interacting with the world doesn't
+ assure us that we're not merely a brain in a vat.
+ Metzinger concludes thus:
+\end_layout
+
+\begin_layout Quotation
+Phenomenal representation is that form of mental simulation, the proper
+ function of which consists in grasping the actual state of the world with
+ a sufficient degree of accuracy.
+ In most cases this goal is achieved, and that is why phenomenal representation
+ is a functionally adequate process.
+ However, from an epistemological perspective, it is obvious that the phenomenal
+ 
+\begin_inset Quotes eld
+\end_inset
+
+presence
+\begin_inset Quotes erd
+\end_inset
+
+ of conscious representational content is a fiction, which could at any
+ time turn out to be false.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 57.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+A Replacement for the Turing Test?
+\end_layout
+
+\begin_layout Standard
+I attempted to show why the Turing Test isn't really fit for finding out
+ whether a system truly is intelligent or not in section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Turing-Test"
+
+\end_inset
+
+ already, and argued against the underlying behaviourist reading of intelligence
+ in section 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Phenomenality"
+
+\end_inset
+
+.
+ I think with the information we have now, it is even more apparent than
+ ever before:
+\end_layout
+
+\begin_layout Itemize
+Assuming we solve the hard problem of consciousness, with the approaches
+ we're having now or maybe with other, radically new ones.
+\end_layout
+
+\begin_layout Itemize
+Assuming we have a system that does have phenomenal experiences of qualia,
+ from a subjective point of view.
+\end_layout
+
+\begin_layout Itemize
+Assuming the system experiences its relation with the world as intentionality.
+\end_layout
+
+\begin_layout Standard
+Assuming all those things, we would have to say that it is intelligent.
+ But even such an intelligent system wouldn't necessarily pass the Turing
+ Test.
+ And on the other hand, nothing tells us that a system passing the Turing
+ Test satisfies even one of those constraints.
+ A further complication is that intelligence and consciousness are not all-or-no
+thing properties, but rather come in shades of gray, making them even harder
+ to test.
+\end_layout
+
+\begin_layout Standard
+But, is a replacement for the Turing Test in sight? Arguably not, not an
+ easy one.
+ If a system seems to show subjectivity and introspection, we can at most
+ say that it acts like it is intelligent.
+ But on the other hand, can we say anything more than that of fellow humans?
+\end_layout
+
+\begin_layout Standard
+There is empathy, probably partially genetically hardcoded, that makes it
+ easy for us to believe that other beings similar enough to ourselves are
+ intelligent, by running a mental simulation of their point of view, their
+ goals and possible actions.
+ But we only have to look at how pretty much everything was antropomorphed
+ in one myth or another, or how prone us humans are to talking with plants
+ and animals; that empathy relation isn't restricted to other humans.
+ It is nothing but a mechanism that proved to be adequate for reproduction.
+\end_layout
+
+\begin_layout Standard
+Behaviourist theories do have a point: Epistemically, it is impossible to
+ tell anything beyond whether a system seems to be intelligent from the
+ way it seems to act.
+\end_layout
+
+\begin_layout Standard
+So, going back to when I first wrote about the Turing Test and what it tests
+ in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Turing-Test"
+
+\end_inset
+
+: A replacement for the Turing Test would have to look for intelligent behaviour
+ humans do, and intelligent behaviour humans don't do, and disregard both
+ unintelligent behaviour humans do and behaviour that is only intelligent
+ if a human is doing it (in the sense of the behaviour being adequate for
+ the evolutionary position us humans find ourselves in).
+\end_layout
+
+\begin_layout Standard
+And a target system obviously would not have to show all those intelligent
+ behaviours fully in order to be classified as intelligent -- after all,
+ if the test would require that, us humans would obviously not pass it --
+ but rather have a scale of sorts.
+\end_layout
+
+\begin_layout Standard
+Where would we draw the line between a conscious being and one that isn't
+ conscious? How would we test for those of Metzinger's multilevel constraints
+ that make a system minimally conscious? Can we even do that, or are we
+ at yet another point where epistemology of a subject matter fails at fully
+ grasping its ontology?
+\end_layout
+
+\begin_layout Subsection
+Today's Kinds of Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+In today's implementations of artificially intelligent systems, there are
+ quite a few approaches -- the most prominent and well-known among them
+ being scripts and neural networks.
+ All of them can pretty reliably produce weak artificial intelligence, but
+ arguably, additional or different structures will have to be introduced
+ in order to create a strong artificial intelligence.
+\end_layout
+
+\begin_layout Standard
+In addition to explaining how those approaches work, I will also point out
+ some methodological specialties of artificial intelligence research and
+ then show up where today's weak artificial intelligence is actually already
+ used.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Much of this information has be verified and researched with the help of
+ online sources, including but not limited to Wikipedia.
+ While admittedly the Wikipedia, unlike other online encyclopedias like
+ the Scholarpedia, is not peer-reviewed on a professional basis, particularly
+ for technology-heavy subjects like artificial intelligence it is arguably
+ the most comprehensive and probably most complete resource available today.
+ As such, I decided to use it and cite it as source despite the lack of
+ acknowledgement it gets in some more traditional fields of philosophy and
+ other sciences.
+ I also used it as reference for some philosophy topics, but took great
+ care to go beyond it in fields that are important for my argumentation.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Formal Approaches
+\end_layout
+
+\begin_layout Standard
+The following formal approaches are currently used for artificial intelligence:
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Scripts:
+\emph default
+ This is the most trivial approach.
+ And although and maybe particularly because it is trivial, it is also the
+ most widespread.
+ Most artificial intelligence systems are simple 
+\begin_inset Quotes eld
+\end_inset
+
+if this happens, do that
+\begin_inset Quotes erd
+\end_inset
+
+ kinds of scripts, executing predefined orders after certain trigger events
+ occur.
+ Of course, this is also the least interesting and most predictable kind
+ of artificial intelligence.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Decision Trees:
+\emph default
+ A decision tree is a rooted tree (also called aborescence in graph theory,
+ which is a special kind of connected directed acyclic graph).
+ Starting at the root of the tree, decisions are made whether to go to one
+ or the other child node, until a state marked as 
+\begin_inset Quotes eld
+\end_inset
+
+final
+\begin_inset Quotes erd
+\end_inset
+
+ is reached.
+ Essentially, decision trees are more sophisticated and multi-level scripts.
+ Individual decisions can include thorough calculations, and access to databases
+ of precalculated decisions (for example, when probabilities are involved).
+ Noteworthy subtypes of decision trees are the minimax tree and its successor,
+ the alpha-beta tree.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2009h"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Neural Networks:
+\emph default
+ These attempt to model a simplified animal's brain.
+ Like the dendrites and axones of a real neuron, modelled virtual neurons
+ have usually two inputs and one output each, and 
+\begin_inset Quotes eld
+\end_inset
+
+fire
+\begin_inset Quotes erd
+\end_inset
+
+ if the weighed input values exceed a certain threshold.
+ Unlike real neurons in actual brains however, those virtual neurons aren't
+ cross-linked multidimensionally, but rather arranged in one or few layers,
+ or in set patterns (like it's the case with feedforward and recurrent neural
+ networks).
+ Before the neral network can do anything, it has to be trained, with thousands
+ of iterations where the weights of the involved neurons are adapted.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Kernel Methods:
+\emph default
+ Data is mapped into a high dimensional feature space by means of complex
+ statistical methods.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hofmann2008"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ This produces very good models for all kinds of pattern recognition tasks,
+ and is computationally efficient because of the use of kernel functions,
+ which don't actually compute all the data but rather only inner products
+ (generating hyperplanes, where the normal vectors are then compared to
+ find similarities between different sets of data).
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Other Approaches:
+\emph default
+ More approaches are widely used.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2009i"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ They include k-nearest neighbor algorithm (for simpler pattern recognition),
+ Gaussian mixture models (for classification of data), or naive Bayes classifier
+s (also for classification of data -- often used for example in automatic
+ email spam filters).
+\end_layout
+
+\begin_layout Standard
+Most actual, non-trivial artificial intelligence systems are actually a
+ mix of the above.
+ For example, a neural network might be used for making decisions in a decision
+ tree.
+ Or scrips invoke a neural networking algorithm once certain conditions
+ have been met.
+\end_layout
+
+\begin_layout Standard
+It is notable that among all those approaches, even the one that comes closest
+ to actual brains, neural networking, doesn't fully attempt to replicate
+ the logical structure of the brain but rather is only inspired by actual
+ real neurons.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This is true at least in its regular form.
+ Alternate approaches like the one of 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Watts2009"
+
+\end_inset
+
+ do attempt to model actual neurons, but are limited to specific applications
+ so far.
+\end_layout
+
+\end_inset
+
+ Also, none of the approaches attempts to create intentionality or consciousness
+ in any stricter sense in the first place -- they all are purely behaviourist
+ attempts at duplicating the graspable effects of intentionality.
+\end_layout
+
+\begin_layout Subsubsection
+Methodological Specialties
+\end_layout
+
+\begin_layout Standard
+Some methods were developed that are mostly used in artificial intelligence.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Fuzzy Logic:
+\emph default
+ Inspired by truth values used by humans in everyday tasks, fuzzy logic
+ (unlike binary or ternary logic) does not depend on a fixed set of truth
+ values, but rather has statements use a continuous range of 0 (false) to
+ 1 (true) as their truth values.
+ This allows contradictory statements like 
+\begin_inset Quotes eld
+\end_inset
+
+it is cold
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+it is warm
+\begin_inset Quotes erd
+\end_inset
+
+ to be both partially true (like they are for us for temparature ranges
+ that could be interpreted both ways), leaving more options for behaviour
+ control of a system and increasing its capability to classify and process
+ imprecise information.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Pattern Recognition:
+\emph default
+ This is widely seen as one of the most complex fields of today's research
+ into artificial intelligence, and closely related with all perception-type
+ tasks.
+ This includes face and object recognition, speech or text recognition,
+ but is also used in data mining for classification and clustering of data
+ patterns.
+ Pattern recognition is, by the way, an area us humans are particularly
+ good at, as very simple thought experiments show: We are able to decide
+ whether something is a tree or not within fractions of a second, whether
+ we've ever seen this particular kind of tree (colour, shape of leaves,
+ bark structure) before or not.
+\end_layout
+
+\begin_layout Standard
+These methods will of course have to be used in the context of a strong
+ artificial intelligence.
+ They will however then probably not form the core of the project, but rather
+ serve as suppliers -- preprocessing data in ways that makes it easier to
+ conceptualize on a higher-order abstraction level, like we're used to working
+ with in our own conscious experience.
+\end_layout
+
+\begin_layout Subsubsection
+Fields of Application
+\end_layout
+
+\begin_layout Standard
+There are few fields in our everyday life where we aren't in contact with
+ one kind or another of artificial intelligence.
+ Most of these applications however are such weak forms of artificial intelligen
+ce that they wouldn't fool the most innocous researcher.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Research:
+\emph default
+ This is trivial.
+ Artificial intelligence is the focus of many institutes and departments
+ of research centres and universities around the world.
+ While experimental research is no longer a focus, directed development
+ into specific fields (like the ones below) is one of the main focal points
+ of today's computer science research.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Science (Expert Systems):
+\emph default
+ Expert systems are programmed in ways that replace or complenent an actual
+ human expert.
+ They are used in a wide range of application fields, for diagnosis and
+ evaluation, classification of a wide range of input parameters into distinct
+ findings.
+ Examples of fields that expert systems (along with other techniques of
+ artificial intelligence) are used in include medicine, molecular biology,
+ and high-energy physics.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Everyday Computing:
+\emph default
+ It is common in many industries to scan documents and apply optical character
+ recognition (OCR) to them, in order to archive or further process those
+ documents.
+ The algorithms used for that are pattern recognition algorithms in a first
+ step, and then a semantic analysis based on databases of word combinations
+ and their probabilities.
+ The exact nature of those steps is different in every software, but they
+ are applied artificial intelligence research.
+ Other fields of application are speech, (mouse or touch screen) gesture
+ and handwriting recognition.
+ Even search engines like Google order search results according to smart
+ ranking mechanisms that include contextual and semantical analysis.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Mapping and Pathfinding:
+\emph default
+ A car's GPS device can find shortest paths, most fuel-efficient paths,
+ and it can lead the driver towards his destination quite reliably with
+ automated voice instructions.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Criminology:
+\emph default
+ Comparing a scanned set of fingerprints with a database of stored prints
+ is no easy task for a man (due to the sheer volume of the stored fingerprints),
+ and it is no easy task for a machine for completely different reasons (due
+ to the difficulty of seeing when two prints are equal) -- this is another
+ field where pattern recognition comes into play.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Household Items:
+\emph default
+ Simple tasks like a rice cooker automatically switching off when the rice
+ is done, or a water boiler switching off when the water is hot, are hardware
+ implementations of simple scripts.
+ A microwave's or oven's programs are more sophisticated, and can even include
+ further sensor data in addition to user input and heat sensors.
+ Finally, we all heard of the fictive refridgerator that's 
+\begin_inset Quotes eld
+\end_inset
+
+aware
+\begin_inset Quotes erd
+\end_inset
+
+ of its contents, and makes shopping lists when necessary.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Customer Relationship Management:
+\emph default
+ There are two major subgroups here; for one, the automated telephone and
+ customer classification systems can be looked at as a simple form of scripted
+ artificial intelligence.
+ The more interesting part is data mining, where vast databases of customer-rela
+ted data are searched for patterns and positive, often predictive analysis.
+ Credit card companies for example use such systems to determine whether
+ a given transaction is typical for the user in question, and bonus systems
+ in big retail chains are often introduced for obtaining reliable customer
+ data for these data mining tasks.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+It is an interesting observation that customers are often very willing to
+ part with this data in exchange for only relatively minor rewards.
+ We are practically giving away our shopping patterns, data that is worth
+ a huge lot to retailers, for free.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+(Computer) Games:
+\emph default
+ These usually have one of two of the aforementioned approaches as artificial
+ intelligence.
+ Strategy games and massive multiplayer online games usually have nothing
+ but mere scripts: If somebody steps on the wrong bit of floor, there will
+ be fire.
+ After exactly 240 seconds, the chief adversary will enrage.
+ Or, once this enemy has been neutralized, that wave of new enemies will
+ spawn.
+ Chess, Go, even Tic Tac Toe and other board game adaptations on the other
+ hand are predestined for decision trees, in fact, they were what the alpha-beta
+ pruning method was invented for in the first place.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Robotics, Toys and Novelty Items:
+\emph default
+ These fields are closely related, as the most prevalent representation
+ of artificial intelligence in toys are robotics.
+ Robotics themselves then do have many subfields that involve findings from
+ artificial intelligence research: locomotion, object manipulation, localization
+ and mapping, to name but a few.
+\end_layout
+
+\begin_layout Standard
+A very interesting thing is the so-called AI effect: As soon as an application
+ of a (weak) artificial intelligence technique enters mainstream and is
+ widely used, it is no longer regarded as 
+\begin_inset Quotes eld
+\end_inset
+
+proper
+\begin_inset Quotes erd
+\end_inset
+
+ artificial intelligence -- although only a few decades ago, many of the
+ machines we use daily would be considered highly intelligent, they just
+ work, from our today's point of view.
+\end_layout
+
+\begin_layout Standard
+Of course, this is partially attributable to the demystification of all
+ things explainable.
+ It is an interesting thought that there is a parallel to how many fields
+ of magic and miracles made room for science a mere few centuries ago, and
+ there might be parallels to research into consciousness as well.
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Seemingly-Strong-AI"
+
+\end_inset
+
+Seemingly Strong Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+There are two main directions of research that attempt to make artificial
+ intelligences seemingly stronger:
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Visible Emotions:
+\emph default
+ A robot that can display facial expressions similar to a human's (like
+ Kismet could already in 1999
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "1999"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+) seems more intelligent.
+ Funny enough, this works (to some extent) even if the resulting robot is
+ thoroughly trivial.
+ We encountered empathy before, in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Turing-Test"
+
+\end_inset
+
+, and apparently relatively simple projection surfaces already work for
+ that empathy.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Kinzer2009"
+
+\end_inset
+
+, however keep in mind that the Uncanny Valley, which has first been proposed
+ already in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Mori1970"
+
+\end_inset
+
+, keeps us from bonding with some human-like projection surfaces -- 
+\begin_inset Quotes eld
+\end_inset
+
+as robots appear more humanlike, our sense of their familiarity increases
+ until we come to a valley,
+\begin_inset Quotes erd
+\end_inset
+
+ where robots look like zombies to us.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Common Sense:
+\emph default
+ When humans communicate, or even when we perceive events in the world,
+ we rely on a large body of common sense judgements and facts.
+ While it is well-known that the term 
+\begin_inset Quotes eld
+\end_inset
+
+common sense
+\begin_inset Quotes erd
+\end_inset
+
+ implies a thorough commonality that does not exist (cultural and individual
+ differences can be rather large, which frequently is the reason for misundersta
+ndings and disputes), those differences are usually on quite a high level
+ -- a lot of data we just know is very basic.
+ The kind of 
+\begin_inset Quotes eld
+\end_inset
+
+rocks fall down if dropped
+\begin_inset Quotes erd
+\end_inset
+
+ knowledge.
+ There are various attempts to collect and classify this data, and use them
+ for diverse applications -- among them, stronger artificial intelligence.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A very nice overview over current efforts can be found at 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2008"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While these approaches are nice and do not attempt to be more than behaviourist,
+ a true strong intelligence needs more than these.
+ Let us now try to investigate what more there is to consciousness.
+\end_layout
+
+\begin_layout Subsection
+The Need for a New Approach
+\end_layout
+
+\begin_layout Standard
+Minsky is a proponent of an older tradition of artificial intelligence.
+ Let's hear what he has to say about genetic algorithms and neural networks:
+\end_layout
+
+\begin_layout Quotation
+I'd like to argue that if you're interested in artificial intelligence these
+ days you're exposed to a lot of arguments that ...
+ well, in the early days, people tried to do things with symbolic AI, sometimes
+ contemptuously called old-fashioned AI, and that was too rigid and rule-based
+ and mechanical, and it had to be programmed.
+ What happened starting around 1980 was that most AI researchers tried to
+ move in the direction of making machines smart without programming them,
+ by using neural networks or genetic algorithms or statistical models.
+ The value of that is that you're hoping that your machine can learn to
+ be smart without your knowing how it does it.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2007"
+
+\end_inset
+
+, 8:40-9:45.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While neither him nor me want to diminish the value of the many achievements
+ of artificial intelligence research in recent years, he does have a point:
+ We cannot expect from our machines to learn to be smart without us knowing
+ how not only it'll do that, but also how it could even learn that.
+ We have to set some guidelines, and for that we have to find out what those
+ guidelines will have to be first.
+\end_layout
+
+\begin_layout Standard
+The rest of my thesis will revolve around two things: Finding out what recent
+ research in the field of philosophy of mind has to tell us about how consciousn
+ess happens in animal (and in particular, human) minds, and then attempt
+ to find ways in which those findings could be applied to research in the
+ field of artificial intelligence.
+\end_layout
+
+\begin_layout Section
+Ethical Concerns
+\end_layout
+
+\begin_layout Subsection
+Artificial Intelligences as Agents
+\end_layout
+
+\begin_layout Standard
+For weak artificial intelligences, the ethical situation couldn't be any
+ clearer: They are not autonomous agents, so the moral responsibility for
+ their actions lies fully within the realm of their creators.
+ As soon as an artificial intelligence is a strong artificial intelligence
+ and satisfies those of Metzinger's multilevel constraints necessary for
+ agency however, it becomes an agent.
+\end_layout
+
+\begin_layout Standard
+As soon as that happens, there is a big difficulty in assessing the moral
+ situation we find ourselves in.
+ After all, drawing parallels to our own legal system, a child isn't morally
+ responsible for its own actions until it has reached a certain age -- one
+ that has historically shown to be one in which the human can be considered
+ an adult, and where the parents' influence is sufficiently small so the
+ human can now be considered a full agent, one responsible for their own
+ actions.
+\end_layout
+
+\begin_layout Standard
+I will have to admit that this very problem is one that has concerned me
+ for a few years already now.
+ From an intuitive point of view, it is probably safe to assume that anything
+ but the creator having moral responsibility for all of the artificial intellige
+nce's actions will not be accepted by the society.
+ If we assume full-blown agency for hypothetical future artificial intelligences
+ however, that is however not really fair for these, as they would have
+ to be considered not only agents but also persons.
+\end_layout
+
+\begin_layout Standard
+This thought certainly warrants some further discussion, and the subject
+ will eventually require normative guidelines.
+ I am not sure if those can be anything but arbitrary at this point.
+\end_layout
+
+\begin_layout Subsection
+Metzinger: Negative Utilitarianism
+\end_layout
+
+\begin_layout Standard
+Negative utilitarianism is the name Thomas Metzinger gives the idea that
+ we, as moral beings, should not attempt to maximize welfare like traditional
+ utilitarianism does, but instead minimize suffering.
+ And since he points out how 
+\begin_inset Quotes eld
+\end_inset
+
+Suffering starts on the level of PSMs
+\begin_inset Quotes erd
+\end_inset
+
+, but doesn't make an equivalent point for wellbeing, I believe he has a
+ more negative view on the world than I do.
+ First though, this is his definition of the concept of negative utilitarism:
+\end_layout
+
+\begin_layout Quote
+People differ widely in their 
+\emph on
+positive
+\emph default
+ moral intuitions, as well as in their explicit theories about what we should
+ actively strive for.
+ But in terms of a fundamental solidarity of all suffering beings against
+ suffering, something that almost all of us should be able to agree on is
+ what I will term the 
+\begin_inset Quotes eld
+\end_inset
+
+principle of negative utilitarianism
+\begin_inset Quotes erd
+\end_inset
+
+: Whatever else our exact ethical commitments and specific positive goals
+ are, we can and should certainly all agree that, in principle, and whenever
+ possible, the overall amount of conscious suffering in all beings capable
+ of conscious suffering should be minimized.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 622, emphasis his.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I think what he means is this: What we can hope for when creating a postbiotic
+ artificial intelligence, is at most a lucky strike, something that just
+ happens to work without us knowing how or why.
+ Indeed, the potential for a postbiotic system that is created just by growing
+ random parts of a human brain and connecting them in experimental ways
+ being a horribly misformed kind of consciousness at first is huge.
+\end_layout
+
+\begin_layout Standard
+Metzinger's negative utilitarianism seems to point primarily at those systems:
+ They suffer consciously because they are built from components meant to
+ be in an entirely different kind of organism, they have phantom limb pains
+ where there are no limbs, they intuitively know they should have eyes when
+ they don't have any, they attempt to localize their heart when there is
+ none.
+ Indeed, we should not do any advances towards that kind of postbiotic system.
+\end_layout
+
+\begin_layout Standard
+But Metzinger, when generalizing his stance, falls into the trap already
+ utilitarianism itself fell: He goes too far in his normative simplification.
+ His overreach is two fold:
+\end_layout
+
+\begin_layout Itemize
+Taken by his word, we should stop reproducing now, and we should (painlessly)
+ stop all other forms of conscious life from reproducing as well.
+ As the enormous amount of suffering that future generations in the next
+ tens of thousands of years (assuming we as a species survive beyond the
+ next few hundred) will have to endure if we live on is obviously more than
+ what little one generation is even able to suffer.
+\end_layout
+
+\begin_layout Itemize
+There is not just suffering, but also happiness.
+ If an artificial intelligence is not created by random tampering, but by
+ careful engineering, it should perfectly be able to experience joy just
+ as well as suffering (more on this later when I'll talk about emotions).
+ In fact, if it is created by any means similar to today's pretty successful
+ neural networking attempts, it will necessarily have both positive and
+ negative feedback mechanisms built-in, which will, if translated to our
+ own phenomenal world, be experienced as joy and suffering respectively.
+ Should we deny that system the joy it could experience only because it
+ would also have to experience suffering?
+\end_layout
+
+\begin_layout Subsubsection
+Minksy: From Pain to Suffering
+\end_layout
+
+\begin_layout Standard
+A theory that Minsky presents is pretty interesting in this context.
+ It is his theory as to why some animals (and in particular, us humans)
+ are able to suffer.
+ Because while it is fairly obvious how we can feel pain, suffering (so
+ Minsky says convincingly) is not the same thing, not even a different degree
+ of the same phenomenal experience.
+ But what's the difference between those two and other, similar unpleasant
+ emotional experiences like sadness, frustration, anguish or torment? And
+ why can't we seem to be able to get suffering out of our heads?
+\end_layout
+
+\begin_layout Standard
+What is it that Metzinger's negative utilitarianism wants to minimize in
+ the world? Minsky offers a theory:
+\end_layout
+
+\begin_layout Quotation
+What could make the sensation called 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Pain
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ lead one into the state we call 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Suffering
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+? [I propose] a theory for this: any pain will activate the goal 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Get rid of that pain
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ -- and achieving this will also make that goal go away.
+ However, if that pain is intense and persistent enough, this will arouse
+ yet other resources that tend to suppress your other goals -- and if this
+ grows into a large-scale 
+\begin_inset Quotes eld
+\end_inset
+
+cascade,
+\begin_inset Quotes erd
+\end_inset
+
+ there won't be much left of the rest of your mind.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 66, emphasis his.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+That suppression was necessary from an evolutionary point of view, because
+ it would simply be too dangerous to be able to suppress such important
+ urges as hunger, tiredness or pain for other goals.
+ Only on a higher evolutionary level of consciousness would it potentially
+ make sense in some situations.
+ Similarly, we cannot directly switch on other emotions like anger or love.
+ As Minsky points out, 
+\begin_inset Quotes eld
+\end_inset
+
+those who were able to do such dangerous things left fewer descendants than
+ did the rest.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 93.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Persistent pain then continues to interrupt and override our other goals,
+ calling for attention (metaphorically speaking), and what actually is suffering
+ then is not just 
+\begin_inset Quotes eld
+\end_inset
+
+a lot of pain,
+\begin_inset Quotes erd
+\end_inset
+
+ but rather 
+\begin_inset Quotes eld
+\end_inset
+
+the states that result when this [pain] escalates into a large-scale cascade
+ that disrupts all one's usual Ways to Think.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The reason why we suffer so much however seems to be simply that our ancestors
+ were built in ways that prioritized plans about avoiding pain -- that was
+ necessary for survival -- at the price of the minor inconvenience of disrupting
+ other thoughts and goals.
+ And today we pay the price for that.
+ After all, evolution never planned ahead:
+\end_layout
+
+\begin_layout Quotation
+Our ancient reactions to chronic pains have not yet been adapted to be compatibl
+e with the reflective thoughts and farsighted plans that only later evolved
+ in our brains.
+ Evolution never had any sense of how a species might evolve next -- so
+ it did not anticipate how pain might disrupt our future high-level abilities.
+ And thus, we came to evolve a design that protects our bodies but ruins
+ our minds.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 79.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I do believe that it should be possible to have an artificial intelligence
+ capable of more direct control than we have, while at the same time having
+ enough overriding goals from sources important for survival, similar to
+ what pain and hunger would be for us humans.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 93.
+\end_layout
+
+\end_inset
+
+ However, that's an entirely different discussion from the one this thesis
+ is about, and thus I will leave this subject with the following quote:
+ 
+\begin_inset Quotes eld
+\end_inset
+
+I'm so something that I can't remember what it's called.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 69, citing Miles Steele (age 5).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Adaptivity-Constraint-and-AI"
+
+\end_inset
+
+The Adaptivity Constraint and Artificial Intelligence
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Memes-are-Adaptive"
+
+\end_inset
+
+Memes (and Temes) are Adaptive
+\end_layout
+
+\begin_layout Standard
+Essentially, the adaptivity constraint in its strict form denies the importance
+ and evolution, maybe the very existence of memes.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dawkins1976"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Blackmore2008"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Memes are a second replicator after genes.
+ Information that is copied from person to person, 
+\begin_inset Quotes eld
+\end_inset
+
+that which is imitated
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Itemize
+Why do they spread? They're selfish information, they get copied if they
+ can.
+\end_layout
+
+\begin_layout Itemize
+Memes are using us as meme machines to get copied.
+ Selfishly in that they can't care about anything else.
+\end_layout
+
+\begin_layout Itemize
+Completely new view of human origins and what it means to be human.
+ Cultural evolution, what makes us different from other species: There are
+ two replicators now.
+ People began imitating everything, not just beautiful and true things.
+\end_layout
+
+\begin_layout Itemize
+Big brains are driven by the memes.
+ Language is a parasite that we've adapted to, in a now symbiotic relationship.
+\end_layout
+
+\begin_layout Itemize
+All other species are gene machines only.
+ We alone are both gene machines and meme machines.
+\end_layout
+
+\begin_layout Itemize
+Technological memes (or 
+\begin_inset Quotes eld
+\end_inset
+
+temes
+\begin_inset Quotes erd
+\end_inset
+
+): Memes are outsourced from humans, replicating on their own technologically.
+\end_layout
+
+\begin_layout Itemize
+Every new replicator is dangerous!
+\end_layout
+
+\begin_layout Section
+A Minimally Conscious Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+If the Church-Turing Thesis
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2009d"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ turns out to be correct (which it seems to, currently) and a Turing machine
+ can duplicate any other logical machine's behaviour, what implements the
+ strong artificial intelligence we are looking for can just as well be a
+ computer with a structure very similar to what we already have today, or
+ theoretically even one of today's computers.
+ I have argued for this point in an earlier paper
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gloor2007"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+, but feel a need to expand on my argumentation back then in the light of
+ more research on my part:
+\end_layout
+
+\begin_layout Standard
+According to the Church-Turing Thesis, everything that can be expressed
+ in any machine can be expressed in a universal Turing machine.
+ According to any kind of remotely physicalist reading, our brain is nothing
+ but a biological machine.
+ Thus, there can be a turing machine reimplementation of all the things
+ happening in our brains -- even when seeing how we'd have to reduce thousands
+ of parallel processes into only a few; calculus would be necessary, massive
+ multitasking, but it would be possible.
+ Theoretically, everything happening in the brain could be replicated in
+ a Turing machine.
+\end_layout
+
+\begin_layout Standard
+But: While theoretically possible, an exact replica of the human brain (and
+ some other things that I'll point out in this chapter) is not practicable.
+ Particularly not in a single-threaded Turing machine, and particularly
+ not if that Turing machine would attempt to replicate the exact way a brain
+ functions -- that would require a mechanic understanding that is way beyond
+ today's most advanced research programs.
+\end_layout
+
+\begin_layout Standard
+A possible way out of this seem to be the postbiotic systems that seem to
+ be all the rave among philosophers.
+ There are the ethical problems with such an approach that we have already
+ looked at, and also practical problems in that we would still require knowledge
+ of how things interoperate in our brain.
+ But obviously, a postbiotic approach would have the benefit that we could
+ build on things that are already proven to be fit for enabling consciousness.
+\end_layout
+
+\begin_layout Subsection
+Preliminary Goals
+\end_layout
+
+\begin_layout Standard
+Whatever the means, we have to know what we're aiming for when using them.
+ After all, means are nothing but tools in this strive.
+ A preliminary goal definition could thus be:
+\end_layout
+
+\begin_layout Quote
+We do not have to replicate all of the vehicle properties, it is enough
+ if we replicate the content properties of a system enabling consciousness
+ in order to create strong artificial intelligence.
+\end_layout
+
+\begin_layout Standard
+There still are two shortcomings in this preliminary goal definition though:
+\end_layout
+
+\begin_layout Itemize
+Metzinger rightly points out that vehicle and content, in the case of human
+ brains, aren't easily distinguishable and interwoven to the extent of not
+ even being practically separable.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Reference!
+\end_layout
+
+\end_inset
+
+ A particular dificulty in this respect is that we don't even have access
+ to all content properties, because they're not all globally available and
+ most of them are transparent to introspection -- as we have seen, the border
+ between the conscious and the unconscious in us humans is neither clear
+ nor rigid thanks to transparency not being an all-or-nothing property of
+ mental states, but coming in sometimes even changeable shades of gray.
+\end_layout
+
+\begin_layout Itemize
+Not all of either the vehicle or content properties will be necessary for
+ consciousness, there are many things that might even satisfy the adaptivity
+ constraint and are necessary for us humans to survive, but are not necessary
+ for consciousness itself.
+ Both the emotions of love and jealousy fall into this category.
+\end_layout
+
+\begin_layout Standard
+So a first revised version of our goal definition:
+\end_layout
+
+\begin_layout Quote
+We do not have to replicate all of the vehicle and content properties, it
+ is enough if we replicate an adequate subset of the vehicle and content
+ properties of a system enabling consciousness in order to create strong
+ artificial intelligence.
+\end_layout
+
+\begin_layout Standard
+The hard work will be figuring out what subset that is.
+ However, as Minsky rightly points out, this might not even be necessary.
+ He says:
+\end_layout
+
+\begin_layout Quotation
+I'm not trying to find out how the brain works, I'm trying to find out how
+ to make something that can think more or less the way we do.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2007"
+
+\end_inset
+
+, 1:16:25-1:26:33.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Only once we have machines that think more or less reliably in similar ways
+ that humans do can neurologists step in and find out how plausible those
+ machines are in terms of explanatory force when it comes to the human brain.
+ Of course, there is a slippery slope here: Once we start accepting systems
+ that can think only more or less the way we do, and not exactly the way
+ we do, there is no way of telling whether those systems actually are strong
+ artificial intelligences or not.
+ We arrive at mostly behaviourist argumentations again, something that we
+ hoped to leave behind.
+\end_layout
+
+\begin_layout Standard
+Furthermore, as I pointed out in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Going-Beyond-Searle"
+
+\end_inset
+
+, there probably is no sharp distinction that can be drawn between weak
+ and strong intelligence -- so the best we can hope for is getting ever
+ stronger artificially intelligent systems, until their strength eventually
+ surpasses that of us humans.
+\end_layout
+
+\begin_layout Standard
+So I would like to propose a final, again slightly changed and less ambitious
+ goal proposition:
+\end_layout
+
+\begin_layout Quote
+We do not have to replicate all of the vehicle and content properties of
+ a system enabling consciousness, it is enough if we construct a system
+ with vehicle and content properties whose relative behaviour shares sufficient
+ similarities to the vehicle and content properties of a system enabling
+ consciousness in order to create a stepping stone towards strong artificial
+ intelligence.
+\end_layout
+
+\begin_layout Standard
+It might be necessary to emulate some vehicle properties of the constructed
+ system by means of suitable (transparent) content properties.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+In other words, the vehicle will probably have to be a virtual vehicle.
+ I will talk about this in the context of virtual organs in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Virtual-Vehicle-Properties"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ These are merely implementatory details, although they are probably the
+ hardest part when it comes to actually implementing such an architecture.
+\end_layout
+
+\begin_layout Subsection
+Multilevel Constraints
+\end_layout
+
+\begin_layout Standard
+Metzinger already does describe a number of different strengths of phenomenal
+ consciousness -- we saw those in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Levels-of-Consciousness"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Application-of-Metzinger's-Constraints"
+
+\end_inset
+
+Application of Metzinger's Constraints to AI
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Virtual-Organs"
+
+\end_inset
+
+Virtual Organs
+\end_layout
+
+\begin_layout Standard
+I hereby put forth a rather important and probably controversial thesis:
+ In order to be truly intentional, an artificial intelligence will need
+ a special kind of virtual organs.
+ Without these, there can be no consciousness.
+\end_layout
+
+\begin_layout Subsubsection
+Reasons for Virtual Organs
+\end_layout
+
+\begin_layout Standard
+As Metzinger rightly points out, consciousness is not a state: It is a process.
+ He illustrates this nicely when it comes to intentional content (which
+ explains phenomenal content as well, as 
+\begin_inset Quotes eld
+\end_inset
+
+phenomenal content is a special aspect or special form of intentional content
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 111.
+\end_layout
+
+\end_inset
+
+):
+\end_layout
+
+\begin_layout Quotation
+Intentionality is not a rigid abstract relation from subject toward intentional
+ object, but a dynamical physical process pulsating across the boundaries
+ of the system.
+ In perception, for instance, the physical system border is briefly transgressed
+ by coupling the currently active self-model to a perceptual object [...].
+ Intended cognition now means that a system actively -- corresponding to
+ its own needs and epistemic goals -- changes the physical basis on which
+ the representational content of its current mental state supervenes.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 114.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This is important because like every other process, it is a transition from
+ one (very transient) state to another, induced by input stimuli (and producing
+ certain output stimuli).
+ Phenomenality, and thus consciousness, is a byproduct of that process,
+ it is not a property of starting or ending states of the process.
+\end_layout
+
+\begin_layout Standard
+And those input stimuli do come, in the case of human consciousness, from
+ our organs.
+ They come largely from the ones we know as senses of course.
+ In the case of humans, those mainly include sight, hearing, taste, smell,
+ touch, balance, temparature, pain, but also proprioception (the kinesthetic
+ sense) and input we receive from internal organs such as the lungs or the
+ bladder.
+ Other organisms have an even wider range of senses: Electroception (direct
+ perception of electric fields), echolocation (sonar-like capabilities,
+ for example in bats), pressure and current detection, among others.
+\end_layout
+
+\begin_layout Standard
+Notably, all these stimuli start out external to consciousness, although
+ they might be internal for the body anyway.
+ They are perceived and made into consciousness-internal stimuli through
+ organs: Eyes, skin, ears, nose, tongue, aforementioned lungs and bladder.
+\end_layout
+
+\begin_layout Standard
+In that sense, any artificial intelligence will require such organs: Means
+ for external stimuli to reach the places where they can initiate processes
+ that produce consciousness.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I want to thank my good friend Andreas Hunziker for a very interesting discussio
+n on this subject.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Consciousness With Only One Virtual Organ
+\end_layout
+
+\begin_layout Standard
+Of course, a consciousness without a wide array of virtual organs like the
+ one I just suggested is thinkable: Assuming that the physical requirements
+ for all the processes that will produce consciousness are in place, including
+ those requirements for the supervening 
+\begin_inset Quotes eld
+\end_inset
+
+mental content
+\begin_inset Quotes erd
+\end_inset
+
+ structures.
+ And assume that there are stimuli without a plethora of virtual organs
+ anyway.
+\end_layout
+
+\begin_layout Standard
+Examples for this could include clock ticks that are generated with the
+ only one remaining virtual organ, a clock.
+ There need be at least this minimal form of virtual organ, I'd argue: As
+ without something like this, there won't be any input stimuli, and consequently
+ there won't be any processes, and thus no consciousness.
+\end_layout
+
+\begin_layout Standard
+If we were to produce such a minimal one-virtual-organ configuration, life
+ for the resulting artificial intelligence would be incredibly dull:
+\end_layout
+
+\begin_layout Itemize
+If it was created with the aid of virtual organs before, and its phenomenal
+ self model would include those virtual organs and expect input from them,
+ it might start making up inputs from (more or less) random fluctuations
+ and hallucinate, like us humans do in sensory deprivation situations.
+\end_layout
+
+\begin_layout Itemize
+If it was created with just that one virtual organ in the first place, it
+ would probably never form any interesting form of consciousness at all,
+ as it would not be able to relate to anything, and wouldn't even be able
+ to form some minimal kind of self-world boundary that is so important for
+ the phenomenal self model.
+\end_layout
+
+\begin_layout Standard
+Keep in mind that these thoughts are purely speculative, but I do think
+ they are interesting nonetheless.
+\end_layout
+
+\begin_layout Subsubsection
+Parallels to Metzinger's Virtual Organs
+\end_layout
+
+\begin_layout Standard
+Metzinger already does postulate virtual organs, in various places.
+ One of them is particularly distinct:
+\end_layout
+
+\begin_layout Quotation
+There are two kinds of organs: permanently realized organs like the liver
+ or the heart, and 
+\begin_inset Quotes eld
+\end_inset
+
+virtual organs.
+\begin_inset Quotes erd
+\end_inset
+
+ Virtual organs are coherent assemblies of functional properties, only 
+\emph on
+transiently
+\emph default
+ realized, typically by the central nervous system.
+ Classes of integrated forms of phenomenal content [like a book in your
+ hand] are classes of virtual organs.
+ [...]
+\end_layout
+
+\begin_layout Quotation
+But not only simple presentata, phenomenal 
+\emph on
+representata
+\emph default
+ are virtual organs as well: Consciously experienced objects [...] are distinct,
+ functionally active parts of the organism currently making global stimulus
+ properties and the high internal correlation strength, that is, the 
+\emph on
+coherence
+\emph default
+ of a perceptually given set of properties, globally available.
+ In doing so, these object emulators form a functional cluster, that is,
+ a casually dense, discrete subregion within the 
+\emph on
+global
+\emph default
+ functional cluster constituting the organism's world model [...].
+ Phenomenal scene segmentation [...] too is a dynamic property of the transient
+ organ we call our world-model.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 201, emphasis his.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+When talking about virtual organs in the context of artificial intelligence,
+ I actually go beyond the virtual organs that Metzinger postulates, in one
+ simple aspect: In artificial intelligence, there aren't necessarily any
+ permanently realized organs, so depending on the embodiment of the artificial
+ intelligence all organs might even be virtual.
+ In all other aspects, I would like to follow suit with Metzinger's definition
+ of what can be such virtual organs:
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Presentata:
+\emph default
+ Perceived objects that are part of the world model can be virtual organs
+ if we perceive them as a part that we can influence, and thus consciously
+ extend our phenotype (or rather, our phenomenal self model) into including
+ them.
+ They are even strictly embodied for us humans, in the sense that the neural
+ correlates representing them are part of the body.
+ For artificial intelligences, this will have to be similar in that a model
+ representing the perceived object will have to be formed as part of the
+ intelligence's mental content.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+Representata:
+\emph default
+ Since we are able to manipulate not only objects in the world (and consequently
+ have to model their presentata as virtual organs), but also our representations
+ of these, the representations themselves can become virtual organs -- can
+ be embodied in the above sense and included in the phenomenal self model.
+ Of course, this does not stop at this level, meta-representations can become
+ virtual organs as well.
+\end_layout
+
+\begin_layout Itemize
+
+\emph on
+The World-Model:
+\emph default
+ This virtual organ is only special in that it is the outermost layer of
+ virtual organs that make up Metzinger's convulted holism of nested, sometimes
+ overlapping structures.
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Virtual-Vehicle-Properties"
+
+\end_inset
+
+Virtual Organs as Virtual Vehicle Properties
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Virtual-Emotions-and-Hormones"
+
+\end_inset
+
+Virtual Emotions and Hormones
+\end_layout
+
+\begin_layout Subsubsection
+Learning through 
+\begin_inset Quotes eld
+\end_inset
+
+Punishments and Rewards
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Emotions
+\end_layout
+
+\begin_layout Itemize
+Logic of survival: Damasio 1999 p.
+ 54ff, Metzinger 198
+\end_layout
+
+\begin_layout Itemize
+Minsky's Emotion Machine, Critics and Selectors
+\end_layout
+
+\begin_layout Itemize
+Genuine emotions: Metzinger 199
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Critics-and-Experts"
+
+\end_inset
+
+Critics, Encouragers and Selectors
+\end_layout
+
+\begin_layout Standard
+For Minsky, emotions are just one kind of process
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+There is a reason why he called his book 
+\begin_inset Quotes eld
+\end_inset
+
+The Emotion Machine
+\begin_inset Quotes erd
+\end_inset
+
+ and not 
+\begin_inset Quotes eld
+\end_inset
+
+The Thinking Machine
+\begin_inset Quotes erd
+\end_inset
+
+.
+ As he says in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2007"
+
+\end_inset
+
+, 49:36-49:53: 
+\begin_inset Quotes eld
+\end_inset
+
+The reason I called the book The Emotion Machine was to fool people into
+ reading it.
+ Because people are very excited and want to know about emotions, but if
+ you said The Thinking Machine, they'd say 
+\begin_inset Quotes eld
+\end_inset
+
+Oh I hate thinking, it hurts.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ This is in line with Metzinger when he writes in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 406 (in a different context), that 
+\begin_inset Quotes eld
+\end_inset
+
+Thinking clearly is hard.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ that the body (and with it, the brain) uses to make us think about problems
+ in different ways.
+ Because that really is one of the core things that make us intelligent:
+ All the different ways to think that we do have at our disposal, that we
+ use situationally or even within the same situation in order to look at
+ something from a different angle.
+\end_layout
+
+\begin_layout Standard
+Now these ways to think are generated through what Minsky calls critics
+ and experts.
+\end_layout
+
+\begin_layout Standard
+The brain consists of hundreds of different realatively distinct functional
+ centers (According to 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2007"
+
+\end_inset
+
+, there are around 400 of those), similar to organs, that enabled evolutionary
+ processes to optimize one of them at a time -- similar to how organs are
+ locally distinct, or how (in the technological and man-built domain) we
+ neatly arrange different functionalities in a program within different
+ code files while programming.
+\end_layout
+
+\begin_layout Standard
+Like either of those two examples, such functional brain centers will rely
+ on specific forms of input from other functional brain centers, and are
+ functionally intermingled with one another -- probably more so than a freshly
+ designed program, similar to how an older program quickly becomes a maintenance
+ nightmare after a few years, when structures from one functional center
+ (function, method, class or file, in programmer's terms) are used in another
+ in a completely different way than it was first built for.
+ Evolution does not care about strict boundaries or neat-looking arrangements,
+ as we've seen in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Deficiencies-of-Bio-Evolution"
+
+\end_inset
+
+ it only cares about survival.
+\end_layout
+
+\begin_layout Standard
+Minsky postulates that some of these functional centers are critics, of
+ which there are four (or three, not counting the encouragers) kinds:
+\end_layout
+
+\begin_layout Itemize
+Correctors, who declare that we are doing something dangerous.
+\end_layout
+
+\begin_layout Itemize
+Suppresors, who interrupt before we begin the action we are now planning
+ to take.
+\end_layout
+
+\begin_layout Itemize
+Censors, who prevent ideas from even occurring to us (by knowing which steps
+ usually lead to the ideas the censor wants to avoid).
+\end_layout
+
+\begin_layout Itemize
+Encouragers -- who are not really critics, but rather, reinforce actions
+ that will likely lead to success.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 82.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Those critics aren't necessarily active all the time.
+ Rather, the brain switches them on and off repeatedly, as the situation
+ calls for.
+ Minsky suggests that this is what can happen (and indeed often does so
+ “on timescales of one or two seconds, or less, in the course of our everyday
+ commonsense thinking”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 85.
+\end_layout
+
+\end_inset
+
+) when we try to solve new kinds of problems:
+\end_layout
+
+\begin_layout Quotation
+First, briefly shut most of your Critics off.
+ This helps you to think of some things you could do -- with little concern
+ about whether they'll work -- as though you were in a brief “manic” state.
+\end_layout
+
+\begin_layout Quotation
+Next, turn many Critics on, to examine these options more sceptically --
+ as though you were having a mild depression.
+\end_layout
+
+\begin_layout Quotation
+Finally, choose an option that seems promising, and then proceed to pursue
+ it, until one of your Critics starts to complain that you have stopped
+ making progress.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 84.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Now, what those critics also do, is activate other functional centers in
+ the brain, through the means of what Minsky calls selectors.
+ Essentially, every critic is linked to one or more selectors, and the selectors
+ then enable other functional centers of the brain, the ways to think --
+ who invoke reactions to sensory data and system-internal feedback loops.
+ The ways to think then in turn activate yet again different critics (of
+ different levels).
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 222 for an illustration of this.
+\end_layout
+
+\end_inset
+
+ In analogy, the critics enable different pathways that shape and form Metzinger
+'s mental processes.
+ This does imply that not all of our brains is active all the time -- rather,
+ most of it is suppressed most of the time, and only activated when it is
+ actually needed.
+ Exceptions are only these functional centers of the brain that are necessary
+ for survival; the ones that control respiration or the beating of the heart.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 4 for an illustration of this (that he reuses and expands throughout
+ the book).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Coming back to emotions: They are nothing but one such kind of way to think,
+ one that is merely special in that it can only rarely be activated on purpose.
+\end_layout
+
+\begin_layout Standard
+Minsky proposes an extensive (albeit of course not exhaustive) list of higher-le
+vel critics in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, pages 228ff.
+ Similar to his list of critics, Minsky proposes an interesting list of
+ ways to think in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, pages 226ff.
+ Particularly the list of ways to think includes entries that correspond
+ to processes, emotions, memory retreival, offline activation of contents,
+ motor behaviour and others.
+ This is plausible however, since neither reactions to sensory data nor
+ system-internal feedback loops are constrained to just one kind of response.
+ That is what makes us so resourceful, and that in turn is what we perceive
+ as being intelligent:
+\end_layout
+
+\begin_layout Quotation
+[I] argue that emotional states are not especially different from the processes
+ that we call “thinking”; instead, emotions are certain ways to think that
+ we use to increase our resourcefulness -- that is when our passions don't
+ grow till they handicap us -- and this variety of Ways to Think must be
+ a substantial part of what we call “intelligence” -- although [I] call
+ it “resourcefulness.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 6.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Memory Structures
+\end_layout
+
+\begin_layout Subsubsection
+Neural Correlates of Supervenience
+\end_layout
+
+\begin_layout Itemize
+Global avilability, functional clusters: 122
+\end_layout
+
+\begin_layout Itemize
+Global integration functions: 139
+\end_layout
+
+\begin_layout Subsubsection
+Kinds of Knowledge Representations
+\end_layout
+
+\begin_layout Standard
+While autobiographic and factual memory are fully covered with the distinction
+ between episodic and semantic memory, both of these can be about many things.
+ Quite a few kinds of knowledge representations have to be classified, and
+ most of them can be part of either episodic or semantic memory structures.
+ These kinds include objects, properties, categories, situations, events,
+ states, time, causes and effects.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I owe this non-exhaustive list to the Wikipedia article on artificial intelligen
+ce, http://en.wikipedia.org/wiki/Artificial_intelligence
+\end_layout
+
+\end_inset
+
+ Relations between all those things (within the same category or crossing
+ category borders) have to be represented as well.
+ All these things are important to keep in mind if we are to create a strong
+ artificial intelligence.
+\end_layout
+
+\begin_layout Subsubsection
+Short-Term and Long-Term Memory
+\end_layout
+
+\begin_layout Itemize
+Episodic vs.
+ Semantic Memory
+\end_layout
+
+\begin_layout Itemize
+Declarative vs.
+ Nondeclarative Memory (Nägele, Patrizia Hasler)
+\end_layout
+
+\begin_layout Subsubsection
+Associativity and Learning
+\end_layout
+
+\begin_layout Subsubsection
+Minsky's Panalogies
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Common-Sense"
+
+\end_inset
+
+Common Sense
+\end_layout
+
+\begin_layout Itemize
+Everything has exceptions
+\end_layout
+
+\begin_layout Itemize
+Arguing by Analogy (Panalogy)
+\end_layout
+
+\begin_layout Standard
+The following things at least are needed for each fragment of common-sense
+ knowledge (in the sense of the fragments having to be embedded in these
+ things), if they are to be similar to human reasoning:
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Slide from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2007"
+
+\end_inset
+
+, 1:02:40.
+ Remember that we talked about common sense before, in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Seemingly-Strong-AI"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Types of problems it might help to solve
+\end_layout
+
+\begin_layout Itemize
+Types of goals that it might serve
+\end_layout
+
+\begin_layout Itemize
+Other ideas it is similar to
+\end_layout
+
+\begin_layout Itemize
+Typical cases in which it is useful
+\end_layout
+
+\begin_layout Itemize
+Story-like narratives depicting its use
+\end_layout
+
+\begin_layout Itemize
+Contextual cues to suggest when it's relevant
+\end_layout
+
+\begin_layout Itemize
+Parallel interpretations in other realms
+\end_layout
+
+\begin_layout Subsection
+Reasoning and Mental Resourcefulness
+\end_layout
+
+\begin_layout Subsubsection
+Minsky's Panalogies
+\end_layout
+
+\begin_layout Section
+Putting it all Together
+\end_layout
+
+\begin_layout Quotation
+In fact, all of these methods are very useful for certain problems.
+ What we don't know in general is: For what kind of problem is it good to
+ use a statistical inference system? What kinds of problems are ones that
+ can be learned and handled by neural networks or by genetic algorithms?
+\end_layout
+
+\begin_layout Quotation
+What I'm proposing along with Gerry Sussman and Hal Abelson is to develop
+ a new kind of AI system that has places in which we can insert all of the
+ useful results that tens of thousands of AI researchers have made.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2007"
+
+\end_inset
+
+, 30:08-30:55.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "Hard_Problem_References"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
