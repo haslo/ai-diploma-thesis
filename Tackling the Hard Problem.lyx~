@@ -258,7 +258,7 @@ reference "Definitions"
 \end_inset
 
 .
- I will also regularly refer to that sections when we come across subjects
+ I will also regularly refer to that section when we come across subjects
  or terms that necessitate clarification.
 \end_layout
 
@@ -12824,10 +12824,10 @@ Definitions
 \begin_layout Standard
 Major misunderstandings in philosophy are usually due to differing views
  on what common terms are supposed to mean.
- So as a very first step, I will introduce the way I understand some of
- the important concepts I will use throughout this thesis, and I will hopefully
- show the implications this understanding has for philosophy of mind in
- general and the hard problem of consciousness in particular.
+ So I will introduce the way I understand some of the important concepts
+ I will use throughout this thesis, and I will touch on the implications
+ this understanding has for philosophy of mind in general and the hard problem
+ of consciousness in particular.
 \end_layout
 
 \begin_layout Subsection
@@ -12837,15 +12837,53 @@ name "Epistemology"
 
 \end_inset
 
-Epistemology
+Knowledge
 \end_layout
 
 \begin_layout Standard
-Epistemology, the philosophical look at knowledge.
- Seeing how it is always conscious minds that are interesting systems when
+There are several theories that attempt to explain what we mean when we
+ speak of knowledge.
+ Considering it is always conscious minds that are interesting systems when
  we look at what knowledge is, and how nearly all epistemological research
- so far has been done from a human first-person perspective, we can really
- say that epistemology in an interesting sense essentially is about 
+ so far has been done from a human first-person perspective, we can quite
+ safely say that epistemology
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Epistemology is the philosophy of knowledge, but also of the possibilities,
+ boundaries, preconditions and forms of knowledge (in a broad, philosophical
+ sense) -- reducing it to just 
+\begin_inset Quotes eld
+\end_inset
+
+the theory of knowledge
+\begin_inset Quotes erd
+\end_inset
+
+ does narrow it down too much.
+ That is why this section is called 
+\begin_inset Quotes eld
+\end_inset
+
+knowledge
+\begin_inset Quotes erd
+\end_inset
+
+, and not 
+\begin_inset Quotes eld
+\end_inset
+
+epistemology.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ in the interesting sense I want to look at here essentially is about 
 \emph on
 human
 \emph default
@@ -12866,17 +12904,21 @@ key "Plato"
 
 \end_inset
 
+, although Gettier questioned this in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gettier1963"
+
+\end_inset
+
 .
 \end_layout
 
 \end_inset
 
 , is that knowledge is a justified true belief.
- In formal terms: 
-\begin_inset Quotes eld
-\end_inset
-
-A subject S knows that a proposition P is true if, and only if:
+ In formal terms: A subject S knows that a proposition P is true if, and
+ only if:
 \end_layout
 
 \begin_layout Enumerate
@@ -12888,61 +12930,66 @@ S believes that P is true, and
 \end_layout
 
 \begin_layout Enumerate
-S is justified in believing that P is true
-\begin_inset Quotes eld
-\end_inset
-
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Citation from 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009a"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
-
+S is justified in believing that P is true.
 \end_layout
 
 \begin_layout Standard
-This approach does have various problems and shortcomings,
+Truth be told, that still does not answer what knowledge really is, because
+ it depends on the definition of a true belief.
+ There are several theories
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009"
-
-\end_inset
-
-.
+Among these I would group coherence, constructivist, consensus, and pragmatic
+ theories, to varying extents.
 \end_layout
 
 \end_inset
 
- but since epistemology really isn't a main subject of this thesis, we'll
- accept this definition of proper knowledge for now.
- I want to point out important implications of this definition however.
+ that I can imagine myself being persuaded by, however there also is corresponde
+nce theory, the theory that truth implies that a proposition has to correspond
+ to the actual state of affairs.
 \end_layout
 
 \begin_layout Subsubsection
-The Difficult Relation to Ontology
+Problems of correspondence theories of knowledge
 \end_layout
 
 \begin_layout Standard
-Obviously, we can be wrong about the world.
+Correspondence theory is, at least at a first sight, very intuitive.
+ Something can not be called a truth unless it actually really is true.
+ In order to be actually really true, it has to correspond to some ideal
+ of truth (similar to Platon's ideas).
+ There are several problems with that approach however, as it seems to be
+ impossible to find out what those ideals are.
+ If in this chapter I speak of 
+\begin_inset Quotes eld
+\end_inset
+
+true
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+truth
+\begin_inset Quotes erd
+\end_inset
+
+, I always mean those terms in the sense of correspondence theory.
+\end_layout
+
+\begin_layout Paragraph
+The ontological problem: 
+\end_layout
+
+\begin_layout Standard
+Obviously, our beliefs can be wrong views on the world.
  We can misrepresent various aspects of happenings and entities around us
- -- shapes that appear to be ghosts,
+ -- shapes may appear to be ghosts,
 \begin_inset Foot
 status open
 
@@ -12980,34 +13027,36 @@ key "Bach2009"
 \end_layout
 
 \begin_layout Standard
-All of us are frequently wrong about one aspect or another of our environment,
- and often we can't subjectively make out whether we are right or wrong
- about any particular aspect -- we need the assistance of other agents,
- an intersubjective look at the entities in question.
+Everyone is frequently wrong about one aspect or another of our environment,
+ nobody is exempt from that.
+ Often we can't subjectively make out whether we are right or wrong about
+ any particular aspect.
+ Therefore we need the assistance of other agents, in other words an intersubjec
+tive look at the entities in question.
 \end_layout
 
 \begin_layout Standard
 The implications for ontology (the science of the things that exist, thus
  the science of the things of which existence assumptions are true) are
- that we cannot necessarily deduct ontological statements from empirical
- observations -- the epistemology of empiricism is at least complicated.
+ that we cannot necessarily deduct true ontological statements from empirical
+ observations.
 \end_layout
 
-\begin_layout Subsubsection
+\begin_layout Paragraph
 \begin_inset CommandInset label
 LatexCommand label
 name "Epistemology-Relation-Introspection"
 
 \end_inset
 
-The Difficult Relation to Introspection
+The problem with introspection:
 \end_layout
 
 \begin_layout Standard
-Similar arguments come into play when we talk about introspection.
+Similar arguments apply for empirical introspection.
  If we are to believe that we can introspectively gain proper knowledge
  about all aspects of our mental world we direct introspective attention
- at, we have to believe with Descartes that we cannot be wrong about our
+ at, we have to believe, like Descartes, that we cannot be wrong about our
  own mental states.
 \begin_inset Foot
 status open
@@ -13036,6 +13085,9 @@ reference "Cogito-Ergo-Sum"
 \end_inset
 
 .
+ Interestingly, Descartes was a rationalist and not an empiricist, however
+ for him it is possible to obtain a priori knowledge about our internal
+ states through introspection.
 \end_layout
 
 \end_inset
@@ -13045,11 +13097,21 @@ reference "Cogito-Ergo-Sum"
 
 \begin_layout Standard
 There are various counter-examples to that view however.
- Trivially, there are pathological cases where patients believe they're
- blind when they really aren't or vice versa, or phantom limb syndromes
- where patients believe that they feel a limb that is not there (anymore),
- or even stranger symptoms like patients that do believe that they do not
- exist at all, defying all logic.
+ Trivially, there are pathological cases where patients believe they are
+ blind when they really are not or vice versa, or phantom limb syndromes
+ where patients believe that they feel a limb that is not there (anymore).
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Although in these cases, the patients are not mistaken about their feelings
+ of pain, but rather about the origins of that pain.
+\end_layout
+
+\end_inset
+
+ There are even stranger symptoms such as when patients believe that they
+ do not exist at all, defying all logic.
 \begin_inset Foot
 status open
 
@@ -13079,8 +13141,8 @@ reference "Reductive-Naturalism"
 
 \end_inset
 
- But there are other, non-pathological cases that show up the fallibility
- of introspective access as well:
+ But there are other, non-pathological cases that make the fallibility of
+ introspective access evident as well:
 \end_layout
 
 \begin_layout Quotation
@@ -13132,12 +13194,35 @@ I think it is safe to infer that the epistemology of introspection is just
  as complicated as the epistemology of empiricism.
 \end_layout
 
-\begin_layout Subsubsection
-The Difficult Relation to Ineffability
+\begin_layout Paragraph
+The problem with ineffability:
 \end_layout
 
 \begin_layout Standard
 Ineffable are those things where a symbolic representation is not available.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+There is also an interpretation of 
+\begin_inset Quotes eld
+\end_inset
+
+ineffable
+\begin_inset Quotes erd
+\end_inset
+
+ being things where some social stigmata forbid us to talk about them, or
+ they are so great or extreme that they cannot be described.
+ I will use it in the same sense as Metzinger instead: Ineffable are those
+ things we can't possibly talk about, because we do not have access to a
+ proper vocabulary -- and worse, we cannot form such a vocabulary, because
+ we do not have the necessary (in this case, introspective) tools and criterions
+ at our disposal.
+\end_layout
+
+\end_inset
+
  To say it with Wittgenstein, 
 \begin_inset Quotes eld
 \end_inset
@@ -13155,18 +13240,10 @@ Odgen translated this as
 \begin_inset Quotes eld
 \end_inset
 
-Whereof one cannot speak, thereof one must be silent,
+Whereof one cannot speak, thereof one must be silent.
 \begin_inset Quotes erd
 \end_inset
 
- according to 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009b"
-
-\end_inset
-
-.
  German citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -13215,38 +13292,32 @@ reference "Phenomenal-Intentionality"
 
 \end_inset
 
- So for introspectively gained ineffable insights, the epistemological standing
- is even worse than for regular introspection; Not only can we be wrong
- about them, but we can't even intersubjectively verify them.
+ So, for introspectively gained ineffable insights, the epistemological
+ standing is even worse than for regular introspection: Not only can we
+ be wrong about them, but we can't even intersubjectively verify them.
 \end_layout
 
 \begin_layout Subsubsection
-The Impossibility of Knowledge
+Requirements for knowledge
 \end_layout
 
 \begin_layout Standard
 I think that epistemology is, in fact, not such a complicated subject as
- we tend to make it out to be -- and obviously, not as complicated as it
- seems from my discussion so far here.
- The only way in which we can know if a belief is not only justified, but
- also true, is if we assume things that imply verity in their very definition
- (like intrinsic intentionality or dualism) and only due to that have verifying
- force (making that verifying force circular).
- It is the classic Münchhausen trilemma we fall into, of course.
+ we assume it to be -- and obviously, not as complicated as it seems from
+ my discussion so far.
+ The only way in which we can know whether a belief is not only justified,
+ but also true, is if we assume things that imply verity in their very definitio
+n (like intrinsic intentionality or dualism).
+ Only due to these definitions and dogmatinc settings these things have
+ verifying force, making the verifying force circular.
+ It is the classic Münchhausen trilemma we are faced with, of course.
  When attempting to justify any argumentation, we have the choice among
  the following three alternatives:
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Citation from 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009l"
-
-\end_inset
-
-, which translated 
+Translated from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Albert1968"
@@ -13263,19 +13334,19 @@ key "Albert1968"
 
 \begin_layout Enumerate
 An infinite regression, which appears because of the necessity to go ever
- further back, but isn’t practically feasible and doesn’t, therefore, provide
- a certain foundation;
+ further back, but is not practically feasible and does not, therefore,
+ provide a solid foundation;
 \end_layout
 
 \begin_layout Enumerate
 a logical circle in the deduction, which is caused by the fact that one,
- in the need to found, falls back on statements which had already appeared
- before as requiring a foundation, and which circle does not lead to any
- certain foundation either; and finally:
+ in the need to provide a basis, falls back on statements whose have already
+ appeared before as requiring a foundation, and which circle does not lead
+ to any certain foundation either; and finally:
 \end_layout
 
 \begin_layout Enumerate
-a break of searching at a certain point, which indeed appears principally
+a break in searching at a certain point, which indeed appears principally
  feasible, but would mean a random suspension of the principle of sufficient
  reason.
  
@@ -13283,11 +13354,11 @@ a break of searching at a certain point, which indeed appears principally
 
 \begin_layout Standard
 If we do not have any dogmatic definitions of truth that provide the foundation
- for the third alternative of just breaking the search while also maintaining
- rationality, we can't possibly be directly in contact with anything in
- this world -- it is just models that are in direct contact with other models,
- only influenced and partially created by (probably) true things out there
- in the world.
+ for the third alternative of just abandoning the search while also maintaining
+ rationality, we can not possibly be in direct contact with anything in
+ this world.
+ It is just models that are in direct contact with other models, only influenced
+ and partially created by (probably) true things out there in the world.
 \begin_inset Foot
 status open
 
@@ -13304,9 +13375,9 @@ reference "Rational-Causalist-Phenomenology"
 
 \end_inset
 
- Such foundations of truth are of course proposed by many, mostly religious,
- thinkers, but I find it hard to accept entities that I am not allowed to
- question for principial reasons.
+ Such foundations of truth are, of course, proposed by many -- mostly religious
+ -- thinkers, but I find it hard to accept entities that I am not allowed
+ to question for principial reasons.
 \begin_inset Foot
 status open
 
@@ -13327,152 +13398,84 @@ reference "Justified-Adequacy-Criticizable"
 \end_layout
 
 \begin_layout Standard
-So, in order for a belief to be knowledge it necessarily has to be true,
- and we cannot verify whether any belief we hold is true or not at all.
- Consequently, we cannot know whether any beliefs we hold are cases of knowledge
- or not.
- We can merely find out which of our beliefs are 
-\emph on
-adequate
-\emph default
-, not which ones are true.
-\end_layout
-
-\begin_layout Standard
-This of course is only true in a strict, epistemological sense.
- In day-to-day talk, we often talk about 
+My suggestion is thus that we stay with those definitions of truth that
+ are equivalent to what I would like to call 
 \begin_inset Quotes eld
 \end_inset
 
-knowledge
+justified adequacy
 \begin_inset Quotes erd
 \end_inset
 
- when we don't mean those strict epistemological definitions.
- Some beliefs are so adequate, and so justified, that intuitively we think
- that they 
-\emph on
-must
-\emph default
- be knowledge -- Newtonian physical laws for example, or Descartes believing
- that 
-\begin_inset Quotes eld
-\end_inset
-
-cogito, ergo sum
-\begin_inset Quotes erd
-\end_inset
-
-.
- This belief that those things must be knowledge,
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Interestingly, Newtonian laws are produced by a posteriori reflections on
- nature, while Descartes' insight on the other hand follows from a priori
- introspection -- both of them however are perceived as unquestionably true,
- thus apparently cases of knowledge.
+ -- based on what we know about the world, we should pick those things as
+ accepted truths that give the most consistent image.
+ This, again, applies to coherence, constructivist, consensus, and pragmatic
+ theories.
+ While there are important differences between those approaches, they all
+ do not refer to a system-external dogmatic truth, and they all require
+ of true beliefs that they are justified and adequate.
 \end_layout
 
-\end_inset
-
- in turn, is again highly adequate.
-\end_layout
-
-\begin_layout Standard
-But I consciously chose the two examples for this to point out that even
- if we deeply 
-\emph on
-believe
-\emph default
- that those beliefs have to be knowledge, we can't 
-\emph on
-know
-\emph default
- whether they are.
- Einstein's theories show us how Newtonian laws don't apply for really large
- and really small scales, quantum mechanics do the same for even smaller
- scales, and I'll show up Metzinger's dissection of Descartes' belief in
- chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Cogito-Ergo-Sum"
-
-\end_inset
-
-.
-\end_layout
-
-\begin_layout Standard
-We hold justified beliefs that are adequate for all situations we might
- encounter them in, and they seem so natural to us that we are certain that
- they are cases of proper knowledge.
- I would go so far to actually call them 
-\begin_inset Quotes eld
-\end_inset
-
-folk knowledge.
-\begin_inset Quotes erd
-\end_inset
-
- However, we cannot find out whether they are cases of 
-\emph on
-epistemic
-\emph default
- knowledge in a stricter sense, or not.
-\end_layout
-
-\begin_layout Subsubsection
+\begin_layout Paragraph
 \begin_inset CommandInset label
 LatexCommand label
 name "Justified-Adequacy-Criticizable"
 
 \end_inset
 
-Justified Adequacy is Criticizable
+Justified Adequacy is Criticizable:
 \end_layout
 
 \begin_layout Standard
 Justified adequacy is by definition criticizable, and there are two places
- where an apparently justified adequate belief can be attacked:
+ where an apparently justified adequate belief can be questioned:
 \end_layout
 
 \begin_layout Itemize
-Justification can and should always be questioned, and is an argumentative
+Justification can, and should, always be questioned, and is an argumentative
  construct.
  Beliefs can be called into question by other beliefs with different justificati
 ons.
- It then has to be the goal of any rational discussant to find out which
+ It then has to be the goal of any rational discussant to establish which
  justification relies on more reasonable (and probable, given our frameworks
- of belief) basic premises.
+ of belief) premises.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Although this mostly seems to apply to consensus theories, it also applies
+ to all other theories that do not involve dogmatic settings.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
-Adequacy can be proven wrong by means of simple examples of inadequacy for
- any given belief.
- Keep in mind however that a belief can still be adequate for the majority
- of cases, barring (sometimes explicit) exceptions, and that this is actually
- the most common kind of adequate belief we hold as such folk knowledge.
- We all know the saying, 
+Adequacy can be proven wrong by means of examples of inadequacy for any
+ given belief.
+ However, keep in mind that a belief can still be adequate for the majority
+ of cases, with sometimes explicit exceptions.
+ This is actually the most common kind of adequate belief we hold as knowledge.
+ The saying 
 \begin_inset Quotes eld
 \end_inset
 
-the exception proves the rule.
+the exception proves the rule
 \begin_inset Quotes erd
 \end_inset
 
-
+ is well-known.
 \end_layout
 
 \begin_layout Standard
-This is somewhat opposed to us putting blind faith into any kind of last
- authority.
- Personally, I do believe that any such last authorities like books or god-like
- entities that are not merely widely accepted as such, but actually provide
- an ontological foundation are highly improbable -- and even if they exist,
- we cannot possibly know which of the various such entities that are offered
- as being the one true last authority happens to be the correct one.
+This is somewhat opposed to putting blind faith in any kind of supreme authority.
+ Any such supreme authorities like books or god-like entities that are not
+ merely widely accepted as such, but actually provide an ontological foundation,
+ are highly improbable -- and even if they exist, we cannot possibly know
+ which of the various entities that are offered as being the one true supreme
+ authority happens to be the correct one.
 \begin_inset Foot
 status open
 
@@ -13488,59 +13491,38 @@ Strictly speaking, it's rarely the god-like entities that are considered
 
 \end_inset
 
- On the other hand, I do believe that rationality and logic are what the
- world is built on (and that it is perfectly possible, albeit improbable,
- that god-like entities exist that are 
+ On the other hand, I believe
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This is strictly a matter of belief, since it can not be argued on a rational
+ basis.
+ As soon as rational discussion is used as a means of conviction, it is
+ also accepted as supremely authoritative.
+ On the other hand, if I do not accept rational discussion as authoritative
+ and having more justification than whatever supreme authorities I believe
+ in, it cannot be used to convince me otherwise.
+\end_layout
+
+\end_inset
+
+ that rationality and logic are what the world is built on (and that it
+ is perfectly possible, albeit improbable, that god-like entities exist
+ that are 
 \emph on
 not
 \emph default
  last authorities).
- This to me seems to be one of those two basic disagreements that cause
- most cultural struggles these days -- the other one being different views
- on which last authority is the correct one.
 \end_layout
 
 \begin_layout Standard
 It seems to me that merely relying on rationality and logic rather than
- complex last authorities makes a huge lot more sense from a philosophy
- of science point of view, and it is both more justifiable and more adequate.
- This does however not mean that this view is necessarily correct.
- We cannot know whether it is.
-\end_layout
-
-\begin_layout Subsubsection
-The Search for Justified Adequate Beliefs
-\end_layout
-
-\begin_layout Standard
-My point and the motivation for these observations: I do believe that the
- search for an adequate representation of the innermost workings of consciousnes
-s is possible -- whether we can introspectively access those things or not.
-\end_layout
-
-\begin_layout Standard
-Furthermore, I do also believe that introspectively (empirically) gained
- beliefs about those innermost workings of consciousness do not necessarily
- have more justification than a priori gained beliefs through reasoning
- and analogy (probably relating to other facts that then again can be empirical
- or a priori).
- It is the test of time, thought experiments and psychological studies only
- that can show us which of our theories make more sense.
-\end_layout
-
-\begin_layout Standard
-Since many introspectively gained beliefs have proven to be inadequate for
- some border cases of consciousness or other, it appears that there are
- cases where a priori reasoning is better than introspection at gaining
- knowledge about our inner workings.
-\end_layout
-
-\begin_layout Standard
-I want to explore the hard problem of consciousness with this epistemological
- background: It is not epistemic knowledge I am after.
- It is the next-best thing, and the only thing us humans can possibly gain:
- Folk knowledge, justified adequate beliefs that still make sense even after
- we throw the strangest pathological border cases of consciousness at them.
+ complex last authorities makes significantly more sense from a viewpoint
+ of philosophy of science, and it is both more justifiable and more adequate.
+ This does, however, not mean that this view necessarily corresponds to
+ some actual real truth.
+ We cannot know whether it does.
 \end_layout
 
 \begin_layout Subsection
@@ -13560,23 +13542,6 @@ y is the postulation of two kinds of essences: A physical, nonthinking essence
  (which builds the mind).
  Thus, it is the separation of body and mind, and didn't really start with
  Descartes -- it dates back to Zarathushtra, Plato and Aristotle.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009c"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -13676,7 +13641,7 @@ Applied to philosophy of mind: There is nothing that stops us from investigating
 \end_layout
 
 \begin_layout Subsubsection
-Hidden Forms of Dualism
+A hidden form of dualism
 \end_layout
 
 \begin_layout Standard
@@ -13857,7 +13822,7 @@ The empirical question isn't whether circuit chips are able to implement
 \end_layout
 
 \begin_layout Subsubsection
-Possible Origins of Dualism
+Musings on a possible origin of dualism
 \end_layout
 
 \begin_layout Standard
@@ -13952,7 +13917,7 @@ name "Cartesian-Theater"
 
 \end_inset
 
-The Cartesian Theater
+The cartesian theater
 \end_layout
 
 \begin_layout Standard
