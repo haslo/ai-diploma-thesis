@@ -11917,6 +11917,16 @@ key "Searle1980"
 Conclusion
 \end_layout
 
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Conceptual-Dualism"
+
+\end_inset
+
+Conceptual dualism?
+\end_layout
+
 \begin_layout Section
 Outlook
 \end_layout
@@ -12806,7 +12816,7 @@ reference "Summary"
  I do hope that you feel compelled to put it to the test.
 \end_layout
 
-\begin_layout Part
+\begin_layout Part*
 \start_of_appendix
 Appendix
 \end_layout
@@ -13536,12 +13546,34 @@ Dualism
 \end_layout
 
 \begin_layout Standard
-Substance dualism, which is the kind of dualism I want to talk about, essentiall
-y is the postulation of two kinds of essences: A physical, nonthinking essence
- (which builds the world, body and brain) and a nonphysical, thinking essence
- (which builds the mind).
- Thus, it is the separation of body and mind, and didn't really start with
- Descartes -- it dates back to Zarathushtra, Plato and Aristotle.
+Substance dualism, which is the kind of dualism at the focus of this discussion,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The other major kind of dualism is conceptual dualism -- the view that things
+ are not strictly reducible to more abstract levels of description (for
+ example, going from mental states to neurons) without losing valuable informati
+on.
+ I guess the views expressed in this paper could be seen as a form of such
+ conceptual dualism.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Conceptual-Dualism"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ essentially is the postulation of two kinds of essences: A physical, nonthinkin
+g essence (which builds the world, the body and the brain) and a nonphysical,
+ thinking essence (which builds the mind).
+ Thus, it is the separation of body and mind, and it did not really start
+ with Descartes -- it dates back to Zarathushtra, Plato and Aristotle.
 \end_layout
 
 \begin_layout Standard
@@ -13550,24 +13582,17 @@ There are subtheories of dualism.
 status open
 
 \begin_layout Plain Layout
-According to 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009c"
-
-\end_inset
-
-, those include (among others) epiphenomenalism (first introduced by La
- Mettrie), psychophysic parallelism (as per readings of Leibniz and Malebranche)
-, teleological supervenience (most prominently discussed by Sehon), occasionalis
-m (as taught in the Ash'ari schools of early Islamic philosophy).
+Those include (among others) epiphenomenalism (first introduced by La Mettrie),
+ psychophysic parallelism (as per readings of Leibniz and Malebranche),
+ teleological supervenience (most prominently discussed by Sehon), occasionalism
+ (as taught in the Ash'ari schools of early Islamic philosophy).
 \end_layout
 
 \end_inset
 
  They all postulate that there is more to the world than the physical, and
  more importantly, they postulate that this additional matter is not traceable
- or detectable by scientific or naturalist means.
+ or detectable by scientific or naturalistic means.
  Essentially, they postulate that there is a kind of causation that is not
  causally analyzable.
  Looking at the original Cartesian version that puts the 
@@ -13578,7 +13603,7 @@ mind stuff
 \begin_inset Quotes erd
 \end_inset
 
- into the pineal gland, Dennett puts it pretty concisely:
+ into the pineal gland, Dennett puts it concisely:
 \end_layout
 
 \begin_layout Quotation
@@ -13607,7 +13632,7 @@ key "Dennett1991"
 
 \end_inset
 
-, page 34, emphasis his.
+, page 34, italics his.
 \end_layout
 
 \end_inset
@@ -13616,28 +13641,48 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-While as we already saw in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Epistemology"
-
+It may be true that the world consists of more than what is epistemologically
+ graspable by us human beings.
+ But that does not make this additional 
+\begin_inset Quotes eld
 \end_inset
 
-, I perfectly agree that the world consists of more than what is epistemological
-ly graspable by us human beings, that doesn't make this additional matter
+matter
+\begin_inset Quotes erd
+\end_inset
+
  non-physical or even non-naturalist.
- And in particular, it is a very trivial finding that every causal relationship
+ In particular, it is implied by definition that every causal relationship
  is causally analyzable.
- Causes for any effect, whether we can touch and see it or not, can be scrutinis
-ed in a logical manner.
- And as mathematics or particle physics show, we are perfectly able to perform
- these kinds of investigations even with epistemologically nongraspable
- subject matters.
+ Causes for any kind of effect, whether we can touch and see the effect
+ or not, can be logically scrutinised.
+ As our insights into mathematics or particle physics show, we are perfectly
+ able to perform these kinds of investigations even with empirically nongraspabl
+e, completely abstract subjects.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+There are major works on the epistemology of numbers and mathematical structures
+ of course, starting with 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hilbert1897"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Applied to philosophy of mind: There is nothing that stops us from investigating
- logical interactions not available for introspection.
+Applied to philosophy of mind, this means the following: There is nothing
+ that stops us from investigating logical interactions not available for
+ introspection.
 \end_layout
 
 \begin_layout Subsubsection
