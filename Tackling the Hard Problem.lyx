@@ -3,6 +3,9 @@
 \begin_document
 \begin_header
 \textclass article
+\begin_preamble
+\usepackage{amssymb}
+\end_preamble
 \use_default_options true
 \language english
 \inputencoding auto
@@ -17,6 +20,7 @@
 
 \graphics default
 \paperfontsize default
+\spacing single
 \use_hyperref false
 \papersize default
 \use_geometry false
@@ -13155,7 +13159,7 @@ reference "Reductive-Naturalism"
  introspective access evident as well:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 In one study, subjects were presented with four pairs of stockings and asked
  to indicate which pair had the highest quality.
  The leftmost pair was preferred by a factor of almost four to one.
@@ -13168,7 +13172,7 @@ In one study, subjects were presented with four pairs of stockings and asked
  [...]
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 However interesting this result, Nisbett and Wilson’s work might not seem
  especially threatening to most proponents of infallibility, since it concerns
  introspective access only to higher order reasoning processes [...].
@@ -13555,8 +13559,8 @@ The other major kind of dualism is conceptual dualism -- the view that things
  are not strictly reducible to more abstract levels of description (for
  example, going from mental states to neurons) without losing valuable informati
 on.
- I guess the views expressed in this paper could be seen as a form of such
- conceptual dualism.
+ The views expressed in this paper could be seen as a form of such conceptual
+ dualism.
  See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -13606,7 +13610,7 @@ mind stuff
  into the pineal gland, Dennett puts it concisely:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 How, precisely, does the information get transmitted from pineal gland to
  mind? [...] let's ignore those upbound signals for the time being, and concentrate
  on the return signals, the directives from mind to brain.
@@ -13690,15 +13694,15 @@ A hidden form of dualism
 \end_layout
 
 \begin_layout Standard
-In addition to openly dualist theories, many recent philosophers still have
- hidden dualist (intuitive) premises when looking at a world they perceive
- as naturalist.
+In addition to overtly dualist theories, many recent philosophers still
+ have hidden and implicit dualist premises, sometimes of an openly admitted
+ intuitive nature, when looking at a world they perceive as naturalist.
  Searle for example posits special causal powers that are not necessarily
  replicable by a formal program.
  His argument is:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 I offer no a priori proof that a system of integrated circuit chips couldn't
  have intentionality.
  That is, as I say repeatedly, an empirical question.
@@ -13707,11 +13711,11 @@ I offer no a priori proof that a system of integrated circuit chips couldn't
  a formal program would not be sufficient for that.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 [...]
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Now I argue at some length that [the circuit chips] couldn't have intentionality
  solely in virtue of instantiating the program.
  Once you see that the program doesn't necessarily add intentionality to
@@ -13768,20 +13772,21 @@ key "Dennett1991"
 
 , pages 209ff.
  My argumentation would probably have been more succinct if I had read Dennett
- before that paper of mine, admittedly.
+ before writing my paper.
 \end_layout
 
 \end_inset
 
  and while my understanding of the specifics may meanwhile have grown a
- bit and I do believe that some of what I wrote back then, I still stand
- behind the main argument I put forth:
+ bit and I do believe that some of what I wrote back then might need some
+ revisions, I still stand behind the main argument I put forth:
 \end_layout
 
 \begin_layout Standard
 Yes, there is an empirical question whether a particular combination of
  circuit chips (including memory chips) and a formal program (including
- memory contents) has the causal powers of a brain that make intentionality
+ memory contents) has the causal powers of a brain, causal powers that make
+ intentionality
 \begin_inset Foot
 status open
 
@@ -13842,7 +13847,20 @@ What is produced by any means whatever that uses a method each step of which
 
 \begin_layout Plain Layout
 A critic might say here that we know that there are incomputable functions
- - for example, there is no way to calculate most real numbers.
+ - for example, there is no way to calculate most real numbers in 
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+$
+\backslash
+mathbb{R}$
+\end_layout
+
+\end_inset
+
+.
  However, if we are to assume that human-like intelligence is such an incomputab
 le function, we also have to assume that the human brain is more than a
  mere machine -- since no mere machine can calculate incomputable functions.
@@ -13875,7 +13893,7 @@ Metzinger points out how it is intuitively highly attractive to think in
  dualist terms, particularly when out-of-body experiences come into play:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 For anyone who has actually undergone that [out-of-body] experience, it
  will be almost impossible not to become an ontological dualist afterward
  [...].
@@ -13898,7 +13916,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, page 503, emphasis his.
+, page 503, italics his.
 \end_layout
 
 \end_inset
@@ -13910,7 +13928,7 @@ key "Metzinger2003"
 His theory does offer an explanation for this:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 However, the information that is not subjectively available to them, of
  course, is that all of this is just a 
 \emph on
@@ -13940,8 +13958,8 @@ key "Metzinger2003"
 Metzinger does not mean to say that every major proponent of dualism has
  had such an out-of-body experience -- rather, the meme that there is some
  special spiritual matter was probably started and fueled by such experiences.
- This just as an interesting anecdote.
- We will look at the nature of that model in chapters 
+ This chapter is just meant as an interesting anecdote.
+ The nature of that model is discussed in chapters 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Being-No-One"
@@ -13969,8 +13987,8 @@ The cartesian theater
 \end_layout
 
 \begin_layout Standard
-Dennett also tries and succeeds to find further fragments of dualism, anachronis
-t remainders of dualist ideas.
+Dennett also tries to and succeeds in finding further fragments of dualism,
+ anachronist remainders of dualist ideas.
  One such remainder is the Cartesian Theater.
  It is the idea that there is a central, clearly localizable place of 
 \begin_inset Quotes eld
@@ -13981,17 +13999,18 @@ meaning happening
 \end_inset
 
  in the brain.
- The idea that there is a locus of understanding, like a theater where everythin
-g is presented to an internal audience, the place where all the data collected
- by other mechanisms in the brain comes together and 
+ According to that idea, there is a locus of understanding, like a theater
+ where everything is presented to an internal audience, the place where
+ all the data collected by other mechanisms in the brain comes together
+ and 
 \emph on
 makes sense
 \emph default
 .
- This would make understanding experience a lot easier:
+ This would make the understanding of experience a lot easier:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 It seems that if we could say 
 \emph on
 exactly
@@ -14010,7 +14029,7 @@ key "Dennett1991"
 
 \end_inset
 
-, page 107, emphasis his.
+, page 107, italics his.
 \end_layout
 
 \end_inset
@@ -14046,16 +14065,16 @@ key "Dennett1991"
 \end_inset
 
  -- which is what gives rise to Dennett's model of multiple drafts.
- Since there is no such clearly definable point of understanding, neither
- in space nor in time, there can't possibly (from a scientific perspective)
+ From a scientific perspective, there is no such clearly definable point
+ of understanding, neither in space nor in time, so there can not possibly
  be a Cartesian Theater of any kind anyway.
 \end_layout
 
 \begin_layout Standard
-But a Cartesian Theater additionally has metaphysical problems, too:
+A Cartesian Theater has metaphysical problems in addition to that:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The Cartesian Theater may be a comforting image because it preserves the
  reality/appearance distinction at the heart of human subjectivity, but
  as well as being scientifically unmotivated, this is metaphysically dubious,
@@ -14082,23 +14101,56 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-Those things would, of course, be the ways in which content is produced
- in that Cartesian Theater locus, if it would be interpreted (by the audience)
+These 
+\begin_inset Quotes eld
+\end_inset
+
+things
+\begin_inset Quotes erd
+\end_inset
+
+ would, of course, correspond to the ways in which content is produced in
+ that Cartesian Theater locus, if it were interpreted (by the audience)
  to have another meaning than the presenting mechanisms (the actors) intended
  it.
- You see, the trouble goes deeper than the quote itself even mentions, as
- this would also require intention and possibly intentionality on both sides
- of the Cartesian Theater stage, in both the actors and the audience.
+ In other words, If a meaning changes when the audience interprets the actors'
+ play, the way the actors really played constitutes the newly created category
+ of the objectively subjective.
+\end_layout
+
+\begin_layout Standard
+The trouble goes deeper than the quote itself even mentions, as this could
+ be interpreted to also require intention, and possibly intentionality,
+ on both sides of the Cartesian Theater stage, both in the actors and the
+ audience.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A Cartesian Theater where the actors do not have any kind of intentionality
+ is thinkable as well.
+ That would imply a purely mechanistic approach in regard to the presentation
+ mechanisms -- the things presented on the stage would not have any more
+ than derived intentionality.
+ That derived intentionality would then correspond to the way things actually,
+ objectively seem to you.
+ Even having just one side require intrinsic intentionality however does
+ not solve the problem, it just avoids duplicating the same problem on the
+ presenting and the interpreting side of the Cartesian Theater.
+\end_layout
+
+\end_inset
+
  The Cartesian Theater, even if it existed, would thus fail to explain anything.
 \end_layout
 
 \begin_layout Standard
-Dennett explains how there really can't be a Cartesian Theater if we do
+Dennett explains how there really can not be a Cartesian Theater if we do
  not commit to dualism, and conversely, how if we do not want to commit
- to dualism we cannot believe that there is a Cartesian Theater:
+ to dualism, we cannot believe that there is a Cartesian Theater:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 When you discard Cartesian dualism, you really must discard the show that
  would have gone on in the Cartesian Theater, and the audience as well,
  for neither the show nor the audience is to be found in the brain, and
@@ -14123,9 +14175,9 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-Note how this doesn't disqualify the Pineal Gland from having a special
+Note how this does not disqualify the pineal gland from having a special
  role in intentionality.
- It just disqualifies it from being the one central choke point where 
+ It just disqualifies it from being the one central focal point where 
 \emph on
 all
 \emph default
@@ -14148,7 +14200,7 @@ Supervenience is an attempt at finding a concept that can explain the apparent
  Supervenience as a term was introduced by Donald Davidson:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Although the position I describe denies there are psychophysical laws, it
  is consistent with the view that mental characteristics are in some sense
  dependent, or supervenient, on physical characteristics.
@@ -14250,7 +14302,14 @@ proof
 status open
 
 \begin_layout Plain Layout
-Arguably, that is a bad case of Dennett's philosophers syndrome.
+Arguably, that is a bad case of Dennett's 
+\begin_inset Quotes eld
+\end_inset
+
+philosophers syndrome.
+\begin_inset Quotes erd
+\end_inset
+
  See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
