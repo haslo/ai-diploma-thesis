@@ -14652,11 +14652,11 @@ reference "Reductive-Naturalism"
 \end_layout
 
 \begin_layout Subsubsection
-Selfish Genes
+Selfish genes
 \end_layout
 
 \begin_layout Standard
-Eventhough it is not entirely undisputed, I will also adopt Dawkins' view
+Even though it is not entirely undisputed, I will also adopt Dawkins' view
  on natural selection and evolution not being a purpose in and of itself,
  and animals being mere vehicles that enable the survival of our genes.
  As he writes:
@@ -14696,48 +14696,42 @@ key "Dawkins1976"
 \end_layout
 
 \begin_layout Standard
-So, animals are essentially selfish, unless altruism benefits the survival
- of its genes.
+In other words, animals are essentially selfish, unless altruism benefits
+ the survival of its genes.
  In some cases, altruism goes very far: Sometimes, an individual animal
- acting suicidal actually benefits the reproduction of its genes, like when
- bees die after stinging an enemy of the hive, or birds risk their lives
- to warn the flock of an approaching hawk.
+ acting suicidally actually benefits the reproduction of its genes, such
+ as when bees die after stinging an enemy of the hive, or birds risk their
+ lives to warn the flock of an approaching hawk.
+ And in the case of non-trivial symbiotic relationships between species,
+ an indivudual's behaviour benefitting another party rather than itself
+ can further the chances of survival for the species as well.
+ Essentially, selfishness in this sense can even be a form of altruism.
 \end_layout
 
 \begin_layout Standard
-It is very important to note that Dawkins did not mean to say that genes
- are selfish in any self-aware sense.
- They merely are selfish in that only those genes survive that are predisposed
+It is important to note that Dawkins did not mean to say that genes are
+ selfish in any self-aware sense.
+ They merely are selfish in that only those genes survive which are predisposed
  in ways that make them produce forms of life that has high odds of reproduction
-, and thus is able to further the population of a particular genotype and
+, and thus is able to further the population of a particular genotype, and
  produce more of these genes.
  In this sense, only selfish genes survive, while all genes that are not
- selfish necessarily die.
- So, all genes that actually do survive must be selfish.
- But this does not imply any kind of intrinsic intentionality of genes or
- the likes.
-\end_layout
-
-\begin_layout Standard
-Dawkins also introduces memes,
+ selfish probably die.
+ So, all genes that survive must be selfish.
+ But this does not imply any kind of intrinsic intentionality of genes.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See 
+Dawkins also introduces memes (see 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dawkins1976"
 
 \end_inset
 
-.
-\end_layout
-
-\end_inset
-
- small bits of knowledge or ideas or cultural heritage (I find it hard to
- find a fitting word besides, well, 
+), small bits of knowledge or ideas or cultural heritage (I find it hard
+ to find a fitting word besides 
 \begin_inset Quotes eld
 \end_inset
 
@@ -14745,13 +14739,9 @@ meme
 \begin_inset Quotes erd
 \end_inset
 
-) that get passed on from individual to individual, allowing way faster
- progress and a kind of secondary evolution.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
+) that get passed on from individual to individual, allowing faster progress
+ and a kind of secondary evolution.
+ See 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Kurzweil2001"
@@ -14766,17 +14756,11 @@ key "Joy2000"
 \end_inset
 
  for a scarier outlook.
-\end_layout
-
-\end_inset
-
- Susan Blackmore goes even further and introduces temes as a third replicator
- after genes and memes.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
+ Susan Blackmore goes even further and introduces 
+\emph on
+temes
+\emph default
+ as a third replicator after genes and memes -- see 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Blackmore2008"
@@ -14788,8 +14772,7 @@ key "Blackmore2008"
 
 \end_inset
 
- These are very interesting subjects, but unfortunately, I do not have the
- space to pursue them any further.
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -14799,13 +14782,21 @@ name "Deficiencies-of-Bio-Evolution"
 
 \end_inset
 
-Deficiencies of Bio-Evolution
+Deficiencies of bio-evolution
 \end_layout
 
 \begin_layout Standard
-Evolution might have worked a treat for life on earth and possibly elsewhere,
- but it certainly wasn't the best way to go about it.
- Minsky points out the following flaws of genetic, Darwinian evolution,
+Evolution might have been beneficial for life on earth and possibly elsewhere,
+ but it certainly was not the fastest possible route towards life as we
+ know it today.
+ As a matter of fact, evolution does not have a goal, since it is not a
+ directed process but rather emergent behaviour -- but if we want to achieve
+ a goal, using purely evolutionary algorithms definitely has shortcomings.
+\end_layout
+
+\begin_layout Standard
+In the context of using genetic algorithms for developing systems with artificia
+l intelligence, Minsky points out the following flaws of Darwinian evolution,
  saying that 
 \begin_inset Quotes eld
 \end_inset
@@ -14863,16 +14854,13 @@ Evolution selects the ones that survive, but forgets why all the others
 \end_layout
 
 \begin_layout Standard
-So, only a few additional constraints can make assisted evolution way better
- than Darwinian one, and for some questions, evolution is not the best answer.
- This mainly applies to artificial intelligence where we attempt to reproduce
- consciousness, but since that is not the subject of this thesis, I will
- not follow this line of thought any further.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See chapter 
+So, only a few additional constraints on the directions evolutionary algorithms
+ take, which strains they follow and which ones they do not, can make assisted
+ evolution considerably better than Darwinian one.
+ For some questions, evolution is not the best answer at all.
+ Of course, this mainly applies to artificial intelligence where we attempt
+ to reproduce consciousness -- I will only briefly touch this subject in
+ chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Artificial-Intelligence"
@@ -14882,15 +14870,10 @@ reference "Artificial-Intelligence"
 .
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
 \begin_layout Standard
 Interestingly, biology also has mechanisms of adaptation on reproduction
  that go beyond mere basic genetics.
- The field of epigenetics is very interesting, and shows up that in biological
+ The field of epigenetics is intriguing, and shows up that in biological
  contexts, it is often the circumstances that make an organism activate
  some parts of its genetic code and not others.
 \begin_inset Foot
@@ -14944,24 +14927,7 @@ key "Metzinger2003"
 
 \end_inset
 
- while Dennett actually has an entire chapter on the evolution of consciousness.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Dennett1991"
-
-\end_inset
-
-, pages 171-226.
-\end_layout
-
-\end_inset
-
-
+ while Dennett has an entire chapter on the evolution of consciousness.
 \end_layout
 
 \begin_layout Paragraph
@@ -14970,7 +14936,7 @@ Metzinger:
 
 \begin_layout Standard
 Teleofunctionalism in the way Metzinger uses it appears to be the following
- assumption: Given there is a system that developed in an evolutionary process.
+ assumption, given there is a system that developed in an evolutionary process.
  Every functional property of that system was itself developed in this evolution
 ary process, and was selected due to evolutionary fitness in the particular
  niche the system was adapting to.
@@ -15021,6 +14987,24 @@ Dennett:
 Dennett offers a few important observations and speculations, looking at
  consciousness not as a black box, but from the inside out -- since that
  approach is radically more comprehensible:
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This list is a compilation of Dennett's points of view regarding evolution
+ found in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, pages 171-226.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -15038,7 +15022,13 @@ The first reasons preexisted their own recognition,
 status open
 
 \begin_layout Plain Layout
-Dennett, page 174
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 174
 \end_layout
 
 \end_inset
