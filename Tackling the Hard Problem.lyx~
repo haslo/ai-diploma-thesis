@@ -12979,7 +12979,7 @@ Problems of correspondence theories of knowledge
 
 \begin_layout Standard
 Correspondence theory is, at least at a first sight, very intuitive.
- Something can not be called a truth unless it actually really is true.
+ Something cannot be called a truth unless it actually really is true.
  In order to be actually really true, it has to correspond to some ideal
  of truth (similar to Platon's ideas).
  There are several problems with that approach however, as it seems to be
@@ -13376,8 +13376,8 @@ a break in searching at a certain point, which indeed appears principally
 \begin_layout Standard
 If we do not have any dogmatic definitions of truth that provide the foundation
  for the third alternative of just abandoning the search while also maintaining
- rationality, we can not possibly be in direct contact with anything in
- this world.
+ rationality, we cannot possibly be in direct contact with anything in this
+ world.
  It is just models that are in direct contact with other models, only influenced
  and partially created by (probably) true things out there in the world.
 \begin_inset Foot
@@ -13517,7 +13517,7 @@ Strictly speaking, it's rarely the god-like entities that are considered
 status open
 
 \begin_layout Plain Layout
-This is strictly a matter of belief, since it can not be argued on a rational
+This is strictly a matter of belief, since it cannot be argued on a rational
  basis.
  As soon as rational discussion is used as a means of conviction, it is
  also accepted as supremely authoritative.
@@ -14073,7 +14073,7 @@ key "Dennett1991"
 
  -- which is what gives rise to Dennett's model of multiple drafts.
  From a scientific perspective, there is no such clearly definable point
- of understanding, neither in space nor in time, so there can not possibly
+ of understanding, neither in space nor in time, so there cannot possibly
  be a Cartesian Theater of any kind anyway.
 \end_layout
 
@@ -14151,7 +14151,7 @@ A Cartesian Theater where the actors do not have any kind of intentionality
 \end_layout
 
 \begin_layout Standard
-Dennett explains how there really can not be a Cartesian Theater if we do
+Dennett explains how there really cannot be a Cartesian Theater if we do
  not commit to dualism, and conversely, how if we do not want to commit
  to dualism, we cannot believe that there is a Cartesian Theater:
 \end_layout
@@ -15150,7 +15150,7 @@ key "Dennett1991"
 
 \end_inset
 
- He does of course speak (implicitly) about memes.
+ Of course, he alludes to memes.
 \end_layout
 
 \begin_layout Subsection
@@ -15158,9 +15158,9 @@ Some further Concepts
 \end_layout
 
 \begin_layout Standard
-There are some concepts that I think are important, but don't fit into any
- of the bigger chapters.
- I will present them in a condensed form here.
+There are some concepts that I think are important, but do not fit into
+ any of the bigger chapters.
+ Thus, I present them in a condensed form here.
 \end_layout
 
 \begin_layout Subsubsection
@@ -15170,18 +15170,34 @@ name "Suitcase-Words"
 
 \end_inset
 
-Suitcase Words
+Minsky's 
+\begin_inset Quotes eld
+\end_inset
+
+suitcase words
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 In true Wittgensteinian tradition, Minksky points out how often, we seem
- to see problems where there really wouldn't be any if we would just use
+ to see problems where there really would not be any if we would just use
  fitting terminology.
 \end_layout
 
 \begin_layout Standard
-The particular problem that Minsky sees is that in psychology, we often
- use just one word to describe an entire suitcase of concepts.
+The particular problem for Minsky is that in psychology, we often use just
+ one word to describe an entire 
+\begin_inset Quotes eld
+\end_inset
+
+suitcase
+\begin_inset Quotes erd
+\end_inset
+
+ of concepts.
  He first introduces the term of 
 \begin_inset Quotes eld
 \end_inset
@@ -15190,7 +15206,7 @@ suitcase words
 \begin_inset Quotes erd
 \end_inset
 
- early on in his book, asking: 
+ already early in his book, asking: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -15215,7 +15231,7 @@ key "Minsky2006"
 
 \end_inset
 
- He then goes on to define them further, saying that 
+ He then continues and defines them further, saying that 
 \begin_inset Quotes eld
 \end_inset
 
@@ -15251,25 +15267,32 @@ key "Minsky2006"
 
 \begin_layout Standard
 Only later in the book does he offer speculations on why we seem to have
- so many suitcase words (and not just in psychology), looking at it from
- different angles:
+ so many such 
+\begin_inset Quotes eld
+\end_inset
+
+suitcase words
+\begin_inset Quotes erd
+\end_inset
+
+ (and not just in psychology), looking at it from different angles:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Psychologist: Suitcase words are useful in everyday life when they help
  us to communicate.
  But we won't know what each other means unless we share the same jumbles
  of ideas.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Psychiatrist: We often use those suitcase words to keep us from asking questions
  about ourselves.
  Just having a name for an answer can make us feel as though we actually
  have the answer itself.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Ethicist: we need the idea of consciousness to support our beliefs about
  responsibility and discipline.
  Our legal and ethical principles are largely based on the idea that we
@@ -15285,7 +15308,7 @@ intentional
  their consequences.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Holist: Although many processes may be involved, we'll still need to explain
  how they combine to produce our stream of conscious thoughts -- and our
  explanations will need some words to describe the phenomena that emerge
@@ -15321,12 +15344,12 @@ intentional
 \begin_layout Standard
 The important philosophical lesson we can draw from this is relatively simple:
  We should stay the course after the linguistic turn, and keep questioning
- everything that our language implies.
- If that means breaking up tried and treasured concepts, so be it.
- Although Minsky does have a word of caution for us as well:
+ everything our language implies.
+ If this means breaking up tried and treasured concepts, so be it.
+ However, Minsky does have a word of caution for us as well:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 I am not suggesting that we should try to dissect and replace all our suitcase-w
 ords, because they incorporate ambiguities that have evolved over centuries,
  to serve many important purposes -- but also, they often handicap us by
@@ -15351,9 +15374,9 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Standard
-Well, replacing might be a bit too much indeed.
- But dissecting them while keeping the newfound parts' suitcase categories
- in mind, in my opinion, can't hurt.
+Indeed, replacing might go too far.
+ However, dissecting them, while keeping the newfound parts' suitcase categories
+ in mind, in my opinion, cannot hurt.
 \end_layout
 
 \begin_layout Subsubsection
@@ -15373,11 +15396,11 @@ There are two things that I want to point out with regard to our intuitions
 
 \begin_layout Enumerate
 Failure of imagination is not an insight into necessity -- what Dennett
- calls 
+ calls the 
 \begin_inset Quotes eld
 \end_inset
 
-Philosopher's Syndrome.
+philosopher's syndrome.
 \begin_inset Quotes erd
 \end_inset
 
@@ -15399,11 +15422,11 @@ key "Dennett1991"
 \end_inset
 
  It is not the case that something is necessarily not true merely because
- we cannot imagine it being true.
+ we cannot imagine it to be true.
  We are built a certain way, with certain dispositions that helped us survive
- for long enough to stand where we are now.
+ long enough to be where we are now.
  Those dispositions were (and most of them, are) adequate for survival,
- and not necessarily epistemical insights into reality.
+ and not necessarily insights into reality.
 \begin_inset Foot
 status open
 
@@ -15425,7 +15448,7 @@ reference "Epistemology"
 
 \begin_layout Enumerate
 There is a fundamental problem about us looking at what constitutes consciousnes
-s and in particular selfhood: The epistemic irreducibility of conscious
+s, and, in particular, selfhood: The epistemic irreducibility of any conscious
  experience, the fact that it is tied to a first-person perspective, may
  be explainable, but it is not possible to be truly convinced (which is
  necessary to make it intuitively plausible) by such an explanation.
@@ -15438,8 +15461,8 @@ This is because either we agree with the possibility and coherence of the
  perspective that we cannot drop, thus forming a conflict that cannot be
  resolved without internal contradictions in our belief system.
  Or we abandon the first-person perspective completely in some form of enlighten
-ment, but then (even if us humans are even able to reach that state) have
- no subject anymore that can be convinced of the truth of any such theory.
+ment, but then (even if us humans are able to reach that state) have no
+ subject anymore that can be convinced of the truth of any such theory.
  See 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -15456,10 +15479,10 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-An example for the evolutionary pressure that made intuition just the way
- it is: When a huge grizzly bear comes charging at a caveman, he doesn't
- survive if he ponders whether he's just imagining or dreaming that, or
- whether it's actually a bear after all.
+An example that shows how evolutionary pressure made intuition just the
+ way it is: When a huge grizzly bear comes charging at a caveman, he doesn't
+ survive if he ponders whether he is just imagining or dreaming, or whether
+ it's actually a bear after all.
  The cavemen that survive are the ones that experience phenomenally perceived
  events as immediate and unquestionably real.
 \end_layout
