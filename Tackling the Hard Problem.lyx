@@ -14261,13 +14261,22 @@ reference "No-Intrinsic-Intentionality"
 
  for now, the rest of the definition leaves it somewhat open whether those
  mental events are actually reducible in principle and merely practically
- irreducible, or irreducible in principle already -- and the word has been
- used with both meanings by various philosophers since.
+ irreducible, or irreducible in principle already -- and the word 
+\begin_inset Quotes eld
+\end_inset
+
+intentionality
+\begin_inset Quotes erd
+\end_inset
+
+ has been used with both meanings by various philosophers since.
  I want to pick out but two:
 \end_layout
 
 \begin_layout Itemize
-Scott Sehon on one hand
+Scott Sehon on the one hand uses it in a way that bears striking similarities
+ to the concepts of epiphenomenalism, parallelism and occasionalism minus
+ divine hands.
 \begin_inset Foot
 status open
 
@@ -14284,10 +14293,9 @@ key "Sehon2005"
 
 \end_inset
 
- uses it in a way that bears striking similarities to the concepts of epiphenome
-nalism, parallelism and occasionalism minus divine hands.
- He strongly opposes all reductive tendencies and property dualism, and
- uses the fact that no one-to-one reductionist mappings of complex mental
+ He strongly opposes all reductive tendencies just like he opposes property
+ dualism.
+ He uses the fact that no one-to-one reductionist mappings of complex mental
  states have been found to date as inductive 
 \begin_inset Quotes eld
 \end_inset
@@ -14297,7 +14305,7 @@ proof
 \end_inset
 
  for the claim that mental events are irreducible in principle to physical
- events.
+ events, and are a completely different kind of entity altogether.
 \begin_inset Foot
 status open
 
@@ -14377,7 +14385,14 @@ Citation from ibid.
 
 \end_inset
 
- He proposes such functional clusters for many of his multilevel constraints,
+ He proposes such functional clusters for many of what he calls 
+\begin_inset Quotes eld
+\end_inset
+
+multilevel constraints,
+\begin_inset Quotes erd
+\end_inset
+
  while openly admitting that research has not progressed far enough for
  all of them yet.
 \begin_inset Foot
@@ -14396,14 +14411,17 @@ key "Gelbard-Sagiv2008"
 
 \end_inset
 
-
+ While mental and physical events do describe different categories, they
+ are both translatable into each other.
 \end_layout
 
 \begin_layout Standard
-I tend to agree with Metzinger's point of view in many respects, and this
- is one of them.
- Practical irreducibility doesn't have to be the same as principial irreducibili
-ty, and in this case, it seems like it really isn't.
+I agree with Metzinger's point of view in many respects, and this is one
+ of them.
+ Practical irreducibility does not have to be the same as principial irreducibil
+ity.
+ In this case, it seems like mental states really do seem to be reducible
+ in principle, while we just don't know how to practically do that yet.
 \end_layout
 
 \begin_layout Subsection
@@ -14418,26 +14436,11 @@ Evolution
 
 \begin_layout Standard
 Evolution is the theory that tries to make sense of the fact that all living
- species on our planet seem to be related in many ways.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009e"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
+ organisms on our planet seem to be related in many ways.
  All living cells use the same basic set of nucleotides and amino acids,
- and there are large similarities in DNA between for example humans and
- chimpanzees (depending on the study, between 95% and 98.5%
+ and there are large similarities in DNA between, for example, humans and
+ chimpanzees (depending on the study, the genomes of those species share
+ between 95% and 98.5% of all genetic codes
 \begin_inset Foot
 status open
 
@@ -14450,30 +14453,14 @@ key "Britten2002"
 \end_inset
 
 .
- It is interesting how a similarity of 95% is considered to be low in some
- deeply religious circles.
- To quote 
+ 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "DeWitt2003"
 
 \end_inset
 
-: 
-\begin_inset Quotes eld
-\end_inset
-
-Will evolution be called into question now that the similarity of chimpanzee
- and human DNA has been reduced from >98.5% to ~95%? Probably not.
- Regardless of whether the similarity was reduced even below 90%, evolutionists
- would still believe that humans and apes shared a common ancestor.
- Moreover, using percentages hides an important fact.
- If 5% of the DNA is different, this amounts to 150,000,000 DNA base pairs
- that are different between them!
-\begin_inset Quotes erd
-\end_inset
-
- I will leave the number 2,850,000,000 as an exercise for the reader.
+ brings up different arguments in this context.
 \end_layout
 
 \end_inset
@@ -14485,7 +14472,7 @@ Will evolution be called into question now that the similarity of chimpanzee
 What Darwin essentially said:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 If you have species that vary, and if there is a struggle for life such
  that nearly all of these creatures die, and if the very few that survive
  pass on to their offspring whatever it was that helped them survive, then
@@ -14523,23 +14510,49 @@ key "Blackmore2008"
 
 \begin_layout Standard
 Note how this is not a theory about random things just miraculously happening
- in very improbable ways that eventually produce humans.
- Rather, it is a very brutal theory about a big sample of small, incremental
- changes being implemented and tested all the time, and most of these changes
- being dismissed as not fitting -- through death of the individuals carrying
- unfitting gene changes.
+ in very improbable ways, things that eventually produce humans.
+ Rather, it is a theory painting a very brutal image about a huge sample
+ of small, incremental changes
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+When I speak of 
+\begin_inset Quotes eld
+\end_inset
+
+changes
+\begin_inset Quotes erd
+\end_inset
+
+ here, I really do mean genetic mutations.
+\end_layout
+
+\end_inset
+
+ constantly being implemented and tested, and most of these changes being
+ dismissed as not fitting, through death of the individuals carrying unfitting
+ gene changes.
  Given a large enough sample, there have to be some changes that make the
  offspring better adapted.
  Those (and the ones that are don't influence the chances of survival at
  all) are the only ones that persevere.
- All the others die.
+ All the individuals that inherited 
+\begin_inset Quotes eld
+\end_inset
+
+bad
+\begin_inset Quotes erd
+\end_inset
+
+ gene changes die, usually without passing these changes on any further.
 \end_layout
 
 \begin_layout Standard
-I will assume that this thesis holds merit, and that our scientific methods
- are justified.
- This does, to some extent, mean that the contents of this thesis are at
- least in parts incompatible with creationism and generally religion.
+I assume that the theory of evolution is a fitting description of the way
+ life developed, and that our scientific methods are justified.
+ This means, to some extent, that the contents of this thesis are at least
+ in parts incompatible with creationism and many religions.
 \end_layout
 
 \begin_layout Standard
@@ -14547,7 +14560,7 @@ Particularly the teleological argumentation that we will see when looking
  at Metzinger's teleofunctionalism and Dennett's explanation of the genesis
  of intelligence are not possible without referring to scientifically grounded
  theories.
- I will require evolution to explain things in chapters 
+ We will see that evolution is required to explain things in chapters 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Metzinger-Dennett-Evolution"
@@ -14590,17 +14603,28 @@ reference "No-Intrinsic-Intentionality"
 \end_inset
 
 .
- Which goes to show: Evolution is able to explain way more things than Darwin
- had in mind when he proposed the theory.
+ This shows that evolution can explain many more things than Darwin had
+ in mind when he proposed the theory.
 \end_layout
 
 \begin_layout Standard
-Personally, from a philosophy of science perspective, I do see those the
- wide areas that require evolution to be properly explainable more as a
- reassurance that evolution indeed does hold merit than as a reason to dismiss
+From a philosophy of science perspective, those wide areas
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I am speaking of the areas in the referred chapters -- most notably Metzinger's
+ adaptivity, Dennet's intentionality, and subjectivity itself.
+\end_layout
+
+\end_inset
+
+ that require evolution to be properly explainable are a reassurance that
+ evolution indeed does hold merit.
+ What is definitely not appropriate is using them as a reason to dismiss
  both evolution and the explanations resulting from it.
  After all, I believe that most of us strife to understand more of the world
- than what little we do now.
+ than what little we know today.
 \begin_inset Foot
 status open
 
