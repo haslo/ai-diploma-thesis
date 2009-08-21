@@ -12820,6 +12820,13 @@ reference "Summary"
  I do hope that you feel compelled to put it to the test.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part*
 \start_of_appendix
 Appendix
@@ -14437,22 +14444,6 @@ Evolution
 \begin_layout Standard
 Evolution is the theory that tries to make sense of the fact that all living
  organisms on our planet seem to be related in many ways.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009e"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
  All living cells use the same basic set of nucleotides and amino acids,
  and there are large similarities in DNA between, for example, humans and
  chimpanzees (depending on the study, the genomes of those species share

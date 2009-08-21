@@ -12820,6 +12820,13 @@ reference "Summary"
  I do hope that you feel compelled to put it to the test.
 \end_layout
 
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
 \begin_layout Part*
 \start_of_appendix
 Appendix
@@ -14655,7 +14662,7 @@ Eventhough it is not entirely undisputed, I will also adopt Dawkins' view
  As he writes:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 We, and all other animals, are machines created by our genes.
  [...] Our genes have survived, in some cases for millions of years, in a highly
  competitive world.
