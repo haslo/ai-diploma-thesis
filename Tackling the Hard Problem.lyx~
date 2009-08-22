@@ -373,38 +373,39 @@ name "The-Four-Questions"
 
 \end_inset
 
-The Four Questions
+The four questions
 \end_layout
 
 \begin_layout Standard
-When facing a really difficult problem, it is often best to break it up
- into smaller, hopefully less difficult problems that can be solved individually
- -- if that is even possible.
- The hard problem of consciousness, the question how it can possibly be
- that our brain, being a mere clump of cells, can develop things like feelings,
- thoughts, plans and fantasies, is one such difficult problem, and it 
+When facing a really serious problem, it is often best to break it up into
+ smaller, hopefully less difficult problems that can be solved individually
+ -- if that is even possible at all.
+ The problem known as the hard problem of consciousness, the question of
+ how it can possibly be that our brain, being a mere clump of cells, can
+ develop things like feelings, thoughts, plans and fantasies, is one such
+ difficult problem, and it 
 \emph on
 is
 \emph default
- possible to break it up like that.
+ possible to break it up.
 \end_layout
 
 \begin_layout Standard
-As I mentioned before, there really are four major aspects to it.
+As I mentioned before, there are four major aspects to it.
  These four aspects are in some ways arbitrary -- I have not found another
- such list that satisfied me.
- I do feel however that they are able to encompass all the important parts
+ list that satisfied me, and so I compiled this from the sources I found.
+ However, I feel that they are able to encompass all the important parts
  that make up the hard problem, while at the same time being fine-grained
- enough to warrant that we learn something by looking at them a bit more
+ enough to warrant that we learn something by analyzing them a bit more
  in-depth.
  I was inspired by the subjects traditionally chosen by philosophy, and
- ordered them in apparent increasing complexity; one part is meant to the
- the foundation for the next.
+ ordered them in apparent increasing complexity.
+ One part is meant to lay the foundation for the next.
 \end_layout
 
 \begin_layout Standard
-Of course, the four subjects cannot be looked at merely in isolation, but
- I will postpone looking at the bigger picture until chapter 
+Of course, the four subjects cannot be looked at merely in isolation, yet
+ I postpone looking at the bigger picture to chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "The-Bigger-Picture"
@@ -413,12 +414,13 @@ reference "The-Bigger-Picture"
 
  -- where we will also abandon these four parts again and look at the hard
  problem from a different perspective, ordering the resulting new parts
- with slight differences from the intuitions that led me to the order in
- this part here, too.
+ in slightly different order compared to this part here, too, because some
+ of the intuitions that led me to the order we will see first will have
+ to be revised.
 \end_layout
 
 \begin_layout Standard
-The partial questions for now thus are:
+The partial questions for now are:
 \end_layout
 
 \begin_layout Itemize
@@ -427,12 +429,23 @@ The partial questions for now thus are:
 Phenomenality:
 \emph default
  The special way things are experienced by agents like us.
- Of course, for a first-person perspective to exist, we do need subjectivity,
+ Of course, for a first-person perspective to exist, we need subjectivity,
  so resolving that apparent circularity is an important part of our look
  at this subject.
- Phenomenality however also is what enables all the other bits and pieces
- we will need in order to understand how consciousness happens.
- What is that phenomenality, and what entities or processes produce it?
+ Phenomenality, however, also is what enables all the other bits and pieces
+ we need in order to understand how consciousness happens.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I am not merely interested in how it works, but also in how it is that it
+ got to work like that, and what the roots, causes and effects of consciousness
+ are.
+\end_layout
+
+\end_inset
+
+ What is phenomenality, and what entities or processes produce it?
 \end_layout
 
 \begin_layout Itemize
@@ -442,11 +455,12 @@ Qualia:
 \emph default
  The particular non-subdivisable entities of atomic quality we perceive
  when we experience things.
- A passion of many philosophers since Lewis and Nagel; there is a pecularity
- about our experience in that it seems to consist of atomic smallest bits
- of experience that cannot be subdivided any further -- the particular way
- something seems to be irreducibly red or loud to us, for example.
- What is so special about those smallest entities of quality?
+ This has been a passion of many philosophers since Lewis and Nagel; there
+ is a pecularity about our experience in that it seems to consist of atomic
+ smallest bits of experience which cannot be subdivided any further -- the
+ particular way something seems to be irreducibly red or loud to us, for
+ example.
+ What is so special about these smallest entities of quality?
 \end_layout
 
 \begin_layout Itemize
@@ -455,10 +469,10 @@ Qualia:
 Subjectivity:
 \emph default
  The way we see everything from a first-person perspective.
- We do experience both ourselves and our fellow humans as persons, and we
- do believe that our fellow humans experience themselves as persons as well.
+ We experience both ourselves and our fellow humans as persons, and we believe
+ that our fellow humans experience themselves as persons as well.
  How is such a first-person perspective generated, and what else is included
- when you speak of 
+ when someone speaks of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -474,10 +488,10 @@ myself
 \emph on
 Intentionality:
 \emph default
- The world is given to us and we relate to it.
+ The world is given to us, and we relate to it.
  In introspection, our inner workings are given to us, as seen from a point
- of view that stands in a relation to these inner workings.
- How and why is that so? How comes that we feel we are in direct contact
+ of view which stands in a relation to these inner workings.
+ How and why is that so? How come that we feel we are in direct contact
  with an apple tree in the garden by means of some kind of 
 \begin_inset Quotes eld
 \end_inset
@@ -498,34 +512,34 @@ mental focus
 \end_layout
 
 \begin_layout Standard
-I will dedicate a chapter to each of these four parts, defining what really
+I will dedicate a chapter to each of these four parts, defining what exactly
  is puzzling about them and then looking at possible explanations for their
  origins and constitution.
 \end_layout
 
 \begin_layout Standard
-When looking at the four big questions of what phenomenality, qualia, intentiona
-lity and subjectivity really are, many philosophers made proposals as to
- what they could be.
+When looking for a concise definition of the four big questions of what
+ phenomenality, qualia, intentionality and subjectivity really are, many
+ philosophers made proposals as to what they could be.
  I want to look at two of the most recent proposals, those of Dennett and
  Metzinger.
  Generally, Metzinger digs deeper and develops traditional ideas in entirely
- new ways, while Dennett shows up important counterpoints to those traditional
+ new ways, while Dennett presents important counterpoints to these traditional
  views and has a more radically reductionist point of view.
 \end_layout
 
 \begin_layout Standard
 Additionally, I will also include the proposals of Marvin Minsky (a true
  pioneer of artificial intelligence research) in the chapter about subjectivity.
- Minsky is influenced partially by Dennett, but (being a computer scientist
- and artificial intelligence researcher) comes from a more pragmatic and
- solutions-oriented background, bringing an interesting and fresh point
- of view into the debate.
+ Minsky is influenced partially by Dennett, but is a computer scientist
+ and artificial intelligence researcher with a more pragmatic and solutions-orie
+nted background.
+ Thus he brings an interesting and fresh point of view into the debate.
 \end_layout
 
 \begin_layout Standard
 However, all three of them have to stand up compared to more traditional
- views -- so I decided to include those in my summary as well:
+ views, thus I decided to include these in my summary as well:
 \end_layout
 
 \begin_layout Itemize
@@ -533,7 +547,7 @@ For
 \emph on
 phenomenality
 \emph default
-, Edmund Husserl's phenomenology pretty much was the origin of the idea,
+, Edmund Husserl's phenomenology can well be seen as the origin of the idea,
  and has followers to this very day.
 \end_layout
 
@@ -556,7 +570,7 @@ subjectivity
 \emph default
  has to be the dualism of René Descartes, which is implicit in many theories
  to this very day, often apparently without the proponents knowing it themselves
- -- as I exemplified in chapter 
+, as I exemplified in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Dualism"
@@ -578,7 +592,7 @@ intentionality
 \begin_layout Standard
 Furthermore, I will add a short consolidatory chapter to all four sections,
  attempting to make sense of which ideas are the most promising for going
- forward from this point.
+ forward from here.
 \end_layout
 
 \begin_layout Section
@@ -593,9 +607,9 @@ Phenomenality
 
 \begin_layout Standard
 There seems to be something special about the way we see the world and ourselves
-, something that's maybe ineffable, maybe inexplicable or mystical, but
+, something that is maybe ineffable, maybe inexplicable or mystical, but
  definitely hard to understand.
- I go ahead and call it 
+ I call it 
 \begin_inset Quotes eld
 \end_inset
 
@@ -611,8 +625,7 @@ intentionality
 \begin_inset Quotes erd
 \end_inset
 
- -- the latter will be redefined in a much narrower way when I look at it
- in chapter 
+ -- the latter will be redefined when I look at it in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Intentionality"
@@ -620,6 +633,12 @@ reference "Intentionality"
 \end_inset
 
 .
+\end_layout
+
+\begin_layout Standard
+Phenomenality, and I think most philosophers agree on that, is the special
+ nature in which we (and probably other conscious agents) see things, independen
+t of what else there is to consciousness.
 \end_layout
 
 \begin_layout Standard
@@ -635,8 +654,7 @@ is
 
 \begin_layout Standard
 I will try to go another way here, showing what is special about phenomenality
- itself, the special nature in which we (and probably other conscious agents)
- see things, independent of what else there is to consciousness.
+ itself.
  Agreeing with Metzinger, many bits and pieces of the following chapters
  will refer to some event being phenomenal in nature, and here we will find
  out what I mean by that.
@@ -647,8 +665,8 @@ Husserl: Systematic Reflection
 \end_layout
 
 \begin_layout Standard
-Edmund Husserl started a radical paradigmatic shift with his (mostly unpublished
-, at least during his lifetime) works.
+Edmund Husserl prompted a radical paradigmatic shift with his (mostly unpublishe
+d, at least during his lifetime) works.
  He meant to do two things: Approach older concepts on what is mental in
  novel ways, and make subjective experience available for objective study
  through systematic reflection -- standing in Descartes' tradition and taking
@@ -659,11 +677,11 @@ Edmund Husserl started a radical paradigmatic shift with his (mostly unpublished
 Husserl put great emphasis on intentionality as the prime carrier of phenomenali
 ty.
  Unlike Martin Heidegger, who later put a greater emphasis on ontological
- consciousness independent of intentionality (and offering an intuitively
- better explanation for the subconscious, although as we'll see it's not
- necessarily more correct), Husserl put the focus on how we might be able
- to describe our own phenomenal experience, and the immediate way events
- are given to our consciousness.
+ consciousness independent of intentionality (and offering an explanation
+ for the subconscious that intuitively seems to be better, although as we'll
+ see it's not necessarily more correct), Husserl put the focus on how we
+ might be able to describe our own phenomenal experience, and how events
+ are perceived as being immediately given to our consciousness.
  Importantly, events are given immediate indeed, but occasionally only partially
  and inadequately -- Husserl agrees that it is perfectly possible to misrepresen
 t things.
@@ -15645,7 +15663,7 @@ Legitimation for the naturalization project
 \end_layout
 
 \begin_layout Standard
-Dawkins writes in another context: 
+In another context, Dawkins writes: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -15752,7 +15770,7 @@ reference "No-Intrinsic-Intentionality"
  gap where some philosophers attempt to go with St Augustine's advice:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 There is another form of temptation, even more fraught with danger.
  This is the disease of curiosity.
  It is this which drives us to try and discover the secrets of nature, those
@@ -15778,7 +15796,7 @@ key "Dawkins2006"
 \end_layout
 
 \begin_layout Standard
-My heartfelt apologies, but I will stay curious about the world.
+My heartfelt apologies, but I am going to stay curious about the world.
 \end_layout
 
 \begin_layout Standard
