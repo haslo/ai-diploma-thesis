@@ -291,6 +291,14 @@
   timestamp = {2009.06.05}
 }
 
+@BOOK{Hilbert1897,
+  title = {Zahlbericht},
+  year = {1897},
+  author = {David Hilbert},
+  owner = {haslo},
+  timestamp = {2009.08.19}
+}
+
 @ARTICLE{Hochberg1951,
   author = {Hochberg, J. E. and Triebel, W. and Seaman, G.},
   title = {Color adaptation under conditions of homogeneous visual stimulation

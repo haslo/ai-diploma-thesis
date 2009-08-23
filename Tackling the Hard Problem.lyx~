@@ -382,8 +382,8 @@ When facing a really serious problem, it is often best to break it up into
  -- if that is even possible at all.
  The problem known as the hard problem of consciousness, the question of
  how it can possibly be that our brain, being a mere clump of cells, can
- develop things like feelings, thoughts, plans and fantasies, is one such
- difficult problem, and it 
+ produce a kind of consciousness that develops things like feelings, thoughts,
+ plans and fantasies, is one such difficult problem, and it 
 \emph on
 is
 \emph default
@@ -412,11 +412,37 @@ reference "The-Bigger-Picture"
 
 \end_inset
 
- -- where we will also abandon these four parts again and look at the hard
- problem from a different perspective, ordering the resulting new parts
- in slightly different order compared to this part here, too, because some
- of the intuitions that led me to the order we will see first will have
- to be revised.
+ -- where we will also abandon the ordering of these four parts again and
+ look at the hard problem from a different perspective, ordering the resulting
+ new parts in slightly different order compared to this part here, too,
+ because some of the intuitions
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+As a matter of fact, it was more than intuitions, and the genesis of this
+ thesis saw multiple times that I reordered them.
+ The trouble is one that we will only be able to resolve in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Summary"
+
+\end_inset
+
+: The four questions depend on each other.
+ There are parts of phenomenality that require subjectivity, while qualia
+ are the basis of phenomenality but also depend on phenomenal experience.
+ Intentionality is, for some, what enables phenomenal experience, but for
+ others, what phenomenal experience forms.
+ With this in mind, I will nevertheless attempt to get a clear picture on
+ what is unique and specific about these parts, and only later try to split
+ them up and build one structure, where no interdependences between the
+ resulting parts are necessary anymore.
+\end_layout
+
+\end_inset
+
+ that led me to the order we will see first will have to be revised.
 \end_layout
 
 \begin_layout Standard
@@ -469,8 +495,8 @@ Qualia:
 Subjectivity:
 \emph default
  The way we see everything from a first-person perspective.
- We experience both ourselves and our fellow humans as persons, and we believe
- that our fellow humans experience themselves as persons as well.
+ We experience both ourselves and our fellow humans as agents, and we believe
+ that our fellow human beings experience themselves as persons as well.
  How is such a first-person perspective generated, and what else is included
  when someone speaks of 
 \begin_inset Quotes eld
@@ -492,7 +518,8 @@ Intentionality:
  In introspection, our inner workings are given to us, as seen from a point
  of view which stands in a relation to these inner workings.
  How and why is that so? How come that we feel we are in direct contact
- with an apple tree in the garden by means of some kind of 
+ with (for example) an apple tree in the garden by means of some kind of
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -519,7 +546,7 @@ I will dedicate a chapter to each of these four parts, defining what exactly
 
 \begin_layout Standard
 When looking for a concise definition of the four big questions of what
- phenomenality, qualia, intentionality and subjectivity really are, many
+ phenomenality, qualia, subjectivity and intentionality really are, many
  philosophers made proposals as to what they could be.
  I want to look at two of the most recent proposals, those of Dennett and
  Metzinger.
@@ -569,15 +596,8 @@ The traditional view in regards to the origin of
 subjectivity
 \emph default
  has to be the dualism of René Descartes, which is implicit in many theories
- to this very day, often apparently without the proponents knowing it themselves
-, as I exemplified in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Dualism"
-
-\end_inset
-
-.
+ to this very day, often apparently without the proponents being aware of
+ it themselves, as I will exemplify in chapter .
 \end_layout
 
 \begin_layout Itemize
@@ -665,8 +685,16 @@ Husserl: Systematic Reflection
 \end_layout
 
 \begin_layout Standard
-Edmund Husserl prompted a radical paradigmatic shift with his (mostly unpublishe
-d, at least during his lifetime) works.
+Edmund Husserl prompted a radical paradigmatic shift with his works.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Those were mostly unpublished, at least during his lifetime
+\end_layout
+
+\end_inset
+
  He meant to do two things: Approach older concepts on what is mental in
  novel ways, and make subjective experience available for objective study
  through systematic reflection -- standing in Descartes' tradition and taking
@@ -13715,6 +13743,12 @@ Applied to philosophy of mind, this means the following: There is nothing
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Hidden-Dualism"
+
+\end_inset
+
 A hidden form of dualism
 \end_layout
 
@@ -15311,7 +15345,7 @@ Psychiatrist: We often use those suitcase words to keep us from asking questions
 \end_layout
 
 \begin_layout Quote
-Ethicist: we need the idea of consciousness to support our beliefs about
+Ethicist: We need the idea of consciousness to support our beliefs about
  responsibility and discipline.
  Our legal and ethical principles are largely based on the idea that we
  should only censure 
@@ -15393,7 +15427,7 @@ key "Minsky2006"
 
 \begin_layout Standard
 Indeed, replacing might go too far.
- However, dissecting them, while keeping the newfound parts' suitcase categories
+ However, analyzing them, while keeping the newfound parts' suitcase categories
  in mind, in my opinion, cannot hurt.
 \end_layout
 
@@ -15439,11 +15473,11 @@ key "Dennett1991"
 
 \end_inset
 
- It is not the case that something is necessarily not true merely because
+ It is not the case that something is necessarily untrue merely because
  we cannot imagine it to be true.
  We are built a certain way, with certain dispositions that helped us survive
  long enough to be where we are now.
- Those dispositions were (and most of them, are) adequate for survival,
+ Those dispositions were (and, most of them, are) adequate for survival,
  and not necessarily insights into reality.
 \begin_inset Foot
 status open
@@ -15499,14 +15533,14 @@ key "Metzinger2003"
 \begin_layout Standard
 An example that shows how evolutionary pressure made intuition just the
  way it is: When a huge grizzly bear comes charging at a caveman, he doesn't
- survive if he ponders whether he is just imagining or dreaming, or whether
- it's actually a bear after all.
+ survive if he takes his time pondering whether he is just imagining or
+ dreaming, or whether it's actually a bear after all.
  The cavemen that survive are those who experience phenomenally perceived
  events as immediate and unquestionably real.
 \end_layout
 
 \begin_layout Standard
-And genetically, we are still cavemen.
+Unquestionally, from a genetical point of view, we are still cavemen.
 \end_layout
 
 \begin_layout Subsubsection
@@ -15554,18 +15588,17 @@ key "Quine1951"
 
 \end_inset
 
-, which is among my favourite philosophical works and always was a big inspirati
-on for me.
+.
 \end_layout
 
 \end_inset
 
  need to be the ones that prevail.
- But I believe that scientific theories (in a wider sense) could in theory
- be formed that contain all the answers.
+ But I believe that scientific theories could in theory be formed that contain
+ all the answers, using rational argumentations as their foundation.
  It also means that I believe that some basic principles of science (mostly,
  conclusive logic, causal analysis and semantical coherence) will lead us
- to a better understanding of the world that we have just started to grasp.
+ to a better understanding of the world that we have just started to understand.
 \end_layout
 
 \begin_layout Standard
@@ -15624,6 +15657,15 @@ reference "Cogito-Ergo-Sum"
 \end_layout
 
 \begin_layout Standard
+In other words, even when we look at one of the most basic premises, the
+ premise that thinking things exist, it is (based on evidence) at least
+ very plausible that the experience of that premise is based on physical
+ entities, neural correlates.
+ While this is of course no proof, it is at least a strong sign that reductive
+ naturalism seems to point into the right direction.
+\end_layout
+
+\begin_layout Standard
 My reasons for this are very similar to Dawkins'.
  He clarifies these reasons like this, concerning evolution -- I believe
  the maxim of his thought should hold true for all aspects of our world
@@ -15656,6 +15698,23 @@ key "Dawkins2006"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+A word of caution: Of course, evidence is always open to interpretation,
+ and even what counts as evidence is open to interpretation as well.
+ Wittgenstein explicated this in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Wittgenstein1984a"
+
+\end_inset
+
+.
+ So Dawkin's point of view might be a bit too radical.
+ Nevertheless, points of view with more and more convincing evidence overall
+ should be given more credit, and to me this seems to be a rational-causalist
+ one.
 \end_layout
 
 \begin_layout Subsubsection
@@ -15796,7 +15855,8 @@ key "Dawkins2006"
 \end_layout
 
 \begin_layout Standard
-My heartfelt apologies, but I am going to stay curious about the world.
+My heartfelt apologies to St Augustine, but I am going to stay curious about
+ the world.
 \end_layout
 
 \begin_layout Standard
