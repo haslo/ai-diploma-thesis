@@ -597,7 +597,14 @@ subjectivity
 \emph default
  has to be the dualism of René Descartes, which is implicit in many theories
  to this very day, often apparently without the proponents being aware of
- it themselves, as I will exemplify in chapter .
+ it themselves, as I will exemplify in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Hidden-Dualism"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Itemize
@@ -629,7 +636,9 @@ Phenomenality
 There seems to be something special about the way we see the world and ourselves
 , something that is maybe ineffable, maybe inexplicable or mystical, but
  definitely hard to understand.
- I call it 
+ There is something left if we explain intentionality and subjectivity,
+ and subtract them from consciousness as a whole.
+ I call what is left 
 \begin_inset Quotes eld
 \end_inset
 
@@ -637,7 +646,24 @@ phenomenality
 \begin_inset Quotes erd
 \end_inset
 
-, breaking with Dennett and Searle who include it in the notion of 
+.
+ Dennett and Searle include more than Metzinger in the notion of 
+\begin_inset Quotes eld
+\end_inset
+
+intentionality,
+\begin_inset Quotes erd
+\end_inset
+
+ resulting in some parts of what I call 
+\begin_inset Quotes eld
+\end_inset
+
+phenomenality
+\begin_inset Quotes erd
+\end_inset
+
+ being included in 
 \begin_inset Quotes eld
 \end_inset
 
@@ -645,7 +671,8 @@ intentionality
 \begin_inset Quotes erd
 \end_inset
 
- -- the latter will be redefined when I look at it in chapter 
+ -- I will stay true to Metzinger's definition of intentionality here, as
+ we will se in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Intentionality"
@@ -670,6 +697,25 @@ is
  tempting to just attribute it as a special property to intentionality,
  or to say that what is special about phenomenality is nothing but that
  experience consists of qualia.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Since qualia are defined as the smallest possible atomic parts of experience,
+ this seems entirely plausible.
+ More on this in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Qualia"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -681,7 +727,7 @@ I will try to go another way here, showing what is special about phenomenality
 \end_layout
 
 \begin_layout Subsection
-Husserl: Systematic Reflection
+Husserl: Systematic reflection
 \end_layout
 
 \begin_layout Standard
@@ -690,7 +736,12 @@ Edmund Husserl prompted a radical paradigmatic shift with his works.
 status open
 
 \begin_layout Plain Layout
-Those were mostly unpublished, at least during his lifetime
+Husserl's works were mostly unpublished, at least during his lifetime.
+ His work was published posthum starting 1950 as 
+\emph on
+Husserliana
+\emph default
+.
 \end_layout
 
 \end_inset
@@ -706,18 +757,18 @@ Husserl put great emphasis on intentionality as the prime carrier of phenomenali
 ty.
  Unlike Martin Heidegger, who later put a greater emphasis on ontological
  consciousness independent of intentionality (and offering an explanation
- for the subconscious that intuitively seems to be better, although as we'll
- see it's not necessarily more correct), Husserl put the focus on how we
- might be able to describe our own phenomenal experience, and how events
- are perceived as being immediately given to our consciousness.
- Importantly, events are given immediate indeed, but occasionally only partially
- and inadequately -- Husserl agrees that it is perfectly possible to misrepresen
-t things.
+ for the subconscious that intuitively might seem to be better, although
+ as we will see it is not necessarily more correct), Husserl put the focus
+ on how we might be able to describe our own phenomenal experience, and
+ how events are perceived as being immediately given to our consciousness.
+ Importantly, events are given immediately indeed, but occasionally only
+ partially and inadequately so -- Husserl agrees that it is perfectly possible
+ to misrepresent things.
 \end_layout
 
 \begin_layout Standard
-The immediate directedness is given through three parts of an intentional
- act:
+The immediate directedness is given through the three parts of any intentional
+ act as follows:
 \begin_inset Foot
 status open
 
@@ -757,7 +808,7 @@ Intentional object, which is the thing the intentional act is directed at
 
 \begin_layout Standard
 What really makes out phenomenality for Husserl is that all these parts
- have to be given for an event in question, otherwise it's not phenomenal.
+ have to be given for an event in question, otherwise it is not phenomenal.
  Particularly intentional content is something that intuitively is only
  possible for systems that have true, intrinsic intentionality.
 \end_layout
@@ -783,7 +834,15 @@ name "Heterophenomenology"
 
 \end_inset
 
-Dennet: Heterophenomenology
+Dennet: 
+\begin_inset Quotes eld
+\end_inset
+
+Heterophenomenology
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -792,7 +851,7 @@ Dennett's heterophenomenology is phenomenology as seen from a third-person
  He defines it like this:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 I have defended the hypothesis that there is a straightforward, conservative
  extension of objective science that handsomely covers the ground -- 
 \emph on
@@ -831,11 +890,11 @@ key "Dennett2003"
 \end_layout
 
 \begin_layout Standard
-Essentially, Dennett defines heterophenomenology mostly by what it's not:
- It's not subjectivist, but intersubjective.
- It's not first-person pilot studies, but third-person scientific research.
- And he claims that everything that would be phenomenology if it were really
- interesting is intersubjectivizable, thus symbolic, and thus not ineffable.
+Essentially, Dennett defines heterophenomenology mostly by what it is not:
+ It is not subjectivist, but intersubjective.
+ It is not first-person pilot studies, but third-person scientific research.
+ He claims that everything that would be phenomenology is intersubjectivizable,
+ thus symbolic, and thus not ineffable.
  There is no interesting subsymbolic mental content, or at least, none that
  we could do proper science with.
 \end_layout
@@ -844,7 +903,7 @@ Essentially, Dennett defines heterophenomenology mostly by what it's not:
 He does put his position into perspective:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 I suspect that when we claim to be just using our powers of inner 
 \emph on
 observation
@@ -886,18 +945,18 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-In the end, it comes down to the following: In heterophenomenology, phenomenolog
+Ultimately, it comes down to the following: In heterophenomenology, phenomenolog
 ical reports of individual agents are not taken at face value, but as theorist's
  fictions.
  Only after collecting and cataloguing them, looking for similarities and
  differences between different agent's fictions, can a researcher start
  attempting to explain the existence of these heterophenomenological reports.
  According to Dennett, that is all phenomenological reports are good for:
- Collecting data and pointers for later research into the true nature of
- how consciousness happens:
+ They are but collections of data and pointers for later research into the
+ true nature of how consciousness happens:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 We organize our data regarding these phenomena into theorist's fictions,
  
 \begin_inset Quotes eld
@@ -934,8 +993,8 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-Notably, for Dennett, heterophenomenology is not (unlike his notion of tradition
-al phenomenology) a research topic, but a methodology.
+Notably, for Dennett, heterophenomenology (unlike his notion of traditional
+ phenomenology) is not a research topic, but a methodology.
  Dennett does not seem to enter the discussion as to what it really is that
  makes an agent's experience phenomenal -- as we will see even better in
  chapter 
@@ -955,19 +1014,65 @@ name "Multilevel-Constraints"
 
 \end_inset
 
-Metzinger: Multilevel Constraints
+Metzinger: 
+\begin_inset Quotes eld
+\end_inset
+
+Multilevel constraints
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Metzinger proposes a catalogue of multilevel constraints in order to define
- what makes the phenomenal experience of consciousness possible and necessary
- if they apply to any given system.
+Metzinger proposes a catalogue of conditions that he calls 
+\begin_inset Quotes eld
+\end_inset
+
+multilevel constraints
+\begin_inset Quotes erd
+\end_inset
+
+ in order to define what makes the phenomenal experience of consciousness
+ possible and necessary if they apply to any given system.
 \end_layout
 
 \begin_layout Standard
-The constraints are multilevel in that Metzinger attempts to capture all
- the important levels of description he makes out to be important for consciousn
-ess research.
+Any system that satisfies those conditions necessarily has to be conscious.
+ He does not explicitly legitimate calling them 
+\begin_inset Quotes eld
+\end_inset
+
+constraints,
+\begin_inset Quotes erd
+\end_inset
+
+ however this nomenclature does make sense once we realize that they are
+ not primarily about what a system has to be able to do, but importantly
+ also about what boundaries the system's capabilities need to have, in order
+ to be truly conscious.
+ Particularly the transparency constraint that we will meet in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Transparency"
+
+\end_inset
+
+ might well have been a prime motivation for that.
+\end_layout
+
+\begin_layout Standard
+The constraints are 
+\begin_inset Quotes eld
+\end_inset
+
+multilevel
+\begin_inset Quotes erd
+\end_inset
+
+ in that Metzinger attempts to capture all the important levels of description
+ he considers to be important for consciousness research for each of them.
 \begin_inset Foot
 status open
 
@@ -993,10 +1098,10 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-I will not go into all those levels for each constraint, but I will try
- to explain each constraint individually nevertheless, glossing over the
- different levels and starting each constraint's discussion with a quote
- from Metzinger's book.
+I cannot discuss all those levels for each constraint, but I will try to
+ explain each constraint individually nevertheless, glossing over the different
+ levels and starting each constraint's discussion with a quote from Metzinger's
+ book.
 \begin_inset Foot
 status open
 
@@ -1057,7 +1162,20 @@ key "Metzinger2003"
 
 \end_inset
 
- Metzinger uses ordinals to differentiate them.
+ While I will only use the term 
+\begin_inset Quotes eld
+\end_inset
+
+introspection
+\begin_inset Quotes erd
+\end_inset
+
+ in a very loose and undefined matter, compared to Metzinger, I still think
+ it is important that we have a short look at his more thorough investigation.
+\end_layout
+
+\begin_layout Standard
+Metzinger uses ordinals to differentiate these different kinds of introspection.
  They are:
 \begin_inset Foot
 status open
@@ -1092,8 +1210,8 @@ External attention
 \begin_inset Quotes erd
 \end_inset
 
- -- a subsymbolic metarepresentation of the world model.
- Representing an internal system state, but referring to a part of the world.
+ -- representing an internal system state, but referring to a part of the
+ world.
  This 
 \begin_inset Quotes eld
 \end_inset
@@ -1115,6 +1233,21 @@ key "Metzinger2003"
 \end_inset
 
 , page 36.
+ Introspection
+\begin_inset Formula $_{1}$
+\end_inset
+
+ is a subsymbolic metarepresentation of the world model.
+ Subsymbolic because we cannot consciously access it (see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Phenomenality-for-Metzinger"
+
+\end_inset
+
+), a metarepresentation because it is merely a model not has no kind of
+ intrinsic referral, and the world model because it contains everything
+ around us (including ourselves).
 \end_layout
 
 \end_inset
@@ -1135,9 +1268,22 @@ Consciously experienced cognitive reference
 \begin_inset Quotes erd
 \end_inset
 
- -- a conceptual metarepresentation of the world model.
- The experience of attending to an object in our environment, while forming
+ -- the experience of attending to an object in our environment, while forming
  a (new or already known) mental concept of it.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Introspection
+\begin_inset Formula $_{2}$
+\end_inset
+
+ is the conceptual metarepresentation of the world model
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Description
@@ -1153,9 +1299,8 @@ Inward attention
 \begin_inset Quotes erd
 \end_inset
 
- -- a subsymbolic metarepresentation of the self-model.
- Representing an internal state that also refers to an internal state, a
- part of the experienced self-model.
+ -- representing an internal state that also refers to an internal state,
+ a part of the experienced self-model.
 \begin_inset Foot
 status open
 
@@ -1168,6 +1313,11 @@ reference "Being-No-One"
 \end_inset
 
  for how Metzinger fleshes out that self-model.
+ Introspection
+\begin_inset Formula $_{3}$
+\end_inset
+
+ is a subsymbolic metarepresentation of the self-model.
 \end_layout
 
 \end_inset
@@ -1188,9 +1338,22 @@ Consciously experienced cognitive self-reference
 \begin_inset Quotes erd
 \end_inset
 
- -- a conceptual metarepresentation of the self-model.
- This generates self-knowledge and includes all situations in which we think
- about ourselves as ourselves.
+ -- this generates self-knowledge and includes all situations in which we
+ think about ourselves as ourselves.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Introspection
+\begin_inset Formula $_{3}$
+\end_inset
+
+ is a conceptual metarepresentation of the self-model.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -1265,7 +1428,7 @@ name "Consciousness-as-Process"
 
 \end_inset
 
-Consciousness as a Process
+Consciousness as a process
 \end_layout
 
 \begin_layout Standard

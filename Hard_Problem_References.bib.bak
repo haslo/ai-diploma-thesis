@@ -712,6 +712,15 @@
   timestamp = {2009.05.01}
 }
 
+@BOOK{Wittgenstein1984a,
+  title = {Über Gewissheit},
+  publisher = {Frankfurt am Main: Suhrkamp},
+  year = {1984},
+  author = {Ludwig Wittgenstein},
+  owner = {haslo},
+  timestamp = {2009.08.23}
+}
+
 @BOOK{Brockman1995,
   title = {How Things Are},
   publisher = {New York: William Morrow and Company},
