@@ -1238,17 +1238,19 @@ key "Metzinger2003"
 \end_inset
 
  is a subsymbolic metarepresentation of the world model.
- Subsymbolic because we cannot consciously access it (see chapter 
+ It is subsymbolic because we cannot consciously access it (see chapter
+ 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Phenomenality-for-Metzinger"
 
 \end_inset
 
-), a metarepresentation because it is merely a model and does not necessarily
- have some kind of intrinsic truth attached (nor does it necessarily correlate
- to anything outside the model), and the world model because it contains
- everything around us (including ourselves).
+), it is a metarepresentation because it is merely a model and does not
+ necessarily have some kind of intrinsic truth attached (nor does it necessarily
+ correlate to anything outside the model), and it is the world model because
+ it contains everything we perceive as being part of our world (notably,
+ including the self-model).
 \end_layout
 
 \end_inset
@@ -1543,8 +1545,8 @@ key "Metzinger2003"
 
 \end_inset
 
- Also, not all entities in the world have to have a representation -- as
- we will see in chapter 
+ Furthermore, not all entities in the world necessarily have a representation
+ -- As we will see in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Metzinger-Qualia"
@@ -1552,14 +1554,17 @@ reference "Metzinger-Qualia"
 \end_inset
 
 , there are presentata just like representata.
- But the biggest issue so far is that the nature of those mental states
- themselves, the representatum, is as dynamic as the nature of the process
- of the mental representation that leads to them.
- Mental states are merely intermediate results of the constant remodeling
+ Nevertheless, the most fundamental issue so far is that the nature of those
+ mental states themselves, the representatum, is as dynamic as the nature
+ of the process of the mental representation that leads to them.
+\end_layout
+
+\begin_layout Standard
+Mental states are merely intermediate results of the continuous remodeling
  process in which our brains are constantly engaged.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Human brains function in a similar way [to a flight simulator].
  From internally represented information and utilizing continuous input
  supplied by the sensory organs they construct an internal model of external
@@ -1595,21 +1600,21 @@ key "Metzinger2003"
 
 \begin_layout Standard
 Mental states are not the most fundamental entities that are experienced
- as ontologically given however -- rather, phenomenal presentational content
+ as ontologically given, however; rather, phenomenal presentational content
  is.
- We will look at this a bit more in-depth in chapter 
+ Chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Phenomenal-Presentational-Content"
 
 \end_inset
 
-.
+ elaborates this circumstance in closer detail.
  For now, it is important to realize that this presentational content is
  what drives the processes that form mental states in the first place:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Presentational content will always be an important element of any such explanati
 on [of a full-blown untranscendable reality model], because it is precisely
  this kind of mental content that generates the phenomenal experience of
@@ -1635,7 +1640,17 @@ key "Metzinger2003"
 
 \begin_layout Standard
 With these important foundations in place, let us now turn towards Metzinger's
- multilevel constraints, and try to understand them.
+ multilevel constraints (using his nomenclature for the constraint's names),
+ and try to understand them.
+ In chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Levels-of-Consciousness"
+
+\end_inset
+
+ we will then see which ones among them really are necessary for consciousness
+ to what degree.
 \end_layout
 
 \begin_layout Subsubsection
@@ -1645,7 +1660,15 @@ name "Global-Availability"
 
 \end_inset
 
-Constraint 1: Global Availability
+Constraint 1: 
+\begin_inset Quotes eld
+\end_inset
+
+Global availability
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -1818,7 +1841,15 @@ But they are all available, while they are experienced or remembered or
 \end_layout
 
 \begin_layout Subsubsection
-Constraint 2: Activation within a Window of Presence
+Constraint 2: 
+\begin_inset Quotes eld
+\end_inset
+
+Activation within a window of presence
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -1954,7 +1985,15 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Subsubsection
-Constraint 3: Integration into a Coherent Global State
+Constraint 3: 
+\begin_inset Quotes eld
+\end_inset
+
+Integration into a coherent global state
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -2106,7 +2145,15 @@ world zero
 \end_layout
 
 \begin_layout Subsubsection
-Constraint 4: Convolved Holism
+Constraint 4: 
+\begin_inset Quotes eld
+\end_inset
+
+Convolved holism
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -2214,7 +2261,15 @@ The same set of part-whole relations of course applies to causal contexts
 \end_layout
 
 \begin_layout Subsubsection
-Constraint 5: Dynamicity
+Constraint 5: 
+\begin_inset Quotes eld
+\end_inset
+
+Dynamicity
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -2336,7 +2391,15 @@ name "Perspectivalness"
 
 \end_inset
 
-Constraint 6: Perspectivalness
+Constraint 6: 
+\begin_inset Quotes eld
+\end_inset
+
+Perspectivalness
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -2629,7 +2692,15 @@ name "Transparency"
 
 \end_inset
 
-Constraint 7: Transparency
+Constraint 7: 
+\begin_inset Quotes eld
+\end_inset
+
+Transparency
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -2894,7 +2965,15 @@ In opaque cases of experience, we know while we know that we could be wrong,
 \end_layout
 
 \begin_layout Subsubsection
-Constraint 8: Offline Activation
+Constraint 8: 
+\begin_inset Quotes eld
+\end_inset
+
+Offline activation
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -3044,7 +3123,15 @@ Interestingly, and as expected under naturalist assumptions, many of the
 \end_layout
 
 \begin_layout Subsubsection
-Constraint 9: Representation of Intensities
+Constraint 9: 
+\begin_inset Quotes eld
+\end_inset
+
+Representation of intensities
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -3177,7 +3264,15 @@ Since intensity directly infers signal strength, it is highly adaptive for
 \end_layout
 
 \begin_layout Subsubsection
-Constraint 10: The Homogeneity of Simple Content
+Constraint 10: 
+\begin_inset Quotes eld
+\end_inset
+
+The homogeneity of simple content
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -3385,7 +3480,15 @@ name "Adaptivity"
 
 \end_inset
 
-Constraint 11: Adaptivity
+Constraint 11: 
+\begin_inset Quotes eld
+\end_inset
+
+Adaptivity
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quotation
@@ -3593,7 +3696,7 @@ name "Levels-of-Consciousness"
 
 \end_inset
 
-Levels of Consciousness
+Levels of consciousness
 \end_layout
 
 \begin_layout Standard
