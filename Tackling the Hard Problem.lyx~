@@ -1143,7 +1143,7 @@ Introspection
 \end_layout
 
 \begin_layout Standard
-Metzinger makes it clear that there isn't just trivial introspection.
+Metzinger makes it clear that there is not merely trivial introspection.
  Rather, there are varying degrees of introspective access to mental states
  -- which results in phenomenally represented information.
 \begin_inset Foot
@@ -1245,9 +1245,10 @@ reference "Phenomenality-for-Metzinger"
 
 \end_inset
 
-), a metarepresentation because it is merely a model not has no kind of
- intrinsic referral, and the world model because it contains everything
- around us (including ourselves).
+), a metarepresentation because it is merely a model and does not necessarily
+ have some kind of intrinsic truth attached (nor does it necessarily correlate
+ to anything outside the model), and the world model because it contains
+ everything around us (including ourselves).
 \end_layout
 
 \end_inset
@@ -1318,6 +1319,15 @@ reference "Being-No-One"
 \end_inset
 
  is a subsymbolic metarepresentation of the self-model.
+ We will have a look at Metzinger's definition of that self-model in chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Being-No-One"
+
+\end_inset
+
+.
 \end_layout
 
 \end_inset
@@ -1361,8 +1371,7 @@ While introspection
 \begin_inset Formula $_{3}$
 \end_inset
 
- is just as important for making information phenomenally subjective, introspect
-ion
+ is important for making information phenomenally subjective, introspection
 \begin_inset Formula $_{4}$
 \end_inset
 
@@ -1407,11 +1416,12 @@ introspection.
 \end_layout
 
 \begin_layout Standard
-I will however not differentiate between these different kinds of introspection
- in my thesis.
+However, as I already mentioned, I do not differentiate between these different
+ kinds of introspection in my thesis.
  It is merely important to note that there are indeed different levels of
  introspective access to our mind's own internal workings, even beyond the
- principial troubles concerning introspection that we saw in chapter 
+ principial difficulties concerning introspection that I explicate in chapter
+ 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Epistemology-Relation-Introspection"
@@ -1432,9 +1442,33 @@ Consciousness as a process
 \end_layout
 
 \begin_layout Standard
-With the brain being an information processing machine, mental states cannot
- be states in a traditional, rigid sense.
- Rather, they have to be reformed and reworked all the time through that
+Because the brain is merely an information processing machine,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I argue for this point of view in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Intentionality-Consolidation"
+
+\end_inset
+
+, and it is important to note that both Dennett (see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "No-Intrinsic-Intentionality"
+
+\end_inset
+
+) and Metzinger (without that implicit premise of his, this chapter would
+ look entirely different) agree.
+\end_layout
+
+\end_inset
+
+ mental states cannot be states in a traditional, rigid sense.
+ Rather, they have to be reformed and reworked continuously through that
  process, in order to be experienced as transtemporally constant.
 \end_layout
 
@@ -1443,7 +1477,7 @@ With regards to the first step, representation, the argument is somewhat
  simple:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The concept of 
 \begin_inset Quotes eld
 \end_inset
