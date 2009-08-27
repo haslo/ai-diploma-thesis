@@ -2037,9 +2037,62 @@ key "Metzinger2003"
 
 \begin_layout Standard
 This is the generalized case of constraint 1, global availability.
- Only if there is a coherent global state can there be something which is
- available within that coherent global state.
- This constraint is absolutely fundamental: Being situated in a coherent
+ If there are facets of our world model that are globally available, these
+ facets have to be perceived as something global.
+ The entirety of all those facets that are perceived as something global
+ is what we call the coherent global state -- it is perceived as being the
+ same all throughout all modalities.
+\end_layout
+
+\begin_layout Standard
+This means that these facets must be perceived as being parts of one global
+ whole in the sense that they all are globally available -- Because they
+ all are available to all brain centers at the same time, their entirety
+ is what is necessarily perceived as a global whole.
+ This perceived global whole is what constitutes the world, or rather, the
+ world model.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The same reservations that Minsky introduces in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, as we will see in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-Self-Models"
+
+\end_inset
+
+, seem to apply to world models just like models of the self: It is perfectly
+ reasonable to assume that agents even in non-pathological cases experience
+ not just one, but several world models, and are able to switch between
+ them as needed (for example, a rational and a supernatural world model).
+ This does not invalidate Metzinger's constraint 3 however, as in non-pathologic
+al cases, those world sub-models will still be perceived as being part of
+ one coherent whole world model.
+ Nevertheless, this subject will be revisited in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-Models-Revisited"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This constraint is absolutely fundamental: Being situated in a coherent
  representation of a world allows us to see the world naively-realistically
  as 
 \begin_inset Quotes eld
@@ -2099,15 +2152,15 @@ key "Metzinger2003"
 
 , and that is more or less what Descartes describes with the concept of
  indivisibility, the unity of consciousness.
- We aren't aware that it is only a model, a representation (more on this
- yet again when we talk about transparency in chapter 
+ We aren't aware that it is only a model, a representation (see more on
+ the issue of our unawareness of this fact in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Transparency"
 
 \end_inset
 
-).
+ about transparency).
  Yet we experience the world as a lived real whole, with the building blocks
  not being elements, but parts with a multitude of part-whole relations
  of that reality.
@@ -2194,10 +2247,32 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Everything is part of the big world model, yet within this, there are substructu
-res.
- These can even be multimodal, including vision, hearing, time, even social
- contexts.
+Convolved holism as a concept is not all too complicated.
+ Simply put, it speaks of the world as being convolved (as in 
+\begin_inset Quotes eld
+\end_inset
+
+having parts within parts
+\begin_inset Quotes erd
+\end_inset
+
+) and a holism (as in 
+\begin_inset Quotes eld
+\end_inset
+
+being an entire complete whole
+\begin_inset Quotes erd
+\end_inset
+
+).
+ Everything is part of the big world model, yet within this, there are substruct
+ures; it is divided into concepts, objects, regions and a multitude of other,
+ overlapping groupings.
+\end_layout
+
+\begin_layout Standard
+These substructures can be multimodal, including vision, hearing, time,
+ even social contexts.
  Metzinger calls them 
 \begin_inset Quotes eld
 \end_inset
@@ -2254,23 +2329,25 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-It is necessary for convolved holism to be possible at all that we do have
+For convolved holism to be possible at all, it is necessary that we have
  one all-encompassing world model, and we experience all those parts and
- wholes as being in the phenomenal Now, so constraints 2 and 3 are prerequisites
- for convolved holism -- one could even say that convolved holism is a natural
- extension of the coherent global state.
+ wholes as being in the phenomenal Now.
+ Thus constraints 2 and 3 are prerequisites for convolved holism -- one
+ could even say that convolved holism is a natural extension of the coherent
+ global state.
  On the other hand, it is perfectly thinkable for a system to have a whole
  world model that is not partitioned at all, not even into the self-world
- distinction that is so important for us humans.
+ distinction which is so important for us humans.
 \end_layout
 
 \begin_layout Standard
 The same set of part-whole relations of course applies to causal contexts
  in our environment, which makes convolved holism a functionally very adequate
- solution for the requirement that systems have to be able to react quickly
- to small shifts in their perception of their environment, or even themselves
- -- so introspection is essentially nothing but a special kind of experienced
- convolved holism.
+ solution for the requirement for systems to be able to react quickly to
+ small shifts in their perception of their environment.
+ The same applies for shifts in those system's perceptions of themselves
+ -- so in other words, introspection is essentially nothing but a special
+ kind of experienced convolved holism.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2285,9 +2362,9 @@ Dynamicity
 
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Our conscious life emerges from integrated psychological moments, which,
- however, are themselves integrated inot the flow of subjective time.
+ however, are themselves integrated into the flow of subjective time.
 \begin_inset Foot
 status open
 
@@ -2308,18 +2385,18 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-When convolved holism was a natural extension of the coherent global state,
- dynamicity is a natural extension of the presentationality constraint,
+Just like convolved holism is a natural extension of the coherent global
+ state, dynamicity is a natural extension of the presentationality constraint,
  constraint 2.
- If we have a phenomenal, temporal Now, we can easily perceive of past and
- future Nows.
+ If we have a phenomenal, temporal Now, we can easily perceive of more Nows
+ in both past and future.
  This must not necessarily be the case for a system, but if it is, it allows
  for phenomenal concepts of duration and change, and generally perception
  of the flow of time.
  The concept is not easy to grasp, and Metzinger has to resort to analogies:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 It is not as if you see the clouds drifting through a window, the window
  of the Now.
  There is no window frame.
@@ -2353,13 +2430,34 @@ key "Metzinger2003"
 The subjective experience of time is dependent on attention and representational
  content, but the core issue with time perception seems to be duration,
  permanence, the transtemporal identity of objects for the system.
- Everything else that we experience is always perceived as being a property
- of such experientally presented, dynamical objects.
+ Everything else we experience is always perceived as being a property of
+ such experientally presented, dynamical objects.
 \end_layout
 
 \begin_layout Standard
 It is not easy to form a concept beyond this, and intuitions seem to differ
  widely.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I am speaking of intuitions here and not opinions, because intuitions seem
+ to be where the core misunderstandings between differing opinions lie,
+ and unfortunately, there are few hard facts (with the reservations made
+ in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Epistemology"
+
+\end_inset
+
+) that could otherwise serve as premises for opinions.
+ Of course, the opinions fueled by those differing intuitions vary widely
+ as well.
+\end_layout
+
+\end_inset
+
  Steps leading to a lower-level representational explanation of this concept
  would include finding how events are individuated, then finding how patterns
  and sequences of such events are formed.
@@ -2415,7 +2513,7 @@ Perspectivalness
 
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 In order to meet this constraint, one needs a detailed and empirically plausible
  theory of how a system can internally represent itself 
 \emph on
@@ -2463,19 +2561,25 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Metzinger does point out how this is among the most interesting phenomena
- when it comes to phenomenology, and I'm tempted to agree.
- It was among the chief things that made me read Metzinger's work after
- having been disappointed when it comes to exactly what subjectivity actually
- is after reading Dennett -- the latter merely glosses over the functional
- aspect of this interesting point (as we'll see in chapter 
+Metzinger point out that this is among the most interesting phenomena of
+ phenomenology, and I tend to agree.
+ Perspectivalness, the specific nature of how our perception is always from
+ a conscious and self-aware first-person point of view, was among the chief
+ things that made me read Metzinger's work.
+\end_layout
+
+\begin_layout Standard
+Earlier, I had been disappointed concerning what exactly subjectivity is
+ while reading Dennett.
+ He merely glosses over the functional aspect of this interesting point
+ (as we'll see in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Center-of-Narrative-Gravity"
 
 \end_inset
 
-), not offering a real solution to the problems it poses.
+), and does not offer a real solution to the problems it poses.
 \end_layout
 
 \begin_layout Standard
@@ -2484,7 +2588,8 @@ Metzinger makes out several levels on which perspectivalness comes into
 \end_layout
 
 \begin_layout Enumerate
-The phenomenology of being someone, of consciously experienced selfhood.
+The phenomenology of being someone, of consciously experienced selfhood,
+ is the first level.
  Part of this is what the phenomenal self-model that we will look at in
  chapter 
 \begin_inset CommandInset ref
@@ -2530,7 +2635,7 @@ key "Metzinger2003"
 
 A self-model (potentially being both cognitive and conceptual) necessarily
  requires a more basic automatic and fundamental self-consciousness however,
- as we will see in chapter 
+ as is explained in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Prereflexive-Proto-Self"
@@ -2539,20 +2644,28 @@ reference "Prereflexive-Proto-Self"
 
 .
  This proto-self is the other part of this phenomenology of being someone,
- and the prime prerequisite for the PSM.
+ and the prime prerequisite for the phenomenal self-model (PSM, see chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Being-No-One"
+
+\end_inset
+
+).
 \begin_inset Newline newline
 \end_inset
 
 There is an epistemic asymmetry that only appears on this level of representatio
 nal organization: In order to fully explain consciousness, we also need
- to explain why it is epistemically irreducible -- a point where Dennett
+ to explain why it is epistemically irreducible -- a point which Dennett
  would probably disagree, since he does not believe in irreducibility in
  any form.
 \end_layout
 
 \begin_layout Enumerate
-The phenomenal property of perspectivalness itself, a structural feature
- of phenomenal space as a whole.
+The second level is the phenomenal property of perspectivalness itself,
+ a structural feature of phenomenal space as a whole.
  It is 
 \begin_inset Quotes eld
 \end_inset
@@ -2582,18 +2695,18 @@ key "Metzinger2003"
 
 \end_inset
 
- intentionally, which is what we will talk about in chapter 
+ intentionally, which will be discussed in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "PMIR"
 
 \end_inset
 
- -- the phenomenal model of the intentionality relation.
+ -- the phenomenal model of the intentionality relation (PMIR).
 \end_layout
 
 \begin_layout Enumerate
-Social cognition (the untranscendable 
+On the third level, social cognition (the untranscendable 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2611,21 +2724,22 @@ me
 \end_inset
 
 ).
- We will talk about this in chapter 
+ Chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Empathy-and-Intersubjectivity"
 
 \end_inset
 
-, and it is the third level of perspectivalness.
+ elaborates in detail on social cognition.
 \end_layout
 
 \begin_layout Standard
 Functionally, there is an embodiment constraint in all conscious organisms
  we know to date: They are experientially centered in that they only have
- one body and limited reach, so representing this small region of space
- (being a region of maximal stability and invariance) as self 
+ one physical body and limited reach.
+ Consequently, representing this small region of space (being a region of
+ maximal stability and invariance) as self 
 \begin_inset Quotes eld
 \end_inset
 
@@ -2660,8 +2774,8 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Interestingly, perspectivalness does show up among the other constraints
- here, but actually partially follows from some of the other constraints
+Interestingly, perspectivalness does appear among the other constraints
+ here, but in fact partially follows from some of the other constraints
  by necessity.
 \begin_inset Foot
 status open
@@ -2687,15 +2801,14 @@ reference "PMIR"
 
 \end_inset
 
- While I do see the justification for placing it among the other constraints,
- I do believe that Metzinger could have stated this more clearly in his
- book.
+ While I can see the justification for placing it among the other constraints,
+ I believe that Metzinger could have stated this more clearly in his book.
 \end_layout
 
 \begin_layout Standard
-While Metzinger does list 11 constraints, they are actually merely 10 plus
- the aforementioned prereflexive proto self-model, and the PSM and PMIR
- follow from them and form the perspectivalness constraint.
+Metzinger lists 11 constraints, yet there are actually merely 10 plus the
+ aforementioned prereflexive proto self-model .The PSM and PMIR follow from
+ them and form the perspectivalness constraint.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2751,15 +2864,25 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Metzinger's definition of transparency is different from other philosophers'
- definitions.
- The standard definition only defines that vehicle properties of certain
- mental states are not available for introspection whereas content properties
- are.
- But as Metzinger points out, there clearly are cases where what formerly
- were vehicle properties (not physical vehicle properties, but for example
- thoughts or emotions) can become opaque and are available for introspection
- as well.
+Metzinger's definition of transparency represents a novel approach.
+ According to the standard definition, vehicle properties of certain mental
+ states are not available for introspection whereas content properties are.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Of course, what exactly constitutes these vehicle and content properties
+ is a matter of definition as well.
+ Trivially, in this context, vehicle properties are everything physical,
+ while content properties are everything mental.
+\end_layout
+
+\end_inset
+
+ However, as Metzinger points out, there clearly are cases in which what
+ formerly were vehicle properties (not physical vehicle properties, but
+ for example thoughts or emotions) can become opaque and are available for
+ introspection as well.
  There are different degrees of transparency according to how much of those
  vehicle properties is currently available for introspection.
 \end_layout
@@ -2792,7 +2915,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, which makes definitions of transparency using those terms of vehicle and
+, which makes definitions of transparency using the terms of vehicle and
  content less desirable.
  As Metzinger writes, 
 \begin_inset Quotes eld
@@ -2824,8 +2947,8 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Metzinger goes on to describe three common potential misunderstandings of
- the concept:
+Metzinger goes on to describe common potential misunderstandings of the
+ concept:
 \begin_inset Foot
 status open
 
@@ -2838,6 +2961,47 @@ key "Metzinger2003"
 \end_inset
 
 , pages 166ff.
+\end_layout
+
+\begin_layout Plain Layout
+Metzinger in addition to these two talks about how phenomenal transparency
+ is not equivalent to the kinds of transparency implemented in transparent
+ technical systems like proxy servers or email servers on the internet.
+ Those systems have 
+\begin_inset Quotes eld
+\end_inset
+
+untranscendable
+\begin_inset Quotes erd
+\end_inset
+
+ (I'm using quotes here because there is no subject that could mean to transcend
+ them) internal mechanisms where 
+\begin_inset Quotes eld
+\end_inset
+
+user information may well be internally changed and reprocessed in many
+ different ways, but is always retransformed into the original format before
+ reaching the output stage 
+\emph on
+without causal interaction with the user
+\emph default
+.
+\begin_inset Quotes erd
+\end_inset
+
+ (Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 168, emphasis his.) These kinds of technical transparency are however
+ not phenomenal and thus -- at least until this changes -- not interesting
+ for the discussion.
+ Personally, I am not convinced that this is as common a misunderstanding
+ as the other two.
 \end_layout
 
 \end_inset
@@ -2860,7 +3024,7 @@ Phenomenal transparency is subsymbolic and used as a concept in philosophical
  As such it can exist in nonlinguistic creatures and is not a property of
  context nor referential in an ontological sense.
  Any conscious being can have (and probably has, because transparency will
- end up being a prerequisite for phenomenality in chapter 
+ be shown to be a prerequisite for phenomenality in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Levels-of-Consciousness"
@@ -2870,71 +3034,12 @@ reference "Levels-of-Consciousness"
 ) transparent mental states.
 \end_layout
 
-\begin_layout Enumerate
-Phenomenal transparency is not equivalent to the kinds of transparency implement
-ed in transparent technical systems like proxy servers or email servers
- on the internet.
- Those systems have 
-\begin_inset Quotes eld
-\end_inset
-
-untranscendable
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-I'm using quotes here because there is no subject that could mean to transcend
- them.
-\end_layout
-
-\end_inset
-
- internal mechanisms where 
-\begin_inset Quotes eld
-\end_inset
-
-user information may well be internally changed and reprocessed in many
- different ways, but is always retransformed into the original format before
- reaching the output stage 
-\emph on
-without causal interaction with the user
-\emph default
-.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Citation from 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Metzinger2003"
-
-\end_inset
-
-, page 168, emphasis his.
-\end_layout
-
-\end_inset
-
- These kinds of technical transparency are however not phenomenal and thus
- (at least until this changes) not interesting for the discussion at hand
- anyway.
-\end_layout
-
 \begin_layout Standard
 Transparency does seem to imply the existence of the entities represented.
- This leads to the fact that a naive realism concerning those entities is
- intuitively very attractive for us humans by necessity -- as it is the
- way we experience the world.
- We don't see what we're looking through, the medium that the experience
+ This leads to the conclusion that a naive realism concerning these entities
+ is intuitively very attractive for us humans by necessity -- after all,
+ phenomenal realism is the way we experience the world.
+ We do not see what we are looking through, the medium that the experience
  takes place in is indetectable for introspective access.
 \end_layout
 
@@ -2965,16 +3070,33 @@ key "Metzinger2003"
 \end_inset
 
  The opposite of transparent states would then be opaque ones -- they are
- the ones where darkness is made explicit, where we represent that something
- is merely a representation, for example in lucid dreams or obvious hallucinatio
-ns, or when we become aware of emotions driving our thoughts, or even when
- we plan or imagine or remember.
+ those where darkness is made explicit, where we represent that something
+ is merely a representation,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Consequently, opaque phenomenal states are metarepresentations by necessity.
+\end_layout
+
+\end_inset
+
+ for example in lucid dreams or obvious hallucinations, or when we become
+ aware of emotions driving our thoughts, or even when we plan or imagine
+ or remember.
 \end_layout
 
 \begin_layout Standard
-In opaque cases of experience, we know while we know that we could be wrong,
- as opposed to knowing while we know that we know in standard, transparent
- cases of experience.
+This constraint can be summed up like this:
+\end_layout
+
+\begin_layout Itemize
+In standard, transparent cases of experience, we know while we know that
+ we know.
+\end_layout
+
+\begin_layout Itemize
+In opaque cases of experience, we know while we know that we could be wrong.
 \end_layout
 
 \begin_layout Subsubsection
@@ -12288,6 +12410,16 @@ name "Conceptual-Dualism"
 \end_inset
 
 Conceptual dualism?
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Multiple-Models-Revisited"
+
+\end_inset
+
+Multiple models revisited
 \end_layout
 
 \begin_layout Section
