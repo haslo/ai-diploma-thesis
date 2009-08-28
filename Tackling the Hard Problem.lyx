@@ -3537,9 +3537,10 @@ However, as Metzinger points out, the entire area in question appears as
  directly given, it can well be called atomic itself, since it appears not
  to be further divisible.
  As soon as we start thinking about subregions, the concept of those subregions
- forms (they are relative to the curently employed representational architecture
-), but before that, there just is the entirely transparent concept of the
- simple, ultrasmooth, representationally atomic, one-color surface.
+ starts forming (they are relative to the curently employed representational
+ architecture), but before that, there just is the entirely transparent
+ concept of the simple, ultrasmooth, representationally atomic, one-color
+ surface.
 \end_layout
 
 \begin_layout Standard
@@ -3569,17 +3570,17 @@ key "Metzinger2003"
 
 \end_inset
 
- So there isn't really a grain problem, because the experience of such surfaces
- itself is grainless and does not have all those subregions that would need
- to have neural analogons.
+ Consequently, there is not really a grain problem, because the experience
+ of such surfaces itself is grainless and does not have all those subregions
+ that would need to have neural analogons.
 \end_layout
 
 \begin_layout Standard
 This partially revolutionizes the concept of causal roles of sensory input.
  Due to the fact that we need to represent entities as wholes because otherwise
- we would represent their parts as well, in order for any perception (or
- more precise, any representational state) to have a causal role at all,
- it has to be homogenous.
+ we would necessarily represent their parts as well, in order for any perception
+ (or more precise, any representational state) to have a causal role at
+ all, it has to be homogenous.
  Homogeneity is 
 \begin_inset Quotes eld
 \end_inset
@@ -3605,10 +3606,11 @@ key "Metzinger2003"
 
 \end_inset
 
- processes that lead to a coherent percept in the first place.
+ processes that lead to world that is perceived as being coherent in the
+ first place.
  Note the parallels to constraint 4, convolved holism: A homogenous perceptual
  object is always perceived as a whole with potential, arbitrary parts that
- it can, but doesn't have to be, split into
+ it can, but need not be, split into.
 \end_layout
 
 \begin_layout Subsubsection
@@ -3629,7 +3631,7 @@ Adaptivity
 
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 If we want to understand how conscious experience, a phenomenal self, and
  a first-person perspective could be 
 \emph on
@@ -3659,8 +3661,18 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-A common intuition when it comes to non-natural intelligences (artificial,
- postbiotic, any kind really) is 
+A common reaction when it comes to non-natural intelligences
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This can be artificial or postbiotic, or in fact any kind of intelligence
+ that is not purely biological.
+\end_layout
+
+\end_inset
+
+ is: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3699,8 +3711,8 @@ key "Metzinger2003"
 \begin_layout Standard
 The underlying issue is that artificial systems do not require any teleofunction
 alist properties; their goals and ideals (or rather, the corresponding represent
-ative mental states) don't necessarily have to make sense.
- Here is one of the reasons why I stressed the importance of evolution in
+ative mental states) do not necessarily have to make sense.
+ This is one of the reasons why I stress the importance of evolution in
  chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -3708,10 +3720,10 @@ reference "Evolution"
 
 \end_inset
 
-: Evolution sees to it that the development of goal states that are detrimental
+: Evolution ensures that the development of goal states which are detrimental
  to an organism's reproduction do not enter the common gene pool of that
  species.
- In other words, goal states in real intelligence do necessarily make sense.
+ In other words, goal states in real intelligence do generally make sense.
 \begin_inset Foot
 status open
 
@@ -3734,18 +3746,30 @@ key "Blackmore2008"
 
 ) makes some of the goal states that were a result of genetic evolution
  occasionally outdated.
+ Furthermore, as chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Evolution"
+
+\end_inset
+
+ shows, things that are not detrimental (as opposed to necessarily beneficial)
+ to a species' survival can also make it into the gene pool.
 \end_layout
 
 \end_inset
 
- Emotions then are the expression of those goal states in human beings.
+ Emotions, then, are the expression of those goal states in human beings.
  Being attracted to a member of the opposite sex (as a trivial example)
  is beneficial for reproduction.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-That doesn't make being attracted to your own sex any less probable or desirable
+I want to distance myself from naturalistic fallacies and homophobic readings
+ of this example.
+ Being attracted to the opposite sex being beneficial for reproduction does
+ not make being attracted to your own sex any less probable or desirable
  from a moral or ethical point of view.
  Genetic dispositions to that end will however necessarily always remain
  in the minority, as individuals that exhibit them are less likely to reproduce.
@@ -3810,7 +3834,7 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-I will discuss the adaptivity constraint further in chapters 
+The adaptivity constraint is further discussed in chapters 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Adaptivity-Questioned"
@@ -3840,9 +3864,9 @@ Levels of consciousness
 \begin_layout Standard
 I duplicated the entire catalog of Metzinger's constraints because I believe
  they have merit as one of the first steps towards truly understanding conscious
-ness, and to that end phenomenality.
- Metzinger does not attempt do dodge how hard the hard problem actually
- is, but admits what I think is important in this context:
+ness, and, to that end, phenomenality.
+ Metzinger does not attempt to diminish the difficulty of the hard problem,
+ but admits what I think is important in this context:
 \end_layout
 
 \begin_layout Standard
@@ -3892,12 +3916,15 @@ Every resultant is either a sum or a difference of the co-operant forces;
 \end_inset
 
  of consciousness and phenomenality.
- And we don't need to be afraid of solutions that appear to be counter-intuitive.
+ And there is no need to be afraid of solutions that appear to be counter-intuit
+ive, quite the contrary -- our intuitions are partially formed by our current
+ models of the world, models that can well be wrong, and thus it only makes
+ sense to question them.
 \end_layout
 
 \begin_layout Standard
-It is clear that while us humans apparently do satisfy all those 11 constraints,
- it is not necessary to do so in order to be conscious.
+It is clear that while us human beings apparently do satisfy all those 11
+ constraints, it is not necessary to do so in order to be conscious.
  There are not just differentiations between 
 \begin_inset Quotes eld
 \end_inset
@@ -3915,8 +3942,16 @@ not conscious
 \end_inset
 
 , but various levels in between.
- Metzinger makes out which of these constraints have to be satisfied for
- a system to be called conscious to what extent:
+ Metzinger determines which of these constraints have to be satisfied for
+ a system to be called 
+\begin_inset Quotes eld
+\end_inset
+
+conscious,
+\begin_inset Quotes erd
+\end_inset
+
+ and how far that specific kind of consciousness goes:
 \begin_inset Foot
 status open
 
@@ -3969,8 +4004,8 @@ key "Metzinger2003"
 
 \end_inset
 
- -- no subjectivity, no differentiated representation of causality, space
- or time, certainly no planning.
+ -- which does not require subjectivity, differentiated representation of
+ causality, space or time, and certainly no planning.
  Such a system would be 
 \begin_inset Quotes eld
 \end_inset
@@ -4017,7 +4052,7 @@ Subjective Consciousness:
  Adding perspectivalness (6) centers the space of experience on an active
  self-representation and thus adds a consciously experienced first-person
  perspective to the phenomenal space.
- Arguably, many animals are on this stage of consciousness.
+ The kind of consciousness that many animals enjoy seems to be of this kind.
 \end_layout
 
 \begin_layout Itemize
@@ -4025,7 +4060,7 @@ Subjective Consciousness:
 \emph on
 Cognitive, Subjective Consciousness:
 \emph default
- Here, we add offline activation (8), assume both transparent and opaque
+ Here, we add offline activation (8), include both transparent and opaque
  content (7 again, but this time unlimited) and thus enable 
 \begin_inset Quotes eld
 \end_inset
@@ -4052,19 +4087,22 @@ key "Metzinger2003"
 
 \end_inset
 
- -- and decouple those from current external input.
+ -- and decouple all these representations from current external input.
  Such systems could also represent themselves as representational systems,
- would be true thinkers of thoughts, and able to escape naive realism at
- least in thought experiments.
+ would be thinkers of thoughts, and would also be able to escape naive realism
+ at least in thought experiments.
 \end_layout
 
 \begin_layout Standard
-Note how this list does not include some constraints.
+Note that this list does not include some constraints.
  Global availability (1) -- although since this is a special case of the
  globality constraint, it is probably implied already in minimal consciousness.
  Representation of intensities (9) is arguably not always important, although
  it can be necessary if the system is to satisfy the adaptivity constraint.
- Adaptivity (11) itself,
+\end_layout
+
+\begin_layout Standard
+Adaptivity (11) itself,
 \begin_inset Foot
 status open
 
@@ -4081,19 +4119,23 @@ reference "Weaker-Adaptivity"
 
 \end_inset
 
- which might be necessary for us to even recognize a system as being conscious
- at all.
+ which is also not included, might be necessary for us to even recognize
+ a system as being conscious at all.
+ Nevertheless, this does not mean that we would necessarily have to include
+ it as a prerequisite for consciousness as well.
+ It is only our cognition that is affected by the problem, not necessarily
+ the concept of consciousness itself.
 \end_layout
 
 \begin_layout Standard
-Homogeneity of simple content (10) is interesting, because as we found out
- it is, for systems like us humans, a prerequisite for proper concept formation
- and thus necessary at least for episodic memory and forward planning that
- cognitive, subjective consciousness introduces.
+Homogeneity of simple content (10) is interesting, because it is, for systems
+ like us humans, a prerequisite for proper concept formation and thus necessary
+ at least for episodic memory and forward planning that cognitive, subjective
+ consciousness introduces.
  It might even be necessary for convolved holism; how can a mind form a
  concept of wholes if it is not able to conceive of its contents as homogenous?
- I think I would add this constraint as a requirement for differentiated
- consciousness already.
+ I propose that this constraitn should be added as a requirement for differentia
+ted consciousness already.
 \end_layout
 
 \begin_layout Subsubsection
@@ -4110,7 +4152,7 @@ Phenomenality for Metzinger
 What really makes phenomenal experience special is its ineffability:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The insight of such fine-grained information evading perceptual memory and
  cognitive reference [...] allows us to do justice to the fact that a very
  large portion of phenomenal experience, as a matter of fact, is 
@@ -4152,18 +4194,37 @@ key "Metzinger2003"
 
 \begin_layout Standard
 Ineffability then comes naturally with the combination of at least perspectivaln
-ess and transparency, with other constraints (like global availability,
- activation within a window of presence, or convolved holism) making experiences
- only more ineffable.
+ess and transparency.
+ Other constraints (like global availability, activation within a window
+ of presence, or convolved holism) make experiences even more ineffable.
 \end_layout
 
 \begin_layout Standard
 Phenomenality, just like consciousness, is not an all-or-nothing attribute
  of systems.
- It seems to me that the extent to which a system's states (or rather, processes
-) are experienced as phenomenal by the system then is analogous to the extent
- of consciousness it exhibits, and thus analogous to the number and nature
- of multilevel constraints it satisfies.
+ It seems to me
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I am cautious here because while Metzinger does explicitly talk about levels
+ of consciousness with the definitions that chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Levels-of-Consciousness"
+
+\end_inset
+
+ talks about, he does not explicitly draw the analogy that I am talking
+ about here.
+\end_layout
+
+\end_inset
+
+ that the extent to which a system's states (or rather, processes) are experienc
+ed as phenomenal by the system, then, is analogous to the extent of consciousnes
+s it exhibits, and thus analogous to the number and nature of multilevel
+ constraints it satisfies.
 \end_layout
 
 \begin_layout Subsection
@@ -13855,9 +13916,9 @@ An infinite regression, which appears because of the necessity to go ever
 
 \begin_layout Enumerate
 a logical circle in the deduction, which is caused by the fact that one,
- in the need to provide a basis, falls back on statements whose have already
- appeared before as requiring a foundation, and which circle does not lead
- to any certain foundation either; and finally:
+ in the need to provide a foundation, falls back on statements which have
+ already appeared before as requiring a foundation, and which circle does
+ not lead to any certain foundation either; and finally:
 \end_layout
 
 \begin_layout Enumerate
