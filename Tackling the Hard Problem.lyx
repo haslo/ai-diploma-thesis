@@ -157,7 +157,78 @@ Department of Philosophy
 \end_layout
 
 \begin_layout Abstract
-asdf
+What is generally known as 
+\begin_inset Quotes eld
+\end_inset
+
+the hard problem of consciousness
+\begin_inset Quotes erd
+\end_inset
+
+ is a very fascinating, but also a very disputed matter.
+ It is the one thing we do not seem to be able to understand about our brains:
+ How does a clump of molecules, a mere mass of gray matter, a network of
+ brain cells, produce consciousness?
+\end_layout
+
+\begin_layout Abstract
+There are four important parts to this question, all of which warrant a
+ closer look: First, how does the brain produce phenomenality? What are
+ qualia? The most mystifying part: How does subjectivity emerge? Finally,
+ what is intentionality? How does it all fit together?
+\end_layout
+
+\begin_layout Abstract
+During my search for answers to these questions, I encountered two philosophers
+ with interesting proposals: Daniel C.
+ Dennett and Thomas Metzinger.
+\end_layout
+
+\begin_layout Abstract
+D.
+ Dennett's works 
+\emph on
+Consciousness Explained
+\emph default
+ (1991) and 
+\emph on
+The Intentional Stance
+\emph default
+ (1987) break not only with Cartesian dualism, but also with Husserlian
+ phenomenology and its descendants.
+ Metzinger published Being No One in 2003 as his first major work in English.
+ He tries to reinterpret phenomenological views in a radically new way,
+ and ends up even dismissing (at least from ontology in a stricter sense)
+ the very thing that seems to be at the core of our subjectivity: the self.
+\end_layout
+
+\begin_layout Abstract
+Both Dennett and Metzinger have a somewhat novel approach to the questions
+ at hand, meaning they look at them in an interdisciplinary manner and try
+ to verify their findings in the light of recent psychological and neuroscientif
+ic research.
+\end_layout
+
+\begin_layout Abstract
+When looking at subjectivity, which to me seems to be the most miraculous
+ achievement of consciousness, I looked beyond philosophical works and found
+ Marvin Minsky, a pioneer of artificial intelligence, with his book 
+\emph on
+The Emotion Machine
+\emph default
+ from 2006.
+ Coming from a computer science background, he has a more pragmatic approach
+ than the aforementioned philosophers.
+\end_layout
+
+\begin_layout Abstract
+After looking at those philosopher's positions on the four parts of the
+ hard problem, I present a synopsis that attempts to unify their theories
+ and categorizes the processes and prerequirements for a system to be able
+ to experience subjective consciousness.
+ In doing so, the thesis splits up the aforementioned four apparently time-prove
+n concepts into a total of seven new concepts where one clearly forms the
+ basis for the next, and by that means untangles overlapping semantic fields.
 \end_layout
 
 \begin_layout Standard
@@ -183,14 +254,15 @@ First and foremost, I want to thank my wife, Arzo Modjib Gloor, for being
 \end_layout
 
 \begin_layout Standard
-At University, this thesis would not have been possible without the aid
- of Prof.
+At University, I want to thank Prof.
  Dr.
  Gerd.
- Graßhoff and Prof.
+ Graßhoff for his very constructive criticism.
+ Furthermore, this thesis would not have been possible without the aid of
+ Prof.
  Dr.
  Eduard Marbach.
- I want to thank Dr.
+ I also want to thank Dr.
  Guido Löhrer and Dr.
  Helmut Linneweber-Lammerskitten for their support over the years.
 \end_layout
@@ -315,6 +387,21 @@ The Intentional Stance
  (1987) break not only with Cartesian dualism, but also with Husserlian
  phenomenology and its descendants.
  Metzinger published Being No One in 2003 as his first major work in English.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+While I am in no position to criticize Metzinger's mastery of the English
+ language myself, he faced a lot of criticism for his nomenclature.
+ Mainly, i twas said that his inventing his own words for novel concepts
+ or novel views on established concepts made it harder to understand what
+ he really means.
+ Nevertheless I will often use his nomenclature and semantics, and attempt
+ to show up what he means by some particularly peculiar expressions.
+\end_layout
+
+\end_inset
+
  He tries to reinterpret phenomenological views in a radically new way,
  and ends up even dismissing (at least from ontology in a stricter sense)
  the very thing that seems to be at the core of our subjectivity: the self.
@@ -388,6 +475,9 @@ When facing a really serious problem, it is often best to break it up into
 is
 \emph default
  possible to break it up.
+ However, in doing so we have to embrace and unify concepts that have been
+ subject of philosophical research for decades, subjects where every philosopher
+ has his own views on how they are to be understood.
 \end_layout
 
 \begin_layout Standard
@@ -446,7 +536,27 @@ reference "Summary"
 \end_layout
 
 \begin_layout Standard
-The partial questions for now are:
+It is important to keep in mind that what seems to be definitions in the
+ following list of concepts really is merely an attempt at summarizing entire
+ philosophical debates on meanings.
+ I do not intend to challenge the ways in which other philosophers understand
+ one particular concept or another, but rather attempt to understand what's
+ behind those concepts and how they're linked together.
+ As a matter of fact, in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "The-Bigger-Picture"
+
+\end_inset
+
+, I put forth a revised list in which I more clearly define the terms I
+ use to describe the concepts and processes that really produce subjective
+ conscious experience.
+\end_layout
+
+\begin_layout Standard
+The four provisional concepts I am interested in and the resulting partial
+ questions for now are:
 \end_layout
 
 \begin_layout Itemize
@@ -486,7 +596,9 @@ Qualia:
  smallest bits of experience which cannot be subdivided any further -- the
  particular way something seems to be irreducibly red or loud to us, for
  example.
- What is so special about these smallest entities of quality?
+ What is so special about these smallest entities of quality? Are they,
+ can they really be atomic and irreducible? How are qualia conceptually
+ definable?
 \end_layout
 
 \begin_layout Itemize
@@ -542,6 +654,8 @@ mental focus
 I will dedicate a chapter to each of these four parts, defining what exactly
  is puzzling about them and then looking at possible explanations for their
  origins and constitution.
+ In doing so, we will also look at philosophers who worked with those concepts
+ and attempt to find out what they really are.
 \end_layout
 
 \begin_layout Standard
@@ -4134,7 +4248,7 @@ Homogeneity of simple content (10) is interesting, because it is, for systems
  consciousness introduces.
  It might even be necessary for convolved holism; how can a mind form a
  concept of wholes if it is not able to conceive of its contents as homogenous?
- I propose that this constraitn should be added as a requirement for differentia
+ I propose that this constraint should be added as a requirement for differentia
 ted consciousness already.
 \end_layout
 
@@ -4149,7 +4263,31 @@ Phenomenality for Metzinger
 \end_layout
 
 \begin_layout Standard
-What really makes phenomenal experience special is its ineffability:
+What really makes phenomenal experience special is its ineffability
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I will use the term 
+\begin_inset Quotes eld
+\end_inset
+
+ineffability
+\begin_inset Quotes erd
+\end_inset
+
+ in the following meaning: Something that is ineffable evades conceptualization,
+ it is unspeakable not because it would be forbidden by some dogma to speak
+ about it but because it is literally impossible to form a concept of an
+ ineffable entity.
+ Because it is not possible to form a concept of such things, it is also
+ not possible to communicate or remember them.
+ This seems to be the way Metzinger uses the term as well.
+\end_layout
+
+\end_inset
+
+:
 \end_layout
 
 \begin_layout Quote
@@ -4232,11 +4370,11 @@ Consolidation
 \end_layout
 
 \begin_layout Standard
-I think it's fairly clear, considering how much space I gave the three different
- points of view regarding phenomenality: I am fairly partial to Metzinger's
- views.
- I think that he offers the first true explanation of consciousness in general
- (despite Dennett in 
+Considering how much space I gave each of the three different points of
+ view regarding phenomenality, the reader may have realized that I am quite
+ partial to Metzinger's views.
+ I think that he offers the first proper explanation of consciousness in
+ general (despite Dennett in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett1991"
@@ -4273,8 +4411,61 @@ key "Metzinger2003"
 
 \end_inset
 
- Nevertheless, it seems to be all we have for now, and I believe that it's
- quite a good start.
+ Nevertheless, his explanations seem sound for the time being, and I consider
+ them to be a good start.
+\end_layout
+
+\begin_layout Subsubsection
+Metzinger's nomenclature: 
+\begin_inset Quotes eld
+\end_inset
+
+Constraints
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+At first sight, it seems odd that Metzinger chooses the name 
+\begin_inset Quotes eld
+\end_inset
+
+constraints
+\begin_inset Quotes erd
+\end_inset
+
+ for his definitions of what could be described as preconditions that are
+ necessary for a system to exhibit consciousness.
+ It makes sense though when we look at it this way: An otherwise completely
+ unconstrained computive system of any kind that satisfies these constraints
+ will exhibit consciousness.
+ The things Metzinger describes are apparently not so much minimal preconditions
+, but really restrictions that can be applied to any system that is able
+ to perceive, process and output data.
+\end_layout
+
+\begin_layout Standard
+Still, of course they could also be called 
+\begin_inset Quotes eld
+\end_inset
+
+minimal preconditions
+\begin_inset Quotes erd
+\end_inset
+
+.
+ This holds true for all constraints except constraint 11, the adaptivity
+ constraint, which is special in more than one way anyway however (see chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Adaptivity-Questioned"
+
+\end_inset
+
+).
 \end_layout
 
 \begin_layout Subsubsection
@@ -4284,20 +4475,20 @@ name "Husserl-Heterophenomenology"
 
 \end_inset
 
-What Husserl Might Answer to Dennett
+What Husserl might answer to Dennett
 \end_layout
 
 \begin_layout Standard
-We saw in chapter 
+in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Heterophenomenology"
 
 \end_inset
 
- what Dennett's biggest gripe with traditional phenomenology is: It is not
- necessarily intersubjective.
- He makes this rather explicit:
+, it was stated that Dennett's biggest gripe with traditional phenomenology
+ is that it is not necessarily intersubjective.
+ He makes this quite explicit:
 \end_layout
 
 \begin_layout Quotation
@@ -4325,15 +4516,38 @@ key "Dennett2003"
 \end_layout
 
 \begin_layout Standard
-However, I am not sure if Dennett's position is really so different from
- Husserl's when it comes to what is science and what isn't.
- Maybe Heidegger's continuation of Husserl's theories, putting way more
- focus on how phenomenality is a subjective phenomenon, would fall victim
- to this argument of Dennett's.
- Husserl however would probably even agree with him:
+However, I am not sure if Dennett's position is really that different from
+ Husserl's with respect to what is science and what is not.
+ Maybe Heidegger's continuation of Husserl's theories, putting significantly
+ more focus on what he considers to be a fact, that phenomenality is a subjectiv
+e phenomenon, would fall victim to the above argumentation of Dennett's.
+ Husserl, however, may even agree with Dennett:
 \end_layout
 
 \begin_layout Quotation
+It is absolutely clear; scientific conclusions regarding phenomena are not
+ feasible after phenomenologic reduction, in particular if we conceptually
+ define those phenomena as absolutely distinct and unique.
+ Only if we enter the empirical-psychological sphere, if we look at the
+ phenomena as experiences of an experiencing self that is in an interrelation
+ with nature, can we conceptualize [what scientific conclusions we can reach]
+ in a similar way to how psychologists do it in experimental practice.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Husserl1984"
+
+\end_inset
+
+, page 224, my translation.
+ Original text: 
+\begin_inset Quotes eld
+\end_inset
+
 Es ist danach völlig klar, wissenschaftliche Feststellungen in bezug auf
  die Phänomene sind nach der phänomenologischen Reduktion nicht zu machen,
  
@@ -4346,29 +4560,6 @@ notabene
  Phänomene als Erlebnisse eines erlebenden Ich, das im Zusammenhang einer
  Natur steht, betrachten, können wir eine solche Fixierung vollziehen in
  der Art, wie jeder Psychologe es im experimentellen Verfahren tut.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Citation from 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Husserl1984"
-
-\end_inset
-
-, page 224.
- My translation: 
-\begin_inset Quotes eld
-\end_inset
-
-It is absolutely clear; scientific conclusions regarding phenomena are not
- feasible after phenomenologic reduction, in particular if we conceptually
- define those phenomena as absolutely distinct and unique.
- Only if we enter the empirical-psychological sphere, if we look at the
- phenomena as experiences of an experiencing self that is in an interrelation
- with nature, can we conceptualize [what scientific conclusions we can reach]
- in a similar way to how psychologists do it in experimental practice.
 \begin_inset Quotes erd
 \end_inset
 
@@ -4381,12 +4572,13 @@ It is absolutely clear; scientific conclusions regarding phenomena are not
 \end_layout
 
 \begin_layout Standard
-So individual phenomenal experiences only gain a scientific meaning if they
- are also looked at in the context that the subject experiencing them was
- in -- and, it is important that empirical research includes not only individual
- distinct and unique such phenomenal experiences, but rather an entire class
- of them, preferrably from multiple subjects or at least from the same subject
- reproducibly experienced.
+Thus, individual phenomenal experiences only gain a scientific meaning if
+ they are also looked at in the context that the subject experiencing them
+ was in.
+ Furthermore, it is important to recognize that empirical research includes
+ not only individual, distinct and unique such phenomenal experiences, but
+ rather an entire class of them, preferrably from multiple subjects or at
+ least from the same subject reproducibly experienced.
 \end_layout
 
 \begin_layout Standard
@@ -4394,11 +4586,11 @@ Husserl also does not presuppose infallibility of phenomenal experience:
 \end_layout
 
 \begin_layout Quotation
-Allerdings das Sein des Gegenstands lassen wir dahingestellt; aber mag er
- sein oder nicht sein, und mögen wir zunächst über den Sinn dieses Seins
- noch so sehr im Zweifel sein, evident ist es zum Wesen der Wahrnehmung
- gehörig, daß sie etwas wahrnimmt, einen Gegenstand, und ich kann nun fragen,
- als was nimmt sie den Gegenstand für wahr.
+What the referenced object actually is is not topic of our research; it
+ may exist or not, and we may doubt the meaning of its existence, evidentially
+ it is part of the essence of experience that it experiences something,
+ an object, and I can now ask what [the experience] takes the object to
+ be.
 \begin_inset Foot
 status open
 
@@ -4410,16 +4602,16 @@ key "Husserl1984"
 
 \end_inset
 
-, page 231.
- My translation: 
+, page 231, my translation.
+ Original text: 
 \begin_inset Quotes eld
 \end_inset
 
-What the referenced object actually is is not topic of our research; it
- may exist or not, and we may doubt the meaning of its existence, evidentially
- it is part of the essence of experience that it experiences something,
- an object, and I can now ask what [the experience] takes the object to
- be.
+Allerdings das Sein des Gegenstands lassen wir dahingestellt; aber mag er
+ sein oder nicht sein, und mögen wir zunächst über den Sinn dieses Seins
+ noch so sehr im Zweifel sein, evident ist es zum Wesen der Wahrnehmung
+ gehörig, daß sie etwas wahrnimmt, einen Gegenstand, und ich kann nun fragen,
+ als was nimmt sie den Gegenstand für wahr.
 \begin_inset Quotes erd
 \end_inset
 
@@ -4432,24 +4624,42 @@ What the referenced object actually is is not topic of our research; it
 \end_layout
 
 \begin_layout Standard
-So, considering these passages from Husserl, I am uncertain as to what it
- is that actually makes heterophenomenology so different from phenomenology.
+In light of these passages from Husserl, I am uncertain as to what precisely
+ it is that so radically distinguishes heterophenomenology from phenomenology.
  Both Dennett and Husserl agree that we have some (more or less limited)
  privileged access to our mental states.
- They both agree that proper scientific research can only be performed from
- a third-person, intersubjective point of view, taking phenomenological
- accounts not at face value and forming theories as to what it is that makes
- agents have those particular phenomenal experiences.
+ They further agree that proper scientific research can only be performed
+ from a third-person, intersubjective point of view.
+ Only if we stop taking phenomenological accounts at face value, and start
+ forming theories that attempt to explain what it is that makes agents enjoy
+ the particular phenomenal experiences that they do.
 \end_layout
 
 \begin_layout Standard
-Considering neither of them actually offers more insight into what phenomenal
- experience itself is however, I want to leave this side scene, and will
- for the remainder of this thesis focus on Metzinger's more thorough theory
+Considering that neither of them actually offers more insight into what
+ phenomenal experience itself is however, I lay this issue aside, and for
+ the remainder of this thesis focus on Metzinger's more thorough theory
  of the genesis of phenomenality.
  After all, he actually did what both Dennett and Husserl proposed: He tried
- to model how agents get to make autophenomenological reports in the first
- place.
+ to model how agents manage to make autophenomenological reports
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+We looked at Dennett's introduction of (auto)phenomenological reports and
+ their role as mere basis for proper scientific research in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Heterophenomenology"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ in the first place.
 \end_layout
 
 \begin_layout Subsubsection
