@@ -655,7 +655,8 @@ I will dedicate a chapter to each of these four parts, defining what exactly
  is puzzling about them and then looking at possible explanations for their
  origins and constitution.
  In doing so, we will also look at philosophers who worked with those concepts
- and attempt to find out what they really are.
+ and attempt to find out what they really are, at least according to those
+ philosophers' definitions.
 \end_layout
 
 \begin_layout Standard
@@ -4669,17 +4670,49 @@ name "Minsky-Global-Availability-Restrictions"
 
 \end_inset
 
-Another Look at Global Availability and Convolved Holism
+Another look at 
+\begin_inset Quotes eld
+\end_inset
+
+global availability
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+convolved holism
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-When Metzinger talks about his constraints global availability (1) and convolved
- holism (4), he does look mostly at the phenomenal side of it.
- Minsky agrees with him in that things certainly 
+When Metzinger talks about the constraints 
+\begin_inset Quotes eld
+\end_inset
+
+global availability
+\begin_inset Quotes erd
+\end_inset
+
+ (1) and 
+\begin_inset Quotes eld
+\end_inset
+
+convolved holism
+\begin_inset Quotes erd
+\end_inset
+
+ (4), he for the most part focusses on the phenomenal side of them.
+ Minsky also suggests that things certainly 
 \emph on
 seem to be
 \emph default
- globally available, and quotes Newman:
+ globally available, but does not agree that they actualy are.
+ Minsky quotes Newman:
 \end_layout
 
 \begin_layout Quotation
@@ -4725,7 +4758,7 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Standard
-However, we cannot push global availability too far:
+However, global availability should not be overrated:
 \end_layout
 
 \begin_layout Quotation
@@ -4770,21 +4803,28 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Standard
-So while it certainly may 
+So, while it certainly may 
 \emph on
 seem
 \emph default
- like we have everything globally available, what in fact happens is that
+ as if we had everything globally available, what in fact happens is that
  sensory inputs are processed in parallel by a wide variety of processes,
- and many brain centers (that Minsky calls “critics” and “experts,” but
- unfortunately we do not have the space to look at these more in-depth)
- have access to parts of these processes and can potentially further process
- them.
+ and many brain centers (which Minsky calls “critics” and “experts”) have
+ access to parts of these processes and can potentially process them further.
 \end_layout
 
 \begin_layout Standard
-However, this is neither magical nor entirely global, but rather, what brain
- centers have access to what processes is stored in the dynamical hardware
+However, this kind of 
+\begin_inset Quotes eld
+\end_inset
+
+global availability
+\begin_inset Quotes erd
+\end_inset
+
+ is neither magical nor entirely global.
+ Rather, which brain centers have access to what processes is stored in
+ the dynamical hardware
 \begin_inset Foot
 status open
 
@@ -4797,18 +4837,18 @@ I use “dynamical hardware” here due to a distinct lack of a better term
 \end_inset
 
  of the brain.
- I say this without claiming that domain borders between different processes
- can't be crossed -- quite the opposite, that possibility is indeed (as
- Metzinger claims) one of the prime advantages of our kind of consciousness.
- Rather, these domain borders can only be crossed in certain ways that are
+ I do not mean to claim that domain borders between different processes
+ cannot be crossed -- quite the opposite, that possibility is indeed (according
+ to Metzinger) one of the prime advantages of our kind of consciousness.
+ Yet, these domain borders can only be crossed in certain ways that are
  predetermined in the same dynamical hardware that implements the processes
  themselves.
 \end_layout
 
 \begin_layout Standard
-That certainly doesn't stop us from phenomenally experiencing the byproducts
- and (intermediate and end) results of our brain's information processing
- as utterly and totally holistic and global.
+This does not stop us from phenomenally experiencing the byproducts and
+ intermediate and end results of our brain's information processing as utterly
+ and totally holistic and global.
 \end_layout
 
 \begin_layout Subsubsection
