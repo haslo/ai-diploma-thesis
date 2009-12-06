@@ -4847,26 +4847,42 @@ I use “dynamical hardware” here due to a distinct lack of a better term
 
 \begin_layout Standard
 This does not stop us from phenomenally experiencing the byproducts and
- (intermediate and end) results of our brain's information processing as
- utterly and totally holistic and global.
+ intermediate and end results of our brain's information processing as utterly
+ and totally holistic and global.
 \end_layout
 
 \begin_layout Subsubsection
-The Trouble With Perspectivalness
+The trouble with 
+\begin_inset Quotes eld
+\end_inset
+
+perspectivalness
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Metzinger's perspectivalness constraint (constraint 6) seems to be fairly
- straightforward.
- It is a first-person point of view that is nonconceptual, happens before
- cognitive processing, it is automatic and requires no effort whatsoever.
+Metzinger's 
+\begin_inset Quotes eld
+\end_inset
+
+perspectivalness
+\begin_inset Quotes erd
+\end_inset
+
+ constraint (constraint 6) seems to be quite straightforward.
+ The constraint describes a first-person point of view which is nonconceptual,
+ happens before cognitive processing, and is automatic and requires no effort
+ whatsoever.
  It consists of a nonconceptual prereflexive proto self-consciousness, a
  PSM
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See chapter 
+Phenomenal self-model, see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Being-No-One"
@@ -4883,7 +4899,7 @@ reference "Being-No-One"
 status open
 
 \begin_layout Plain Layout
-See chapter 
+Phenomenal model of the intentionality relation, see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "PMIR"
@@ -4895,27 +4911,28 @@ reference "PMIR"
 
 \end_inset
 
- If the prereflexive proto-self is there, we will be able to naturally reach
- the agreement that a full-fledged self-model has to arise from the system.
+ Given a prereflexive proto-self, we can conclude that a complete self-model
+ has to arise from the system.
 \end_layout
 
 \begin_layout Standard
-However, such a proto self-consciousness is everything but trivial and not
+However, such a proto self-consciousness is anything but trivial, and not
  that straightforward after all.
- What is it exactly that we are prereflexively, nonconceptually, aware of?
- It cannot be a self-model, or it would require itself in an infinite regress.
- There is some basic form of perspectivalness that is given for all of today's
- known conscious systems in that they are all spatially confined to a relatively
- small area, and perceive all of their surroundings via a single viewpoint.
+ What exactly is the entity that we are prereflexively, nonconceptually,
+ aware of? It cannot be a self-model, as that would mean that it would require
+ itself in an infinite regress.
+ There is some basic form of perspectivalness which is given for all of
+ today's known conscious systems; They are all spatially confined to a relativel
+y small area, and perceive their entire surroundings via a single viewpoint.
  Is there more to perspectivalness than that? Can that be enough to give
- rise to a full-fledged self-model later on?
+ rise to a complete PSM later on?
 \end_layout
 
 \begin_layout Standard
-I have no solution to offer to this, and I guess it will require empirical
- research with actual postbiotic or artificial systems to truly progress
- in this matter.
- It is certainly a worthy topic for future research.
+I have no solution to offer.
+ It will require empirical experiments with postbiotic or artificial systems
+ to truly advance in this matter.
+ Nevertheless, it is certainly a worthy topic for future research.
 \end_layout
 
 \begin_layout Subsubsection
@@ -4925,18 +4942,33 @@ name "Adaptivity-Questioned"
 
 \end_inset
 
-Adaptivity Questioned
+
+\begin_inset Quotes erd
+\end_inset
+
+Adaptivity
+\begin_inset Quotes erd
+\end_inset
+
+ questioned
 \end_layout
 
 \begin_layout Standard
-Metzinger heeds another warning, when it comes to adaptivity: He says that
- in order to be truly intelligent, a postbiotic or artificial system also
- has to fully satisfy the adaptivity constraint.
- He even goes further and quotes Davidson's 
+Metzinger heeds another warning regarding his 
 \begin_inset Quotes eld
 \end_inset
 
-The Swampman,
+adaptivity
+\begin_inset Quotes erd
+\end_inset
+
+ constraint (constraint 11): He says that in order to be truly conscious,
+ a postbiotic or artificial system also has to fully satisfy this constraint.
+ He goes even further and quotes Davidson's 
+\begin_inset Quotes eld
+\end_inset
+
+The Swampman.
 \begin_inset Quotes erd
 \end_inset
 
@@ -4957,20 +4989,42 @@ key "Metzinger2003"
 
 \end_inset
 
- with an argument similar to the ship of Theseus.
  In the thought experiment, Davidson is standing near a tree in a swamp
  during a thunderstorm.
  When lightning strikes the tree, Davidson is disintegrated, and by pure
  coincidence the tree is turned into an exact physical replica of Davidson
- (including brain with current neural state and everything).
+ (including brain with current neural state etc.).
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This does bear some similarities to the paradox of the ship of Theseus,
+ but also striking differences.
+ Two things are very different: The timespan over which the transformation
+ happens, and the location in which it happens.
+ The ship of Theseus is transformed over a longer period of time, while
+ the swampman is transformed instantaneously and spontaneously.
+ The location of the new ship of Theseus is the same as the old one was,
+ while the swampman stands in a different spot than Davidson did.
+ However, there are striking resemblances as well, because in both thought
+ experiments, an exact physical replication is created while the original
+ is destroyed, and the question is what traits that replication shares with
+ the original.
+ It all comes down to what transtemporal aspects the properties in question
+ have of course, and that's rarely well-defined.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-The goal of that thought experiment is showing that an exact replica of
- a human being might move, think, talk, and argue just as the original,
+The aim of this thought experiment is showing that an exact replica of a
+ human being might move, think, talk, and argue just like the original,
  it might even have the exact same kind of phenomenality.
- But what it lacks is the original Davidson's intentional content -- Metzinger
- writes:
+ Yet it lacks is the original Davidson's intentional content.
+ Metzinger writes:
 \end_layout
 
 \begin_layout Quotation
@@ -5005,33 +5059,78 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-I'll be very blunt: I do not believe this argument has much merit.
- If it had,
+It is interesting how this is argument runs counter to Dennett's dismissal
+ of original intentionality, which is explored in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "The-Intentional-Stance"
+
+\end_inset
+
+, but also seems to contradict other parts of Metzinger's work.
+ I do not see how the requirement for some kind of original intentionality
+ here is compatible with Metzinger claiming that all that intentionality
+ really is, is a phenomenal model 
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-I do owe this point to my good friend Simon Bünzli.
+The PMIR or phenomenal model of the intentionality relation, which will
+ be explained in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PMIR"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Due to these inconsistencies, I do not see the argument for an 
+\begin_inset Quotes eld
+\end_inset
+
+adaptivity
+\begin_inset Quotes erd
+\end_inset
+
+ constraint as having much merit.
+\end_layout
+
+\begin_layout Standard
+Furthermore, if it was correct,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I owe this point to my good friend Simon Bünzli.
 \end_layout
 
 \end_inset
 
  every subsequent generation of humans would be less conscious than the
  former: After all, much of what we act and live by is not genetically hardcoded
-, but rather learned and perceived; it does not have the right kind of history
- built-in.
- All those things that we take as signs of proper intelligence beyond basic
- empathy (including being able to play chess, to talk with each other in
- a common language, to read and write) do not have this kind of 
+, but rather learned and perceived; it also has 
 \begin_inset Quotes eld
 \end_inset
 
-proper,
+the wrong kind of history
 \begin_inset Quotes erd
 \end_inset
 
- system-internal history -- they were introduced from the outside, from
- our parents and teachers, our environment, our experiences.
+ built-in, only attached by means of being passed down through the generations.
+ All the things we take as signs of proper intelligence beyond basic empathy
+ (including being able to play chess, talking with each other in a common
+ language, reading and writing) do not have this kind of proper, system-internal
+ history.
+ They were introduced from the outside, from our parents and teachers, our
+ environment, our experiences.
  And that is the very thing Metzinger tells us is what is wrong with a hypotheti
 cal postbiotic intelligence -- even if it were built from actual organic
  tissue, and even if it had gone through an evolutionary process of its
@@ -5065,8 +5164,8 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Thinking about it, humans are necessary to trigger the second-level evolutionary
- process that eventually leads to childbirth as well.
+Obviously, humans are necessary to trigger the second-level evolutionary
+ process that eventually leads to childbirth as well,
 \begin_inset Foot
 status open
 
@@ -5093,7 +5192,8 @@ Making the babies is the best part!
 
 \end_inset
 
-
+ just like the further second-level evolutionary processes that are in place
+ when we teach and learn in schools and universities.
 \end_layout
 
 \begin_layout Subsubsection
@@ -5108,7 +5208,7 @@ A Weaker Adaptivity Constraint
 
 \begin_layout Standard
 When Metzinger formulated his adaptivity constraint, he seems to have been
- mainly driven by one of his background assumptions, one that he explicitly
+ driven by mainly one of his background assumptions, one that he explicitly
  states at the very beginning of his book: Teleofunctionalism.
 \begin_inset Foot
 status open
@@ -5185,28 +5285,54 @@ supervenience
 \begin_inset Quotes erd
 \end_inset
 
- that Metzinger also uses, he constructed a theory that I can't find myself
- agreeing with at all).
- But when Metzinger uses it, he seems to mean that he looks at the things
- our brains do in a way that assumes they must be good for something --
- because if they weren't, they wouldn't have been a fitness criterion for
- evolution, and consequently wouldn't have survived the last few million
- years.
+ Metzinger also uses, he constructed a theory that lacks scientific foundation
+ and appears to be of mostly speculative nature, as all theories involving
+ metaphysical and non-observable entities necessarily do).
+ But when Metzinger uses it, it translates to the assumption that the things
+ our brains
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+As a matter of fact, he is not only talking about our brains, but all organic
+ entities that were subject to a genesis in evolution.
+\end_layout
+
+\end_inset
+
+ do must be good for something -- because if they were not, they would not
+ have been a fitness criterion for evolution, and consequently would not
+ have survived the last few million years.
 \end_layout
 
 \begin_layout Standard
-I do agree with that.
- I do not agree with million years of evolution being a necessary prerequisite
- for something being a fitness criterion however, nor do I agree with the
- assumption that merely because a fit system has been duplicated (as Davidson's
- Swampman was) it suddenly loses some kind of metaphysical fitness 
+This is consistent with scientific findings.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Even if we have to ignore for now that teleological explanations are not
+ necessary for every bit of functionality, as some might only have been
+ not detrimental to survival, as opposed to being strictly beneficial.
+ A well-known example is the appendix -- it does have a function and must
+ once have been necessary for survival, but no longer is, but nevertheless
+ it also is not detrimental to our survival.
+\end_layout
+
+\end_inset
+
+ I do not agree with Metzinger's assumption that million years of evolution
+ are a necessary prerequisite for something being a fitness criterion however,
+ nor do I agree with the assumption that merely because a fit system has
+ been duplicated (as Davidson's Swampman was) it suddenly loses some kind
+ of metaphysical fitness 
 \emph on
 pre
 \emph default
 condition.
- But that is exactly what Metzinger's reading of the adaptivity constraint
+ However, this is exactly what Metzinger's reading of the adaptivity constraint
  presupposes: That there is some secret ingredient to proper intentionality
- after all, a ghost in the machine reminescent of dualist theories despite
+ after all, a ghost in the machine reminiscent of dualist theories despite
  all our efforts to banish it.
 \begin_inset Foot
 status open
@@ -5237,7 +5363,8 @@ reference "Transparency"
 
 \begin_layout Standard
 I do not deny the importance of evolution for today's kind of intelligence.
- It was essential, both as a driving force and a shaping constraint.
+ It certainly seems to have been essential, both as a driving force and
+ a shaping constraint.
  However, even from a purely teleofunctionalist point of view, 
 \begin_inset Quotes eld
 \end_inset
@@ -5246,17 +5373,17 @@ proper history
 \begin_inset Quotes erd
 \end_inset
 
- cannot be a criterion for the degree of intentionality a system has.
+ cannot be a criterion for the degree of intentionality a system possesses.
  
 \begin_inset Quotes eld
 \end_inset
 
-Fitness for purpose
+Fitness for purpose,
 \begin_inset Quotes erd
 \end_inset
 
- however can be, even if we're talking about intuitively non-replicable
- things like emotions (that, essentially, are nothing but 
+ however, can be, even if we are talking about intuitively non-replicable
+ things like emotions (which, essentially, are nothing but 
 \begin_inset Quotes eld
 \end_inset
 
@@ -5264,17 +5391,63 @@ logic of survival
 \begin_inset Quotes erd
 \end_inset
 
- indicators) or qualia -- and as such, I'd like to propose a weaker form
- of Metzinger's adaptivity constraint.
+ indicators) or qualia -- and as such, I would like to propose a weaker
+ form of Metzinger's adaptivity constraint.
  While an organism may pursue the goals of its ancestors, while this may
  be important for all of today's biological sentient systems (including
- humans), it is not necessary for proper consciousness.
+ humans), it is not necessary for other, as of yet unknown, kinds of proper
+ consciousness.
 \end_layout
 
 \begin_layout Standard
-Essentially, I want to take Metzinger's normative approach to what good
- representata are and slightly alter it.
- It is:
+My suggestion is to take Metzinger's normative approach to what good representat
+a
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Of course, the very notion of representata being 
+\begin_inset Quotes eld
+\end_inset
+
+good
+\begin_inset Quotes erd
+\end_inset
+
+ implies them being good for something, unless we want Platonian ideas entering
+ the discussion.
+ The argument is prone to becoming circular if 
+\begin_inset Quotes eld
+\end_inset
+
+good
+\begin_inset Quotes erd
+\end_inset
+
+ is defined as 
+\begin_inset Quotes eld
+\end_inset
+
+beneficial for survival
+\begin_inset Quotes erd
+\end_inset
+
+.
+ Metzinger does not explore this further, but 
+\begin_inset Quotes eld
+\end_inset
+
+fitness for purpose
+\begin_inset Quotes erd
+\end_inset
+
+ seems to be a fitting description of his intentions at this point.
+\end_layout
+
+\end_inset
+
+ are and slightly alter it.
+ His normative definition of good representata is:
 \end_layout
 
 \begin_layout Quotation
@@ -5283,7 +5456,7 @@ Phenomenal representata are
 good
 \emph default
  representata if, and only if they successfully and reliably depict those
- causal proerties of the interaction domain of an organism that were important
+ causal properties of the interaction domain of an organism that were important
  for reproductive success.
 \begin_inset Foot
 status open
@@ -5305,7 +5478,7 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-And, the change I propose is simple:
+The change I propose is simple:
 \end_layout
 
 \begin_layout Quotation
@@ -5335,7 +5508,7 @@ Are
 \begin_inset Quotes erd
 \end_inset
 
- over 
+ instead of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -5344,7 +5517,7 @@ were
 \end_inset
 
 , because while the history of a system's genesis might be interesting for
- evolutionary purposes, it is not required for adaptivity.
+ evolutionary or historiographical purposes, it is not required for adaptivity.
 \end_layout
 
 \begin_layout Itemize
@@ -5355,7 +5528,7 @@ Survival
 \begin_inset Quotes erd
 \end_inset
 
- over 
+ instead of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -5363,9 +5536,9 @@ reproduction
 \begin_inset Quotes erd
 \end_inset
 
- because a postbiotic or artificial system need not necessarily be able
- to reproduce, particularly if it is not plagued by death of individuals
- and phenotypes like us humans are.
+ because a postbiotic or artificial system does not necessarily need to
+ be able to reproduce, particularly if it is not plagued by death of individuals
+ and phenotypes like we humans are.
  Of course, when applied to biologic organisms, 
 \begin_inset Quotes eld
 \end_inset
@@ -5374,7 +5547,7 @@ survival of the genotype
 \begin_inset Quotes erd
 \end_inset
 
- includes reproduction for the individual organism.
+ presupposes reproduction for the individual organism.
 \end_layout
 
 \begin_layout Subsubsection
@@ -5398,7 +5571,7 @@ key "GloorModjib2008"
 , I suggested going beyond Husserl's phenomenology and altering two fundamental
  phenomenological premises in order to make phenomenology compatible with
  a non-dualist world view.
- Those premises were:
+ These premises were:
 \end_layout
 
 \begin_layout Itemize
@@ -5409,9 +5582,9 @@ Mental objects are immaterial
 \begin_inset Quotes erd
 \end_inset
 
- -- as soon as we give up the notion that mental objects are per se not
- understandable, we can start to analyze them.
- Which is exactly what I attempt to do in this thesis.
+: as soon as we give up the notion that mental objects are per se not understand
+able, we can start to analyze them; Which is exactly what I attempt to do
+ in this thesis.
 \end_layout
 
 \begin_layout Itemize
@@ -5422,9 +5595,21 @@ Mental objects can be directed at objects in the world
 \begin_inset Quotes erd
 \end_inset
 
- -- if we assume that mental objects are merely directed at mental models
- of things in the world (that are in turn created by things in the world
- that enter the 
+: if we assume that mental objects are merely directed at mental models
+ of things in the world,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+These models are in turn created by things in the world that 
+\begin_inset Quotes eld
+\end_inset
+
+enter
+\begin_inset Quotes erd
+\end_inset
+
+ the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -5432,15 +5617,20 @@ mental space
 \begin_inset Quotes erd
 \end_inset
 
- via physically analyzable pathways, for example light that hits light-detecting
- nerve cells in the eye), we can causally analyze their interdependence,
- and form models of this directedness, because the kinds that are now directed
- at each other are of the same kind.
+ via physically analyzable pathways, for example light hitting light-detecting
+ nerve cells in the eye.
+\end_layout
+
+\end_inset
+
+ we can causally analyze their interdependence and form models of this directedn
+ess, because the entities that are now directed at each other are of the
+ same kind.
 \end_layout
 
 \begin_layout Standard
-I don't think I deviated that much from Husserl's ideas with those suggestions
- even.
+I don not think I even deviated that much from Husserl's ideas with those
+ suggestions.
 \begin_inset Foot
 status open
 
@@ -5453,17 +5643,26 @@ Thanks again to Prof.
 \end_inset
 
  Husserl realized that there is a cognitive closure, that we cannot perceive
- what Metzinger would call transparent properties of mental events.
- Husserl merely didn't attempt to look behind what is introspectively accessable
- because he thought there would be no point in attempting to explain something
- where we do not even know what the explanandum itself is.
- And he did not attempt to form an ontological theory, but rather an epistemolog
+ transparent properties of mental events (using Metzinger's notion of 
+\begin_inset Quotes eld
+\end_inset
+
+transparency
+\begin_inset Quotes erd
+\end_inset
+
+, as per constraint 7).
+ Husserl merely did not attempt to look behind what is introspectively accessibl
+e, because he thought there would be no point in attempting to explain something
+ when we do not even know what the explanandum itself is.
+ Neither did he attempt to form an ontological theory, but rather an epistemolog
 ically plausible one.
 \end_layout
 
 \begin_layout Standard
-I do believe that neurological and psychological research has brought us
- to a point where that explanandum becomes at least a little bit less umbral.
+I believe that neurological and psychological research has brought us to
+ a point where that explanandum becomes -- at least a little bit -- less
+ obscure.
 \end_layout
 
 \begin_layout Standard
@@ -5484,17 +5683,17 @@ Qualia
 \end_layout
 
 \begin_layout Standard
-Qualia are the specific 
+Qualia are generally said to be the specific 
 \begin_inset Quotes eld
 \end_inset
 
-what is it like
+what-is-it-like
 \begin_inset Quotes erd
 \end_inset
 
  structure of experience.
  Opinions on what exactly this structure is, and how to best research it,
- widely differ.
+ differ widely.
  What is common to all notions of qualia are that they are among the most
  basic available bits of epistemic knowledge when it comes to conscousness,
  and that they seem to be indivisible from a first-person point of view.
