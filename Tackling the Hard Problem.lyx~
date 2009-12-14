@@ -7650,8 +7650,33 @@ Presentational content also supervenes on internal physical and functional
  Metzinger offers presentational content as a followup concept for qualia,
  or rather, a concept which would explain what seems to be so special about
  qualia.
- At the same time, presentational content is always incorporated into a
- higher-order whole in terms of the 
+ At the same time, 
+\begin_inset Quotes eld
+\end_inset
+
+presentational content never occurs alone; it is always incorporated into
+ a higher-order whole
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 88.
+\end_layout
+
+\end_inset
+
+ in terms of the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -7671,15 +7696,15 @@ reference "Convolved-holism"
 
 \begin_layout Standard
 Phenomenal presentational content then is experienced from a first-person
- point of view, but it is important to realize that this can't mean that
- it is presented to an entity (say, a homunculus).
- It is also not simply property exemplification -- because that would already
- imply that those properties could be compared to each other, they would
- require transtemporal and logical identity criteria.
+ point of view, but it is important to recognize that this can not mean
+ that it is presented to an entity (say, a homunculus).
+ Moreover, it is not simply property exemplification -- because that would
+ already imply that those properties could be compared to each other, requiring
+ transtemporal and logical identity criteria.
 \end_layout
 
 \begin_layout Standard
-Metzinger goes beyond traditional models and finds that 
+Metzinger goes beyond traditional models and suggests that 
 \begin_inset Quotes eld
 \end_inset
 
@@ -7781,14 +7806,29 @@ key "Metzinger2003"
 \begin_layout Standard
 This is a rather mathematical description.
  However, the idea that qualia as such don't exist, but rather every recognizabl
-e quale corresponds to a (non-divisible by introspection) volume in quality
- space, does make sense and also takes into account that there certainly
- are differently wide or narrow interpretations of, for example, redness.
- That quality space then is continuously regenerated in a dynamical process,
- and no actual entities are generated - rather, ceteris paribus, always
- the same input drives always the same presentational processes (that are
- then experienced as always the same objects being perceived in the same
- ways).
+e quale corresponds to a (non-divisible by introspection) volume in this
+ 
+\begin_inset Quotes eld
+\end_inset
+
+quality space,
+\begin_inset Quotes erd
+\end_inset
+
+ makes sense and also takes into account that there certainly are numerous
+ wider or narrower interpretations of, for example, redness.
+ This 
+\begin_inset Quotes eld
+\end_inset
+
+quality space
+\begin_inset Quotes erd
+\end_inset
+
+ then is continuously regenerated in a dynamical process, and no actual
+ entities are generated -- rather, ceteris paribus: The same input always
+ drives the same presentational processes (which are then experienced as
+ always the same objects being perceived in the same ways).
 \begin_inset Foot
 status open
 
@@ -7815,7 +7855,8 @@ the way a piano sounds
 \end_layout
 
 \begin_layout Standard
-Presentational content like that has interesting properties.
+Presentational content itself, the way Metzinger defines it, has interesting
+ properties.
  Phenomenal states generated in this way are particularized by three important
  implications:
 \begin_inset Foot
@@ -7838,8 +7879,8 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Enumerate
-They have to appear as fundamental aspects of reality (generating a reference
- system, the 
+To the system, they have to appear as fundamental aspects of reality (generating
+ a reference system, the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -7847,8 +7888,8 @@ world zero
 \begin_inset Quotes erd
 \end_inset
 
-) to the system, because they are available for guided attention, but cannot
- be further subdivided.
+), because they are available for guided attention, but cannot be further
+ subdivided.
 \end_layout
 
 \begin_layout Enumerate
@@ -7856,13 +7897,13 @@ They are fully transparent.
 \end_layout
 
 \begin_layout Enumerate
-They allow us to take a step towards the functional and neuroscientific
+They enable us to take a step towards the functional and neuroscientific
  investigation of the physical underpinnings of sensory experience.
 \end_layout
 
 \begin_layout Standard
-For Metzinger, the approach (and particularly the order of the chapters)
- I took here is the wrong way around.
+For Metzinger, my approach (and in particular the order of the chapters)
+ in this thesis is the wrong way around.
  It is not phenomenality that enables the perception of qualia, but rather,
  presentational content (which can be experienced as qualia) is the foundation
  of phenomenality.
