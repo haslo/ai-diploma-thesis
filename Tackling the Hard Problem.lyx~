@@ -289,8 +289,8 @@ thank you
 \begin_inset Quotes erd
 \end_inset
 
- to Simon Bünzli, Stefan Aeschbacher, and Daniela Reist, who were the proofreade
-rs who found plenty of errors, typos and mistakes.
+ to Simon Bünzli and Stefan Aeschbacher, who cross-read the thesis and found
+ plenty of errors and mistakes, and Daniela Reist, proofreader par excellence.
  
 \begin_inset Newpage pagebreak
 \end_inset
@@ -538,10 +538,16 @@ reference "Summary"
 \begin_layout Standard
 It is important to keep in mind that what seems to be definitions in the
  following list of concepts really is merely an attempt at summarizing entire
- philosophical debates on meanings.
- I do not intend to challenge the ways in which other philosophers understand
- one particular concept or another, but rather attempt to understand what's
- behind those concepts and how they're linked together.
+ philosophical debates on meanings, and thus do not contain any references.
+ Please refer to the respective chapters for my attempts at clearing up
+ what the terms actually mean.
+\end_layout
+
+\begin_layout Standard
+I do not intend to challenge the ways in which other philosophers understand
+ one particular concept or another, but rather attempt to understand what
+ different readings there are, what is the core of those concepts and how
+ they're linked together.
  As a matter of fact, in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -591,6 +597,24 @@ Qualia:
 \emph default
  The particular non-subdivisable entities of atomic quality we perceive
  when we experience things.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This is a particularly heated point of debate, I think Metzinger's qualification
+ that this thesis touches in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Kinds-of-Qualia"
+
+\end_inset
+
+ is enlightening concerning why philosophers tend to disagree on whether
+ such atomic entities exist or not.
+\end_layout
+
+\end_inset
+
  This has been a passion of many philosophers since Lewis and Nagel; there
  is a pecularity about our experience in that it seems to consist of atomic
  smallest bits of experience which cannot be subdivided any further -- the
@@ -652,8 +676,8 @@ mental focus
 
 \begin_layout Standard
 I will dedicate a chapter to each of these four parts, defining what exactly
- is puzzling about them and then looking at possible explanations for their
- origins and constitution.
+ is puzzling about them, what different readings there were, and then looking
+ at possible explanations for their origins and constitution.
  In doing so, we will also look at philosophers who worked with those concepts
  and attempt to find out what they really are, at least according to those
  philosophers' definitions.
@@ -1161,14 +1185,14 @@ Any system that satisfies those conditions necessarily has to be conscious
 \begin_inset Quotes eld
 \end_inset
 
-constraints,
+constraints.
 \begin_inset Quotes erd
 \end_inset
 
- however this nomenclature does make sense once we realize that they are
- not primarily about what a system has to be able to do, but importantly
- also about what boundaries the system's capabilities need to have, in order
- to be truly conscious.
+ This nomenclature is consistent with his theory however once we realize
+ that they are not primarily about what a system has to be able to do, but
+ importantly also about what boundaries the system's capabilities need to
+ have, in order for the system to be truly conscious.
  Particularly the transparency constraint that we will meet in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -1206,12 +1230,25 @@ key "Metzinger2003"
 
 \end_inset
 
- These include the phenomenological level (gained introspectively, analyzed
- epistemically), the representationalist level (intentional content), the
- informational-computational level (computational function and goal), the
- functional level (purely causal properties independent of physical realization)
- and finally the physical-neurobiological level (direct neural corellates
- in usually human brains).
+ These include the phenomenological level, the representationalist level,
+ the informational-computational level, the functional level and finally
+ the physical-neurobiological level.
+ I will further explore these levels and Metzinger's use of the term 
+\begin_inset Quotes eld
+\end_inset
+
+constraint
+\begin_inset Quotes erd
+\end_inset
+
+ in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Metzinger's-nomenclature"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -2326,6 +2363,12 @@ world zero
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Convolved-holism"
+
+\end_inset
+
 Constraint 4: 
 \begin_inset Quotes eld
 \end_inset
@@ -3920,7 +3963,7 @@ are
  adaptivity.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Consciousness, first, is an instrument to generate successful behavior;
  like the nervous system itself it is a device that evolved for motor control
  and sensorimotor integration.
@@ -4417,7 +4460,21 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Metzinger's-nomenclature"
+
+\end_inset
+
 Metzinger's nomenclature: 
+\begin_inset Quotes eld
+\end_inset
+
+Multilevel
+\begin_inset Quotes erd
+\end_inset
+
+, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -4433,14 +4490,32 @@ At first sight, it seems odd that Metzinger chooses the name
 \begin_inset Quotes eld
 \end_inset
 
-constraints
+multilevels constraints
 \begin_inset Quotes erd
 \end_inset
 
  for his definitions of what could be described as preconditions that are
  necessary for a system to exhibit consciousness.
- It makes sense though when we look at it this way: An otherwise completely
- unconstrained computive system of any kind that satisfies these constraints
+ In order for it to make sense, we have to look at it this way: An otherwise
+ completely unconstrained data processing system of any kind that satisfies
+ a sufficient number of these constraints
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Levels-of-Consciousness"
+
+\end_inset
+
+ for the different levels of consciousness different combinations of constraints
+ will produce.
+\end_layout
+
+\end_inset
+
  will exhibit consciousness.
  The things Metzinger describes are apparently not so much minimal preconditions
 , but really restrictions that can be applied to any system that is able
@@ -4448,25 +4523,115 @@ constraints
 \end_layout
 
 \begin_layout Standard
-Still, of course they could also be called 
+As we saw in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multilevel-Constraints"
+
+\end_inset
+
+, the constraints are 
 \begin_inset Quotes eld
 \end_inset
 
-minimal preconditions
+multilevel
+\begin_inset Quotes erd
+\end_inset
+
+ in that Metzinger attempts to capture all the important levels of description
+ he considers to be important for consciousness research for each of them.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 110; I paraphrase some of his descriptions.
+\end_layout
+
+\end_inset
+
+ He distinguishes the following levels:
+\end_layout
+
+\begin_layout Itemize
+The 
+\emph on
+phenomenological
+\emph default
+ level of description.
+ Insight into this level is gained introspectively and then analyzed epistemical
+ly, it describes how a system experiences the constraint phenomenologically.
+\end_layout
+
+\begin_layout Itemize
+The 
+\emph on
+representationalist
+\emph default
+ level of description, describing the intentional content -- the relationship
+ between form and content for phenomenal representata.
+ Insight into this level is gained introspectively as well.
+\end_layout
+
+\begin_layout Itemize
+The 
+\emph on
+informational-computational
+\emph default
+ level of description, which concerns the computational function and teleologica
+l goal of the constraint, what function the constraint serves for the system
+ as a whole.
+ This and the further levels can only be analyzed by external means, not
+ introspection by the system itself.
+\end_layout
+
+\begin_layout Itemize
+The 
+\emph on
+functional
+\emph default
+ level of description, concerning purely causal properties independent of
+ physical realization.
+ An analysis of this level necessarily raises questions about the possibility
+ of functional correlates of consciousness independent of realization.
+\end_layout
+
+\begin_layout Itemize
+The 
+\emph on
+physical-neurobiological
+\emph default
+ level, investigating direct neural corellates of the constraint in usually
+ human brains.
+ This is a largely unexplored subject for many of Metzinger's constraints.
+\end_layout
+
+\begin_layout Standard
+Still, of course the multilevel constraints could also be called 
+\begin_inset Quotes eld
+\end_inset
+
+minimal (multilevel) preconditions
 \begin_inset Quotes erd
 \end_inset
 
 .
  This holds true for all constraints except constraint 11, the adaptivity
- constraint, which is special in more than one way anyway however (see chapter
- 
+ constraint, which is special in more than one way anyway however.
+ I will explore this thought further in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Adaptivity-Questioned"
 
 \end_inset
 
-).
+.
 \end_layout
 
 \begin_layout Subsubsection
@@ -4492,7 +4657,7 @@ reference "Heterophenomenology"
  He makes this quite explicit:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Lone-wolf autophenomenology, in which the subject and experimenter are one
  and the same person, is a foul, not because you can’t do it, but because
  it isn’t science until you turn your self-administered pilot studies into
@@ -4525,7 +4690,7 @@ e phenomenon, would fall victim to the above argumentation of Dennett's.
  Husserl, however, may even agree with Dennett:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 It is absolutely clear; scientific conclusions regarding phenomena are not
  feasible after phenomenologic reduction, in particular if we conceptually
  define those phenomena as absolutely distinct and unique.
@@ -4586,7 +4751,7 @@ Thus, individual phenomenal experiences only gain a scientific meaning if
 Husserl also does not presuppose infallibility of phenomenal experience:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 What the referenced object actually is is not topic of our research; it
  may exist or not, and we may doubt the meaning of its existence, evidentially
  it is part of the essence of experience that it experiences something,
@@ -4715,7 +4880,7 @@ seem to be
  Minsky quotes Newman:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 [In the Global Workspace theory] The theater becomes a workspace to which
  the entire audience of “experts” has potential access ...
  Awareness, at any moment, corresponds to the pattern of activity produced
@@ -4761,7 +4926,7 @@ key "Minsky2006"
 However, global availability should not be overrated:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 How could such machines [such as individually unique human brains] work
  reliably, in spite of so much variety [in terms of environmental and self-model
 ing]? To explain this, quite a few thinkers have argued that our brains
@@ -4778,7 +4943,7 @@ holistic
  would still be the same in spite of the loss of some of its parts.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 However, [I] suggest that we do not need any such magical tricks -- because
  we have so many different ways to accomplish any type of job.
  Also, it makes sense to suppose that many parts of our brains evolved as
@@ -5027,7 +5192,7 @@ The aim of this thought experiment is showing that an exact replica of a
  Metzinger writes:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 [...] for instance, it has many false memories about its own history be they
  as conscious as they may.
  The active phenomenal representations in Swampman's brain would [...] 
@@ -5137,7 +5302,7 @@ cal postbiotic intelligence -- even if it were built from actual organic
  own:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 [...] it would still follow that these postbiotic phenomenal systems would
  only be conscious in a slightly weaker sense than human beings, because
  human beings were necessary to trigger the second-level evolutionary process
@@ -5203,7 +5368,7 @@ name "Weaker-Adaptivity"
 
 \end_inset
 
-A Weaker Adaptivity Constraint
+A weaker adaptivity constraint
 \end_layout
 
 \begin_layout Standard
@@ -5229,7 +5394,7 @@ key "Lycan2008"
  He introduces his commitment like this:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 [...] representata have been specified by an additional 
 \emph on
 teleological
@@ -5450,7 +5615,7 @@ fitness for purpose
  His normative definition of good representata is:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Phenomenal representata are 
 \emph on
 good
@@ -5481,7 +5646,7 @@ key "Metzinger2003"
 The change I propose is simple:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Phenomenal representata are 
 \emph on
 good
@@ -5557,7 +5722,7 @@ name "Rational-Causalist-Phenomenology"
 
 \end_inset
 
-Rational-Causalist Phenomenology Reconsidered
+Rational-causalist phenomenology reconsidered
 \end_layout
 
 \begin_layout Standard
@@ -5694,23 +5859,24 @@ what-is-it-like
  structure of experience.
  Opinions on what exactly this structure is, and how to best research it,
  differ widely.
- What is common to all notions of qualia are that they are among the most
- basic available bits of epistemic knowledge when it comes to conscousness,
- and that they seem to be indivisible from a first-person point of view.
+ What is common to most notions of qualia is that they are among the most
+ basic available bits of epistemic knowledge concerning conscousness, and
+ that they seem to be indivisible from a first-person point of view.
 \end_layout
 
 \begin_layout Standard
-Examples are distinct shades of red and green in a picture we look at, or
- the specific nature of the sound of a piano, or the particular way a glass
- of good wine tastes, or the enjoyment we can get out of a particular way
- sunlight is cast through treetops in a forest.
- Dennett makes an example of the plethora of qualia that we can experience
- and enjoy.
+Examples are our experience of distinct shades of red and green in a picture
+ we look at, or of the specific character of the sound of a piano, or the
+ particular kind of taste of a glass of good wine, or the enjoyment we derive
+ from a particular manner in which sunlight is cast through treetops in
+ a forest.
+ Dennett makes an example of the plethora of qualia we can experience and
+ enjoy.
  He later deconstructs this example, but I find it to be a rather good descripti
-on of why we find qualia so interesting anyway:
+on of why we find qualia so interesting:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Green-golden sunlight was streaming in the window that early spring day,
  and the thousands of branches and twigs of the maple tree in the yard were
  still clearly visible through a mist of green buds, forming an elegant
@@ -5723,7 +5889,7 @@ Green-golden sunlight was streaming in the window that early spring day,
  branches in the breeze.
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 [...] The enjoyment I felt in the combination of sunny light, sunny Vivaldi
  violins, rippling branches -- plus the pleasure I took in just thinking
  about it all -- how could 
@@ -5751,7 +5917,7 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-Well, how could it? Let's see.
+What is precisely the crux of the matter -- how could it? Wait and see.
 \end_layout
 
 \begin_layout Subsection
@@ -5761,7 +5927,7 @@ name "Lewis-Qualia"
 
 \end_inset
 
-Lewis: Introducing Qualia
+Lewis: Introducing qualia
 \end_layout
 
 \begin_layout Standard
@@ -5769,7 +5935,7 @@ Clarence Irving Lewis introduced qualia as maximally simple forms of sensory
  content like this:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 In any presentation, this content is either a specific quale (such as the
  immediacy of redness or loudness) or something analyzable into a complex
  of such.
@@ -5779,7 +5945,7 @@ In any presentation, this content is either a specific quale (such as the
  [...]
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 What any concept denotes -- or any adjective such as 
 \begin_inset Quotes eld
 \end_inset
@@ -5856,15 +6022,7 @@ key "Lewis1929"
 \end_inset
 
 qualia are subjective; they have no names in ordinary discourse but are
- indicated by some circumlocution such as 
-\begin_inset Quotes eld
-\end_inset
-
-looks like.
-\begin_inset Quotes erd
-\end_inset
-
-
+ indicated by some circumlocution such as `looks like.'
 \begin_inset Quotes erd
 \end_inset
 
@@ -5900,11 +6058,11 @@ Qualia are recognizable and thus also categorizable -- but they are not
 \end_layout
 
 \begin_layout Standard
-Epistemically, it is not possible to be mistaken about qualia, we always
- do know which qualia we experience.
- However, it is possible that the concepts the experienced qualia relate
- to are wrong and (while part of our world model) not part of the external
- world.
+Epistemically, it is not possible to be mistaken about qualia; we always
+ know which qualia we experience.
+ However, it is possible that the concepts to which the experienced qualia
+ relate are wrong, and (while part of our world model), not part of the
+ external world.
  As Metzinger points out,
 \begin_inset Foot
 status open
@@ -5927,7 +6085,7 @@ g.
 \end_layout
 
 \begin_layout Standard
-This work of Lewis was hugely influental.
+Lewis work was hugely influental.
  Thomas Nagel later coined the term of 
 \begin_inset Quotes eld
 \end_inset
@@ -5937,15 +6095,15 @@ what-it-is-like-ness,
 \end_inset
 
  which further exemplified what is special about simple sensory content.
- We do face huge problems when we attempt to imagine what it is like to
- be a bat:
+ For instance, taking his most prominent example, we face serious problems
+ when we attempt to imagine what it is like to be a bat:
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-It is well worth noting that Nagel was not anti-physicalist, nor anti-reductioni
-st, eventhough this quote seems to imply this -- he merely pointed out that
- 
+It is worth noting that Nagel was not anti-physicalist, nor anti-reductionist,
+ even though this quote seems to imply this.
+ He merely pointed out that 
 \begin_inset Quotes eld
 \end_inset
 
@@ -5966,12 +6124,12 @@ key "Nagel1974"
  imagine how moving away from the specificially first-person way of experiencing
  things can get us any closer to how that specificially first-person way
  of experiencing things happens.
- I do believe that it is possible to explain this on a functional level,
- as well as through neurophysiology that Nagel himself admitted faces no
- such obstacles.
- Nevertheless we indeed do face obstacles right now, because in our current
- position, we have to rely on empathy for emulation and proper appreciation
- of other minds.
+ This must be explainable on a functional level, as well as by neurophysiology
+ (which, as Nagel himself admitted, faces no such obstacles).
+ Nevertheless, we are faced with some obstacles right now, because in our
+ current position, we have to rely on empathy for emulation and proper appreciat
+ion of other minds and have no way of easily and objectively formalizing
+ them.
 \end_layout
 
 \end_inset
@@ -5979,7 +6137,7 @@ key "Nagel1974"
 
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 In so far as I can imagine this (which is not very far), it tells me only
  what it would be like for me to behave as a bat behaves.
  But that is not the question.
@@ -6018,9 +6176,9 @@ reference "Kinds-of-Qualia"
 \end_inset
 
 .
- Nagel's observations, I believe, hold true for all of them.
+ Nagel's observations seem to hold true for all of them.
  We cannot imagine what it is like to be a bat -- all we can imagine is
- what it is like to be a (particular) human that pretends to be a bat.
+ what it is like to be a (particular) human being who pretends to be a bat.
 \end_layout
 
 \begin_layout Subsection
@@ -6030,12 +6188,12 @@ name "Dennett-No-Qualia"
 
 \end_inset
 
-Dennett: No Qualia Whatsoever
+Dennett: No qualia whatsoever
 \end_layout
 
 \begin_layout Standard
-Dennett adopts quite a radical stance when it comes to qualia: For him,
- they (at least in their traditional reading) don't exist.
+Dennett adopts a quite radical stance regarding qualia: For him, they (at
+ least in their traditional reading) do not exist.
 \begin_inset Foot
 status open
 
@@ -6052,13 +6210,20 @@ key "Dennett1988"
 
 \end_inset
 
- There is nothing irreducibly, inexplicably special about atomic entities
- of phenomenal qualities of subjective experience.
+ There is nothing irreducibly, inexplicably special about 
+\begin_inset Quotes eld
+\end_inset
+
+atomic
+\begin_inset Quotes erd
+\end_inset
+
+ entities of phenomenal qualities of subjective experience.
  He proposes a fresh start, one without the history of the discussion about
  qualia and their special atomic nature:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Even though philosophers have discovered the paradoxes inherent in this
  closed circle of ideas [regarding qualia] -- that's why the literature
  on qualia exists -- they haven't had a 
@@ -6091,28 +6256,34 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-Let us look at what that Multiple Drafts model is, and see how Dennett believes
- it can replace qualia.
+Let us examine this Multiple Drafts model in detail, and establish why Dennett
+ believes it can replace qualia.
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Orwellian-Stalinesque"
+
+\end_inset
+
 Orwellian vs.
- Stalinesque Revisions
+ Stalinesque revisions
 \end_layout
 
 \begin_layout Standard
-It is a fact that sometimes, we misrepresent past happenings.
- This is not only true for things that happened days or months ago, but
- sometimes we even seem to have experienced them different from how they
+It is a fact that sometimes we misrepresent past happenings.
+ This is not only true for things which happened days or months ago, but
+ sometimes we even seem to have experienced them differently to how they
  actually and observably happened, right after the fact, or even seemingly
  in the act of perceiving them.
- One example of the many he puts forth is how subjects seem to experience
- taps within 1-3 seconds, in only three distinct places (wrist, elbow and
- upper arm) on one of their arms, as if a small animal was continuously
- walking up that arm:
+ One of the many examples Dennett puts forward is how subjects seem to experienc
+e taps within 1 to 3 seconds, in only three distinct places (wrist, elbow
+ and upper arm) on one of their arms, as if a small animal was steadily
+ crawling up that arm:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The astonishing effect is that the taps seem to the subjects to travel in
  regular sequence over equidistant points up the arm -- as if a little animal
  were hopping along the arm.
@@ -6161,7 +6332,8 @@ Dennett tries to find out how that can happen.
 \emph on
 Orwellian revisions:
 \emph default
- Like the Ministry of Truth in Orwell's novel 1984
+ This explanation has parallels to the Ministry of Truth in Orwell's novel
+ 1984
 \begin_inset Foot
 status open
 
@@ -6178,10 +6350,10 @@ key "Orwell1949"
 
 \end_inset
 
- rewrites history all the time: This theory would suggest that processes
+ in that it rewrites history all the time: This theory suggests that processes
  in the brain rewrite memories after the experience itself has happened,
  altering not the experience itself, but our memories of it.
- So if we have wrong memories of happenings in the past, we had correct
+ So, if we have wrong memories of happenings in the past, we had correct
  memories once, but they changed over time.
 \end_layout
 
@@ -6190,11 +6362,11 @@ key "Orwell1949"
 \emph on
 Stalinesque revisions:
 \emph default
- Like the Stalin gouvernment misrepresented facts through the censored media
- to its populace, complete with false evidence and elaborate productions:
- This theory would suggest that we experience worldly contents that have
- been altered by lower-level brain processes already.
- So if we have wrong memories of happenings in the past, it is not because
+ Like the Stalin government misrepresented facts through the censored media
+ to its populace, complete with false evidence and elaborate productions,
+ this explanation changes things as they happen: We experience worldly contents
+ that have been altered by lower-level brain processes already.
+ So, if we have wrong memories of happenings in the past, it is not because
  the memories are misrepresentations of past experience, but because that
  past experience already was factually wrong.
 \end_layout
@@ -6210,13 +6382,44 @@ in the past
 
  can well be only seconds ago -- after all, short-term memory may be a very
  special kind of memory with a very special structure, but it consists of
- mental content (formed, as Metzinger rightly emphasizes, by ever-changing
- physical representations where the current form of the vehicle is actually
- part of the content) just like long-term memory.
+ mental content
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Mental content like appears to be formed, as Metzinger rightly (albeit often
+ implicitly) emphasizes, by ever-changing physical representations where
+ the current form of the vehicle is actually part of and forms the content.
+ For example, he does this in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 114, when talking about how an intentionality relation is internally
+ modeled:
+\end_layout
+
+\begin_layout Quote
+Intended cognition now means that a system actively -- corresponding to
+ its own needs and epistemic goals -- changes the physical basis on which
+ the representational content of its current mental state supervenes.
+\end_layout
+
+\begin_layout Plain Layout
+This goes even further, because the brain actively remodels neuron connections
+ in processes like learning or forming memories, and those very connections
+ are what forms the mental content in the first place.
+\end_layout
+
+\end_inset
+
+ just like long-term memory.
 \end_layout
 
 \begin_layout Subsubsection
-Multiple Drafts
+Multiple drafts
 \end_layout
 
 \begin_layout Standard
@@ -6234,7 +6437,7 @@ For example, if Stalinesque revisions were correct, there would need to
 
 \end_inset
 
- while Stalinesque revisions seem to be clearly correct in others,
+ while Stalinesque revisions seem to be obviously correct in others,
 \begin_inset Foot
 status open
 
@@ -6248,15 +6451,16 @@ In a psychological experiment where a red and a green dot next to each other
 
 \end_inset
 
- it appears that the answer must lie somewhere in the middle (yet again).
- Furthermore, what we've seen in chapter 
+ it appears that the answer must be a compromise that incorporates aspects
+ of both.
+ Furthermore, what we saw in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Cartesian-Theater"
 
 \end_inset
 
- (whihc is that there is no Cartesian theater, and mainly the 
+ (which is that there is no Cartesian theater, but mainly the 
 \begin_inset Quotes eld
 \end_inset
 
@@ -6282,17 +6486,24 @@ key "Dennett1991"
 \end_inset
 
  that Dennett finds) suggests that there is no such point that would allow
- us to decide whether a revision has been made before or after some perception
- has become conscious.
+ us to decide whether a revision has been made 
+\emph on
+before
+\emph default
+ or 
+\emph on
+after
+\emph default
+ some perception has become conscious.
 \end_layout
 
 \begin_layout Standard
-Dennett's model of multiple drafts builds on exactly those two observations
- and finds a very elegant solution to the problems they pose to dualist
- or epiphenomenal views:
+Dennett's model of multiple drafts builds on those two observations and
+ finds a quite elegant solution to the problems they pose to dualist or
+ epiphenomenal views:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 According to the Multiple Drafts model, all varieties of perception -- indeed,
  all varieties of thought or mental activity -- are accomplished in the
  brain by parallel, multitrack processes of interpretation and elaboration
@@ -6326,13 +6537,14 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-This leads to all kinds of things that seem oddly inconsistent at first
- sight, but are perfectly rational from a multiple drafts point of view.
+Dennett continues to explore some consequences that seem oddly inconsistent
+ at first sight, but are perfectly rational from a multiple drafts point
+ of view.
  Looking at these processes as a continuous stream from sensory input to
  eventual dissolving (or storage in long-term memory), he points out:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Probing this stream at different places and times produces different effects,
  precipates different narratives from the subject.
  If one delays the probe too long [...], the result is apt to be no narrative
@@ -6383,10 +6595,29 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-The great thing about this theory is that it stands up to empirical scrutiny,
+The vantage of this theory is that it has empirical legitimation,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dennett makes it his mission throughout 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+ in particular to list empirical evidence incompatible with less flexible
+ and more traditional theories, all of which are compatible with Dennett's
+ view.
+\end_layout
+
+\end_inset
+
  and that timings for example for processing of visual inputs can be found
  with experiments.
- Judgements can be distinguished between 
+ Several different kinds of judgements that a subject makes can be distinguished
+, among them 
 \begin_inset Quotes eld
 \end_inset
 
@@ -6413,17 +6644,18 @@ key "Dennett1991"
 
 \end_inset
 
- And all those judgements don't necessarily come together somewhere for
- a final review (although they can, in memory, where they can then be overwritte
-n or incorporated in other contents in a continuous editorial process),
- but are rather directly available for further processing and potentially
- actions.
+ And all those judgements don't necessarily come together somewhere in one
+ locus for a final review (although they can, in memory, where they can
+ then be overwritten or incorporated in other contents in a continuous editorial
+ process).
+ Rather, they are rather directly available for further processing and,
+ potentially, actions.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Metzinger would of course distinguish between different kinds of availability
- here, as we saw in chapter 
+Metzinger would distinguish between different kinds of availability here,
+ as we saw in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Global-Availability"
@@ -6431,9 +6663,9 @@ reference "Global-Availability"
 \end_inset
 
 .
- Dennett's focus lies elsewhere of course, but I think it is important to
- see where their two theories can benefit from each other -- this to me
- seems to be one such place.
+ Dennett's focus lies elsewhere of course, but it is important to see where
+ their two theories can benefit from each other -- this seems to be one
+ such place.
 \end_layout
 
 \end_inset
@@ -6442,7 +6674,7 @@ reference "Global-Availability"
 \end_layout
 
 \begin_layout Standard
-Dennett goes further and even suggests a few more things:
+Dennett goes further and even offers some additional suggestions:
 \end_layout
 
 \begin_layout Itemize
@@ -6473,16 +6705,9 @@ key "Dennett1991"
 
  since while there can be a version that is stored in long-term memory,
  earlier probings (when more parallel processes are still running) usually
- yield more information about the specific nature of the running processes
- and their 
-\begin_inset Quotes eld
-\end_inset
-
-mental contents.
-\begin_inset Quotes erd
-\end_inset
-
-
+ yield more information about the specific nature of the running processes,
+ and some mental content is at that time phenomenally perceived as being
+ in the center of attention.
 \end_layout
 
 \begin_layout Itemize
@@ -6513,14 +6738,14 @@ key "Dennett1991"
 
 \end_inset
 
-) -- there is the possibility of backwards projection of perceived events
+); there is thus the possibility of backwards projection of perceived events
  in time.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
 A particularly striking example and one of my favourites among the experiments
- Dennett brings forth to support his theory is one by Libet that he introduces
+ Dennett brings forth to support his theory is one by Libet which he introduces
  in 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -6536,12 +6761,12 @@ key "Libet1981"
 
 \end_inset
 
-, where Libet also arguments against opposition he faced from Churchland.
+, where Libet also argues against opposition he faced from Churchland.
 \end_layout
 
 \begin_layout Plain Layout
-In that experiment that was performed during a neural operation with awake
- subject and open brain, Libet stimulated the left and right hand of a patient,
+In this experiment performed during a neural operation with awake subject
+ and open brain, Libet stimulated the left and right hand of a patient,
  and also stimulated the observedly corresponding neural areas (that sit
  on the opposite side of the brain - left for the right hand and vice versa)
  directly.
@@ -6603,8 +6828,37 @@ key "Dennett1991"
 \end_inset
 
  is all about for Dennett.
- A portion of the world becomes an observer as soon as it starts composing
- a skein of narratives.
+ A section of the world becomes an observer as soon as it starts composing
+ a narrative, or rather, a 
+\begin_inset Quotes eld
+\end_inset
+
+skein of contents [which] is only rather like a narrative because of its
+ multiplicity; at any point in time there are multiple drafts of narrative
+ fragments at various stages of editing in various places in the brain.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 135.
+\end_layout
+
+\end_inset
+
+ And that, according to Dennett, is exactly what our brain does, and thus
+ it is able to phenomenally experience its surroundings in what it believes
+ to be qualia.
 \end_layout
 
 \begin_layout Subsubsection
@@ -6614,7 +6868,7 @@ name "Dennett-Disqualifying-Qualia"
 
 \end_inset
 
-Disqualifying Qualia
+Disqualifying qualia
 \end_layout
 
 \begin_layout Standard
@@ -6624,11 +6878,21 @@ Dennett starts with the observations that led him to his multiple drafts
 \end_layout
 
 \begin_layout Standard
-An important point is that feature detectors that make us experience something
- as “blue” or “bitter” co-evolved with the features they detect.
- Color vision evolved because there were features distinguishable by colour,
- and vice versa, starting small and growing from there - and the fact that
- a butterfly's wings have the same blue as cobalt does is mere coincidence.
+An important point of Dennett's theory regarding qualia is that feature
+ detectors which make us experience something as “blue” or “bitter” co-evolved
+ with the features they detect.
+ Color vision evolved because there were features distinguishable by color,
+ or rather, because color happens to be a concept that is able to interpret
+ random side features of chemical composition of certain aspects of our
+ ancient predecessor's surroundings in a way that is beneficial for an individua
+l's survival in that it makes the individual able to draw distinctions that
+ happen to correlate with what is now known as color differences.
+\end_layout
+
+\begin_layout Standard
+So color vision evolved because there were features distinguishable by color,
+ and vice versa, starting small and growing from there - yet the fact that
+ a butterfly's wings have the same blue hue as cobalt is mere coincidence.
  “Why is the sky blue? Because apples are red and grapes are purple, not
  the other way around.”
 \begin_inset Foot
@@ -6656,7 +6920,7 @@ From this follows that a particular quality is always bound to detectors
  As Dennett writes:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The only 
 \emph on
 readily available
@@ -6679,8 +6943,8 @@ M
  And what property is that? It's hard to say, but this should not embarass
  us, because we can say why it's hard to say.
  The best we can do, practically, when asked what surface properties we
- detect we detect with color vision, is to say, uninformatively, that we
- detect the properties we detect.
+ detect with color vision, is to say, uninformatively, that we detect the
+ properties we detect.
 \begin_inset Foot
 status open
 
@@ -6701,27 +6965,28 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-This doesn't explain the particular way things feel for us.
- The common term that describes what makes this feeling special seems to
- be “enjoy” -- it stresses the difference between neuroanatomy and experience,
- between information and qualia.
- Qualia (the ones Dennett doesn't support) cannot be divided into mechanical
+This does not explain the particular way things feel for us.
+ The common term describing what makes this feeling special seems to be
+ the expression that we “enjoy” something -- this nomenclature stresses
+ the difference between neuroanatomy and experience, between information
+ and qualia.
+ Qualia (which Dennett does not support) cannot be divided into mechanical
  parts, while mere information can be split up without losing anything.
- Dennett believes that Qualia don't exist insofar as that there are no such
- irreducible basic entities of experience.
+ Dennett believes that Qualia do not exist insofar as that there are no
+ such irreducible basic entities of experience.
 \end_layout
 
 \begin_layout Standard
 To prove that these differences between the individual experiences of different
- people are explainable in their entirety, Dennett proposes another thought
+ people are explicable in their entirety, Dennett proposes another thought
  experiment.
  He has people want to experience Bach as if it was the very first time
  they were, without being tainted by more recent musical developments or
  other advances in the meantime.
- He goes to claim:
+ He claims that:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 If we want, we can carefully list the differences between our dispositions
  and knowledge and [the people who did actually hear Bach originally], and
  by comparing the lists, come to appreciate, in whatever detail we want,
@@ -6755,10 +7020,10 @@ reference "Difference-Appreciation-Description"
 \end_layout
 
 \begin_layout Standard
-Another interesting point is how inverted qualia don't seem to exist: People
- who wear goggles that turn the world upside down (all the time) adapt to
- that after some time, and are able to ski downhill or drive bicycles through
- city traffic.
+Noteworthy is furthermore that inverted qualia do not seem to exist: People
+ who wear goggles that turn the world upside down (always for extended periods
+ of time) adapt to that after a while, and are able to ski downhill or drive
+ bicycles through city traffic.
  Asked whether they have adapted to their experiential world being upside
  down, or whether they are mentally turning it right side up again, subjects
  answer that this is not the right question.
@@ -6766,22 +7031,35 @@ Another interesting point is how inverted qualia don't seem to exist: People
 
 \begin_layout Standard
 As Dennett points out, this is perfectly in line with the multiple drafts
- model in that multiple places in the brain will have different views on
- that question, and some (like shape or color detection mechanisms) are
+ model in that multiple of the parallel processing algorithms happening
+ in the brain will form different views on that question.
+ Some of these algorithms (like shape or color detection mechanisms) are
  completely independent of the orientation of the environment, while others
  (like ducking the right way when something is thrown at you) will probably
  take much longer to adapt than regular orientation and navigation.
- Parts of the brain will necessarily disagree with each other whether it's
- adaptation or mental content modification.
+ Parts of the brain will necessarily disagree with each other
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This is merely a figure of speech, what actually happens is that conflicting
+ theories are formed in different parts of the brain that implement different
+ algorithms, and those conflicting theories are at least partially accessible
+ to introspection.
+\end_layout
+
+\end_inset
+
+ whether it's adaptation or mental content modification.
 \end_layout
 
 \begin_layout Standard
-Essentially, Dennett's position boils down to this: It is, at least in theory,
- possible to describe any experience in its entirety, and that description
- is all there is to the experience.
+Essentially, Dennett's position amounts to the following conclusion: It
+ is, at least in theory, possible to describe any experience in its entirety,
+ and description is all there is to the experience.
  As such, qualia are just one (fully reducible) abstraction of that description,
- and are superfluous in that they are not an entity that would be a necessary
- part of our arsenal for investigating consciousness.
+ and are superfluous in that they are not an entity that is a necessary
+ part of our kit for investigating consciousness.
 \end_layout
 
 \begin_layout Subsection
@@ -6791,14 +7069,14 @@ name "Metzinger-Qualia"
 
 \end_inset
 
-Metzinger: Phenomenal Presentational Content
+Metzinger: Phenomenal presentational content
 \end_layout
 
 \begin_layout Standard
-Metzinger, like Dennett, doesn't believe that the classical concept of qualia
- holds up to scientific scrutiny.
- He even says that “qualia, in terms of an analytically strict definition
- -- as the simplest form of conscious experience in the sense of first-order
+Metzinger, like Dennett, does not believe that the classical concept of
+ qualia withstands scientific scrutiny.
+ He says that “qualia, in terms of an analytically strict definition --
+ as the simplest form of conscious experience in the sense of first-order
  phenomenal experiences -- do not exist.”
 \begin_inset Foot
 status open
@@ -6820,7 +7098,7 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-The traditional notion of qualia for Metzinger is that they are are maximally
+For Metzinger, the traditional notion of qualia is that they are are maximally
  simple (atomic) subjective universals, recognizable from one experiential
  episode to the next via subjective identity criteria, and forming the intrinsic
  core of all subjective states.
@@ -6846,20 +7124,21 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-It is under these background assumptions that we will now look at his argumentat
-ion.
+These background assumptions provide the basis for my detailed exploration
+ of his argumentation.
 \end_layout
 
 \begin_layout Subsubsection
-Qualia are Inefficient
+Qualia are inefficient
 \end_layout
 
 \begin_layout Standard
 From a computational point of view, it makes sense that not all experiences
- have such maximally simple mental content that they automatically produce:
+ have such qualia (in terms of maximally simple mental content) that they
+ automatically produce:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 It would be uneconomical to take over the enormous wealth of direct sensory
  input into mental storage media beyond short-term memory: A reduction of
  sensory data flow obviously was a necessary precondition (for systems operating
@@ -6888,24 +7167,40 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-This is of course a teleological observation that does not necessarily mean
- that qualia do not exist themselves.
- Metzinger however does have an argument for that.
+This is of course a teleological observation which does not necessarily
+ mean that qualia do not exist themselves.
+ However, this is precisely what Metzinger claims, as we will see.
 \end_layout
 
 \begin_layout Subsubsection
-Most Simple Forms of Content don't Exist
+\begin_inset CommandInset label
+LatexCommand label
+name "Simple-Forms-of-Content"
+
+\end_inset
+
+Most simple forms of content don't exist
 \end_layout
 
 \begin_layout Standard
-To the end of showing that there is no such thing as always implied most
- simple forms of content when we talk about mental events, Metzinger attempts
- to find out how we could go about individuating these most simple forms
- in the first place -- and already this stage of the project fails.
- While we can certainly distinguish two particular, just noticeably different
+Metzinger wants to show that there is no such thing as `always implied most
+ simple forms of content' when we talk about mental events.
+ To that end, he attempts to find out how we could go about individuating
+ these most simple forms in the first place -- and already this stage of
+ the project fails.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+It is interesting how here, a failure of the project he undertakes actually
+ is a success for Metzinger.
+\end_layout
+
+\end_inset
+
+ While we can certainly distinguish two particular, barely noticeably different
  shades of red when faced with them (they are available for attention),
  we cannot identify or recognize them transtemporally.
- Metzinger thus concludes:
 \begin_inset Foot
 status open
 
@@ -6941,10 +7236,10 @@ key "Metzinger2003"
 
 \end_inset
 
-
+ Metzinger thus concludes:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 What Raffman has shown is the existence of a shallow level in subjective
  experience that is so subtle and fine-grained that -- although we can 
 \emph on
@@ -6977,11 +7272,11 @@ key "Metzinger2003"
 
 \begin_layout Standard
 This leads to some obvious conclusions.
- This maximally simple content as such does not exist, because there is
- no way for us to even form a concept of it:
+ Maximally simple content as such does not exist, because we are not able
+ to even form a concept of it:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 So the problem precisely does not consist in that the very special content
  of these states, as experienced from a first-person perspective, cannot
  find a suitable expression in a certain natural language.
@@ -7013,29 +7308,58 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-However, unlike Dennett, he still calls his followup concept (or rather,
- his differentiated followup concepts) “qualia,” and gives it special phenomenal
- properties that are ineffable or transparent.
+However, unlike Dennett, Metzinger still calls his followup concept (or
+ rather, his differentiated followup concepts) “qualia,” and gives it special
+ phenomenal properties that are ineffable or transparent.
  He also admits that Lewis qualia for some certain entities (like a pure
- red) do exist
+ red) exist
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See 
+According to Metzinger, we can easily form a concept of a pure color.
+ It will of course include a range of colors that are all classified as
+ 
+\begin_inset Quotes eld
+\end_inset
+
+pure red
+\begin_inset Quotes erd
+\end_inset
+
+, even though the strict definition would exclude some of that that we are
+ not able to distinguish without external references.
+ See 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
 
 \end_inset
 
-, page 73.
+, page 73, where he writes:
+\end_layout
+
+\begin_layout Quote
+One form [of sensory content] is 
+\emph on
+categorizable
+\emph default
+ sensory content, as, for instance, represented by pure phenomenal colors
+ like yellow, green, red and blue; the second form is subcategorical sensory
+ content, as formed by all 
+\emph on
+other
+\emph default
+ color nuances.
+ The beauty and the relevance of this second form lie in that it is so subtle,
+ so volatile as it were, that it evades cognitive access in principle.
+ It is nonconceptual content.
 \end_layout
 
 \end_inset
 
- -- but they do not exist for all kinds of experience, and thus they can't
- possibly be the basis of all phenomenal experience.
+ -- but they do not exist for all kinds of experience, and thus they can
+ not possibly be the basis of all phenomenal experience.
 \end_layout
 
 \begin_layout Subsubsection
@@ -7049,11 +7373,11 @@ Lewis Qualia, Raffman Qualia, Metzinger Qualia
 \end_layout
 
 \begin_layout Standard
-Metzinger looks at the discussion about qualia to date, and notices how
- there really are entirely different readings of the term that are often
+Metzinger considers the discussion about qualia to date, and notices that
+ there are some completely different readings of the term that are often
  used interchangeably.
- He offers the following distinction, looking at them in descending order
- of number of constraints they satisfy:
+ He offers the following distinction, according to the number of constraints
+ they satisfy in descending order:
 \begin_inset Foot
 status open
 
@@ -7091,13 +7415,24 @@ Metzinger qualia: Attentionally available, but ineffable and not accessible
 
 \begin_layout Standard
 Obviously, there is a decline in as how real events are perceived from one
- to the next of these kinds of qualia -- Raffman qualia are less real than
- Lewis qualia, and Metzinger qualia are even less real than Raffman qualia.
- Nevertheless, there are examples for all three kinds; examples of Metzinger
- qualia (that would be immediately destroyed if the subject were to report
- them, since that would require making them available for motor control)
- are “highly abstract forms of consciously experienced mental content, as
- they sometimes appear in the minds of mathematicians and philosophers.”
+ to the next of these kinds of qualia -- Raffman qualia are perceived as
+ being less real than Lewis qualia, and Metzinger qualia are perceived as
+ being even less real than Raffman qualia.
+ Nevertheless, there are examples for all three kinds; two of them we have
+ seen in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Simple-Forms-of-Content"
+
+\end_inset
+
+, where a pure red would be a Lewis qualia, while a a non-pure color would
+ be a Raffman qualia.
+ Examples of Metzinger qualia (that would be immediately destroyed if the
+ subject were to report them, since that would require making them available
+ for motor control) are “highly abstract forms of consciously experienced
+ mental content, as they sometimes appear in the minds of mathematicians
+ and philosophers.”
 \begin_inset Foot
 status open
 
@@ -7114,7 +7449,7 @@ key "Metzinger2003"
 \begin_inset Quotes eld
 \end_inset
 
-Andrea Borsato im Rausch des Denkens, fühlt sich so, als hätte er die Finger
+Andrea Borsato, im Rausch des Denkens, fühlt sich so, als hätte er die Finger
  in eine philosophische Steckdose gesteckt.
 \begin_inset Quotes erd
 \end_inset
@@ -7123,12 +7458,12 @@ Andrea Borsato im Rausch des Denkens, fühlt sich so, als hätte er die Finger
 \begin_inset Quotes eld
 \end_inset
 
-Andrea Borsato in the flow of thought, feels as if he had stuck the finger
+Andrea Borsato in the flow of thought, feels as if he had plugged the finger
  into a philosophical power outlet.
 \begin_inset Quotes erd
 \end_inset
 
-) That's the kind of feeling Metzinger must mean.
+) That is the kind of feeling Metzinger must mean.
 \end_layout
 
 \end_inset
@@ -7137,10 +7472,12 @@ Andrea Borsato in the flow of thought, feels as if he had stuck the finger
 \end_layout
 
 \begin_layout Standard
-There are more logical alternatives, only some of which make sense for us
- humans (for example, the instinctive movement when we are catching a ball
- is available for motor output, but not necessarily for cognition or attention).
- The ones mentioned here however are “identifying the phenomenologically
+There are more logically possible alternatives, of which only some make
+ sense for us human beings (such as the instinctive movement when we are
+ catching a ball, which is available for motor output, but not necessarily
+ for cognition or attention -- notably, this is not a function of the brain,
+ but of the autonomic nervous system).
+ The combinations mentioned here however are “identifying the phenomenologically
  most interesting terms.”
 \begin_inset Foot
 status open
@@ -7178,9 +7515,9 @@ Qualia are Reducible
 \begin_layout Standard
 For Metzinger, qualia (understood as noncategorizable, but attentionally
  available forms of sensory content) are reducible in principle.
- He suggests going about that by finding the physical structures that sensory
- content supervenes on, and by functionally analyzing the causal role of
- these structures.
+ He suggests tackling that issue by finding the physical structures upon
+ which sensory content supervenes, and by functionally analyzing the causal
+ role of these structures.
 \begin_inset Foot
 status open
 
@@ -7201,10 +7538,10 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-However, he does not banish them from the ontological landscape entirely,
- he even states that “on the contrary, this type of simple, ineffable content
- does exist and there exist higher-order, functionally more rich forms of
- simple phenomenal content -- for instance, categorizable perceptual content.”
+However, he does not banish qualia from the ontological landscape entirely:
+ “On the contrary, this type of simple, ineffable content does exist and
+ there exist higher-order, functionally more rich forms of simple phenomenal
+ content -- for instance, categorizable perceptual content.”
 \begin_inset Foot
 status open
 
@@ -7221,11 +7558,11 @@ key "Metzinger2003"
 
 \end_inset
 
- But they are not the most simple form of mental content -- rather, 
+ Yet they are not the most simple form of mental content -- rather, 
 \emph on
 presentational content
 \emph default
- is the most simple form of mental content.
+ is.
 \end_layout
 
 \begin_layout Subsubsection
@@ -7239,14 +7576,97 @@ Phenomenal Presentational Content
 \end_layout
 
 \begin_layout Standard
-Presentational content is nonconceptual, cognitively unavailable, homogenous
- and fully transparent.
- This is what it means that it appears to be ineffable.
- It also supervenes on internal physical and functional properties, like
- any other form of mental content.
+Presentational content is nonconceptual, cognitively unavailable, homogeneous,
+ perceived as a fundamental aspect of reality, and fully transparent.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, pages 86f and 95.
+\end_layout
+
+\end_inset
+
+ Metzinger finds that these characteristics of presentational content finally
+ properly conceptualize what it means that something (namely, said presentationa
+l content) is 
+\emph on
+ineffable
+\emph default
+.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Metzinger exclaims in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 95:
+\end_layout
+
+\begin_layout Quote
+For the first time it allows us to do justice to the fact that a very large
+ portion of phenomenal experience, as a matter of fact, is 
+\emph on
+ineffable
+\emph default
+, in a straightforward and conceptually convincing manner.
+ There is no mystery involved in the limitation of perceptual memory.
+ But the beauty of sensory experience is further revealed: there are things
+ in life which can only be experienced 
+\emph on
+now
+\emph default
+ and by 
+\emph on
+you
+\emph default
+.
+ In its subtleness, its enormous wealth in highly specific, high-dimensional
+ information, and in the fine structure exhibited by the temporal dynamics
+ characterizing it, it is at the same time limited by being hidden from
+ the interpersonal world of linguistic communication.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Presentational content also supervenes on internal physical and functional
+ properties, like any other form of mental content.
  Metzinger offers presentational content as a followup concept for qualia,
- or rather, a concept that is able to explain what seems to be so special
- about qualia, while it is always incorporated into a higher-order whole.
+ or rather, a concept which would explain what seems to be so special about
+ qualia.
+ At the same time, presentational content is always incorporated into a
+ higher-order whole in terms of the 
+\begin_inset Quotes eld
+\end_inset
+
+convolved holism
+\begin_inset Quotes erd
+\end_inset
+
+ constraint from chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Convolved-holism"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Standard
@@ -7263,16 +7683,9 @@ Metzinger goes beyond traditional models and finds that
 \begin_inset Quotes eld
 \end_inset
 
-our own consciousness is by far too subtle and too 
-\begin_inset Quotes eld
-\end_inset
-
-liquid
-\begin_inset Quotes erd
-\end_inset
-
- to be, on a theoretical level, modeled according to linguistic and public
- representational systems.
+our own consciousness is by far too subtle and too `liquid' to be, on a
+ theoretical level, modeled according to linguistic and public representational
+ systems.
 \begin_inset Quotes erd
 \end_inset
 
@@ -7296,7 +7709,7 @@ key "Metzinger2003"
  Instead, he offers this view:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Starting from elementary discriminatory achievements we can construct 
 \begin_inset Quotes eld
 \end_inset
