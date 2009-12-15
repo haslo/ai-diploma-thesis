@@ -7996,51 +7996,89 @@ The Difference Between Appreciation and Description
 \end_layout
 
 \begin_layout Standard
-Essentially, Dennett postulates that appreciation (a word he even uses himself,
- see chapter 
+Essentially, Dennett postulates that 
+\begin_inset Quotes eld
+\end_inset
+
+appreciation
+\begin_inset Quotes erd
+\end_inset
+
+ (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Dennett-Disqualifying-Qualia"
 
 \end_inset
 
-) is the same as understanding a description -- that a description is able
- to grasp all aspects of an experiential content, and that reading such
- a description enables a conscious system to 
+) is the same as understanding a description, meaning that a description
+ is able to comprise all aspects of an experiential content, and that reading
+ such a description enables a conscious system to 
 \begin_inset Quotes eld
 \end_inset
 
-relive
+fully relive
 \begin_inset Quotes erd
 \end_inset
 
- (which is the proper way to read 
+ (which seems to be the proper way to read 
 \begin_inset Quotes eld
 \end_inset
 
-appreciate,
+appreciate
 \begin_inset Quotes erd
 \end_inset
 
- I believe) those contents.
+) those contents.
 \end_layout
 
 \begin_layout Standard
-Dennett disagrees with Nagel and believes that it would be perfectly possible
- for us to know what it is like to be a bat.
- This implies that both the description can completely capture the experience,
- and that reliving based on such a complete description is possible.
- Let us look at the citation from chapter 
+Dennett disagrees with Nagel
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Lewis-Qualia"
+
+\end_inset
+
+, and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nagel1974"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ and says that Nagel's claims (that human beings would only be able to know
+ what it is like to be a human who 
+\emph on
+pretends
+\emph default
+ to be a bat) have no foundation.
+ Dennett believes that it would be perfectly possible for us to know what
+ it is like to be a bat.
+ This implies two things: That the description can completely capture the
+ experience, and also that fully reliving the experience (appreciating it)
+ based on such a complete description is possible.
+ You will recognize the following citation from chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Dennett-Disqualifying-Qualia"
 
 \end_inset
 
- again:
+:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 If we want, we can carefully list the differences between our dispositions
  and knowledge and [the people who did actually hear Bach originally], and
  by comparing the lists, come to appreciate, in whatever detail we want,
@@ -8066,13 +8104,19 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-I'm not sure I can agree with Dennett.
- Metzinger's view looks much more reasonable to me.
- There simply is mental content that is available for attention, but not
- concept formation.
- And that mental content itself cannot be made intersubjectively available
- -- the best we can ever hope to achieve is to map which neural correlates
- the ones it supervenes on are.
+The facts do not treat Dennett's theory well.
+ There is mental content which is available for attention, but not for concept
+ formation; Metzinger and Raffman qualia from chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Kinds-of-Qualia"
+
+\end_inset
+
+ are.
+ This mental content itself cannot be made intersubjectively available --
+ the best we can ever hope to achieve is to map which are the neural correlates
+ it supervenes on.
 \begin_inset Foot
 status open
 
@@ -8084,9 +8128,9 @@ e through differential analysis of a series of tests.
 
 \end_inset
 
- Mapping the functional roles would be necessary as well, but would be even
- more complex, I doubt that is ever possible unless we fully understand
- 
+ Mapping the functional roles would be necessary as well, but even more
+ complex.
+ I doubt that this is ever possible, unless we fully understand 
 \emph on
 all
 \emph default
@@ -8108,8 +8152,8 @@ key "Dawkins1982"
 
 \end_inset
 
-) we are talking about, not a genotype -- so even completely understanding
- the human brain
+) we are talking about, not a genotype.
+ Thus even completely understanding the human brain
 \begin_inset Foot
 status open
 
@@ -8119,12 +8163,13 @@ Assuming we are talking about the kinds of qualia that specific humans have.
 
 \end_inset
 
- in general would not be enough.
+ in general (and not the specific brain that had the experience in-depth)
+ would not be enough.
 \end_layout
 
 \begin_layout Standard
-And if we would ever obtain such a complete description of all functional
- roles and neural correlates of a certain experiential content, the only
+Moreover, if we were ever to obtain such a complete description of all functiona
+l roles and neural correlates of a certain experiential content, the only
  way to 
 \begin_inset Quotes eld
 \end_inset
@@ -8133,21 +8178,43 @@ relive
 \begin_inset Quotes erd
 \end_inset
 
- it would be to have exactly the same neural correlates activated in the
- same way with exactly the same functional roles.
- In the end, this means that a brain that is exactly the same has to be
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This would need to be an exact repetition of all the conceptual and nonconceptua
+l mental contents, including a sense of self-identification.
+\end_layout
+
+\end_inset
+
+ it would be to have exactly the 
+\emph on
+same
+\emph default
+ neural correlates activated in the 
+\emph on
+same
+\emph default
+ way with exactly the 
+\emph on
+same
+\emph default
+ functional roles.
+ Ultimately, this means that a brain which is exactly the same has to be
  the one reliving the content, as otherwise, at least some of the (many
  and complex) functional roles will be different.
 \end_layout
 
 \begin_layout Standard
-This goes so far that we can't fully appreciate tales about our childhood
- and, arguably, some childhood or otherly faint memories themselves, even
- if we don't have to be reminded of them by third parties.
- William James makes such an example:
+This amounts to the fact that we can not fully appreciate tales about our
+ childhood and, arguably, some childhood or otherly faint memories themselves,
+ even if we do not have to be reminded of them by third parties.
+ Consider William James' example:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 We hear from our parents various anecdotes about our infant years, but we
  do not appropriate them as we do our own memories.
  Those breaches of decorum awaken no blush, those bright sayings no self-complac
