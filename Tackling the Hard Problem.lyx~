@@ -3557,6 +3557,12 @@ Since intensity directly infers signal strength, it is highly adaptive for
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Homogeneity-of-Content"
+
+\end_inset
+
 Constraint 10: 
 \begin_inset Quotes eld
 \end_inset
@@ -6419,6 +6425,12 @@ This goes even further, because the brain actively remodels neuron connections
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Multiple-drafts"
+
+\end_inset
+
 Multiple drafts
 \end_layout
 
@@ -6444,7 +6456,7 @@ status open
 \begin_layout Plain Layout
 In a psychological experiment where a red and a green dot next to each other
  were alternately flashing, subjects experienced a dot that moved back and
- forth, changing colour inbetween.
+ forth, changing color inbetween.
  Whenever they were probed, there was no experience of flashing and not
  moving dots, at least if they were flashing with a certain minimum speed.
 \end_layout
@@ -8210,7 +8222,7 @@ same
 \begin_layout Standard
 This amounts to the fact that we can not fully appreciate tales about our
  childhood and, arguably, some childhood or otherly faint memories themselves,
- even if we don't have to be reminded of them by third parties.
+ even if we do not have to be reminded of them by third parties.
  Consider William James' example:
 \end_layout
 
@@ -8255,12 +8267,18 @@ Dennett's Multiple Drafts and Qualia
 \end_layout
 
 \begin_layout Standard
-Dennett's multiple drafts model seems to be a pretty adequate description
- of what happens in the brain, and really is a replacement for cartesian
- theaters.
+Dennett's multiple drafts model from chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-drafts"
+
+\end_inset
+
+ seems to be an adequate description of what happens in the brain, and can
+ and should act as a replacement for the concept of cartesian theaters.
  It takes the massive distributed parallelism in our brains into account,
  and computational models based on it (or rather, based on the same thoughts
- and paradigms) do live up to what we expect from them -- a great example
+ and paradigms) seem to prove the case for Dennett's theory -- a fine example
  is Watt's research into auditory pathways,
 \begin_inset Foot
 status open
@@ -8293,23 +8311,24 @@ key "Kurzweil2001"
 \end_inset
 
  where intermediate representations are reliably constructed and multiple
- versions of the data are available for further processing (that, in his
- case, consists of visualization and probably logging).
+ versions of the data are available for further processing (which versions,
+ in his case, include visualization and probably logging).
 \end_layout
 
 \begin_layout Standard
-Dennett does however also present his model of multiple drafts as an alternative
- to the traditional theories of qualia.
- Let us look at how exactly it is an alternative that can explain the same
- things however, and whether the theory of multiple drafts necessarily implies
- that there are no (non-eliminable) qualia.
+However, Dennett also presents his model of multiple drafts as an alternative
+ to the traditional theories of qualia, not only as a stand-alone theory.
+ Let us look at how exactly it is not only a fresh approach to how the brain
+ works, but also an alternative that can explain the same things as qualia
+ did.
+ The question whether the theory of multiple drafts necessarily implies
+ that there are no (non-eliminable) qualia seems particularly interesting.
 \end_layout
 
 \begin_layout Standard
 In order to make the transition from qualia to the theory of multiple drafts,
- Dennett first observes that one of the prime motivations behind the concept
- of qualia was that the entities that qualia would have to be would only
- be 
+ Dennett first notes that one of the prime motivations behind the concept
+ of qualia was that the entities that qualia must be would only be 
 \begin_inset Quotes eld
 \end_inset
 
@@ -8335,8 +8354,48 @@ key "Dennett1991"
 \end_inset
 
  not out there in the world ready for us to observe.
- But, if they are in our brains, there is no inner figment that they are
- made of either; Dennett straight out denies that things like 
+ However, if they are in our brains, there is no inner 
+\begin_inset Quotes eld
+\end_inset
+
+figment
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Dennett uses this term to denote the figmentary paint that the cartesian
+ theater is made of, in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, pages 370f:
+\end_layout
+
+\begin_layout Quote
+But now, if there is no inner 
+\emph on
+figment
+\emph default
+ that could be colored in some special, subjective, in-the-mind, phenomenal
+ sense, colors seem to disappear altogether! 
+\emph on
+Something
+\emph default
+ has to be the colors we know and love, the colors we mix and match.
+ Where oh where can they be?
+\end_layout
+
+\end_inset
+
+ that they are made of either; Dennett categorically denies that entities
+ like 
 \begin_inset Quotes eld
 \end_inset
 
@@ -8345,11 +8404,19 @@ occurrent pink
 \end_inset
 
  would need to be included in popular science -- because unlike Sellars,
+ but like Metzinger,
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See 
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Homogeneity-of-Content"
+
+\end_inset
+
+ and 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Sellars1963"
@@ -8368,43 +8435,135 @@ key "Dennett1991"
 
 \end_inset
 
- Dennett (just like Metzinger) isn't opposed to the idea that us making
- judgements about a colour can be all there is to colour vision.
+ Dennett is not opposed to the idea that us making judgements about a color
+ is all there is to color vision.
 \end_layout
 
 \begin_layout Standard
-This implies that the colour is out there somehow after all.
- It is there ready to be presented to us, and our detectors that are specificial
-ly tailored to detecting them do present them, which then leads to representatio
-ns within our brains.
+This implies that the color is out there somehow after all.
+ It is there, ready to be presented to us, and our detectors, specificially
+ tailored to detecting them, produce representations within our brains.
+ These detectors are specificially built to detect color, and Dennett introduces
+ the concept of such purpose-built detectors with an analogy:
+\end_layout
+
+\begin_layout Quote
+A particularly useful example is provided by the famous case of Julius and
+ Ethel Rosenberg, who [...] improvised a clever password system: a cardboard
+ Jell-O box was torn in two, and the pieces were taken to two individuals
+ who had to be very careful about identifying each other.
+ Each ragged piece became a practically foolproof and unique 
+\begin_inset Quotes eld
+\end_inset
+
+detector
+\begin_inset Quotes erd
+\end_inset
+
+ of its mate: at a later encounter each party could produce his piece, and
+ if the pieces lined up perfectly, all would be well.
+ [...] tearing the cardboard produces an edge of such informational complexity
+ that it would be virtually impossible to reproduce by deliberate construction.
+ [...] The particular jagged edge of one piece becomes a practically unique
+ pattern-recognition device for its mate; it is an apparatus or transducer
+ for detecting the shape property 
+\emph on
+M
+\emph default
+, where 
+\emph on
+M
+\emph default
+ is uniquely instantiated by its mate.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 376.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-This then is where the M-detectors and M-properties come into play -- obviously,
- if entities (or properties) are out there ready to be observed, eventhough
- we might not be able to clearly define them by their physical description
- alone, there must be detectors that reliably find those entities.
- And how these detectors are built at their core is what the multiple drafts
- theory is about.
- It does perfectly explain how it makes sense that qualitative properties
- are out there in the world, ready for us to perceive, and how that perception
- can work without figment or occurent qualities.
+Obviously, if entities (or even entity properties) are out there ready to
+ be observed, even though we might not be able to clearly define them by
+ their physical description alone, there must be detectors that reliably
+ find them.
+ And how these detectors are built at their core is precisely what the multiple
+ drafts theory is about.
+ The theory explains perfectly well how it makes sense that qualitative
+ properties are out there in the world, ready for us to perceive, and how
+ that perception can work without 
+\begin_inset Quotes eld
+\end_inset
+
+figment
+\begin_inset Quotes erd
+\end_inset
+
+ or occurent qualities.
 \end_layout
 
 \begin_layout Standard
-But what Dennett doesn't face is the ineffability of qualia, the distinct
+What Dennett does not adress is the ineffability of qualia, the distinct
  way they look to us.
- He doesn't aim for appreciation, but merely description.
- More importantly, he also doesn't face the lower-level components of the
- process of perception or attention that are, as Metzinger points out, sometimes
- non-categorizable and not available for concept formation.
+ He does not aim for appreciation, but merely description.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Difference-Appreciation-Description"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ More importantly, he also does not adress the lower-level components of
+ the process of perception or attention that are, as Metzinger points out,
+ sometimes non-categorizable and not available for concept formation.
 \end_layout
 
 \begin_layout Standard
-So his theory of multiple drafts really is an answer to how M-detectors
- can detect M-properties, and how they can make those M-properties globally
- available in a step by step (but processed in parallel, except where one
- process has to wait for the results of another) procedure that finds 
+Dennett's theory of multiple drafts thus is an answer to how 
+\emph on
+M
+\emph default
+-detectors can detect 
+\emph on
+M
+\emph default
+-properties, and how they can make those 
+\emph on
+M
+\emph default
+-properties globally available in a step by step procedure
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Even though it has multiple steps, these are processed in parallel, except
+ when one process has to wait for the results of another.
+\end_layout
+
+\end_inset
+
+ which finds 
 \begin_inset Quotes eld
 \end_inset
 
@@ -8441,21 +8600,22 @@ hard
 \begin_inset Quotes erd
 \end_inset
 
- don't have to correspond to the perceived complexity of the processing
+ do not have to correspond to the perceived complexity of the processing
  steps involved, but rather with how optimized the system in question is
  for solving them.
- Things like detecting that the shape in front of us is a face that is looking
- to the right and belongs to your grandmother is a very complex and complicated
- thing, while playing chess is comparably easy.
+ Things like detecting that the shape in front of us is a face which is
+ looking to the right and belongs to your grandmother is a very complex
+ and complicated thing, while playing chess is comparably easy, from a computati
+onal point of view.
  Just because something seems easy to us does not make it easy for another
- system -- it's just that our bodies have adapted to needing such face detection
- mechanisms for millions of years, while the ability to play chess only
- has formed in the last couple of thousand years.
+ system -- it is just that our bodies have adapted to the social requirement
+ of such face detection mechanisms for millions of years, while the ability
+ to play chess has formed in the last couple of thousand years only.
 \end_layout
 
 \end_inset
 
-It is, however, not a theory that really explains qualia.
+It is, however, not a theory that really makes qualia obsolete.
 \end_layout
 
 \begin_layout Subsubsection
@@ -8469,17 +8629,39 @@ Qualia: Still Necessary?
 \end_layout
 
 \begin_layout Standard
-So with Metzinger, we find that qualia are reducible in principle, once
- we agree that phenomenal presentational content is an ontological possibility
- and most probably what makes us experience qualitative properties in our
- brains.
+According to Metzinger, qualia are reducible in principle, once we agree
+ that phenomenal presentational content is an ontological possibility and
+ most probably what makes us experience qualitative properties in our brains.
 \end_layout
 
 \begin_layout Standard
 However, they still are a necessary discriminatory step.
  We have a metaphorical quality space in which phenomenal presentational
- content shows up, and we are able to conceptualize volumes within that
- quality space transtemporally.
+ content occurs, and we are able to conceptualize volumes within that quality
+ space transtemporally.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Phenomenal-Presentational-Content"
+
+\end_inset
+
+ and the citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 93.
+\end_layout
+
+\end_inset
+
  These volumes are what qualia depict; they correspond to categories we
  are able to form within that entire quality space.
 \end_layout
@@ -8490,7 +8672,7 @@ It may be possible to distinguish between first-order and second-order qualities
 status open
 
 \begin_layout Plain Layout
-Colour for example appears to be a secondary quality of things such as shape
+Color for example appears to be a secondary quality of things such as shape
  and motion -- see 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -8510,8 +8692,8 @@ key "Dennett1991"
 
 \end_inset
 
- Whether they are primary or secondary however, there are ontologically
- legitimate
+ Regardless of whether they are primary or secondary however, there are
+ ontologically legitimate
 \begin_inset Foot
 status open
 
@@ -8536,19 +8718,42 @@ redness
 \begin_inset Quotes erd
 \end_inset
 
- that all kinds of color perception that are red (within distinct, certainly
- individual boundaries) fall into.
+ into which all kinds of color perception that are red (within distinct,
+ certainly individual boundaries) fall.
 \end_layout
 
 \begin_layout Standard
-So indeed, qualia are at the same time reducible and still necessary --
- a rather odd place to be in.
+To conclude, qualia are at the same time reducible and necessary -- a rather
+ odd place to be in.
  They form the categorical borders of our conscious experience, but do not
  do the true ineffable nature of phenomenal experience justice, nor are
  they the truly atomic building blocks of experience.
  They are a necessary level of abstraction that holds information not contained
- elsewhere anyway though.
- And, they are what our memories are made of.
+ anywhere else.
+\end_layout
+
+\begin_layout Standard
+And, being categorizable unlike many forms of direct sensory perception,
+ qualia
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+At least Lewis qualia are, whereas Metzinger and Raffman qualia are precisely
+ the kinds of sensory perception that are non-categorizable -- see chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Kinds-of-Qualia"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ are what our memories are made of.
 \end_layout
 
 \begin_layout Standard
