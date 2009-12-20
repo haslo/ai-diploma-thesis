@@ -2149,6 +2149,12 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Integration-global-state"
+
+\end_inset
+
 Constraint 3: 
 \begin_inset Quotes eld
 \end_inset
@@ -3258,6 +3264,12 @@ In opaque cases of experience, we know while knowing that we could be wrong.
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Offline-activation"
+
+\end_inset
+
 Constraint 8: 
 \begin_inset Quotes eld
 \end_inset
@@ -8672,8 +8684,8 @@ It may be possible to distinguish between first-order and second-order qualities
 status open
 
 \begin_layout Plain Layout
-Color for example appears to be a secondary quality of things such as shape
- and motion -- see 
+Color, for example, appears to be a secondary quality of features such as
+ shape and motion -- see 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Locke1690"
@@ -8775,36 +8787,41 @@ Subjectivity
 
 \begin_layout Standard
 There is more to consciousness than merely having phenomenal experiences
- through qualia: We are able to put those things into context with something
- that seems to be a constant over time, a personal unity, the self.
- This is a fairly amazing treat, that has some very interesting characteristics.
+ through qualia.
+ We are able to put these things into context with something that seems
+ to be a constant over time, a personal unity: the self.
+ This is a fairly amazing trait, which has some very interesting characteristics.
 \end_layout
 
 \begin_layout Standard
-For example, if you think about something you did as a 4 year old kid --
- be it recalled through your own memories, or through reminders from your
- parents or other relatives.
+For example, let us assume that you think about something you did as a four
+ years old child -- either recalling through your own memories, or through
+ reminders from your parents or other relatives.
  In such a situation, we might not be able to emphatically put ourselves
- into the shoes of that 4 year old kid anymore; the world we lived in back
- then seems nearly as alien to us now as the world of Nagel's bats.
- We have different value systems now, different and way more experiences
+ into the shoes of that four years old child anymore; the world we lived
+ in back then seems nearly as alien to us now as the world of Nagel's bats.
+ We have different value systems now, different and many more experiences
  we can relate to, different theories regarding both the world around us
  and ourselves.
- But it is absolutely certain that that 4 year old kid was still you, however
- many differences there might be.
+ But most philosophers agree that this four years old child 
+\emph on
+was
+\emph default
+ you, however many differences there might be.
 \end_layout
 
 \begin_layout Standard
-Another example is intentionality (which we'll look at in chapter 
+Another example is intentionality (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Intentionality"
 
 \end_inset
 
-) -- when thinking about directedness, there necessarily has to be an origin
- that the arrow of directedness comes from.
- That origin is always the same, an untranscendable 
+).
+ When thinking about directedness, there necessarily has to be a point where
+ this arrow of directedness originates from.
+ This point is always the same, an untranscendable 
 \begin_inset Quotes eld
 \end_inset
 
@@ -8816,65 +8833,185 @@ me
 \end_layout
 
 \begin_layout Standard
-This will be where we incorporate some of Minsky's work into our deliberations:
- He observes that often, we have not just one, but multiple self models.
+This seems to be the just moment we incorporate parts of Minsky's work into
+ our deliberations: He observes that often, we have not just one, but multiple
+ self models.
  Normative ones (what do I want to be like?), descriptive ones (how do I
- usually act in this situation?), of both ourselves and others -- and often,
- the models we have of others are (or at least seem to be) more accurate
- than the models they have of themselves.
- How can that be? Shouldn't I be the final authority when judging what it
- is that makes me myself? Don't I have priviledged access that should enable
- me to form a more accurate, more proper self than others, who merely form
- mental (empathical) models of me?
+ usually act in this situation?), of both ourselves and others.
+ Often, the models we have of others are (or at may appear) more accurate
+ than the models these others have of themselves.
+ How can that be? Should I not be the final authority when judging what
+ it is that makes me myself? Do not I alone have some kind of privileged
+ access that should enable me to form a more accurate, a more proper `self'
+ than others, who merely form mental (empathical) models of me?
 \end_layout
 
 \begin_layout Standard
-Interestingly, there are many deviant forms of subjectivity, and one of
- them is a recurring theme among Metzinger, Dennett, and many other philosophers
- of mind: The multiple personality disorder.
- Of course, because if we want to see what a self is, we best look at a
- place where it is already partially dissected, where its inner workings
- are more prone to lay bare because the protective layer around it has been
- removed and broken -- metaphorically speaking, but often true in a stricter
- sense, as it seems that traumatic childhood experiences are often what
- causes such multiple personality disorders in the first place.
+Interestingly, there are many deviate forms of subjectivity.
+ One of these is a recurring theme among Metzinger, Dennett, and many other
+ philosophers of mind: The multiple personality disorder.
+ Certainly, the best opportunity to examine the `self' is when it is already
+ dissected, when its inner workings are more prone to lay bare because the
+ protective layer around it has been removed and broken.
+ This is metaphorically spoken, but frequently true in a stricter sense,
+ as it seems that traumatic childhood experiences are often what causes
+ such multiple personality disorders in the first place.
 \end_layout
 
 \begin_layout Standard
-Admittedly, the secret of subjectivity was one of the prime driving forces
- behind me writing this thesis.
- As I admitted in 
+Admittedly, the secret of subjectivity was one of the prime forces which
+ prompted me to write this thesis.
+ As I noted in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "GloorModjib2008"
 
 \end_inset
 
-, I had a hard time wrapping my head around what constitutes a self for
- quite a long time.
- It is one of the most fascinating aspects of the philosophy of mind to
- me to this day.
- However, I think that I am closer to understanding this now, and I hope
- that I can show up why that is.
+, I had some difficulties understanding what constitutes a self.
+ I still consider it to be one of the most fascinating aspects of the philosophy
+ of mind.
+ However, the theories of Dennett, Minsky and particularly Metzinger seem
+ to be concise argumentations for a modern and scientific model of what
+ this `self' could be.
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Dualism"
+
+\end_inset
+
 Descartes: Dualism
 \end_layout
 
 \begin_layout Standard
-We already talked about Dualism in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Dualism"
+Descartes essentially postulates two distinct entities that make up a thinking
+ thing (like, for example, a human being):
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Descartes1641"
 
 \end_inset
 
 .
- The somewhat pragmatic (and probably for that very reason intuitively plausible
-) approach of Descartes, when he proposes differentiating between a thinking
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The 
+\emph on
+res cogitans
+\emph default
+, a matter that is thinking and not extended
+\end_layout
+
+\begin_layout Itemize
+The 
+\emph on
+res extensa
+\emph default
+, a matter that is extended and not thinking
+\end_layout
+
+\begin_layout Standard
+These entities are distinct from each other because Descartes can perceive
+ them clearly as being distinct, and God can form such distinct entities
+ that are nonetheless linked.
+ Furthermore, ideas of external entities are only formed within the 
+\emph on
+res cogitans
+\emph default
+, and they are truthful representations of actual external entities, because
+ God is not a deceiver.
+ Both these (in this thesis, very bluntly put) argumentations rely on the
+ truthfulness and benevolence of God, which is further proven earlier in
+ Descartes' work.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Descartes1641"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+There are more modern argumentations that do not require supernatural entities.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Those include (among others) epiphenomenalism (first introduced by La Mettrie),
+ psychophysic parallelism (as per readings of Leibniz and Malebranche),
+ teleological supervenience (most prominently discussed by Sehon), occasionalism
+ (as taught in the Ash'ari schools of early Islamic philosophy).
+\end_layout
+
+\end_inset
+
+ But even if we assume a rational explanation and proper scientific methodology,
+ substance dualism, which is the kind of dualism at the focus of this discussion
+,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The other major kind of dualism is conceptual dualism -- the view that things
+ are not strictly reducible to more abstract levels of description (for
+ example, going from mental states to neurons) without losing valuable informati
+on.
+ The views expressed in this paper could be seen as a form of such conceptual
+ dualism.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Conceptual-Dualism"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ essentially is the postulation of two kinds of essences: A physical, nonthinkin
+g essence (which builds the world, the body and the brain) and a nonphysical,
+ thinking essence (which builds the mind).
+ Thus, it is the separation of body and mind, and it did not really start
+ with Descartes -- it dates back to Zarathushtra, Plato and Aristotle.
+\end_layout
+
+\begin_layout Subsubsection
+Finding the subject in dualism
+\end_layout
+
+\begin_layout Standard
+The somewhat pragmatic (and probably for that very reason intuitively plausible)
+ approach of Descartes, when he proposes differentiating between a thinking
  matter that is not extended and an extended matter that does not think,
- makes it very easy to point at what it is that creates subjectivity.
+ makes it very easy to point at what creates subjectivity, which at this
+ point becomes an only very loosely defined term.
 \end_layout
 
 \begin_layout Standard
@@ -8882,14 +9019,39 @@ This is because the very distinguishing criterion for the
 \emph on
 res cogitans
 \emph default
- is that it is able to produce that very subjectivity.
+ is that it is able to produce this subjectivity.
  As such, subjectivity is built into the 
 \emph on
 res cogitans
 \emph default
-.
- Of course, Descartes, being deeply religious, roots this in the soul and
- in the end in the divine spirit.
+; this is a logical necessity because a subject is a prerequisite for mental
+ contents of any form that are experienced from a first-person point of
+ view.
+\end_layout
+
+\begin_layout Standard
+Descartes, being deeply religious,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+He was, of course, a man of science and had a very investigative spirit,
+ something that is arguably rarely seen in today's rather traditionalist
+ clergy of most religions; insofar he was religious in a sense that today
+ would not be typical.
+\end_layout
+
+\end_inset
+
+ roots this separation of entities between the 
+\emph on
+res cogitans
+\emph default
+ and the 
+\emph on
+res extensa
+\emph default
+ in the soul and, in the end, in the divine spirit.
  Strictly looking at what constitutes subjectivity itself however does not
  reveal anything but dogmas -- it is not further analyzable, atomic to scrutiny,
  as the only form of scrutiny available in a purely non-physical context
@@ -8897,14 +9059,14 @@ res cogitans
 \end_layout
 
 \begin_layout Standard
-So, since we are both unable to physically analyze a purely non-physical
- entity, and unable to introspectively dig deep enough to expose the metaphysica
-l processes that would expose subjectivity itself, that is pretty much all
- there is to say on this matter:
+Thus, since we are neither able to physically (analytically) analyze a purely
+ non-physical entity, nor able to introspectively (mentally) dig deep enough
+ to expose the metaphysical processes that would expose subjectivity itself,
+ the following is quite all there is to say on this matter:
 \end_layout
 
 \begin_layout Standard
-Subjectivity is that which defines and creates the 
+Subjectivity is that which defines the 
 \emph on
 res cogitans
 \emph default
@@ -8918,12 +9080,12 @@ name "Center-of-Narrative-Gravity"
 
 \end_inset
 
-Dennett: Center of Narrative Gravity
+Dennett: Center of narrative gravity
 \end_layout
 
 \begin_layout Standard
-Dennet points out how there are two contradictory stances when it comes
- to selves:
+Dennet points out the two contradictory stances opinions about selves can
+ take:
 \begin_inset Foot
 status open
 
@@ -8951,30 +9113,67 @@ Obviously, there are selves in the world: We exist! The question presupposes
 \begin_layout Itemize
 Obviously, there are no selves in the world: There are no distinct entities
  that control our bodies and think our thoughts, neither in our brains nor
- over and above our brains.
-\end_layout
-
-\begin_layout Standard
-These stances are contradictory, but both intuitively plausible, so the
- most reasonable conclusion is that they must both be partially true.
- This will probably lead to a conclusion that is not as intuitive
+ beyond
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Intuition"
-
+Since these distinct entities would necessarily be metaphysical, they would
+ be 
+\begin_inset Quotes eld
 \end_inset
 
-.
+beyond
+\begin_inset Quotes erd
+\end_inset
+
+ in a metaphysical sense as well.
 \end_layout
 
 \end_inset
 
- as the two premises we just saw, however.
+ our brains.
+\end_layout
+
+\begin_layout Standard
+These positions are contradictory, but both intuitively plausible, thus
+ a reasonable conclusion seems to be that they both are partially true.
+ Dennett has a proposal that is a mix of the two, indeed.
+ This proposal, however, is not as intuitive
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Intuition is a strange concept, because in this context it relies on imagination
+; it is a disposition to consider certain imagined facts as true.
+ This makes intuition very brittle, because failure of imagination is not
+ an insight into necessity -- what Dennett calls the 
+\begin_inset Quotes eld
+\end_inset
+
+philosopher's syndrome
+\begin_inset Quotes erd
+\end_inset
+
+ in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 401.
+ It is not the case that something is necessarily untrue merely because
+ we cannot imagine it to be true.
+ We are built a certain way, with certain dispositions that helped us survive
+ long enough to be where we are now.
+ Those dispositions were (and, most of them, are) adequate for survival,
+ and not necessarily insights into reality.
+\end_layout
+
+\end_inset
+
+ as the two just presented premises, however.
 \end_layout
 
 \begin_layout Subsubsection
@@ -8984,14 +9183,63 @@ name "Evolution-and-Absolutism"
 
 \end_inset
 
-On Evolution and Absolutism
+On evolution and absolutism
+\end_layout
+
+\begin_layout Standard
+Dennett introduces his views on how selves benefitted our ancestors during
+ the evolution of what was to become human beings.
 \end_layout
 
 \begin_layout Standard
 Selves must have been created through evolutionary processes: The first
- single-cell organisms couldn't have had selves, and today we do have them.
- So obviously organisms with selves evolved from organisms without selves.
- For us and similar organisms then, the self is a tool, a means that allows
+ single-cell organisms will most probably not have had selves, yet today
+ we do have them.
+ Therefore, organisms with selves obviously evolved from organisms without
+ selves.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I am assuming that the common theories on evolution make sense.
+ Susan Blackmore made a very apt recapitulation of 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Darwin1859"
+
+\end_inset
+
+ in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Blackmore2008"
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Quote
+If you have species that vary, and if there is a struggle for life such
+ that nearly all of these creatures die, and if the very few that survive
+ pass on to their offspring whatever it was that helped them survive, then
+ those offspring 
+\emph on
+must
+\emph default
+ be better adapted to the circumstances in which all this happened than
+ their parents were.
+\end_layout
+
+\begin_layout Plain Layout
+In addition to this, my reading of evolution also does not want to rely
+ on the supernatural, as relying on that is a position of faith and not
+ of science.
+\end_layout
+
+\end_inset
+
+ For us and similar organisms, then, the self is a tool, a means that allows
  us to distinguish between what is 
 \begin_inset Quotes eld
 \end_inset
@@ -9008,9 +9256,26 @@ the rest of the world
 \begin_inset Quotes erd
 \end_inset
 
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, pages 174f and 414.
+\end_layout
+
+\end_inset
+
  -- porously and with less clear boundaries than we would imagine, as there
- are synergies and symbiotic relations with some micro organisms in our
- stomach, for example.
+ are synergies and symbiotic relations with some microorganisms in our stomach,
+ for example.
 \end_layout
 
 \begin_layout Standard
@@ -9026,7 +9291,16 @@ key "Dawkins1982"
 
 \end_inset
 
-.
+ for the origins of the concept, and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, pages 415 and 417, for Dennett's adaptation.
+ It is worth noting that there are also cultural influences that shape the
+ extended phenotype, in addition to genetic ones.
 \end_layout
 
 \end_inset
@@ -9042,7 +9316,7 @@ our own
 \end_inset
 
  territories are included.
- The way us human beings include a self in that extended phenotype is fascinatin
+ The way we human beings include a self in that extended phenotype is fascinatin
 g:
 \begin_inset Foot
 status open
@@ -9065,7 +9339,7 @@ key "2008a"
 
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Each normal individual of this species [homo sapiens] makes a 
 \emph on
 self
@@ -9095,10 +9369,10 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-The illusion that a soul is necessary for a self is as no more warranted
- than the notion that termite colonies have souls -- the seemingly highly
- organized collaborative work that colony produces is nothing but the product
- of 
+The illusion that a soul is necessary for a self is no more warranted than
+ the notion that termite colonies have souls.
+ The seemingly highly organized collaborative work this colony produces
+ is nothing but the product of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -9125,10 +9399,36 @@ key "Dennett1991"
 \end_inset
 
  as most scientists today agree.
+ Dennett shows an interesting parallel, but does not actually prove it:
+\end_layout
+
+\begin_layout Quote
+So wonderful is the organization of a termite colony that it seemed to some
+ observers that each termite colony had to have a soul [...].
+ So wonderful is the organization of a human self that to many observers
+ it has seemed that each human being had a soul, too: a benevolent Dictator
+ ruling from Headquarters.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 416.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-What the self essentially is however is what Dennett calls a 
+Dennett regards the self in human beings essentially to be a 
 \begin_inset Quotes eld
 \end_inset
 
@@ -9149,6 +9449,8 @@ key "Dennett1991"
 \end_inset
 
 , page 418.
+ Again, Dennett only talks of humans, when the argumentation could easily
+ be extended to include other animals with selves.
 \end_layout
 
 \end_inset
@@ -9160,25 +9462,18 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-Dennett also points out that a self can't reasonably be an all-or-nothing
- phenomenon, how absolutism is misguided:
+Dennett also points out that a self can not plausibly be an all-or-nothing
+ phenomenon, and that absolutism is misguided:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Since selves and minds and even consciousness itself are biological products
- [...], we should expect that the transitions between them and the phenomena
- that are not them should be gradual, contentious, gerrymandered.
+ (not elements to be found in the periodic table of chemistry), we should
+ expect that the transitions between them and the phenomena that are not
+ them should be gradual, contentious, gerrymandered.
  This doesn't mean that everything is always in transition, always gradual;
  transitions that look gradual from close up usually look like abrupt punctuatio
 ns between plateaus of equilibrium from a more distant vantage point.
- [...]
-\end_layout
-
-\begin_layout Quotation
-But many people who are quite comfortable taking this pragmatic approach
- to night and day, living and nonliving, mammal and premammal, get anxious
- when invited to adopt the same attitude toward having a self and not having
- a self.
 \begin_inset Foot
 status open
 
@@ -9190,7 +9485,7 @@ key "Dennett1991"
 
 \end_inset
 
-, pages 421f, referring to 
+, page 421, referring to 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Eldredge1972"
@@ -9212,12 +9507,40 @@ key "Dawkins1982"
 
 \end_layout
 
+\begin_layout Standard
+Dennett continues:
+\end_layout
+
+\begin_layout Quote
+But many people who are quite comfortable taking this pragmatic approach
+ to night and day, living and nonliving, mammal and premammal, get anxious
+ when invited to adopt the same attitude toward having a self and not having
+ a self.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 422.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Subsubsection
-What a Self is
+What a self is
 \end_layout
 
 \begin_layout Standard
-In the end, Dennett's proposal as to what a self exactly is is not that
+Ultimately, Dennett's proposition as to what a self exactly is is not that
  different from Metzinger's that we'll see in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -9225,9 +9548,9 @@ reference "Being-No-One"
 
 \end_inset
 
- -- although he explores the concept way less in-depth.
- Here is what Dennett has to say concerning the part of the hard problem
- we're currently looking at:
+ -- although he explores the concept much less in-depth.
+ Dennett has this to say concerning the part of the hard problem we are
+ currently looking at:
 \end_layout
 
 \begin_layout Quotation
@@ -9259,15 +9582,14 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-However, that is all he really says on the subject of what a self actually
- is.
+However, that is all he says on the subject of what a self actually is.
  He explores further why it makes sense to have a self, and how magnificient
- a fiction a self is from a functional (and maybe teleological, although
- he doesn't use that word) point of view.
- He also explores what the moral implications are if a self really is only
- a fiction, concerning responsibility and agency.
- Since this moral tangent is not main subject of this thesis, I would like
- to leave it aside though.
+ a fiction a self is from a functional point of view (and maybe teleological
+ point of view as well, although he does not use that word) .
+ He also explores the moral implications of a self that is taken to be a
+ fiction only, concerning responsibility and agency.
+ Since this moral tangent is not main subject of this thesis, I will not
+ further pursue that issue.
 \end_layout
 
 \begin_layout Subsection
@@ -9277,22 +9599,21 @@ name "Being-No-One"
 
 \end_inset
 
-Metzinger: Being No One
+Metzinger: Being no one
 \end_layout
 
 \begin_layout Standard
-Metzinger makes a quite convincing argument, one that goes deeper and further
- than those of other thinkers.
+Metzinger's convincing argument goes deeper and further than those of other
+ thinkers.
  On the surface, it is quite similar to Dennett's: The self is merely a
- model that we create.
- However, as I said, he does go further than Dennett.
- Let's see how.
+ model we create.
+ The following section shows Metzinger's reasoning.
 \end_layout
 
 \begin_layout Standard
-The self being merely a model does make sense from an evolutionary point
- of view.
- As Metzinger points out, such a self model can be a tool, and a weapon
+From an evolutionary point of view, it makes sense to regard the self as
+ merely a model.
+ As Metzinger points out, such a self model can both be a tool, and a weapon:
 \begin_inset Foot
 status open
 
@@ -9309,48 +9630,79 @@ key "Metzinger2003"
 
 \end_inset
 
- -- awareness of the continuity and existence of a self as opposed to the
- world is the very thing that enables self-directed action in a stricter
- sense, in two ways: It is necessary to have a self-model in order to be
- able to plan and execute directing action at what constitutes the space
- the self is perceived as being in, and it is necessary to have a self-model
- in order to be able to realize that any action is directed at things that
- are part of the own self.
+ awareness of the existence and continuity of a self as opposed to the world
+ is what enables self-directed action in a stricter sense, in two ways:
+ It is necessary to have a self-model in order to be able to plan and carry
+ out directed action at what constitutes whihc space the self is perceived
+ as being in, and it is necessary to have a self-model in order to be able
+ to realize that any action is directed at things that are part of the own
+ self.
 \end_layout
 
 \begin_layout Standard
-A self-model also makes various internal parameters (like hunger, thirst,
- hormone and transmitter levels, intestinal states, and skin temparature)
- available for cognitive processing and thus reflected action.
- This reflected action then is not strictly stimulus-related, but probably
- better denoted as being stimulus-inspired -- in that stimuli may end up
- activating offline phenomenal states that simulate the self-model in certain
- counterfactual situations.
+A self-model also makes various internal parameters (e.g.
+ hunger, thirst, hormone and transmitter levels, intestinal states, skin
+ temparature) available for cognitive processing and thus reflected action.
+ This reflected action, then, is not strictly stimulus-related, but probably
+ better understood as being stimulus-inspired, in that stimuli may result
+ in activating offline phenomenal states that simulate the self-model in
+ certain counterfactual situations.
  Only after activating several such possible worlds and comparing them with
- the underlying world zero, we decide on one such possible world and execute
- the actions that we hope will lead to it.
+ the underlying 
+\begin_inset Quotes eld
+\end_inset
+
+world zero,
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Integration-global-state"
+
+\end_inset
+
+ for Metzinger's world zero hypothesis.
+\end_layout
+
+\end_inset
+
+ we decide on one such possible world and perform the actions that we hope
+ will lead to it.
 \end_layout
 
 \begin_layout Subsubsection
-The Self is Not an Illusion
+\begin_inset CommandInset label
+LatexCommand label
+name "Not-an-illusion"
+
+\end_inset
+
+The self is not an illusion
 \end_layout
 
 \begin_layout Standard
-I want to get this out of the way first, as it is quite a tempting mistake
- to make: It is wrong to say that the self is an illusion, because if it
- would be, there would need to be somebody or something (a self?) having
- and owning the illusion.
- This would necessarily make the entire argumentation circular -- and that
- exactly is an argument that has been brought up as something that invalidates
- the entire self-model theory.
- Metzinger is aware of this, and he also is aware of the fact that it certainly
- 
+In order to avoid misunderstandings, I regard it important, at this point,
+ to make clear that it is wrong to say that it is wrong to say that the
+ self is an illusion.
+ This is because if the self were an illusion, there would need to be somebody
+ or something (a self?) having and owning the illusion.
+ This would necessarily render the entire argumentation circular -- which
+ is precisely what has Metzinger's self-model theory has been criticized
+ for.
+ Metzinger is aware of this, and also of the fact that it certainly 
 \emph on
 seems
 \emph default
  to us as if there were a self.
- In order to explain how that can possibly happen, he expands upon Plato's
- thought experiment of the cave
+ In order to explain how that can possibly happen, he draws on Plato's thought
+ experiment of the cave
 \begin_inset Foot
 status open
 
@@ -9383,20 +9735,63 @@ key "Platoa"
 
 \end_inset
 
- where we are pictured as being chained to the ground, unable to turn our
- heads, and merely seeing shadows of the things that actually are, cast
- by a fire in the middle of the cave.
+ where we are pictured as being chained to a wall, unable to turn our heads,
+ and merely seeing shadows of the things that are,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Platon has two categories of things that actually are: Ideas, which are
+ not epistemically graspable by humans directly, and the entities in the
+ real world that are merely implementations of these ideas.
+ The shadows on the wall of the cave are, in his original work, merely of
+ works of human beings, not even of humans themselves.
+\end_layout
+
+\end_inset
+
+ cast by a fire in the middle of the cave.
 \end_layout
 
 \begin_layout Standard
 There are many similarities between Plato's cave and Metzinger's self-model
  theory.
- The allegory works for quite some of Metzinger's postulated entities: The
- cave is the entire organism, the shadows are low-dimensional phenomenal
- projections of high-dimensional objects, the fire is neural dynamics, informati
-on processing that is constantly perturbed and modulated by sensory and
- cognitive input, and the cave's wall finally is merely another aspect of
- the very same neural process.
+ The allegory works for quite a few of Metzinger's postulated entities:
+ According to Metzinger, the cave is the complete phenomenal self-model
+ that is formed by the entire organism.
+ The shadows are low-dimensional phenomenal projections of high-dimensional
+ objects,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The definition of 
+\begin_inset Quotes eld
+\end_inset
+
+dimensions
+\begin_inset Quotes erd
+\end_inset
+
+ when we are talking about shadows and objects are pretty straightforward:
+ They are actual two-dimensional mappings on a surface, cast by three-dimensiona
+l objects.
+ How this translates to Metzinger's theory: The dimensions of entities that
+ are perceived as actual objects in the world are limited by the number
+ and nature of the senses we perceive them with.
+ We can only perceive the properties that our senses are made for, and even
+ then we can only categorize those perceptions in rather rough classifications,
+ with limits in all directions.
+ What other, maybe just as important, properties an entity might have we
+ can not directly perceive.
+\end_layout
+
+\end_inset
+
+ and the fire is neural dynamics -- information processing that is constantly
+ perturbed and modulated by sensory and cognitive input.
+ Finally, the cave's wall is merely another aspect of the very same neural
+ process.
 \begin_inset Foot
 status open
 
@@ -9413,28 +9808,42 @@ key "Metzinger2003"
 
 \end_inset
 
- All these things are very similar in that they are entities in both thought
- experiments, directly mappable to one another.
+ The parallels between the two thought experiments are indeed considerable,
+ in that the various entities are directly mappable.
 \end_layout
 
 \begin_layout Standard
 However, there is a fundamental difference between Plato's and Metzinger's
- view, in that Plato believes that it is possible to get up, go out into
- the sun, and then come back and teach people what true forms are.
+ view.
+ Plato believes that it is possible to get up, go out into the sun, and
+ then come back and teach people what true forms
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+True forms are essentially pure implementations of the aforementioned ideas,
+ or even the ideas themselves.
+ These are only rationally analyzable, they are abstract concepts, unlike
+ the shadows in the cave that are physically perceptible.
+\end_layout
+
+\end_inset
+
+ are.
  He believes that there can be enlightenment, true knowledge.
- Epistemology demystified, experienced ontology possible.
- What a romantic thought.
+ Epistemology demystified, experienced ontology possible -- what a romantic
+ thought.
  Unfortunately, Metzinger does not follow Plato here -- there is no getting
  up in Metzinger's cave, we have to remain chained.
 \end_layout
 
 \begin_layout Standard
-And Metzinger doubts that we can get up for one reason: There is nobody
- in the cave -- it is empty, the phenomenal self-model is the entire cave
- and all that is contained within it, but experiences itself as being in
- the center.
- And shadows, phenomenal representations, as real as they may seem, are
- merely interpretations of shaded surfaces.
+Metzinger doubts that we can get up for one reason: There is nobody in the
+ cave -- it is empty, the phenomenal self-model is the entire cave and all
+ that is contained within it.
+ The self-model experiences itself as being in the center, however.
+ Shadows, phenomenal representations, real as they may seem, are merely
+ interpretations of shaded surfaces.
  The entire cave is nothing but a “continuous online dream about, and internal
  emulation of, itself,”
 \begin_inset Foot
@@ -9449,16 +9858,35 @@ key "Metzinger2003"
 \end_inset
 
 , page 550.
+ The main difference between this kind of dream and the ones we have at
+ night is that the latter ones (which we traditionally call 
+\begin_inset Quotes eld
+\end_inset
+
+dreams
+\begin_inset Quotes erd
+\end_inset
+
+) are 
+\emph on
+offline
+\emph default
+ dreams, while the dream we have of our own selves is 
+\emph on
+online
+\emph default
+, influenced and to large extents directed by events external to the system
+ itself.
 \end_layout
 
 \end_inset
 
- and what we perceive as the shadow of ourselves is nothing but the shadow
- of the cave itself.
+ and what we introspectively perceive as the equivalent of a Platonic shadow
+ of ourselves is nothing but the shadow of the cave itself.
 \end_layout
 
 \begin_layout Subsubsection
-The Phenomenal Self-Model (PSM)
+The phenomenal self-model (PSM)
 \end_layout
 
 \begin_layout Standard
@@ -9470,10 +9898,34 @@ phenomenal self-model
 \begin_inset Quotes erd
 \end_inset
 
-, is the formal name Metzinger gives this part of his theory, and it is
- the more fundamental of the two main building blocks of it.
- The PSM really is the logical conclusion from what we have seen up to this
- point, and in particular, what follows from his multilevel constraints
+, is how Metzinger formally names this part of his theory, and it is the
+ more fundamental of the two main building blocks of it.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The other main building block is the PMIR, the 
+\begin_inset Quotes eld
+\end_inset
+
+phenomenal model of the intentionality relation
+\begin_inset Quotes erd
+\end_inset
+
+, see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PMIR"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ The PSM is the logical conclusion from what we have explored so far, and
+ in particular, the consequence which follows from his multilevel constraints
  and the fact that the system is mistaking the generated transparent self-repres
 entation in a naive-realistic self-misunderstanding
 \begin_inset Foot
@@ -9493,11 +9945,12 @@ reference "Genesis-Self-Model"
 
 \end_inset
 
- as a proper self.
+ as a self that actually is not merely a part of an ongoing process but
+ has ontological legitimation that goes beyond abstract entities.
 \end_layout
 
 \begin_layout Standard
-This is his main argument for it:
+This is Metzinger's main argument for the PSM:
 \end_layout
 
 \begin_layout Quotation
@@ -9541,14 +9994,14 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-As a matter of fact, it seems to me that there need not be a full-fledged
- perspectivalness constraint for the PSM.
+As a matter of fact, there seems to be no need for a full-fledged perspectivalne
+ss constraint for the PSM.
  Rather, it is the other way around: The PSM 
 \emph on
 is
 \emph default
- a major part of the perspectivalness constraint.There is the prereflexive
- proto self-model, that 
+ a major part of the perspectivalness constraint.
+ There is first the prereflexive proto self-model, that 
 \begin_inset Quotes eld
 \end_inset
 
@@ -9573,17 +10026,16 @@ key "Metzinger2003"
 
 \end_inset
 
- then there is the PSM, and then there is the PMIR that we'll look at in
- chapter 
+ then there is the PSM, and then there is the PMIR (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "PMIR"
 
 \end_inset
 
-.
- All those three parts together form the perspectivalness constraint, as
- we saw in chapter 
+).
+ These three parts together form the perspectivalness constraint and thus
+ the full `self', as discussed in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Perspectivalness"
@@ -9594,13 +10046,30 @@ reference "Perspectivalness"
 \end_layout
 
 \begin_layout Standard
-A PSM is formed naturally as soon as the prereflexive proto self-model is
- experienced phenomenally and transparently as an entity in the world by
- a system.
- All the other parts of the self-model, the phenomenal self that is experienced
+As soon as the prereflexive proto self-model is experienced phenomenally
+ and transparently as an entity in the world by a system, it thus logically
+ follows
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+It follows through the argumentation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, pages 336f, which was cited above.
+\end_layout
+
+\end_inset
+
+ that a PSM forms.
+ All other parts of the self-model, the phenomenal self that is experienced
  as thinker of the system's own thoughts and doer of the system's deeds,
- is merely coating that is by some necessity (through genetic disposition)
- added to that prereflexive self-model during an organism's growth and learning
+ is merely coating: It is necessarily (through genetic disposition) added
+ to that prereflexive self-model during an organism's growth and learning
  phase.
 \end_layout
 
@@ -9611,13 +10080,13 @@ name "Genesis-Self-Model"
 
 \end_inset
 
-Genesis of a Conscious Phenomenal Self-Model
+Genesis of a conscious phenomenal self-model
 \end_layout
 
 \begin_layout Standard
-A phenomenal self-model doesn't necessarily have to form even given many
+A phenomenal self-model does not necessarily have to form, even given many
  of Metzinger's multilevel constraints.
- He does specify the probable (and intuitively plausible) stance of a critic
+ He specifies the probable (and intuitively plausible) position of a critic
  of his model:
 \end_layout
 
@@ -9660,19 +10129,20 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-The argument then is very similar to the one we already saw in chapter 
+Metzinger's argument to counter this then is very similar to the one we
+ already discussed in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Phenomenality-for-Metzinger"
 
 \end_inset
 
-, where we ended up with ineffability as the defining characteristic of
- consciousness.
- It is exactly the phenomenal transparency (that is indeed constituted by
- satisfying the transparency, globality and presentationality constraints)
- of the contents of our mental self-model that is one of the things that
- are necessary for the conscious self-model.
+, where we established ineffability as being the defining characteristic
+ of consciousness.
+ It is exactly the phenomenal transparency (constituted by satisfying the
+ transparency, globality and presentationality constraints) of the contents
+ of our mental self-model which is, as one of two central prerequisites,
+ necessary for the conscious self-model.
  The other is that the system has to be able to transparently recognize
  (and identify with) the contents of that self-model as itself.
  Metzinger puts this as follows:
@@ -9714,7 +10184,24 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Metzinger calls transparency “a special form of inner darkness,”
+Metzinger terms transparency
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Transparency"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ “a special form of inner darkness.”
 \begin_inset Foot
 status open
 
@@ -9731,12 +10218,53 @@ key "Metzinger2003"
 
 \end_inset
 
- and that darkness is constituted in the fact that all vehicle properties
- and many content properties (as inappropriate as this distinction between
- vehicle and content properties may be in this context) just like many causal
- connections between entities in either categories are hidden from introspective
- access.
- A self then is this:
+ This darkness is constituted in the fact that the following properties
+ are hidden from introspective access:
+\end_layout
+
+\begin_layout Itemize
+Nearly all vehicle properties
+\end_layout
+
+\begin_layout Itemize
+Many content properties
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+As deficient as this distinction between vehicle and content properties
+ may be in this context -- see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Transparency"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+Many causal connections between all (vehicle and content) properties
+\end_layout
+
+\begin_layout Standard
+A self then is a completely transparent self-representation; the phenomenally
+ perceived representation of a self that the system generates and uses as
+ a kind of 
+\begin_inset Quotes eld
+\end_inset
+
+black box
+\begin_inset Quotes erd
+\end_inset
+
+ in its processes.
+ Metzinger defines it as follows:
 \end_layout
 
 \begin_layout Quotation
@@ -9777,14 +10305,14 @@ name "Switching-off-the-Self"
 
 \end_inset
 
-Switching off the Self
+Switching off the self
 \end_layout
 
 \begin_layout Standard
-A self is hard work for our brains.
- Thus it makes perfect sense that the self is switched off from time to
- time, when it isn't needed -- leading to times of partial or entire lack
- of conscious experience as well:
+Sustaining a self is a hard piece of work for our brains.
+ It thus makes perfect sense that the self is switched off from time to
+ time, when it is not needed -- which leads to times of partial or entire
+ lack of conscious experience:
 \end_layout
 
 \begin_layout Quotation
@@ -9823,12 +10351,64 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-The reason why we haven't noticed this before is because of the transparent
- nature of our self-model -- we cannot see it for what it is, merely an
- illusion that nobody has.
- This is the price we have paid for having a self-model in the first place
- however, for the increased autonomy and thus conscious self-control we
- have gained through it.
+The reason why we have not noticed this fact before is because of the transparen
+t nature of our self-model -- we cannot see it for what it is.
+ The self-model is merely an 
+\begin_inset Quotes eld
+\end_inset
+
+illusion
+\begin_inset Quotes erd
+\end_inset
+
+ nobody has.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Technically, that makes it not an illusion at all, see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Not-an-illusion"
+
+\end_inset
+
+.
+ Nevertheless, some form of proto self-model must exist for this kind of
+ process, see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Prereflexive-Proto-Self"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ This is the price we pay for having a self-model in the first place however;
+ the price we pay for the increased autonomy
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+We mainly gain increased autonomy because we are able to activate offline
+ mental content, independent of the external world, generate counterfactuals,
+ and thus form plans and ideas.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Offline-activation"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ and thus conscious self-control we have gained through it.
 \end_layout
 
 \begin_layout Subsubsection
@@ -9836,7 +10416,7 @@ Why
 \begin_inset Quotes eld
 \end_inset
 
-Being No One
+being no one
 \begin_inset Quotes erd
 \end_inset
 
@@ -9844,19 +10424,36 @@ Being No One
 \end_layout
 
 \begin_layout Standard
-With the title of his book, Metzinger points to a problem that we encountered
- in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Intuition"
+Already the title of Metzinger's book exhibits a problem which is worth
+ discussing.
+ It is not possible to be convinced of his theory of phenomenal self-modeling
+ while remaining a subject.
+ The epistemic irreducibility of any conscious experience, the fact that
+ it is tied to a first-person perspective, may be explainable, but it is
+ not possible to be truly convinced (which is necessary to make it intuitively
+ plausible) by such an explanation.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
 
 \end_inset
 
- already.
- It is not possible to be convinced of his theory of phenomenal self-modeling
- while remaining a subject.
- In order to even understand it, we have to take on a special epistemological
- stance:
+, pages 627f.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+In order to even understand Metzinger's explanation and the PSM, we have
+ to take on a special epistemological stance:
 \end_layout
 
 \begin_layout Quotation
@@ -9894,15 +10491,38 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-That special stance is one of a thought experiment that tries to resolve
- the dilemma we are in.
+That special stance is one of a thought experiment which tries to resolve
+ our dilemma.
+ The epistemic irreducibility of any conscious experience, the fact that
+ it is tied to a first-person perspective, may be explainable, but it is
+ not possible to be truly convinced (which is necessary to make it intuitively
+ plausible) by such an explanation:
 \end_layout
 
 \begin_layout Itemize
 Either I attempt to understand that there really are no selves -- however,
- I attempt that while I still perceive myself as “self” in that naive-realistic
- self-misunderstanding, so there is a logical contradiction between intentional
- point of view and intentional object.
+ I attempt this while I still perceive myself as “self” in that naive-realistic
+ self-misunderstanding, so there is a performative contradiction
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+It is a performative contradiction and not a logical one because the subject
+ and the object are different kinds of entities, and thus assuming that
+ it is a logical error would be a category error.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Cogito-Ergo-Sum"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ between intentional point of view and intentional object.
 \end_layout
 
 \begin_layout Itemize
@@ -9913,9 +10533,9 @@ Or I let go of my intentional point of view and reach a transcendental state
 \end_layout
 
 \begin_layout Standard
-Let's try to understand Minsky's theory about the self as it was now explained
- anyway.
- If we can't appreciate it or be truly convinced of it, we can still try
+Let us try to understand Metzinger 's theory about the self anyway, as good
+ as we can.
+ If we can not appreciate it or be truly convinced of it, we can still try
  and describe our own and our fellow agents' self-models as good as possible.
 \end_layout
 
@@ -9926,7 +10546,7 @@ name "Minsky-Multiple-Models"
 
 \end_inset
 
-Minsky: Multiple Models
+Minsky: Multiple models
 \end_layout
 
 \begin_layout Standard
@@ -10629,6 +11249,122 @@ reference "Cartesian-Theater"
 \begin_layout Standard
 Let's see how we can consolidate all three into one common view that incorporate
 s all their strengths, hopefully without too many of their weaknesses.
+\end_layout
+
+\begin_layout Subsubsection
+On dualism
+\end_layout
+
+\begin_layout Standard
+All the theories mentioned in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Dualism"
+
+\end_inset
+
+ have in common that they postulate that there is more to the world than
+ the physical, and more importantly, they postulate that this additional
+ matter is not traceable or detectable by scientific or naturalistic means.
+ Essentially, they postulate that there is a kind of causation that is not
+ causally analyzable.
+ Looking at the original Cartesian version that puts the 
+\emph on
+res cogitans
+\emph default
+, the 
+\begin_inset Quotes eld
+\end_inset
+
+mind stuff
+\begin_inset Quotes erd
+\end_inset
+
+, into the pineal gland, Dennett puts it concisely:
+\end_layout
+
+\begin_layout Quote
+How, precisely, does the information get transmitted from pineal gland to
+ mind? [...] let's ignore those upbound signals for the time being, and concentrate
+ on the return signals, the directives from mind to brain.
+ These, 
+\emph on
+ex hypothesi
+\emph default
+, are not physical [...].
+ No physical energy or mass is associated with them.
+ How, then, do they get to make a difference to what happens in the brain
+ cells they must affect, if the mind is to have any influence over the body?
+ A fundamental principle of physics is that any change in the trajectory
+ of any physical entity is an acceleration requiring the expenditure of
+ energy, and where is this energy to come from?
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 34, italics his.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+It may be true that the world consists of more than what is epistemologically
+ graspable by us human beings.
+ But that does not make this additional 
+\begin_inset Quotes eld
+\end_inset
+
+matter
+\begin_inset Quotes erd
+\end_inset
+
+ non-physical or even non-naturalist.
+ In particular, it is implied by definition that every causal relationship
+ is causally analyzable.
+ Causes for any kind of effect, whether we can touch and see the effect
+ or not, can be logically scrutinised.
+ As our insights into mathematics or particle physics show, we are perfectly
+ able to perform these kinds of investigations even with empirically nongraspabl
+e, completely abstract subjects.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+For example, there are major works on the epistemology of numbers and mathematic
+al structures, starting with 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hilbert1897"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Applied to philosophy of mind, this means the following: There is nothing
+ that stops us from investigating logical interactions not available for
+ introspection.
+\end_layout
+
+\begin_layout Standard
+Consequently, I will dismiss substance dualism as not relevant for this
+ thesis.
 \end_layout
 
 \begin_layout Subsubsection
