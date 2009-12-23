@@ -11961,10 +11961,10 @@ reference "PSM"
 \end_inset
 
  intuitively plausible.
- For example, phantom limb pains that exist for people who never even had
- limbs in the first place -- there seems to be some hardwired (genetically
- hardcoded and necessarily grown) structures in our brains that correspond
- to certain body parts.
+ For example, some people experience phantom limb pains yet never had a
+ the limbs in question in the first place.
+ There seems to be some hardwired (genetically hardcoded and necessarily
+ grown) structures in our brains that correspond to certain body parts.
 \begin_inset Foot
 status open
 
@@ -12009,11 +12009,26 @@ built-in
 
 \end_inset
 
- However, the functional components that are able to form such a self-model
- are something that warrants more research.
- Because as we have seen, once there is phenomenal experience, and a pre-reflexi
-ve proto self-model, the rest that forms our phenomenal self-model (or,
- with Minsky, self-model
+ However, the functional components that may form such a self-model are
+ something that warrants more research, because, as we have seen,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PSM"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ once there is phenomenal experience, and a pre-reflexive proto self-model,
+ the rest that forms our phenomenal self-model (or, with Minsky, self-model
 \emph on
 s
 \emph default
@@ -12024,20 +12039,53 @@ reference "Multiple-Phenomenal-Self-Models"
 
 \end_inset
 
-) comes naturally.
+) comes naturally and by logical necessity.
 \end_layout
 
 \begin_layout Standard
-That research would do well to answer these questions here -- given Metzinger's
- teleofunctionalism:
+That research would do well to answer the following questions -- assuming
+ Metzinger's teleofunctionalism
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Weaker-Adaptivity"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+:
 \end_layout
 
 \begin_layout Itemize
-What kinds of teleological properties are necessary for the formation of
- a human-like phenomenal self-model, given the other 10 constraints besides
- perspectivalness and a phenomenally experienced human body? In other words,
- how exactly do we have to define the lower levels of the perspectivalness
- constraint to make it both necessary and sufficient for the generation
+What types of teleological properties are necessary for the formation of
+ a human-like phenomenal self-model, given the ten constraints
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multilevel-Constraints"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ besides perspectivalness and a phenomenally experienced human body? In
+ other words, how exactly do we have to define the lower levels of the perspecti
+valness constraint to make it both necessary and sufficient for the generation
  of a phenomenal self-model in a phenomenally experienced process in a human
  brain?
 \end_layout
@@ -12051,7 +12099,7 @@ What are the functional properties that enable those teleological properties?
 \begin_layout Itemize
 What kinds of neural correlates (and functional links of the mental contents
  supervening on them) have to exist in order to create those functional
- properties, how can they form during a human organism's growth process?
+ properties, and how can they form during a human organism's growth process?
  In other words, how is the perspectivalness constraint implemented in the
  human brain?
 \end_layout
@@ -12059,12 +12107,17 @@ What kinds of neural correlates (and functional links of the mental contents
 \begin_layout Standard
 To date, we have made little progress with regard to these questions.
  There are hints and pointers that make the idea of a prereflexive proto
- self-model seem reasonable and able to explain many things that remain
- mysteries in other belief systems.
- We know for example that there are brain regions that invariably are responsibl
-e for a certain body part's sensory inputs.
- But there are no fleshed-out theories yet that fit these things together.
- I do believe that this would be a worthy topic for future research.
+ self-model seem reasonable.
+ It appears that the proto self-model is capable of explaining many things
+ that remain mysteries in other theories and belief systems.
+\end_layout
+
+\begin_layout Standard
+We know for example that there are brain regions that invariably are responsible
+ for a certain body part's sensory inputs.
+ However, there are no fleshed-out theories yet that fit these discoveries
+ together.
+ I believe that this can be a worthy topic for future research.
 \end_layout
 
 \begin_layout Subsubsection
@@ -12078,52 +12131,197 @@ Multiple Phenomenal Self-Models
 \end_layout
 
 \begin_layout Standard
-I do agree with most parts of Dennett's view.
- I agree with almost all parts of Metzinger's view, and I even also agree
- with almost all parts of Minsky's view.
- Considering they contradict each other only in minor points, this can only
- mean one thing: I propose that we blend them together and form a theory
- that incorporates them all.
- Allow me to attempt a crude version of just that.
+Most parts of Dennett's view appear to hold up to logical scrutiny.
+ The same thing applies to almost all parts of Metzinger's view, and almost
+ all parts of Minsky's view.
+ Considering that they contradict each other only in minor points, this
+ can only mean one thing: I propose that we blend them together and form
+ a theory that incorporates them all.
+ The following discussion can be taken as my bold attempt at doing precisely
+ that.
 \end_layout
 
 \begin_layout Standard
-Since Dennett's ideas on subjectivity are not as fleshed-out as these of
- Metzinger, and can mostly be expressed by a subset of Metzinger's ideas,
- I think we can for now drop Dennett.
- This leaves Metzinger's generation of phenomenal self-models, but with
+Since Dennett's ideas on subjectivity are not as detailed as, and can mostly
+ be expressed by a subset of, Metzinger's ideas, I think we can for now
+ drop Dennett.
+ This leaves us with Metzinger's generation of phenomenal self-models, with
  the reservation that not one such self-model is generated during the lifetime
  of a system.
- Rather, from one moment to the next, different critics and experts
+ Rather, from one moment to the next, different 
+\begin_inset Quotes eld
+\end_inset
+
+critics
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+selectors
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-As I mentioned before, unfortunately we do not have the space to look at
- Minsky's critics and experts -- essentially, they are brain centers responsible
- for activating different other brain centers that then process sensory
- data and other mental contents in different ways.
- This then results in different Ways to Think being available to the system.
+As I mentioned before (see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-Self-Models"
+
+\end_inset
+
+), unfortunately we do not have the space to look at Minsky's 
+\begin_inset Quotes eld
+\end_inset
+
+critics
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+selectors
+\begin_inset Quotes erd
+\end_inset
+
+ -- essentially, they are brain centers responsible for activating different
+ other brain centers that then process sensory data and other mental contents
+ in different ways.
+ This then results in different 
+\begin_inset Quotes eld
+\end_inset
+
+Ways to Think
+\begin_inset Quotes erd
+\end_inset
+
+ being available to the system.
+ See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, where Minsky's 
+\begin_inset Quotes eld
+\end_inset
+
+Critic-Selector Machines
+\begin_inset Quotes erd
+\end_inset
+
+ are introduced, first on page 29:
+\end_layout
+
+\begin_layout Quote
+So this book will suggest that to deal with hard problems, our brains augmented
+ their ancient Reaction-Machines with what we'll call 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Critic-Selector Machines.
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ [...] The 
+\begin_inset Quotes eld
+\end_inset
+
+Critics
+\begin_inset Quotes erd
+\end_inset
+
+ of Critic-Selector Machines will also detect situations or problems inside
+ the mind such as serious conflicts between active resources.
+ Similarly, the 
+\begin_inset Quotes eld
+\end_inset
+
+Selectors
+\begin_inset Quotes erd
+\end_inset
+
+ of Critic-Selector machines don't just perform actions in the external
+ world, they can react to 
+\emph on
+mental
+\emph default
+ obstacles by turning other resources on or off -- thus switching to different
+ Ways to Think.
 \end_layout
 
 \end_inset
 
- are active, thus different parts of the brain provide functional processing
- abilities (leading to at least some lower-level parts of the phenomenal
- self-model supervening on different neural correlates from one moment to
- the next), and thus a different phenomenal self-model can be experienced.
+ are active.
+ Thus different parts of the brain provide functional processing abilities,
+ leading to at least some lower-level parts of the phenomenal self-model
+ supervening on different neural correlates from one moment to the next,
+ and thus a different positive phenomenal self-model is (transparently)
+ experienced.
 \end_layout
 
 \begin_layout Standard
-When we are modeling normative selves, this happens in an opaque manner,
- so those are available for introspection -- but the fact that our positive
- phenomenal self-model changes from one moment to the next is not necessarily
- available to us, since it is transparent (and some parts of it are ineffable).
+Modeling 
+\emph on
+normative
+\emph default
+ selves on the other hand always happens in an opaque manner, and they are
+ available for introspection.
+ However, the fact that our positive phenomenal self-model changes from
+ one moment to the next is not necessarily available to us, since it is
+ transparent, and in some regions even ineffable.
  We can, as with other things, introspectively distance ourselves from our
- deeds and look at what we are doing; an example of that is when we take
- a step back and realize we are just acting so rudely because we are jealous
- when we really shouldn't be -- but by default, we don't do that, and often
- don't realize how we're really not the same today as we were yesterday.
+ deeds and look at what we are doing; as exemplified in when we take a step
+ back and realize we are just acting so rudely because we are jealous when
+ really we should not be.
+ By default however, we do not reflect like that, and often do not realize
+ that we are indeed not the same person today as we were yesterday.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Of course, several things have to be kept in mind:
+\end_layout
+
+\begin_layout Itemize
+There will be overlapping areas where multiple self-models share similar
+ or identical traits -- but of course, it is also possible that a person
+ acts completely different in varying surroundings
+\end_layout
+
+\begin_layout Itemize
+These self-models are not pure; the business self will mix with the household
+ self when a businesswoman is talking with her kids on the phone during
+ her lunch break
+\end_layout
+
+\begin_layout Itemize
+While there may be multiple such self-models, they are still part of the
+ same self, and except in pathological cases will also be judged as belonging
+ to the same person by the social environment
+\end_layout
+
+\begin_layout Plain Layout
+Nevertheless, a theory of multiple phenomenal self-models appears to be
+ what fits the few known facts about how our brain works best.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -12140,21 +12338,22 @@ I'm not quite myself today
 \end_layout
 
 \begin_layout Standard
-Those self-models can, to some extent, be stored transtemporally.
+These multiple self-models can, to some extent, be stored transtemporally.
  This is always true for a description of an opaquely experienced phenomenal
  self-model.
- But we have to keep in mind that there is a reservation: For some of those
- stored self-models, it is no longer possible to fully appreciate them (in
- the sense that I constrained it in chapter 
+ However, there is a reservation: For some of those stored self-models,
+ it is no longer possible to fully appreciate them in the sense that I constrain
+ed appreciation in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Difference-Appreciation-Description"
 
 \end_inset
 
-) -- some childhood memories might still be available, but while I know
- that I am still the very same person, I do not know anymore what it was
- like to be me back then.
+.
+ Some childhood memories might still be available, but while I know that
+ I am still the very same person, I do not know anymore what it was like
+ to be me back then.
 \end_layout
 
 \begin_layout Standard
@@ -12842,7 +13041,7 @@ He suggests a thought experiment where we would want to experience the year
  Now, what Dennett points out is this:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 If we cling to this view [that this artifact would only possess derived
  intentionality], the conclusion forced upon us is that our own intentionality
  is exactly like that of the robot, for the science-fiction tale I have
@@ -12915,7 +13114,7 @@ phenomenal model of the intentionality relation
  building blocks of subjective consciousness:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The concept of a PMIR will, finally, give us a more precise understanding
  of 
 \emph on
@@ -13039,7 +13238,7 @@ If we want to naturalize intentionality (as Metzinger wants to), phenomenalizing
  Here's how he explains this:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Phenomenalizing intentionality, I would submit, may be a necessary detour,
  an indispensable first step in the project of 
 \emph on
@@ -13106,7 +13305,7 @@ Showing that intentional content is a special form of phenomenal content
  for our continued survival as a species:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 This global effect [of “global immersion”] is achieved by continuously activatin
 g dynamic and transparent representations of a subject-object relation,
  which episodically integrates the self-model and those perceptual, cognitive
@@ -13177,7 +13376,7 @@ These patients are still embodied selves, but not agents: They lack goals
  As Metzinger points out,
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 [Such tragic cases] very clearly demonstrate what it means to say that the
  phenomenal first-person perspective [including the PMIR] is the decisive
  factor in turning a mere biological organism into an agent, into a willing
@@ -13210,7 +13409,7 @@ y, and thus not possible without a PMIR.
  or guide it) demonstrates:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The central point is that many such arm movements clearly seem to be goal-direct
 ed actions, although no such goal representation is available either on
  the phenomenal level in general or on the level of conscious self-representatio
@@ -13284,7 +13483,7 @@ It is rare that a philosopher is talking about intentionality without also
  Metzinger puts this as follows:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 We can now see how a full-blown subjective consciousness evolves through
  three major levels: The generation of a world-model, the generation of
  a self-model, and the transient integration of certain aspects of the world-mod
@@ -13541,7 +13740,7 @@ key "Nagel1991"
 :
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 Well, then, what does rotting chicken smell like to a turkey vulture? [...]
  We can uncover the corresponding family of reactive dispositions in the
  vulture by the same methods that work for me, and as we do, we will learn
@@ -13663,17 +13862,31 @@ Cogito, Ergo Sum
 
 \begin_layout Standard
 This chapter goes beyond the minimal notion of a self and offers an analysis
- of how a cognitive first-person perspective can come from a merely phenomenal
- first-person perspective.
- The difference is that beings who only possess a phenomenal first-person
- perspective may be conscious subjects of experience, but not all of them
- also have first-person concepts of themselves (that then enable a cognitive
- first-person perspective).
+ of how a 
+\emph on
+cognitive
+\emph default
+ first-person perspective can come from a merely 
+\emph on
+phenomenal
+\emph default
+ first-person perspective, expanding on the findings from chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Subjectivity-Consolidation"
+
+\end_inset
+
+.
+ The difference between the two perspectives is that beings who only possess
+ a phenomenal first-person perspective may be conscious subjects of experience,
+ but not all of them also have first-person concepts of themselves which
+ then enable a cognitive first-person perspective.
 \end_layout
 
 \begin_layout Standard
-He does exemplify this transition by depicting Baker's very interesting
- analysis of Descartes' 
+Metzinger explains this transition by depicting Baker's interesting analysis
+ of Descartes' 
 \begin_inset Quotes eld
 \end_inset
 
@@ -13689,11 +13902,11 @@ I think, therefore I am
 \begin_inset Quotes erd
 \end_inset
 
-), or rather Baker's more specific reformulation, where I* is the own self
- perceived as thinker of first-person thoughts:
+), or rather Baker's more specific reformulation, defining I* as the own
+ self perceived as thinker of first-person thoughts:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 I am certain that I* exist.
 \begin_inset Foot
 status open
@@ -13716,9 +13929,9 @@ key "Metzinger2003"
 , page 398.
  Metzinger then goes beyond Baker and adds the distinction between [active
  phenomenal content] and <linguistic expressions> with corresponding symbols
- (square and angled brackets, respectively), which further clarifies the
+ (square and angle brackets, respectively), which further clarifies the
  ways in which we refer to mental content -- but for the purpose of this
- chapter here, we will skip over that distinction and merely look at phenomenal
+ chapter here, we will disregard that distinction and merely look at phenomenal
  content.
 \end_layout
 
@@ -13749,8 +13962,47 @@ I*
 \end_inset
 
 : The content of the transparent self-model, under the principle of autoepistemi
-c closure (as in, it cannot discover its own representational nature by
- principle).
+c closure
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The principle of autoepistemic closure says that the transparent self-model
+ cannot discover its own representational nature by principle.
+ Metzinger defines it in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 131:
+\end_layout
+
+\begin_layout Quote
+[Autoepistemic closure] is constituted by (a) the existence of a comprehensive
+ representation of reality as a whole, and (b) the fact that this representation
+ cannot be recognized 
+\emph on
+as
+\emph default
+ a representation by the system itself [...].
+ Put differently, in standard situations and from a first-person perspective
+ the contents of phenomenal states always are 
+\emph on
+in a world
+\emph default
+ -- they are part of 
+\emph on
+my world
+\emph default
+ [...].
+ This world is presented in the mode of naive realism.
+\end_layout
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Itemize
@@ -13795,9 +14047,9 @@ key "Metzinger2003"
 
 \end_inset
 
- In other words, the autoepistemic closure here extends into the entire
- world model, the world and the existence of the transparent self-model
- inside it are naively misrepresented as epistemically given.
+ In other words, the autoepistemic closure extends into the entire world
+ model; the world and the existence of the transparent self-model inside
+ it are naively misrepresented as epistemically given.
 \end_layout
 
 \begin_layout Itemize
@@ -13852,7 +14104,7 @@ reference "PMIR"
 \end_layout
 
 \begin_layout Standard
-In other words: The expression 
+Put differently: The expression 
 \begin_inset Quotes eld
 \end_inset
 
@@ -13860,12 +14112,12 @@ I am certain that I* exist
 \begin_inset Quotes erd
 \end_inset
 
- denotes how exactly it is the case that or mind is fooling itself into
- believing that a self representing it exists.
+ denotes how our mind is fooling itself into believing that a self representing
+ our mind exists.
  Using Metzinger's concise words again:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The object component of the phenomenal first-person perspective is transparent
  and the respective person is, therefore, on the level of phenomenal experience,
  forced into an (epistemically unjustified) existence assumption with respect
@@ -13907,19 +14159,39 @@ Empathy and Intersubjectivity
 \end_layout
 
 \begin_layout Standard
-We now go even further, beyond mere subjectivity, with an outlook at what
- Metzinger's theory implies for sentient beings with a phenomenal self-model.
+Moving one step further, beyond mere subjectivity and intentionality, this
+ part provides an outlook on what Metzinger's theory implies for sentient
+ beings with a phenomenal self-model.
 \end_layout
 
 \begin_layout Standard
-As a matter of fact, once we agree that a self is, in the end, a phenomenal
- self-model, systems that have a self necessarily have the prerequisites
- for forming a model of a person.
- After all, they are already modeling themselves with these prerequisites.
- The implication is that these prerequisites could also be used for different
- things than modeling the own personhood -- and that exactly is, according
- to Metzinger, what enables what he calls offline simulations of first-person
- perspectives even for other minds.
+As a matter of fact, once we agree that a self is, ultimately, a phenomenal
+ self-model, it follows that systems which have a self necessarily have
+ the prerequisites for forming a model of a person.
+ After all, they are already modeling 
+\emph on
+themselves
+\emph default
+ with these prerequisites.
+ The implication is that these prerequisites could also be used for other
+ purposes than modeling the own personhood -- and exactly that, according
+ to Metzinger, is what enables 
+\begin_inset Quotes eld
+\end_inset
+
+offline simulations
+\begin_inset Quotes erd
+\end_inset
+
+ of 
+\begin_inset Quotes eld
+\end_inset
+
+first-person perspectives
+\begin_inset Quotes erd
+\end_inset
+
+ even for other minds.
 \begin_inset Foot
 status open
 
@@ -13931,7 +14203,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, pages 182ff.
+, pages 182-184.
 \end_layout
 
 \end_inset
@@ -13939,7 +14211,7 @@ key "Metzinger2003"
  Those representations of other minds show some interesting properties:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 These experiences are interesting, because they do not satisfy the transparency
  constraint.
  When thinking about the mental states of fellow human beings in this manner,
@@ -13971,7 +14243,7 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-This then leads to the possibility of modeling the phenomenal 
+Subsequently, this leads to the possibility of modeling the phenomenal 
 \begin_inset Quotes eld
 \end_inset
 
@@ -13979,19 +14251,19 @@ you,
 \begin_inset Quotes erd
 \end_inset
 
- modeling the experience of being confronted with another agent, another
- person.
+ meaning modeling the experience of being confronted with another agent,
+ another person.
  This task really is not only one of simulation, but also one of emulation.
  We are able to read the minds of other humans, to some extent, by constructing
- complex models of their selves that include goal structures and predicted
+ complex models of their selves which include goal structures and predicted
  motor behaviour.
- It has been shown that some of the very neural structures that an observed
- human activates for, for example, moving a finger, are also being activated
+ It has been shown that some of the same neural structures that an observed
+ human activates, for example, for moving a finger, are also being activated
  in observers' brains.
  Metzinger explains this as follows:
 \end_layout
 
-\begin_layout Quotation
+\begin_layout Quote
 The motor representation embedded in this partition [...] underlies the conscious
  experience of 
 \emph on
@@ -14031,10 +14303,10 @@ key "Metzinger2003"
 \begin_layout Standard
 So, having a phenomenal self-model like we do is a very efficient way of
  enabling intersubjectivity by means of enabling empathy.
- Only if we can realize that other persons are agents can we act according
- to that fact, and only if we can model some of their goals and mental states
+ Only if we perceive of other persons as agents can we act according to
+ that fact, and only if we can model some of their goals and mental states
  (or at least goals and mental states that we would have if we were them)
- can we take those into account and act according to them.
+ can we take these into account and act accordingly.
 \begin_inset Foot
 status open
 
@@ -14042,15 +14314,15 @@ status open
 Do note that the PMS alone does not suffice to generate such relations:
  The relation itself is modeled as a form of intentional direction, so it
  does also require some form of intentionality.
- We will look at Metzinger's way of forming intentional relations in chapter
- 
+ So it also requires Metzinger's way of forming intentional relations from
+ chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "PMIR"
 
 \end_inset
 
-, introducing the PMIR.
+, the PMIR.
  Metzinger says in 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -14073,8 +14345,12 @@ second-person
 \end_layout
 
 \begin_layout Standard
-Notably, there are parallels to Dennett's intentional stance that we will
- briefly look at in chapter 
+Notably, there are parallels from this theory to Dennett's intentional stance.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "The-Intentional-Stance"
@@ -14082,6 +14358,11 @@ reference "The-Intentional-Stance"
 \end_inset
 
 .
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
