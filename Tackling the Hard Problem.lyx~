@@ -12342,18 +12342,19 @@ These multiple self-models can, to some extent, be stored transtemporally.
  This is always true for a description of an opaquely experienced phenomenal
  self-model.
  However, there is a reservation: For some of those stored self-models,
- it is no longer possible to fully appreciate them (in the sense that I
- constrained appreciation in chapter 
+ it is no longer possible to fully appreciate them in the sense that I constrain
+ed appreciation in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Difference-Appreciation-Description"
 
 \end_inset
 
-).
+.
  Some childhood memories might still be available, but while I know that
  I am still the very same person, I do not know anymore what it was like
  to be me back then.
+ 
 \end_layout
 
 \begin_layout Standard
@@ -12374,7 +12375,7 @@ Intentionality
 \end_layout
 
 \begin_layout Standard
-It is important to notice that 
+Importantly, 
 \begin_inset Quotes eld
 \end_inset
 
@@ -12382,35 +12383,98 @@ intentionality
 \begin_inset Quotes erd
 \end_inset
 
- is one of those (with Minsky) suitcase-like words
+ is one of those 
+\begin_inset Quotes eld
+\end_inset
+
+suitcase words
+\begin_inset Quotes erd
+\end_inset
+
+
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Suitcase-Words"
+Suitcase words are a concept that Minsky introduces.
+ Essentially, an entire suitcase of concepts fits onto one word, which we
+ learned to know without thinking about it; dissecting that word is hardly
+ possible because the concepts the word implies do not even necessarily
+ have to belong to the same categories.
+ He talks about them in various places in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
 
 \end_inset
 
-.
+, for example asking on page 12, after having introduced plenty of meanings
+ of the word 
+\begin_inset Quotes eld
+\end_inset
+
+love
+\begin_inset Quotes erd
+\end_inset
+
+: 
+\begin_inset Quotes eld
+\end_inset
+
+Why do we pack such dissimilar things into those suitcase-like words?
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Later on, he looks at the concept from different angles, and offers a psychologi
+cal explanation in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 110: 
+\begin_inset Quotes eld
+\end_inset
+
+We often use those suitcase words to keep us from asking questions about
+ ourselves.
+ Just having a name for an answer can make us feel as though we actually
+ have the answer itself.
+\begin_inset Quotes erd
+\end_inset
+
+
 \end_layout
 
 \end_inset
 
  that can have many different meanings.
- What I intend to look at here is the peculiar way in which our mind can
- focus on a concept, or a group of concepts perceived as one entity, and
- seemingly forms a direct connection between us and this target entity --
- at least, that is the way we often phenomenally experience it.
+ What I intend to analyse in the following is a rather specific meaning
+ of the word: The thesis will narrow down the meaning of 
+\begin_inset Quotes eld
+\end_inset
+
+intentionality
+\begin_inset Quotes erd
+\end_inset
+
+ to the peculiar way in which our mind can focus on a concept, or a group
+ of concepts perceived as one entity, and then seemingly forms a direct
+ connection between us and this target entity -- at least, this is how we
+ often phenomenally experience it.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-I do believe that it is a slight bit of a philosopher's delusion that everybody
- thinks about it with that intentional arrow pointing out of our heads --
- when speaking with computer scientists, I often find it hard to persuade
+I believe that it is a slight bit of a philosopher's delusion to presume
+ that everybody thinks about it with that intentional arrow pointing out
+ of our heads.
+ When talking with fellow computer scientists, I often find it hard to persuade
  them that it is not merely a case of 
 \begin_inset Quotes eld
 \end_inset
@@ -12421,7 +12485,11 @@ wandering focus.
 
  I believe that both descriptions hold merit, but will stay true to the
  philosophical nature of this thesis and use the intentional experience
- of directedness wherever possible.
+ of 
+\emph on
+directedness
+\emph default
+ wherever possible.
 \end_layout
 
 \end_inset
@@ -12430,10 +12498,10 @@ wandering focus.
 \end_layout
 
 \begin_layout Standard
-It is, as a probably naive but intuitively graspable model, the arrow of
- attention, pointing out of our heads at an object in the world (or at an
- imagined object inside our heads), while carrying a meaning under a certain
- aspect.
+Intentionality can be imagined, as a probably naive but intuitively graspable
+ model, the arrow of attention, pointing from inside our heads to an object
+ in the world (or at an imagined object inside our heads), while carrying
+ a meaning under a certain aspect.
 \begin_inset Foot
 status open
 
@@ -12462,7 +12530,7 @@ All intentionality is aspectual.
 \end_layout
 
 \begin_layout Subsection
-Brentano: Immanent Objectivity
+Brentano: Immanent objectivity
 \end_layout
 
 \begin_layout Standard
@@ -12474,8 +12542,8 @@ intentionality
 \begin_inset Quotes erd
 \end_inset
 
- as more recent philosophers do, Brentano already introduces and researches
- the concept of something that is intended with every mental phenomenon:
+ like more recent philosophers do, Brentano already introduced and researched
+ the concept:
 \end_layout
 
 \begin_layout Quotation
@@ -12484,7 +12552,7 @@ Every mental phenomenon is characterized by what the Scholastics of the
  and what we might call, though not wholly unambiguously, reference to a
  content, direction toward an object (which is not to be understood here
  as meaning a thing), or immanent objectivity.
- Every mental hpenomenon includes something as an object within itself,
+ Every mental phenomenon includes something as an object within itself,
  although they do not all do so in the same way.
  In presentation something is presented, in judgement something is affirmed
  or denied, in love loved, in hate hated, in desire desired and so on.
@@ -12540,22 +12608,32 @@ it is not to be interpreted as a mode of being the thing has in consciousness,
 
 \begin_layout Standard
 The idea is very intriguing.
- There always is some kind of object of any mental phenomenon indeed, something
- that the mental phenomenon is about.
- As we saw in chapter 
+ It certainly seems that there always is some kind of object of any mental
+ phenomenon, something the mental phenomenon is about.
+ There are suitcase words
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I explained suitcase words, Minsky's concept, in a footnote in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "Suitcase-Words"
+reference "Intentionality"
 
 \end_inset
 
-, there are suitcase words that an entire class of entities can be described
- with; The fact that we can linguistically refer to different kinds of intention
-ality always as something of the same kind doesn't necessarily make that
- so from an ontological point of view.
- But nevertheless: The fact that there is something unifying about mental
- phenomena, in that they all share having some kind of aboutness, has to
- be accounted for.
+.
+\end_layout
+
+\end_inset
+
+ which can describe an entire class of entities.
+ Consequently, even if we can always linguistically refer to different kinds
+ of intentionality as entities belonging to one class, that does not necessarily
+ make them the same from an ontological point of view.
+ Nevertheless: The fact that there is something unifying about mental phenomena,
+ in that they all share having some kind of `aboutness', has to be accounted
+ for.
  Brentano rightly calls attention to that fact.
 \begin_inset Foot
 status open
@@ -12568,8 +12646,7 @@ key "Chrudzimski2005"
 
 \end_inset
 
-, which is very interesting, goes beyond Brentano and also looks at Husserl
- and Ingarden.
+, which goes beyond Brentano and also includes Husserl and Ingarden.
 \end_layout
 
 \end_inset
@@ -12578,8 +12655,8 @@ key "Chrudzimski2005"
 \end_layout
 
 \begin_layout Standard
-Brentano, in his work, already classifies mental phenomena into three kinds:
- presentations, judgements, and those 
+Brentano already classifies mental phenomena into three kinds: presentations,
+ judgements, and those 
 \begin_inset Quotes eld
 \end_inset
 
@@ -12587,10 +12664,10 @@ of love and hate
 \begin_inset Quotes erd
 \end_inset
 
- -- by which he means all kinds of emotional phenomena.
- He is well aware that there can be other classifications, too, he explicitly
- mentions those of Aristotle (thought and appetite) and the apparently prevalent
- classification of his time (presentation, feeling and will).
+ -- by which he means any kind of emotional phenomena.
+ He is well aware that there can be other classifications, too, and he explicitl
+y mentions those of Aristotle (thought and appetite) and the apparently
+ prevalent classification of his time (presentation, feeling and will).
 \begin_inset Foot
 status open
 
@@ -12611,14 +12688,13 @@ key "Brentano1874"
 \end_layout
 
 \begin_layout Subsection
-Dennett: Only Derived Intentionality
+Dennett: Only derived intentionality
 \end_layout
 
 \begin_layout Standard
-Dennett doesn't believe in intrinsic or original intentionality.
- That's the short version -- the longer version starts with a thought experiment.
- Allow me to leave out many important passages in the following quote, to
- reduce it to its essence:
+Dennett does not believe in intrinsic or original intentionality.
+ The essence of the thought experiment that he starts his analysis with
+ reads as follows:
 \end_layout
 
 \begin_layout Quotation
@@ -12651,8 +12727,10 @@ key "Dennett1987"
 \end_inset
 
 , pages 294f.
- There, he also lists plenty of philosophers who either agree that there
- is intrinsic intentionality, or agree that there isn't.
+ There, he also lists many philosophers who either agree that there is intrinsic
+ intentionality, or agree that there is not.
+ Pardon all the ellipsis, I gave my best not to leave out anything too important
+ for Dennett's extensive introduction of the thought experiment.
 \end_layout
 
 \end_inset
@@ -12661,10 +12739,43 @@ key "Dennett1987"
 \end_layout
 
 \begin_layout Standard
+This thought experiment is interesting because it challenges our intuitions.
+ Schmorses clearly are distinct from horses, from an intrinsic point of
+ view, while their external appearance certainly seems to be the same.
+\end_layout
+
+\begin_layout Standard
+If there is such a thing as an intentional arrow (with ontological legitimation
+ beyond that of a helpful metaphor), it thus clearly has to point at either
+ a schmorse or a horse, because it has to point at 
+\emph on
+something
+\emph default
+ or (since it is defined through a start point and an end point) it can
+ not exist at all.
+ If an intentional arrow is only a helpful metaphor however, it does not
+ matter what it really points at, because it does not really point at anything
+ at all in a literal sense, and consequently the question whether it actually
+ points at a horse or a schmorse makes no sense.
+\end_layout
+
+\begin_layout Standard
 Dennett goes even further: Not only does he doubt that intentionality can
- be intrinsically about something in particular, he does not believe that
- there is anything beyond derived intentionality (which has been called
- 
+ be intrinsically about something in particular, he also does not believe
+ that there is anything beyond derived intentionality.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+What Dennett and others call 
+\begin_inset Quotes eld
+\end_inset
+
+derived intentionality
+\begin_inset Quotes erd
+\end_inset
+
+ has been called 
 \begin_inset Quotes eld
 \end_inset
 
@@ -12672,24 +12783,18 @@ observer-relative ascriptions of intentionality
 \begin_inset Quotes erd
 \end_inset
 
- by Searle in his Chinese Room discussion
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
+ by Searle in his Chinese Room discussion (see 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Searle1980"
 
 \end_inset
 
-.
+).
 \end_layout
 
 \end_inset
 
-) at all.
  That is what his argument for the intentional stance is all about.
 \end_layout
 
@@ -12700,13 +12805,13 @@ name "The-Intentional-Stance"
 
 \end_inset
 
-The Intentional Stance
+The intentional stance
 \end_layout
 
 \begin_layout Standard
-It is striking how often us humans ascribe intentional acts and beliefs
- to animals, or even machines who obviously don't have any feelings or even
- states that could properly classify as 
+It is striking how often humans ascribe intentional acts and beliefs to
+ animals and even machines, both of which obviously do not have any feelings
+ or even states that could properly be classified as 
 \begin_inset Quotes eld
 \end_inset
 
@@ -12716,7 +12821,7 @@ mental
 
  (or rather, phenomenal) states.
  We also ascribe intentional acts and beliefs to each other, with apparently
- more justification and less metaphorical.
+ more justification and less metaphorically.
 \end_layout
 
 \begin_layout Standard
@@ -12724,50 +12829,8 @@ This ascription of intentionality to other systems is, according to Dennett,
  the intentional stance.
  It is a stance we enter in which we ascribe intentionality to other systems,
  or even ourselves.
- What makes us ascribe those intentional acts and beliefs to each other
- though? Dennett makes out three principles:
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Dennett1987"
-
-\end_inset
-
-, page 49 -- all three points are quotes, emphasis his.
- As he clarifies ibid., 
-\begin_inset Quotes eld
-\end_inset
-
-In (1) and (2) 
-\begin_inset Quotes eld
-\end_inset
-
-ought to have
-\begin_inset Quotes erd
-\end_inset
-
- means 
-\begin_inset Quotes eld
-\end_inset
-
-would have if it were ideally ensconced in its environmental niche.
-\begin_inset Quotes erd
-\end_inset
-
-
-\begin_inset Quotes erd
-\end_inset
-
-
-\end_layout
-
-\end_inset
-
-
+ What makes us ascribe those intentional acts and beliefs to each other,
+ however? Dennett makes out three principles:
 \end_layout
 
 \begin_layout Enumerate
@@ -12793,23 +12856,51 @@ A system's behavior will consist of those acts that
 it would be rational
 \emph default
  for an agent with those beliefs and desires to perform.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Ciration from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1987"
+
+\end_inset
+
+, page 49 -- all three points are quotes, emphasis his.
+ As he clarifies ibid., 
+\begin_inset Quotes eld
+\end_inset
+
+In (1) and (2) `ought to have' means `would have if it were ideally ensconced
+ in its environmental niche.'
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-So, essentially, evolutionary fitness and rationality are sole criterions
+Thus, essentially, evolutionary fitness and rationality are the sole criteria
  for reasonable ascription of intentionality, and ascription of intentionality
- is all there is to true intentionality (or, in other words, there is no
- intrinsic intentionality).
- I will criticize this view in chapter 
+ is all there is to true intentionality.
+ In other words, according to Dennett, there is no intrinsic intentionality.
+ I will discuss this view in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Phenomenal-Intentionality"
 
 \end_inset
 
-, for now let's explore what this means: It means that whenever a system
- acts in a rational way according to constraints set upon it by the environment
- (namely, what Dennett calls its 
+.
+ According to Dennett, whenever a system acts in a rational way according
+ to constraints set upon it by the environment (namely, what Dennett calls
+ its 
 \emph on
 
 \begin_inset Quotes eld
@@ -12842,16 +12933,20 @@ key "Dennett1987"
 
 
 \emph default
- and its biological needs), it possesses intentionality.
+ and its biological needs), it possesses all the intentionality it can possibly
+ possess.
 \end_layout
 
 \begin_layout Standard
 Strictly speaking, this definition also means that only biological systems
- (no artificial or postbiotic systems whatsoever) can possess any form of
- intentionality, as they strictly need to satisfy biological needs.
+ (but no artificial or postbiotic systems) can possess any form of intentionalit
+y, as they strictly need to satisfy 
+\emph on
+biological
+\emph default
+ needs.
  However, and I believe we would not run counter to Dennett's intentions
- with this project, I think we can safely substitute a similar concept for
- those 
+ with this project, I think we can safely replace those 
 \begin_inset Quotes eld
 \end_inset
 
@@ -12859,12 +12954,12 @@ biological needs
 \begin_inset Quotes erd
 \end_inset
 
-, although I find it hard to express that similar concept in such a distinct
- wording.
+ with a similar concept, although I find it hard to express that similar
+ concept in such a distinct wording.
  It would have to contain both extrinsic and intrinsic requirements for
  survival, both short- and long-term.
- In systems that eventually stop working (biological systems simply die),
- this also includes reproduction.
+ In systems that eventually stop working, such as death-ridden biological
+ systems, this also includes reproduction.
 \end_layout
 
 \begin_layout Subsubsection
@@ -12874,13 +12969,30 @@ name "Further-Notions-of-Intentionality"
 
 \end_inset
 
-Further Notions of Intentionality
+Further notions of intentionality
 \end_layout
 
 \begin_layout Standard
-It is important to note that Dennett talks about more than my narrowed-down
- definition of intentionality -- he often talks about consciousness and
- mental states in general, intentionality as 
+It is important to note that Dennett goes beyond my narrowed-down definition
+ of intentionality.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Intentionality"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ He often talks about consciousness and mental states in general, and intentiona
+lity as 
 \begin_inset Quotes eld
 \end_inset
 
@@ -12888,9 +13000,12 @@ possession of mental states.
 \begin_inset Quotes erd
 \end_inset
 
- In particular, he is concerned with disproving that there is a meaning
- intrinsically attached to individual such arrows of attention we direct
- at the world,
+ In particular, he is concerned with the following:
+\end_layout
+
+\begin_layout Itemize
+Dennett means to disprove that there is a meaning intrinsically attached
+ to such individual arrows of attention we direct at the world.
 \begin_inset Foot
 status open
 
@@ -12907,7 +13022,11 @@ reference "No-Intrinsic-Intentionality"
 
 \end_inset
 
- looks at higher-order mental states,
+
+\end_layout
+
+\begin_layout Itemize
+Dennett looks at higher-order mental states.
 \begin_inset Foot
 status open
 
@@ -12924,8 +13043,19 @@ key "Dennett1987"
 
 \end_inset
 
- and even looks at the language of thought in the bigger context of aforemention
-ed mental states.
+
+\end_layout
+
+\begin_layout Itemize
+Dennett even examines the 
+\begin_inset Quotes eld
+\end_inset
+
+language of thought
+\begin_inset Quotes erd
+\end_inset
+
+ in the bigger context of aforementioned mental states.
 \begin_inset Foot
 status open
 
@@ -12965,17 +13095,10 @@ There must indeed be a higher level of description at which we can attribute
 
 \begin_layout Standard
 In no way do I want to disqualify or doubt the importance of those examinations
- by not looking at them here, but as I said in the introduction of chapter
- 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Intentionality"
-
-\end_inset
-
-, I merely want to look at intentionality in a rather narrow sense.
- I do believe that if we want to understand consciousness, it makes sense
- to look at small puzzle pieces individually.
+ by not looking at them here, yet I merely want to analyze intentionality
+ in a rather narrow sense.
+ I believe that if we want to understand consciousness, it makes sense to
+ explore small puzzle pieces individually.
  And although of course we cannot afford to lose sight of the big picture,
  I will postpone looking at consciousness as a whole until chapter 
 \begin_inset CommandInset ref
@@ -12994,17 +13117,17 @@ name "No-Intrinsic-Intentionality"
 
 \end_inset
 
-No Intrinsic Intentionality
+No intrinsic intentionality
 \end_layout
 
 \begin_layout Standard
-As we've seen, Dennett does not believe that there is such a thing as original
- or intrinsic intentionality.
- Akin to Searle not finding anything that could give his Chinese Room's
- homunculus any intrinsic intentionality that he could pass on to the system
+As has been shown, Dennett does not believe that there is any such thing
+ like original or intrinsic intentionality.
+ Similar to Searle not finding anything that could give his Chinese Room's
+ homunculus any intrinsic intentionality he could pass on to the system
  he is in, Dennett does not find any part of the human mind that could give
  it intrinsic intentionality.
- He does refer to Dawkins
+ Referring to Dawkins,
 \begin_inset Foot
 status open
 
@@ -13021,24 +13144,62 @@ key "Dawkins1976"
 
 \end_inset
 
- when he describes what us humans really are, from an evolutionary point
- of view.
+ he describes what we humans really are, from an evolutionary point of view.
 \end_layout
 
 \begin_layout Standard
-He suggests a thought experiment where we would want to experience the year
- 2401, and then build a robot that could contain and protect our hibernating
- body for the time until then.
- Since the world is an inherently dynamic place and merely sitting always
- in the same spot could probably not ensure our survival, that robot would
- have to be able to distinguish things that are good or bad for its continued
- functionality, would require some forms of autonomous self-control with
- goals and subgoals, would have need for quick-and-dirty approximations
+He designs a thought experiment in which we would want to experience the
+ year 2401, and then build a robot that could contain and protect our hibernatin
+g body until then.
+ Since the world is an inherently dynamic place, merely sitting always in
+ the same spot probably could not ensure our survival.
+ Consequently, that robot would have to be able to classify things
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+`Things' here denotes events, objects, hazards, etc.
+ -- all the entities in the system's environment that it is designed to
+ be able to make out and discern.
+\end_layout
+
+\end_inset
+
+ which are good or bad for its continued functionality, and it would also
+ have to be able to classify and filter those things which do not affect
+ the system.
+ The system would require some forms of autonomous self-control with goals
+ and subgoals, would have need for 
+\begin_inset Quotes eld
+\end_inset
+
+quick and dirty
+\begin_inset Quotes erd
+\end_inset
+
+ approximations
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1987"
+
+\end_inset
+
+, page 297.
+\end_layout
+
+\end_inset
+
  in its calculative appraoches to problem solving.
- It would show equivalents of our mental states of wondering, seeing, deciding,
- and essentially exhibit a sophisticated form of derived intentionality,
- similar to what a machine passing the Turing Test would need to show.
- Now, what Dennett points out is this:
+ It would thus show equivalents of our mental states of wondering, seeing,
+ deciding; it would essentially exhibit a sophisticated form of derived
+ intentionality, similar to what a machine passing the Turing Test would
+ have to show.
+ With this analyzed, Dennett points out:
 \end_layout
 
 \begin_layout Quote
@@ -13076,8 +13237,8 @@ key "Dennett1987"
 \end_layout
 
 \begin_layout Standard
-This indeed does raise the question: Assuming we do not believe in magic
- or dualism, how does the derived intentionality (that we do certainly have)
+This indeed raises the question: Assuming we do not believe in magic or
+ dualism, how does the derived intentionality (which we certainly have)
  become intrinsic intentionality? Why do we believe that we are so special?
 \end_layout
 
@@ -13094,7 +13255,7 @@ name "PMIR"
 
 \end_inset
 
-Metzinger: Just a Phenomenal Model (PMIR)
+Metzinger: Just a phenomenal model (PMIR)
 \end_layout
 
 \begin_layout Standard
@@ -13106,12 +13267,12 @@ phenomenal model of the intentionality relation
 \begin_inset Quotes erd
 \end_inset
 
-, and it is the higher-level of the two main building blocks of Metzinger's
+, and it is the higher-level one of the two main building blocks of Metzinger's
  theory of consciousness.
  It is also part of the perspectivalness constraint, just like the prereflexive
  proto-self and the PSM are.
- Metzinger sees that perspectivalness constraint as one of the three main
- building blocks of subjective consciousness:
+ Metzinger considers the perspectivalness constraint as one of the three
+ defining factors of subjective consciousness:
 \end_layout
 
 \begin_layout Quote
@@ -13129,6 +13290,23 @@ constraint 6
 subjective
 \emph default
  consciousness.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 411.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -13143,19 +13321,77 @@ reference "Being-No-One"
  phenomenal structure.
  It is a conscious mental model, presented phenomenally in a transparent
  manner and thus experienced as unquestionably real.
- Its content is an ongoing, episodic subject-object relation -- representing
- the system as subject through its PSM, and the object in an asymmetrical
- relation to that subject.
+ The content of that model is an ongoing, episodic subject-object relation,
+ representing the system as subject through its PSM, and the object in an
+ asymmetrical relation to that subject.
 \end_layout
 
 \begin_layout Subsubsection
-Kinds of Perceived Intentional Relations
+Kinds of perceived intentional relations
 \end_layout
 
 \begin_layout Standard
-The trivial description applies to a wide variety of cases, and a plethora
- of entities can be represented as object components.
- They usually fall into one of the following categories:
+This definition of the PMIR as a mere model of an arrow of attention
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PMIR"
+
+\end_inset
+
+.
+ Metzinger defines the PMIR as follows, in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 411:
+\end_layout
+
+\begin_layout Quote
+What is the phenomenal model of the intentionality relation? It is a conscious
+ mental model, and its content is an ongoing, episodic 
+\emph on
+subject-object relation
+\emph default
+.
+\end_layout
+
+\end_inset
+
+ applies to a wide variety of cases, and 
+\begin_inset Quotes eld
+\end_inset
+
+the number of possible object components is almost infinitely large.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 411.
+\end_layout
+
+\end_inset
+
+ These possible object components usually fall into one of the following
+ categories:
 \begin_inset Foot
 status open
 
@@ -13207,18 +13443,80 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Itemize
-An complex mental motor self-simulation, usually prior to embodying it by
- executing those motor behaviours.
+A complex mental motor self-simulation, usually prior to 
+\begin_inset Quotes eld
+\end_inset
+
+embodying
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Metzinger uses this word as an active verb to express that the self-simulation
+ is executed online, coupled to effectors, and not only offline.
+ The simulation is thus also (in addition to being an offline simulation)
+ made real in the actual body it is simulated for.
+ See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 412.
+\end_layout
+
+\end_inset
+
+ it by executing those motor behaviours.
 \end_layout
 
 \begin_layout Standard
 Of course, all those categories can be represented with different kinds
- of relations, relations that would be called “attitude specificator” in
- propositional attitude psychology.
- Those include attending, thinking, willing, fearing, and many others.
- They also have a direction -- the “arrow of attention” points outward (in
- regular perception) or inward (in introspection), from the first-person
- perspective, but always originates from the subject component -- putting
+ of relations.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+These relations would be called “attitude specificator” in propositional
+ attitude psychology.
+\end_layout
+
+\end_inset
+
+ These relations include attending, thinking, desiring,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Metzinger uses the word 
+\begin_inset Quotes eld
+\end_inset
+
+willing
+\begin_inset Quotes erd
+\end_inset
+
+ in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 412.
+\end_layout
+
+\end_inset
+
+ fearing, and many others.
+ They also have a direction -- the “arrow of attention” points outwards
+ (in regular perception) or inwards (in introspection), from the first-person
+ perspective, but always originates from the subject component, thus putting
  subject and object into the aforementioned asymmetrical relationship.
 \end_layout
 
@@ -13229,13 +13527,13 @@ name "Phenomenalizing-Intentionality"
 
 \end_inset
 
-Phenomenalizing Intentionality
+Phenomenalizing intentionality
 \end_layout
 
 \begin_layout Standard
-If we want to naturalize intentionality (as Metzinger wants to), phenomenalizing
- it is the necessary first step.
- Here's how he explains this:
+Metzinger wants to naturalize intentionality, and phenomenalizing it is
+ the first necessary step.
+ He explains:
 \end_layout
 
 \begin_layout Quote
@@ -13280,29 +13578,107 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Part of this is obvious: Meaning and the conscious experience of meaningfulness
- (which corresponds to intentionality) are not the same things, although
- they are experienced (thus the phenomenality) as being intuitively and
- unquestionably the same.
- Metzinger now makes the argument that while we do know that phenomenal
- content supervenes locally, we do not necessarily know that intentional
- content, which refers to external entities, also supervenes locally.
+Parts of his statement are obvious: Meaning and the conscious experience
+ of meaningfulness (which corresponds to intentionality) are not identical,
+ although they are phenomenally experienced as being intuitively and unquestiona
+bly the same.
+ Metzinger argues that while we do know that phenomenal content supervenes
+ locally,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Local supervenience in humans, the way Metzinger uses it, is defined by
+ the content supervening on only some brain centers and not the entire brain,
+ while being at least partially independent from the environment.
+ The first time Metzinger mentions the concept is in a footnote in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, on page 13:
+\end_layout
+
+\begin_layout Quote
+First, for phenomenal content the 
+\begin_inset Quotes eld
+\end_inset
+
+principle of local supervenience
+\begin_inset Quotes erd
+\end_inset
+
+ holds: 
+\emph on
+phenomenal
+\emph default
+ content is determined by internal and contemporaneous properties of the
+ conscious system, for example, by properties of its brain.
+ For 
+\emph on
+intentional
+\emph default
+ content (i.e., 
+\emph on
+representational
+\emph default
+ content as more traditionally conceived) this does not have to be true:
+ 
+\emph on
+What
+\emph default
+ and 
+\emph on
+if
+\emph default
+ it actually represents may change with what actually exists in the environment.
+ At the same time the phenomenal content, how things subjectively 
+\emph on
+feel
+\emph default
+ to you, may stay invariant, as does your brain state.
+\end_layout
+
+\begin_layout Plain Layout
+Metzinger then refines the concept en passant, for example in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 170:
+\end_layout
+
+\begin_layout Quote
+According to the principle of local supervenience, for every kind of phenomenal
+ content in humans there will be at least one minimally sufficient neural
+ correlate.
+\end_layout
+
+\end_inset
+
+ we do not necessarily know that intentional content, which refers to external
+ entities, also supervenes locally.
  If we can show that intentional content is just a special form of phenomenal
  content, it goes without saying that intentional content supervenes locally
- and can thus potentially be naturalized.
+ and thus potentially can be naturalized.
 \end_layout
 
 \begin_layout Standard
-Showing that intentional content is a special form of phenomenal content
- is of course what the theory about the PMIR is all about.
- Since all there is to intentionality is the phenomenal experience of an
- intentionality relation, it could exist completely without ontological
- counterparts to the entities represented by said intentionality relation's
- phenomenal contents.
- Intentionality could be entirely virtual, and we couldn't possibly notice.
- In fact, it is even probable that we misrepresent many things out there
- in the world, because that misrepresentation has proved to be more beneficial
- for our continued survival as a species:
+Obviously, showing that intentional content is a special form of phenomenal
+ content is the chief purpose of the PMIR theory.
+ Since the phenomenal experience of an intentionality relation is all there
+ is to intentionality, phenomenal experience could exist completely without
+ ontological counterparts to the entities represented by said intentionality
+ relation's phenomenal contents.
+ Intentionality could be entirely virtual, and if it were, it would not
+ be possible for us to notice.
+ In fact, it is quite possible that we misrepresent many things out there
+ in the world, because this misrepresentation has proved to be more beneficial
+ for the continued survival of our species:
 \end_layout
 
 \begin_layout Quote
@@ -13334,11 +13710,11 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Subsubsection
-PMS without PMIR?
+PSM without PMIR?
 \end_layout
 
 \begin_layout Standard
-There are pathological cases where humans have damaged brains that are still
+There are pathological cases of humans having damaged brains that are still
  able to construct a PSM, but no PMIR anymore.
 \begin_inset Foot
 status open
@@ -13371,8 +13747,8 @@ key "Damasio1999"
 
 \begin_layout Standard
 These patients are still embodied selves, but not agents: They lack goals
- that they could relate to, things they could will, and do not have conscious
- representations of motor simulations anymore either.
+ they could pursue, things they could want, and do not have conscious representa
+tions of motor simulations anymore either.
  As Metzinger points out,
 \end_layout
 
@@ -13403,10 +13779,10 @@ key "Metzinger2003"
 \begin_layout Standard
 This is mainly because phenomenal volition is a form of phenomenal intentionalit
 y, and thus not possible without a PMIR.
- And without volition, even goal-driven movement cannot be experienced as
- agency, as the alien hand syndrome (where patients experience that usually
- one of their hands moves on its own, without the patient able to intervene
- or guide it) demonstrates:
+ Without volition, even goal-driven movement cannot be experienced as agency
+ by the would-be agent, as the alien hand syndrome (where patients experience
+ that usually one of their hands moves on its own, without the patient able
+ to intervene or guide it) demonstrates:
 \end_layout
 
 \begin_layout Quote
@@ -13440,7 +13816,7 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-So while it is possible to have a PMS without a PMIR, a full-blown phenomenal
+So while it is possible to have a PSM without a PMIR, a complete phenomenal
  first-person perspective requires both.
 \begin_inset Foot
 status open
@@ -13472,15 +13848,15 @@ Consolidation
 \end_layout
 
 \begin_layout Standard
-It is rare that a philosopher is talking about intentionality without also
- talking about consciousness or subjective experience in general.
- The two concepts are very close to each other -- or rather, they are interwoven.
+It seems hard to be talking about intentionality while avoiding the matter
+ of consciousness or subjective experience in general.
+ The two concepts are very closly related -- or rather, they are interwoven.
  Brentano already pointed this out when he revived the concept of intentional
  inexistence.
  Intentionality is the prime precondition for consciousness, because all
  conscious mental processes are also directed at something (directed at
  an intentional object) and originate from an intentional subject.
- Metzinger puts this as follows:
+ Metzinger puts it as follows:
 \end_layout
 
 \begin_layout Quote
@@ -13516,20 +13892,20 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-What is interesting is how this functional coupling of the intentionality
- relation with consciousness lures many philosophers (even Dennett, as we
- saw in chapter 
+Interestingly, this functional coupling of this intentionality relation
+ with consciousness prompted many philosophers (even Dennett, as we saw
+ in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Further-Notions-of-Intentionality"
 
 \end_inset
 
-) into looking at intentionality mainly in the bigger picture as well.
+) to look at intentionality mainly in the bigger picture as well.
  Metzinger's analysis of the intentionality relation is among the most thorough
- that I found, and the only one that distinctly looks at the intentionality
- relation itself in greater detail and without being distracted by implications
- for consciousness -- even misnomers, using 
+ I found, and the only one that distinctly looks at the intentionality relation
+ itself in greater detail and without being distracted by implications for
+ consciousness; even misnomers, using 
 \begin_inset Quotes eld
 \end_inset
 
@@ -13551,14 +13927,14 @@ status open
 
 \begin_layout Plain Layout
 For example, when Dennett goes back to Brentano when undertaking a similar
- project to the one I had in 
+ project to my explanations in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Gloor2007"
 
 \end_inset
 
-, showing how the brain is merely a special kind of Turing Machine.
+, showing that the brain is merely a special kind of Turing Machine.
  In 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -13566,10 +13942,10 @@ key "Dennett1987"
 
 \end_inset
 
-, page 67, Dennett writes: 
-\begin_inset Quotes eld
-\end_inset
+, page 67, Dennett writes:
+\end_layout
 
+\begin_layout Quote
 Consider that warhorse in the philosophy of mind, Brentano's Thesis that
  intentionality is the mark of the mental: all mental phenomena exhibit
  intentionality and no physical phenomenal exhibit intentionality.
@@ -13580,10 +13956,10 @@ Consider that warhorse in the philosophy of mind, Brentano's Thesis that
 reductionist
 \emph default
  thesis of sorts, parallel to Church's Thesis in the foundations of mathematics.
-\begin_inset Quotes erd
-\end_inset
+\end_layout
 
- Note how 
+\begin_layout Plain Layout
+Note how 
 \begin_inset Quotes eld
 \end_inset
 
@@ -13591,7 +13967,7 @@ intentionality
 \begin_inset Quotes erd
 \end_inset
 
- stands pretty much for 
+ stands for 
 \begin_inset Quotes eld
 \end_inset
 
@@ -13600,15 +13976,15 @@ consciousness
 \end_inset
 
  here.
- Admittedly, I am guilty as well, I did mix up the two for the sake of better
- short-term clarity in chapter 
+ Admittedly, I mixed up the two for the sake of better short-term clarity
+ in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Dualism"
 
 \end_inset
 
-.
+, too.
 \end_layout
 
 \end_inset
@@ -13617,26 +13993,81 @@ reference "Dualism"
 \end_layout
 
 \begin_layout Standard
-With intentionality sitting at the core of consciousness, so much that it
- is often used as the defining characteristic of consciousness or more,
- it is very important that we have a clear picture of what it actually is.
- Metzinger, and to a lesser extent Dennett, has shown us a way to naturalize
- intentionality without losing the information an intrinsic intentionality
- could provide, while at the same time allowing us better insight into how
- it is produced and what its effects on the physical brain are.
- I do believe that this is a worthy approach to take.
+With intentionality sitting at the core of consciousness, so much so that
+ it is often used as the defining characteristic of or even synonymously
+ to consciousness, it is very important that we have a clear picture of
+ what it actually is.
+ Metzinger, and to a lesser extent Dennett, offered us a possibility to
+ naturalize intentionality without losing the information which an intrinsic
+ intentionality could provide, while at the same time allowing us better
+ insight into how it is produced and what its effects on the physical brain
+ are.
+ This certainly seems to be a worthy approach to take.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Reductive-Naturalism"
+Whether naturalizing consciousness is the only approach that makes sense
+ is of course to some extent a matter of opinion, but it seems to me that
+ reductive naturalism is the most reasonable and logical approach available.
+\end_layout
+
+\begin_layout Plain Layout
+This does not imply that I believe that our current scientific theories
+ (or theoretical frameworks, or fundamental scientific entities) contain
+ the answers to all the questions, or even that our current scientific paradigms
+ need to be the ones that prevail.
+ But arguably, scientific theories could in theory be formed that contain
+ all the answers, using rational argumentations as their foundation.
+ Some basic principles of science (mostly, conclusive logic, causal analysis
+ and semantical coherence) will necessarily lead us to a better understanding
+ of the world that we have only just just started to analyze.
+\end_layout
+
+\begin_layout Plain Layout
+Sidestepping these basic principles and dogmatically defining some mysteries
+ as insolvable on the other hand (and even ignoring evidence that hints
+ at a solution, particularly when that solution conflicts the dogmatic 
+\begin_inset Quotes eld
+\end_inset
+
+truths
+\begin_inset Quotes erd
+\end_inset
+
+) will not lead to a better understanding of anything, because understanding
+ is thus not sought in the first place.
+\end_layout
+
+\begin_layout Plain Layout
+I have argued for this approach before, in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "GloorModjib2008"
 
 \end_inset
 
 .
+ Dawkins, in another context, explains the problem with dogmatic truths
+ nicely in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dawkins2006"
+
+\end_inset
+
+, page 19:
+\end_layout
+
+\begin_layout Quote
+If all the evidence in the universe turned in favour of creationism, I would
+ be the first to admit it, and I would immediately change my mind.
+ As things stand, however, all available evidence (and there is a vast amount
+ of it) favours evolution.
+ It is for this reason and this reason alone that I argue for evolution
+ with a passion that matches the passion of those who argue against it.
+ My passion is based on evidence.
+ Theirs, flying in the face of evidence as it does, is truly fundamentalist.
 \end_layout
 
 \end_inset
@@ -13651,37 +14082,55 @@ name "Phenomenal-Intentionality"
 
 \end_inset
 
-Dennett's Intentionality Should Be Phenomenal
+Dennett's intentionality should be phenomenal
 \end_layout
 
 \begin_layout Standard
 I am talking about Dennett's argumentation that intentionality is nothing
- but an ascription that happens through a stance that we take on when looking
- at entities that might exhibit inentionality.
- We remember, he says that it all comes down to whatever intentional states
- we ascribe to a target system has to be what its intentionality truly is.
-\end_layout
+ but an ascription that happens in a 
+\begin_inset Quotes eld
+\end_inset
 
-\begin_layout Standard
-This argumentation seems to be counter-intuitive to me (among many others),
- and the reason why that is appears to be two-fold:
-\end_layout
+stance
+\begin_inset Quotes erd
+\end_inset
 
-\begin_layout Itemize
-Less importantly, it can lead to a circular argumentation culminating in
- an infinite regress.
- If something (me, for example) ascribes intentionality to something, it
- has to do so intentionally.
- There must be an intentionality ascribing the intentionality, because ascriptio
-n is an intentional act.
- I guess this could be explained away by merely a different choice of words
- of course, nevertheless, I think it is important.
+ we assume when looking at entities that might exhibit inentionality.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-So does Nagel.
- See 
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "The-Intentional-Stance"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ We remember, he argues that ultimately, whatever intentional states we
+ ascribe to a target system have to be what the system's intentionality
+ truly is.
+\end_layout
+
+\begin_layout Standard
+The reason why this appears to be inadequate is two-fold:
+\end_layout
+
+\begin_layout Itemize
+Less importantly, the argumentation can lead to a circular argumentation
+ culminating in an infinite regress.
+ If something (me, for example) ascribes intentionality to something, it
+ has to do so intentionally.
+ There must be an intentionality ascribing the intentionality, because ascriptio
+n is an intentional act.
+ Dennett would need a more careful choice of words at least to avoid this
+ circularity.
+ This argument was brought up by Thomas Nagel, see 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Nagel1991"
@@ -13691,45 +14140,23 @@ key "Nagel1991"
 .
 \end_layout
 
-\end_inset
-
-
-\end_layout
-
 \begin_layout Itemize
-More importantly, his argumentation is strictly counter-intuitive because
- intentional acts for us humans have what Nagel might call a what-is-it-like-nes
-s to them.
+Intentional acts for us humans have what Nagel might call a what-is-it-like-ness
+ to them.
  They are phenomenal in nature.
  This is implicitly included in the mere notion of intentionality -- intentional
- acts ring a bell, because we all know what it is like to conduct an intentional
- act, and we also know that for a computer merely following a script, following
- that script can't possibly be anything like us conducting such an intentional
- act.
- In fact, arguably, for today's computers it's not anything like anything
- at all.
+ acts appear familiar to us, because we all know what it is like to conduct
+ an intentional act.
+ We also know that for example a computer which is merely following a script,
+ this following of the script can't possibly be anything like us conducting
+ such an intentional act.
+ In fact, it seems improbable that for today's computers, following a script
+ has any what-is-it-like-ness to it at all.
 \end_layout
 
 \begin_layout Standard
-Now, Dennett does not ascribe any special meaning to phenomenality, as we
- know from chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Heterophenomenology"
-
-\end_inset
-
-.
- I would argue however that for an observer-relative ascription of intentionalit
-y to be intuitively intentional, it has to be conducted by a system that
- has phenomenal states.
- It has to be a specimen of phenomenal intentionality, and it has to satisfy
- at least Metzinger's perspectivalness and transparency constraints.
-\end_layout
-
-\begin_layout Standard
-The same applies for Dennett's heterophenomenology.
- Dennett defended heterophenomenology and with it, his form of intentionality,
+The same reasons apply for Dennett's heterophenomenology.
+ Dennett defends heterophenomenology and with it, his form of intentionality,
  against the attacks from Nagel in 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -13769,45 +14196,73 @@ key "Dennett1995"
 \end_inset
 
 .
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Standard
-Personally, I find it puzzling that Dennett should say that consciousness
+ Personally, I find it puzzling that Dennett should say that consciousness
  is a gradual phenomenon and then assume that vultures have no dispositional
  stances in their intentional relations that are similar to our amusement
  or wondering.
- But that is beside the point.
- And of course, even if they are similar, they won't be exactly the same
- for certain, so I do agree that they will not have the 
+ And of course, even if they are similar, it is very improbable that they
+ are exactly the same despite all the 
+\begin_inset Quotes eld
+\end_inset
+
+hardware
+\begin_inset Quotes erd
+\end_inset
+
+ differences, so it appears indeed that they will not have the 
 \emph on
 exact
 \emph default
  same dispositions as us humans do.
+ It remains to be proven, however, that vultures have no dispositional stances
+ at all.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-But, remember what I said about the difference between appreciation and
- description (see chapter 
+Dennett does not ascribe any special meaning to phenomenality (see chapter
+ 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "Difference-Appreciation-Description"
+reference "Heterophenomenology"
 
 \end_inset
 
 ).
- I believe this difference is both important and apparently ignored by Dennett.
+ Arguably however, for an observer-relative ascription of intentionality
+ to be intuitively intentional, it has to be conducted by a system that
+ has phenomenal states.
+ It has to be a specimen of 
+\emph on
+phenomenal
+\emph default
+ intentionality, and it has to satisfy at least Metzinger's perspectivalness
+ and transparency constraints.
 \end_layout
 
 \begin_layout Standard
-Even assuming that description is all we can aim for (with which I disagree):
- The whole of Dennett's argumentation does build on on the assumption that
- there are no strictly private such experienced patterns.
- And Metzinger clearly does show that not only there are such private patterns,
+There are two argumentative approaches for disproving Dennett's claim that
+ intentionality can exist without phenomenality:
+\end_layout
+
+\begin_layout Itemize
+Dennett does not account for the special kinds of ineffability (see chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Phenomenality-for-Metzinger"
+
+\end_inset
+
+) that goes with phenomenal experience, and thus does not appear to account
+ for actual, real-world intentional experience at all.
+ Dennett's entire argumentation builds on the assumption that there are
+ no strictly private such experienced patterns.
+ And Metzinger clearly shows that not only are there such private patterns,
 \begin_inset Foot
 status open
 
@@ -13824,17 +14279,13 @@ reference "Phenomenality-for-Metzinger"
 
 \end_inset
 
- but also why they are private: Because they're causally active (and thus
- can't just be ignored
-\begin_inset Foot
-status open
+ but also why they are private: Because they are causally active (and thus
+ can not just be ignored), but not introspectively accessible -- which is
+ precisely Metzinger's definition of them being transparent.
+\end_layout
 
-\begin_layout Plain Layout
-Of course, there could be an even more fine-grained descriptory level that
- would also capture those, but this is where appreciation stops working
- -- as soon as we merely have a description, we can't relive the experience,
- and thus it can't be fully appreciated anymore.
- The ineffable parts could of course be described as well in principle --
+\begin_layout Itemize
+The ineffable parts could of course be described as well in principle --
  finding and properly describing them would be incredibly hard, but not
  impossible.
  However, not even heterophenomenology would be sufficient there, as this
@@ -13842,12 +14293,27 @@ Of course, there could be an even more fine-grained descriptory level that
  is not symbolic -- we would need both a full functional description of
  the human brain and a complete neurological map of it in order to even
  have a chance at uncovering that description.
-\end_layout
+ However, this is where appreciation stops working -- as soon as we merely
+ have a description, we can't relive the experience, and thus it can't be
+ fully appreciated anymore (see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Difference-Appreciation-Description"
 
 \end_inset
 
-), but not introspectively accessible -- Metzinger's very definition of
- being transparent.
+).
+\end_layout
+
+\begin_layout Standard
+Dennett's position appears to be too good at what it aims at: Simplifying
+ the subject at hand.
+ His theory simplifies intentionality so much that essential parts of it
+ get lost in the process.
+ This is why his theory appears to be counter-intuitive: It does not account
+ for the fact that we experience intentionality as a phenomenal entity,
+ and parts of it are ineffable and subsymbolic.
+ Merely describing the symbolic parts does not account for the entire experience.
 \end_layout
 
 \begin_layout Subsubsection
@@ -13857,7 +14323,7 @@ name "Cogito-Ergo-Sum"
 
 \end_inset
 
-Cogito, Ergo Sum
+Cogito, ergo sum
 \end_layout
 
 \begin_layout Standard
@@ -14155,7 +14621,7 @@ name "Empathy-and-Intersubjectivity"
 
 \end_inset
 
-Empathy and Intersubjectivity
+Empathy and intersubjectivity
 \end_layout
 
 \begin_layout Standard
@@ -14311,7 +14777,7 @@ So, having a phenomenal self-model like we do is a very efficient way of
 status open
 
 \begin_layout Plain Layout
-Do note that the PMS alone does not suffice to generate such relations:
+Do note that the PSM alone does not suffice to generate such relations:
  The relation itself is modeled as a form of intentional direction, so it
  does also require some form of intentionality.
  So it also requires Metzinger's way of forming intentional relations from
@@ -14377,20 +14843,29 @@ Conclusions
 \end_layout
 
 \begin_layout Standard
-We started out with some definitions and clarifications, putting epistemology,
- dualism, supervenience and evolution into a naturalist context, and having
- a look at some other conceptual subjects that frame this thesis' subjects.
- We then looked at all the individual fundamental parts that make phenomenal
- subjective consciousness what it is -- phenomenology, qualia, subjectivity
- and intentionality -- and have looked at various ways in which philosophers
- to this day have explained them.
+The goal of this thesis is an analysis of the semantic field that surrounds
+ consciousness.
+ Phenomenology, qualia, subjectivity, intentionality -- they all have common
+ sense meanings (see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "The-Four-Questions"
+
+\end_inset
+
+) and were subject of much discussion, but appear to be disconnected and
+ overlapping at the same time.
+ We started out with rough definitions of the four parts, and then looked
+ at each of them, trying to put together the opinions of more traditional
+ exponents with those of Dennett and Metzinger, and then attempting to find
+ a consensus among the sometimes conflicting theories that we found.
 \end_layout
 
 \begin_layout Standard
-What is still missing is that we put all these things together, into a bigger
- picture, and that we look out into what new achievements this can lead
- us to in the nearer future.
- This is what this part of my thesis is about.
+What is still missing is a summary of these individual puzzle pieces, and
+ an outlook on what new achievements could be reached in this matter in
+ the near future.
+ These questions are addressed in the current part of my thesis.
 \end_layout
 
 \begin_layout Section
@@ -14419,42 +14894,113 @@ reference "The-Four-Questions"
 
 \end_inset
 
-.
- With all the bits and pieces in place, we now know that full phenomenality
- partially relies on subjectivity, while subjectivity itself relies on some
- of the multilevel constraints that make up the rest of phenomenality as
- well.
- We have realized that intentionality relies on some basic form of self-model,
- while at the same time it is also what enables the higher levels of the
- self-model.
+, and attempt to look at all of them at once.
+ With all the single components in place, we now know that full phenomenality
+ partly relies on subjectivity, while subjectivity itself relies on some
+ of the multilevel constraints that make up the rest of phenomenality.
+ We have established that intentionality relies on some basic form of self,
+ the prereflexive proto self-model,
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Don't worry if this isn't familiar to you, I didn not make this explicit
- so far.
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Prereflexive-Proto-Self"
+
+\end_inset
+
+.
 \end_layout
 
 \end_inset
 
- We also know that the most basic form of mental content are not qualia,
- but phenomenal representational content -- and that qualia do have an ontologic
-al justification as well after all, because they group regions of presentational
- quality space for the symbolic 
-\emph on
-re
-\emph default
-presentation that intentionality enables.
- With these additional bits of knowledge in place, we will need to structure
- our summary with some differences (with slightly more complexity) from
- the analysis itself.
+ while simultaneously is also what enables the higher levels of the self-model.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This was hinted at in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PSM"
+
+\end_inset
+
+, but will be further analyzed in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Full-Subjectivity"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-I will now present again all the entities that I think are important for
- making up phenomenal subjective intentional experience.
- I will again follow the natural order of apparent increasing complexity,
- but with more confidence than I did so in part 
+Furthermore, we know that the most basic form of mental content are not
+ qualia, but phenomenal representational content.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Phenomenal-Presentational-Content"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ Moreover, qualia have an ontological justification as well after all, because
+ they group regions of presentational quality space for symbolic 
+\emph on
+re
+\emph default
+presentation.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+For this step, the PMIR is also necessary, because it is what enables the
+ symbolic represenetation through the means of an intentional subject-object
+ relation (see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PMIR"
+
+\end_inset
+
+).
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+With this knowledge in place, it becomes apparent that we need to structure
+ our summary with some differences to the analysis itself, and that we have
+ to introduce some added complexity as well.
+\end_layout
+
+\begin_layout Standard
+Below, I present all the entities that have shown be important for phenomenal
+ subjective intentional experience.
+ Again, I follow the natural order of apparent increasing complexity, but
+ no longer do I have to rely on intuition for that order like I did in part
+ 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "The-Four-Questions"
@@ -14462,19 +15008,22 @@ reference "The-Four-Questions"
 \end_inset
 
 .
- After all, we did have a thorough look at the pieces of the puzzle by now.
- This does mean however that I now have a different idea as to what is more
- complex than what else, and it also means that since so many things are
- interwoven, untangling them means that we require quite some intermediate
- steps between those four (too) easy levels.
-\end_layout
-
-\begin_layout Subsection
-Proto Self-Model
+ After all, we had a thorough look at the pieces of the puzzle by now, and
+ have found rational ordering criteria.
 \end_layout
 
 \begin_layout Standard
-There is a requirement for the PSM and the PMIR that is actually part of
+This means, however, that what is more and what is less complex has changed.
+ It also means that since so many things are interwoven, untangling them
+ requires intermediate steps between the earlier four (too) easy levels.
+\end_layout
+
+\begin_layout Subsection
+Prereflexive proto self-model
+\end_layout
+
+\begin_layout Standard
+There is a requirement for the PSM and the PMIR which is actually part of
  Metzinger's perspectivalness constraint
 \begin_inset Foot
 status open
@@ -14493,37 +15042,60 @@ reference "Perspectivalness"
 \end_inset
 
  as well.
- I am of course speaking of the still somewhat miraculous proto self-model
- that we saw in chapter 
+ I am of course referring to the still not fully understood prereflexive
+ proto self-model (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Prereflexive-Proto-Self"
 
 \end_inset
 
-.
- While I do believe that further research into what exactly constitutes
- this proto self-model is warranted, there must be at least the following
- two factors that importantly help in building it:
+).
+ It appears that further research into what exactly constitutes this prereflexiv
+e proto self-model is warranted and necessary.
+ Nevertheless, it follows from Metzinger's argumentation that at least the
+ following two factors are important prerequisites for the capability of
+ our bodies and brains
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Other systems capable of creating a prereflexive proto self-model would
+ require similar prerequisites.
+ This implies that for example a distributed neural network can not create
+ the same sense of 
+\begin_inset Quotes eld
+\end_inset
+
+self
+\begin_inset Quotes erd
+\end_inset
+
+ that we can.
+\end_layout
+
+\end_inset
+
+ to form it:
 \end_layout
 
 \begin_layout Itemize
 Functional presentation centers in the brain that are responsible for receiving
- nerve cell input from various body parts (including inner organs).
- These are obviously genetically hardcoded, as the phantom limb experiments
- we spoke of in chapter 
+ nerve cell input from various body parts, including inner organs.
+ These functional presentation centers are grown, as phantom limb experiments
+ (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Prereflexive-Proto-Self"
 
 \end_inset
 
- show.
+) show, and thus obviously genetically hardcoded.
 \end_layout
 
 \begin_layout Itemize
 A single localizable body as region of maximal stability and invariance
- (that we already encountered in chapter 
+ (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Perspectivalness"
@@ -14531,19 +15103,23 @@ reference "Perspectivalness"
 \end_inset
 
 ) that allows the system to get accustomed to taking a first-person point
- of view stance and also assigning entities and properties to the first
- person this stance originates from.
+ of view, and also assigning entities and properties to the `first person'
+ this point of view originates from.
 \end_layout
 
 \begin_layout Standard
-Arguably, this prereflexive proto-self is not even only a prerequisite for
- the PSM and the PMIR, but also a prerequisite for phenomenal experience
- itself: Without such a first-person point of view, the possibility of localizin
-g sensory inputs is not given, and thus there is no way any higher concepts
- that refer to locations in any way can possibly form.
- A consciousness that has no such proto self-model may well have coherent
- (albeit very abstract) thoughts, but only the multimodality in which we
- can experience the world around us allows us to form a world model at all.
+Arguably, this prereflexive proto-self is not only a prerequisite for the
+ PSM and the PMIR, but also a prerequisite for phenomenal experience itself:
+ Without such a first-person point of view, the possibility of localizing
+ sensory inputs is not given, and thus any higher concepts that refer to
+ locations in any way cannot possibly be formed.
+\end_layout
+
+\begin_layout Standard
+A consciousness that has no such proto self-model may well have coherent
+ (albeit very abstract) thoughts, but only the localized multimodality in
+ which we can experience the world around us allows us to form a world model
+ at all.
 \end_layout
 
 \begin_layout Subsection
@@ -14862,6 +15438,12 @@ As a matter of fact, for qualia we do need to be able to form concepts,
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Full-Subjectivity"
+
+\end_inset
+
 Full Subjectivity
 \end_layout
 
@@ -15052,7 +15634,7 @@ reference "Levels-of-Consciousness"
 \end_inset
 
 : By this point we have added all of his constraints including the perspectivaln
-ess constraint (6, including the proto self-model, the PMS and the PMIR),
+ess constraint (6, including the proto self-model, the PSM and the PMIR),
  the full transparency constraint (7, epistemic closure concerning inner
  workings of mental processes with the possibility of making some of these
  processes opaque) and the offline activation constraint (8, allowing representa
