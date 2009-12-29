@@ -2004,6 +2004,12 @@ However, they are all available, while they are experienced or remembered
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Window-of-Presence"
+
+\end_inset
+
 Constraint 2: 
 \begin_inset Quotes eld
 \end_inset
@@ -2085,11 +2091,71 @@ tly cannot produce a phenomenal experience with a concept of past or future
 \end_layout
 
 \begin_layout Standard
+Furthermore, the concept of Now is needed for the experience of presentation;
+ only if we can experience something as being presented right now we can
+ experience it as being presented at all.
+ Metzinger thus also calls this the 
+\begin_inset Quotes eld
+\end_inset
+
+presentationality constraint.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 For human beings, the concept of Now has a duration of maximally three seconds
  which is culturally invariant and thus must have biological causes.
  This fits in nicely with neurophysiological research.
- On the other hand, as Metzinger also points out, a complete physical descriptio
-n of the universe would not have to include any notion of Now -- the concept
+ This is not the same as the resolution with which we can experience different
+ events; we can distinguish them in much shorter time intervals, and depending
+ on the context, longer or shorter intervals will be subjectively experienced
+ as belonging to the same moment.
+ Metzinger thus talks about a very specific meaning of Now when he introduces
+ this three seconds rule -- three seconds appear to be the longest possible
+ timespan that we can possibly still experience as being part of the same
+ moment:
+\end_layout
+
+\begin_layout Quote
+If events are not only represented as being in temporal succession but are
+ integrated into temporal figures [...], then a present emerges, because these
+ events are now internally connected.
+ They are not isolated atoms anymore, because they form a context for each
+ other.
+ [...] something like object formation takes place in which isolated events
+ are integrated into a Now.
+ One can describe the emergence of this Now as a process of segmentation
+ that separates a vivid temporal object from a temporal background that
+ is only weakly structured.
+ This can, for instance, happen if we do not experience a musical motive
+ as a sequence of isolated sound events, but as a holistic temporal figure.
+ A psychological moment is not an extensionless point, but for beings like
+ us it possesses a culturally invariant duration of, maximally, three seconds.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 127.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+On the other hand, as Metzinger also points out, a complete physical description
+ of the universe would not have to include any notion of Now -- the concept
  merely creates 
 \begin_inset Quotes eld
 \end_inset
@@ -2515,6 +2581,12 @@ The same set of part-whole relations of course applies to causal contexts
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Dynamicity"
+
+\end_inset
+
 Constraint 5: 
 \begin_inset Quotes eld
 \end_inset
@@ -3503,6 +3575,12 @@ Interestingly, and as expected under naturalist assumptions, many of the
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Intensities-Representation"
+
+\end_inset
+
 Constraint 9: 
 \begin_inset Quotes eld
 \end_inset
@@ -7614,7 +7692,7 @@ only for motor behaviour
 \end_layout
 
 \begin_layout Subsubsection
-Qualia are Reducible
+Qualia are reducible
 \end_layout
 
 \begin_layout Standard
@@ -7677,7 +7755,7 @@ name "Phenomenal-Presentational-Content"
 
 \end_inset
 
-Phenomenal Presentational Content
+Phenomenal presentational content
 \end_layout
 
 \begin_layout Standard
@@ -8097,7 +8175,7 @@ name "Difference-Appreciation-Description"
 
 \end_inset
 
-The Difference Between Appreciation and Description
+The difference between appreciation and description
 \end_layout
 
 \begin_layout Standard
@@ -8356,7 +8434,7 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Subsubsection
-Dennett's Multiple Drafts and Qualia
+Dennett's multiple drafts and qualia
 \end_layout
 
 \begin_layout Standard
@@ -8718,7 +8796,7 @@ name "Qualia-Still-Necessary"
 
 \end_inset
 
-Qualia: Still Necessary?
+Qualia: Still necessary?
 \end_layout
 
 \begin_layout Standard
@@ -10654,6 +10732,12 @@ First though, we have to look at what it is that makes the brain have multiple
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Six-levels-of-self"
+
+\end_inset
+
 The six levels of mental activities
 \end_layout
 
@@ -13327,6 +13411,12 @@ reference "Being-No-One"
 \end_layout
 
 \begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Kinds-of-Objects"
+
+\end_inset
+
 Kinds of perceived intentional relations
 \end_layout
 
@@ -13668,8 +13758,8 @@ According to the principle of local supervenience, for every kind of phenomenal
 \end_layout
 
 \begin_layout Standard
-Obviously, showing that intentional content is a special form of phenomenal
- content is the chief purpose of the PMIR theory.
+Obviously, showing that intentional content is merely a special form of
+ phenomenal content is the chief purpose of the PMIR theory.
  Since the phenomenal experience of an intentionality relation is all there
  is to intentionality, phenomenal experience could exist completely without
  ontological counterparts to the entities represented by said intentionality
@@ -14882,7 +14972,7 @@ name "The-Bigger-Picture"
 
 \end_inset
 
-Summary and the Bigger Picture
+Summary and the bigger picture
 \end_layout
 
 \begin_layout Standard
@@ -15018,7 +15108,18 @@ This means, however, that what is more and what is less complex has changed.
  requires intermediate steps between the earlier four (too) easy levels.
 \end_layout
 
+\begin_layout Standard
+This chapter summarizes and clarifies the new seven levels that have become
+ apparent in our analysis.
+\end_layout
+
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Summary-Prereflexive-proto-self-model"
+
+\end_inset
+
 Prereflexive proto self-model
 \end_layout
 
@@ -15117,9 +15218,9 @@ Arguably, this prereflexive proto-self is not only a prerequisite for the
 
 \begin_layout Standard
 A consciousness that has no such proto self-model may well have coherent
- (albeit very abstract) thoughts, but only the localized multimodality in
- which we can experience the world around us allows us to form a world model
- at all.
+ (albeit very abstract) thoughts, but only the multimodality in which we
+ can experience the world, as something that is all around us, allows us
+ to form a world model at all.
 \end_layout
 
 \begin_layout Subsection
@@ -15129,58 +15230,166 @@ name "Summary-Basic-Phenomenality"
 
 \end_inset
 
-Basic Phenomenality
+Basic phenomenality
 \end_layout
 
 \begin_layout Standard
-The level of consciousness out of those we saw in chapter 
+Out of the levels of consciousness we encountered in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Levels-of-Consciousness"
 
 \end_inset
 
- that is required for a very basic form of phenomenality
+, the one that is required for a very basic form of phenomenality
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
 At least if we eventually want to reach consciousness -- of course, we could
- insert an intermediate step with Metzinger's Minimal Consciousness here
- as well.
+ insert an intermediate step between the prereflexive proto self-model and
+ basic phenomenality with Metzinger's 
+\begin_inset Quotes eld
+\end_inset
+
+Minimal Consciousness
+\begin_inset Quotes erd
+\end_inset
+
+ here as well.
 \end_layout
 
 \end_inset
 
- is probably the one Metzinger calls “Differentiated Consciousness.”
+ is probably Metzinger's “Differentiated Consciousness.”
 \end_layout
 
 \begin_layout Standard
-This includes the presentationality constraint (2, the phenomenal Now),
- the globality constraint (3, integration into a coherent global state),
- their expansions in the convolved holism constraint (4, subdivisions within
- subdivisions that split this global state apart) and the dynamicity constraint
- (5, that allows a system to experience past and future, and the Now embedded
+This includes the presentationality constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Window-of-Presence"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (the phenomenal Now in a window of presence), the globality constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Integration-global-state"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (integration into a coherent global state), their expansions in the convolved
+ holism constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Convolved-holism"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (subdivisions within subdivisions that split this global state apart) and
+ the dynamicity constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Dynamicity"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (that allows a system to experience past and future, and the Now embedded
  in them).
- Also, we definitely need the transparency constraint (7, epistemic closure
- concerning inner workings of mental processes), because the world zero
- has to be ineffably experienced, in a naive-realistic misunderstanding
- as unquestionably real, or it is not phenomenal.
+ Definitely, we also need the transparency constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Transparency"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (epistemic closure concerning inner workings of mental processes), because
+ the world zero has to be ineffably experienced, in a naive-realistic misunderst
+anding as unquestionably real, or it is not phenomenal.
 \end_layout
 
 \begin_layout Standard
-Since we realized in chapter 
+We recognized in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Levels-of-Consciousness"
 
 \end_inset
 
- that the ultrasmoothness constraint (10, homogeneity of simple content
- and the non-existence of a grain problem) really is a prerequisite for
- convolved holism (as we get into an infinite regress otherwise when attempting
- to subdivide former wholes infinitely -- which is exactly what the grain
- problem is about), it will have to be included in this step as well, although
+ that the ultrasmoothness constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Homogeneity-of-Content"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (homogeneity of simple content and the non-existence of a grain problem)
+ really is a prerequisite for convolved holism.
+ This is the case because we get into an infinite regress otherwise when
+ attempting to subdivide former wholes infinitely, which is exactly what
+ the grain problem is about.
+ Consequently, it will have to be included in this step as well, although
  it will only be required for its true strength, concept formation, when
  we introduce qualia.
 \end_layout
@@ -15193,33 +15402,40 @@ reference "Levels-of-Consciousness"
 
 \end_inset
 
- as well, we probably need the global availability constraint (1, mental
- contents are available for deliberately guided attention, cognitive reference
- and control of action) as well, with Minsky's reservations that we saw
- in chapter 
+ as well, we probably need the global availability constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "Minsky-Global-Availability-Restrictions"
+reference "Global-Availability"
 
 \end_inset
 
 .
 \end_layout
 
-\begin_layout Standard
-While the adaptivity constraint (11, everything has to make sense from an
- evolutionary perspective), at least in its weakened form from chapter 
+\end_inset
+
+ (mental contents are available for deliberately guided attention, cognitive
+ reference and control of action), too.
+ Minsky's reservations (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "Weaker-Adaptivity"
+reference "Minsky-Global-Availability-Restrictions"
 
 \end_inset
 
-, is certainly necessary for a conscious system that is also perceivable
- as such by us, it is not necessary for basic phenomenality.
- However, since my goal is to have a full analysis of a conscious system
- in this summary, I would like to include it in this part of the description
- as well.
+) still apply, however: Not all the processess have access to all the data,
+ but it certainly seems that way because we are wired in ways that make
+ all the 
+\emph on
+necessary
+\emph default
+ data usually available to different processes happening in different parts
+ of the brain.
 \end_layout
 
 \begin_layout Standard
@@ -15230,7 +15446,7 @@ At this point we have a system that has sensory organs that can potentially
 \end_layout
 
 \begin_layout Subsection
-Phenomenal Presentational Content
+Phenomenal presentational content
 \end_layout
 
 \begin_layout Standard
@@ -15241,7 +15457,7 @@ reference "Phenomenal-Presentational-Content"
 
 \end_inset
 
-, qualia are not the atomic entities that they were made out to be.
+, qualia are not the atomic entities they were made out to be.
  Phenomenal presentational content is the most basic form of experience,
  because there are kinds of nonconceptual experience that are so subtle
  and fine-grained that they cannot be categorized.
@@ -15250,80 +15466,175 @@ reference "Phenomenal-Presentational-Content"
 \end_layout
 
 \begin_layout Standard
-Notably, while the step of presenting phenomenal content to a system is
- somewhat trivial from a philosophical perspective, it is about the most
- computationally complicated, and the one most of today's attempts at producing
- weak artificial intelligence are struggling with.
- It includes mostly pattern matching tasks: Speech recognition, facial recogniti
+Notably, while the step of 
+\emph on
+presenting
+\emph default
+ phenomenal content to a system is somewhat trivial from a philosophical
+ perspective, it is very complicated from a computational point of view.
+ Most of today's attempts at producing weak artificial intelligence are
+ struggling with exactly this step.
+ It mostly includes pattern matching tasks: Speech recognition, facial recogniti
 on, three-dimensional object perception, orientation, memory formation,
- and other things that I will talk about in chapter 
+ and plenty of other, similarly complicated things.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Further such subjects include integration of semantic and episodic memory
+ into the system, learning algorithms, goal representations and modeling
+ creativity.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The framework and procedural possibility for these processes, in the case
+ of biological systems, has to be genetically hardcoded and built into the
+ prereflexive proto self-model,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "The-Less-Hard-Problems"
+reference "Summary-Prereflexive-proto-self-model"
 
 \end_inset
 
 .
 \end_layout
 
-\begin_layout Standard
-The framework and procedural possibility for these things has to be, in
- the case of biological systems, genetically hardcoded and built into the
- proto self-model, as it is not possible to build these from scratch, not
- even for such an efficiently self-learning system as our body and brain.
- But in order to be able to perceive the data from these perceptive and
- categorizing processes as presentational content, we also require basic
+\end_inset
+
+ as it is not possible to build them from scratch, not even for an efficient
+ self-learning system like our body and brain.
+ However, in order to be able to perceive the data from these perceptive
+ and categorizing processes as presentational content, we also require basic
  phenomenality.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Summary-Basic-Phenomenality"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
-Arguably, the representation of intensities contraint (9, analogue representatio
-n of sensory contents) is necessary for phenomenal presentational content
- at least in biological systems, as probably all the important biological
- sensors are analogue.
+Arguably, the representation of intensities contraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Intensities-Representation"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (analogue representation of sensory contents) is necessary for phenomenal
+ presentational content at least in biological systems, as probably all
+ the important biological sensors are analogue.
+ Digital representation of intensities, only 
+\begin_inset Quotes eld
+\end_inset
+
+on
+\begin_inset Quotes erd
+\end_inset
+
+ and 
+\begin_inset Quotes eld
+\end_inset
+
+off
+\begin_inset Quotes erd
+\end_inset
+
+ switches, are thinkable, but finding fields of application for generic
+ consciousness where they make sense will be hard -- consequently, it seems
+ to be a safe bet to include the representation of intensities constraint
+ in this step as well.
 \end_layout
 
 \begin_layout Subsection
-Basic Subjectivity
+\begin_inset CommandInset label
+LatexCommand label
+name "Basic-subjectivity"
+
+\end_inset
+
+Basic subjectivity
 \end_layout
 
 \begin_layout Standard
-In the spirit of merging the concepts of Minsky and Metzinger (as I attempted
- to do in chapter 
+I attempted to merge the theories of Minsky and Metzinger in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Multiple-Phenomenal-Self-Models"
 
 \end_inset
 
-), subjectivity here really is all about multiple phenomenal self-models
- that the phenomenal system forms, out of phenomenal presentational content
- that is invariant and thus perceived as internal (which essentially is
- the way the proto self-model is transparently presented to the system),
- plus social influences and conventions.
+.
+ According to this combination of their argumentations, subjectivity is
+ really about multiple phenomenal self-models that the phenomenal system
+ forms -- out of phenomenal presentational content that is invariant and
+ thus perceived as internal (which essentially is the way the proto self-model
+ is transparently presented to the system), plus social influences and conventio
+ns.
 \end_layout
 
 \begin_layout Standard
-Those self-models consist of the six levels of Minsky, as seen in chapter
- 
+These self-models consist of the six levels of Minsky that somewhat correspond
+ to Freud's distinction between Id, Ego and Super-Ego.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "Minsky-Multiple-Models"
+reference "Six-levels-of-self"
 
 \end_inset
 
- (that somewhat correspond to Freud's distinction between Id, Ego and Super-Ego).
- However, for the later of them we require an intentionality relation, so
- only two such levels (the ones correllating to the Freudian Id) are part
- of the basic subjectivity we are about to describe.
+.
+\end_layout
+
+\end_inset
+
+ However, for the higher levels among them we require an intentionality
+ relation, so only two levels (those correlating to the Freudian Id) are
+ part of basic subjectivity:
 \end_layout
 
 \begin_layout Enumerate
-Instinctive Reactions - requiring no self-model yet.
+`Instinctive Reactions' - requiring no self-model yet.
 \end_layout
 
 \begin_layout Enumerate
-Learned Reactions - forming a simple self-model that has the bipartition
+`Learned Reactions' - forming a simple self-model that has the bipartition
  between self and world.
 \end_layout
 
@@ -15331,8 +15642,9 @@ Learned Reactions - forming a simple self-model that has the bipartition
 These levels are necessarily entirely transparent, because as soon as we
  want to add opacity, we need a way to relate to the opaque parts -- which
  is only possible if we can model intentionality.
- Basic subjectivity however is more than the proto self-model in that it
- incorporates sensory input and allows processing it in various ways.
+ Basic subjectivity, however, is more than the prereflexive proto self-model,
+ in that it incorporates sensory input and allows processing it in various
+ ways.
 \end_layout
 
 \begin_layout Subsection
@@ -15349,49 +15661,121 @@ In order to progress any further from basic subjectivity, it is necessary
 \end_layout
 
 \begin_layout Standard
-Going with Dennett in dismissing intrinsic intentionality as per the argumentati
-on we looked at in chapter 
+As Dennett showed, intrinsic intentionality, as intuitively plausible as
+ it may be, does not seem to have any justification that goes beyond mere
+ intuition.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "No-Intrinsic-Intentionality"
 
 \end_inset
 
-, we have but one choice: There is no such intrinsic intentionality, so
- we need a replacement.
- And, handily, we have one in Metzinger's phenomenal model of the intentionality
- relation that we encountered in chapter 
+.
+\end_layout
+
+\end_inset
+
+ Metzinger also insists that if we want to naturalize intentionality, we
+ have to phenomenalize it.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "PMIR"
+reference "Phenomenalizing-Intentionality"
 
 \end_inset
 
 .
 \end_layout
 
-\begin_layout Standard
-That model is an entity that is continuously rebuilt in a dynamical process,
- hardwired in the brain, that allows us to 
-\emph on
-re
-\emph default
-present entities that formerly were only presentata.
- It is phenomenal in that we experience it as being meaningful, and it depicts
- the relation from the transparently represented subject component to an
- object component that is part of a huge selection of entities that would
- qualify for filling the “object component” slot in a system's intentional
- modeling framework.
+\end_inset
+
+ Thus, if we want a rational theory, we have but one choice: The theory
+ has to refrain from relying on intrinsic intentionality, and consequently,
+ we need a replacement.
+ Conveniently, we have one in Metzinger's phenomenal model of the intentionality
+ relation:
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapters 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PMIR"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Phenomenalizing-Intentionality"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ The intentionality relation is nothing but a phenomenal model, it only
+ has an abstract conceptual legitimation, every intentional relation supervenes
+ locally on brain structures.
 \end_layout
 
 \begin_layout Standard
-That relation is then presented as being a certain kind of such relation
- -- having an attitude specificator (for propositional attitude psychology)
- or intentional content (for Husserlian phenomenality).
+Metzinger's model of the intentionality relation is an entity which is continuou
+sly being rebuilt in a dynamic process, hardwired in the brain, that allows
+ us to 
+\emph on
+re
+\emph default
+present entities which formerly were mere presentata.
+ It is phenomenal in that we experience it as being meaningful, and it depicts
+ the relation from the transparently represented subject component to an
+ object component which is one among a huge selection of entities that would
+ qualify for filling the “object component” slot
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Kinds-of-Objects"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ in a system's intentional modeling framework.
+ Notably, this object component does not need to correlate to any entities
+ external to the system, we might be mistaken about all the things we experience.
+\end_layout
+
+\begin_layout Standard
+That relation between subject and object component is then presented as
+ being a certain 
+\emph on
+kind
+\emph default
+ of such relation -- having an attitude specificator (for propositional
+ attitude psychology) or intentional content (for Husserlian phenomenality).
  These kinds of relations in turn are presented as equivalence classes that
  the system can represent and consequently analyze by making them object
- components of such a phenomenal model of an intentionality relation of
- their own.
+ components of a phenomenal model of an intentionality relation of their
+ own.
 \end_layout
 
 \begin_layout Standard
@@ -15408,33 +15792,106 @@ Qualia
 \end_layout
 
 \begin_layout Standard
-While qualia are the true test for ultrasmoothness because it is now required
- for us forming proper categories of content, we did introduce the ultrasmoothne
-ss constraint (10) for basic phenomenality already and can thus merely apply
- it to phenomenal presentational content now.
- As we saw in chapter 
+As we established in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Phenomenal-Presentational-Content"
+
+\end_inset
+
+, qualia are not atomic, they are merely arbitrary subdivisions of quality
+ space that allow us to conceptualize phenomenal presentational content.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Metzinger-Qualia"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ Still, they retain conceptual importance, exactly because they allow us
+ to subdivide that quality space into ultrasmooth
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Homogeneity-of-Content"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ subdivisions.
+\end_layout
+
+\begin_layout Standard
+While qualia are thus the true test for ultrasmoothness because it is now
+ 
+\emph on
+required
+\emph default
+ for us forming categories of phenomenal presentational content, we did
+ introduce the ultrasmoothness constraint for basic phenomenality already
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Summary-Basic-Phenomenality"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ and can thus merely widen its application to include phenomenal presentational
+ content now.
+\end_layout
+
+\begin_layout Standard
+In chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Qualia-Still-Necessary"
 
 \end_inset
 
-, eventhough traditional qualia as truly atomic cannot stand when faced
- with phenomenal presentational content that in fact 
+, we concluded that even though traditional qualia as truly atomic entities
+ cannot stand when faced with phenomenal presentational content that in
+ fact 
 \emph on
 does
 \emph default
  subdivide it (meaning that qualia cannot possibly be atomic and undivisible),
- qualia still do have legitimation as the concept of volumes of qualitative
- space, borders of concept formative capabilities of a system.
+ qualia still have legitimation as the concept of volumes of qualitative
+ space, as borders of concept formative capabilities of a system.
 \end_layout
 
 \begin_layout Standard
-As a matter of fact, for qualia we do need to be able to form concepts,
- and for that we require ways to relate to phenomenal presentational content.
- So we need both basic subjectivity (or we don't know what it is that relates
- to the presentational content) and intentionality (or we can't relate to
- it at all).
+As a matter of fact, there are other prerequisites for qualia as well.
+ We need to be able to form concepts, and for that we require ways to relate
+ to phenomenal presentational content.
+ Thus, we need both basic subjectivity (or we would not know what it is
+ that relates to the presentational content) and intentionality (or we could
+ not relate to it at all).
 \end_layout
 
 \begin_layout Subsection
@@ -15444,35 +15901,97 @@ name "Full-Subjectivity"
 
 \end_inset
 
-Full Subjectivity
+Full subjectivity
 \end_layout
 
 \begin_layout Standard
-There is more to full subjectivity than to basic subjectivity, because as
- soon as we also have an intentionality relation, we can potentially relate
- to our basic self-model (that in turn presents the proto self-model).
- I will list the first two levels again here as well, although only levels
- 3-6 are really what this chapter is about:
+There is more to full subjectivity than to basic subjectivity,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Basic-subjectivity"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ because as soon as we also have an intentionality relation, we can potentially
+ relate to our basic multiple phenomenal self-models
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-Phenomenal-Self-Models"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (which in turn present the one proto self-model).
+\end_layout
+
+\begin_layout Standard
+Again we resort to Minsky's levels of self-models.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Six-levels-of-self"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ The first two levels are listed in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Basic-subjectivity"
+
+\end_inset
+
+, this chapter focuses on levels 3-6 exclusively:
 \end_layout
 
 \begin_layout Enumerate
-Instinctive Reactions - requiring no self-model yet.
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+[3.]
+\backslash
+setcounter{enumi}{3}
 \end_layout
 
-\begin_layout Enumerate
-Learned Reactions - forming a simple self-model that has the bipartition
- between self and world.
-\end_layout
+\end_inset
 
-\begin_layout Enumerate
-Deliberative Thinking - adding phenomenality and offline activation to the
- requirements for the self-model, and adding the requirement for a model
+`Deliberative Thinking' - adding phenomenality and offline activation to
+ the requirements for the self-model, and adding the requirement for a model
  of the intentionality relation to the system as a whole.
 \end_layout
 
 \begin_layout Enumerate
-Reflective Thinking - not really adding complexity, but requiring the dynamicity
- constraint's processes
+`Reflective Thinking' - not really adding complexity, but requiring the
+ dynamicity constraint's processes
 \begin_inset Foot
 status open
 
@@ -15488,13 +16007,12 @@ Or rather, the processes currently executing those process descriptions
 status open
 
 \begin_layout Plain Layout
-A stream of thought really is just such a process in the brain, initiated
- originally by some form of sensory input (that is experienced as presentational
- content and conceptualized as qualia).
- This sensory input can well be of system-internal origin -- after all,
- our bodies never are truly immobile, at least the heart is beating all
- the time.
- And self-initiated motor action can well lead to further sensory inputs.
+A stream of thought is just such a process in the brain, initiated originally
+ by some form of sensory input (which is experienced as presentational content
+ and conceptualized as qualia).
+ This sensory input can be of system-internal origin -- after all, our bodies
+ never are truly immobile, at least the heart is beating incessantly.
+ Self-initiated motor action also can lead to sensory inputs.
 \end_layout
 
 \end_inset
@@ -15503,27 +16021,28 @@ A stream of thought really is just such a process in the brain, initiated
 \end_layout
 
 \begin_layout Enumerate
-Self-Reflective Thinking - requiring parts of the self-model to be opaque,
+`Self-Reflective Thinking' - requiring parts of the self-model to be opaque,
  or at least the possibility to make them opaque.
 \end_layout
 
 \begin_layout Enumerate
-Self-Conscious Reflection - requiring that multiple self-models have to
+`Self-Conscious Reflection' - requiring that multiple self-models have to
  be available in parallel and can be compared.
 \end_layout
 
 \begin_layout Standard
 These six levels together form a particular self-model.
  One or several of these self-models is always active when there is conscious
- experience (there has to be at least one active, or there is no experiencing
- self -- remember chapter 
+ experience.
+ There has to be at least one active self-model, or there is no experiencing
+ self (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Switching-off-the-Self"
 
 \end_inset
 
- -- and only one of them at a time is fully transparent in standard cases
+) -- and only one of them is fully transparent at a time, in standard cases.
 \begin_inset Foot
 status open
 
@@ -15534,72 +16053,117 @@ There certainly are several such self-models at once transparently active
 
 \end_inset
 
-), but as we saw in chapter 
+ Yet, as we saw in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Multiple-Self-Models"
 
 \end_inset
 
- there is no complete all-encompassing entire-self-model because that would
- lead to too much computational complexity for our brain.
- Rather, only select memories and behaviours are available to each individual
- self, both for practical (simplification through information hiding) and
- continuity reasons; it makes sense to be able to rely on yourself.
+, there is no complete all-encompassing entire-self-model, because that
+ would lead to too much computational complexity for our brain for no benefit.
+ Rather, only selected memories and patterns of behaviour are available
+ to each individual self, both for practical (simplification through information
+ hiding) and continuity reasons; it makes sense to be able to 
+\begin_inset Quotes eld
+\end_inset
+
+depend on yourself.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 312.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
 Such self-models are then created for descriptive context-dependant positive
  analysis tasks, but also for normative goal-relative tasks.
- The normative tasks can be ethical, moral, or serving other goals
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Goal-Representations"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
- that the agent itself can form -- they can be entirely altruistic or entirely
+ The normative tasks can be ethical, moral, or serving other goals that
+ the agent itself can form -- they can be entirely altruistic or entirely
  egoistic in nature.
- Human agents are a great example for this because they are really creative
+ Human agents are a superb example for this because they are really creative
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-See chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Creativity"
+Minsky prefers using the term 
+\begin_inset Quotes eld
+\end_inset
+
+resourceful
+\begin_inset Quotes erd
+\end_inset
+
+ instead of 
+\begin_inset Quotes eld
+\end_inset
+
+creative
+\begin_inset Quotes erd
+\end_inset
+
+, because according to him that is why our lines of thought are so unpredictable
+: We have many resources at our disposal, various 
+\begin_inset Quotes eld
+\end_inset
+
+Ways to Think,
+\begin_inset Quotes erd
+\end_inset
+
+ and when we are creative we merely select the 
+\begin_inset Quotes eld
+\end_inset
+
+Way to Think
+\begin_inset Quotes erd
+\end_inset
+
+ that appears to be most promising or tempting for reaching the goal at
+ hand.
+ See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
 
 \end_inset
 
-.
+, pages 275ff.
 \end_layout
 
 \end_inset
 
- when it comes to what goals their normative self-models serve.
+ concerning which goals their normative self-models serve.
 \end_layout
 
 \begin_layout Standard
-These self-modeling routines are then also borrowed for intersubjectivity
- and empathy, the subject of chapter 
+The same self-modeling routines that are used for creating the self-models
+ are then also borrowed for intersubjectivity and empathy (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Empathy-and-Intersubjectivity"
 
 \end_inset
 
- -- if it is possible to model yourself, you can also model your neighbour,
+).
+ If it is possible to model yourself, you can also model your neighbour,
  and as soon as you can do that, you can understand him and lead meaningful
 \begin_inset Foot
 status open
@@ -15620,30 +16184,112 @@ reference "Phenomenalizing-Intentionality"
 \end_inset
 
  discussions.
- As such, such a self-model is also the requirement for meaningful (in the
- same experiential sense) language generation, because only if you can model
- somebody as a person is it interesting to truly tell them something.
+ As such, the possibility for us to form a self-model is also one of the
+ necessary conditions for meaningful (in the same experiential sense) language
+ generation, because only if you can model somebody as a person is it possible
+ to truly tell them something.
 \end_layout
 
 \begin_layout Standard
-Looking at parallels to Metzinger's levels of consciousness in chapter 
+Let us recapitulate the parallels to Metzinger's levels of consciousness
+ in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Levels-of-Consciousness"
 
 \end_inset
 
-: By this point we have added all of his constraints including the perspectivaln
-ess constraint (6, including the proto self-model, the PSM and the PMIR),
- the full transparency constraint (7, epistemic closure concerning inner
- workings of mental processes with the possibility of making some of these
- processes opaque) and the offline activation constraint (8, allowing representa
-tional content that is not directly driven by presentational content).
+: By now, we have added nearly all of his constraints, including the perspectiva
+lness constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Perspectivalness"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (including the proto self-model, the PSM and the PMIR), the full transparency
+ constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Transparency"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (epistemic closure concerning inner workings of mental processes with the
+ possibility of making some of these processes opaque) and the offline activatio
+n constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Offline-activation"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ (allowing representational content that is not directly driven by presentationa
+l content).
+\end_layout
+
+\begin_layout Section
+Conclusion
 \end_layout
 
 \begin_layout Standard
-So together with the constraints we already added for basic phenomenality,
- we now have a fully conscious system that has, to say it with Searle, “causal
+With the characteristics and prerequisites for full subjectivity from chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Full-Subjectivity"
+
+\end_inset
+
+, together with the constraints we already added before that for basic phenomena
+lity,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Summary-Basic-Phenomenality"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ we now have a fully conscious system that has, to quote Searle, “causal
  powers equivalent to those of the brain.”
 \begin_inset Foot
 status open
@@ -15657,16 +16303,181 @@ key "Searle1980"
 \end_inset
 
 .
+ Notably, he used the term to attempt to show what it is that a computer
+ necessarily lacks for producing intentionality and ultimately consciousness.
 \end_layout
 
 \end_inset
 
- Even better, we even have some slight idea what those causal powers could
- be!
+
 \end_layout
 
-\begin_layout Section
-Conclusion
+\begin_layout Standard
+Even better, we even have some slight idea what those causal powers could
+ be! They are the constraints Metzinger suggested, with some minor variations,
+ and in a slightly more complex layering.
+ The special causal powers of the brain that make us conscious subjects
+ are the very same that make us able to experience the world phenomenally
+ as a subject.
+\end_layout
+
+\begin_layout Standard
+The only one of Metzinger's constraints that we did not add yet in our new
+ seven levels from chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "The-Bigger-Picture"
+
+\end_inset
+
+ is the adaptivity constraint,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Adaptivity"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ the reason for this will become apparent in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Special-adaptivity-constraint"
+
+\end_inset
+
+.
+ Ignoring this constraint for now, this means that all the constraints Metzinger
+ listed as prerequisites for a 
+\begin_inset Quotes eld
+\end_inset
+
+Cognitive, Subjective Consciousness
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Levels-of-Consciousness"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ are accounted for.
+ Not only that, but the added layers clarified and made explicit some interdepen
+dences between the four rough terms that we started out with, and hopefully
+ contribute to a more sound foundation for the philosophy of consciousness
+ overall.
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Special-adaptivity-constraint"
+
+\end_inset
+
+The special nature of the adaptivity constraint
+\end_layout
+
+\begin_layout Standard
+According to the adaptivity constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Adaptivity"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+, everything has to make sense from an evolutionary perspective.
+ Metzinger designed it as a constraint that specifies that a system needs
+ a proper history, but as shown in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Weaker-Adaptivity"
+
+\end_inset
+
+, this is not necessary for the system to be conscious.
+ Still, I proposed a modified fitness criterion for the adaptivity constraint
+ as follows:
+\end_layout
+
+\begin_layout Quote
+Phenomenal representata are 
+\emph on
+good 
+\emph default
+representata if, and only if they successfully and reliably depict those
+ causal properties of the interaction domain of an organism that are important
+ for successful survival of the genotype
+\emph on
+.
+\end_layout
+
+\begin_layout Standard
+The modified form of the adaptivity constraint built upon this criterion
+ is certainly necessary for a conscious system which is also perceivable
+ as such by us: It seems doubtful that we could classify a system as having
+ phenomenal subjective experience if it does not exhibit any behaviours
+ that we would expect from a system capable of that, which is, behaviours
+ that are beneficial for the survival and integrity of the system.
+ Conversely, an instinct-driven system that exhibits all the characteristics
+ of one, but also has phenomenal subjective experience that is unrelated
+ to the capability to survive, would be classified as merely instinct-driven
+ and again, we would not perceive it as being conscious.
+\end_layout
+
+\begin_layout Standard
+The constraint is, however, not a necessary part of any of the steps in
+ chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "The-Bigger-Picture"
+
+\end_inset
+
+.
+ Consequently, the modified adaptivity constraint must be the difference
+ between a system that merely experiences phenomenally from a first-person
+ point of view,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Such a system would probably vanish within a relatively short time frame.
+\end_layout
+
+\end_inset
+
+ and one that we would classify as a conscious system.
 \end_layout
 
 \begin_layout Subsection
@@ -15690,46 +16501,62 @@ Multiple models revisited
 \end_layout
 
 \begin_layout Subsection
-The Hard Problem Demystified?
+The hard problem demystified?
 \end_layout
 
 \begin_layout Standard
-By no means do I mean to claim that we now have all the answers, or even
- that we have any more than first pointers as to what exactly it is that
- makes subjective consciousness possible and phenomenally interesting.
- But those first pointers we certainly do have.
+Certainly I do not mean to claim that I have given all the answers, or that
+ I have been able to give more than just some hints of what exactly it is
+ that makes subjective consciousness possible and phenomenally interesting.
+ Yet I believe that I have made these first pointers explicit.
 \end_layout
 
 \begin_layout Standard
 From a naturalist or rational-causalist background, the traditional theories
  about the mind are not really satisfactory.
- It always did amaze me how dualist tendencies, untranscendability by principle
- and dogmatic explanations through apparently arbitrary claims are still
- prevalent in today's philosophy of mind.
-\end_layout
-
-\begin_layout Standard
-Personally, I never understood why we should be so convinced that we are
- special in some way, that other, artificial or postbiotic systems should
- be excluded from the club of the entities that can potentially be intelligent.
- There just is no rational reason for that, except of course the all too
- human fear that we could suddenly be superfluous.
+ It always amazed me how dualist tendencies,
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-I referred to 
+I am here again talking of ontological dualism, not conceptual dualism like
+ in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Conceptual-Dualism"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ untranscendability by principle and dogmatic explanations through apparently
+ arbitrary claims are still prevalent in today's philosophy of mind.
+\end_layout
+
+\begin_layout Standard
+Personally, I never understood why we should be so convinced that we are
+ special in some way, nor why other, artificial or postbiotic systems should
+ be excluded from the club of the entities that can potentially be intelligent.
+ There is just no rational reason for that.
+ There is a legitimation of course, the all too human fear that we could
+ suddenly be superfluous.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Quoting Bill Joy in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Joy2000"
 
 \end_inset
 
- before, but will do so here again.
- To quote Bill Joy: “What we do suggest is that the human race might easily
- permit itself to drift into a position of such dependence on the machines
- that it would have no practical choice but to accept all of the machines'
- decisions.
+: “What we do suggest is that the human race might easily permit itself
+ to drift into a position of such dependence on the machines that it would
+ have no practical choice but to accept all of the machines' decisions.
  As society and the problems that face it become more and more complex and
  machines become more and more intelligent, people will let machines make
  more of their decisions for them, simply because machine-made decisions
@@ -15746,40 +16573,41 @@ key "Joy2000"
 \end_layout
 
 \begin_layout Standard
-But if we don't try and see if we can find out if these other systems can
- be intelligent, and then informedly talk about what exactly the premises
- are that make it impossible for them to be intelligent, we can't possibly
- know, and we should admit that.
- In all honesty, Searle's “special causal powers” do not fit that bill very
- well, particularly not if they're defined as “the things that make it impossibl
-e for these other systems to be intelligent”.
+However, if we do not try to find out whether these other systems can be
+ intelligent, and then talk about what exactly the premises are that make
+ it impossible for them to be intelligent based on information and not doubt,
+ we can nott possibly know, and we should admit that.
+ Arguably, Searle's “special causal powers” do not explain a lot, particularly
+ not if they are defined as the unexplicable things that make it impossible
+ for these other systems to be intelligent.
 \end_layout
 
 \begin_layout Subsubsection
-The Future of Philosophy of Mind
+Not demystification, but a rational approach
 \end_layout
 
 \begin_layout Standard
-On the way towards such a better understanding of the hard problem of the
- philosophy of mind, one that allows us to informedly talk about the things
- we do not know about and narrow down what it is that we don't understand,
- I think that Dennett, Metzinger and Minsky deliver important signposts.
- By putting their theories together in one thesis like I did here, we did
- encounter some incompatibilities that had to be clarified, but we also
- found many areas where the fusion of their theories proved to be fruitful
- and able to explain more than their individual parts.
+We need to be on the way towards a better understanding of the hard problem
+ of the philosophy of mind, one that allows us to conduct an informed talk
+ on the things we do not know, and to narrow down what it is that we do
+ not yet understand.
+ I think that Dennett, Metzinger and Minsky provide important guidance.
+ Some incompatibilities had to be clarified, but I also have called attention
+ to many areas where the fusion of their theories proved to be fruitful
+ and able to explain more than the parts individually.
 \end_layout
 
 \begin_layout Standard
-I do believe that in particular the summary from chapter 
+I believe that the summary from chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Summary"
 
 \end_inset
 
- is a somewhat novel approach to the mystery that is subjective consciousness.
- I do hope that you feel compelled to put it to the test.
+ in particular will be appreciated as a novel approach to the mysterious
+ matter of subjective consciousness.
+ Future research to put my theory to test is warmly welcome.
 \end_layout
 
 \begin_layout Standard
