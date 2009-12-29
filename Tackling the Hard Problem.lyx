@@ -11230,8 +11230,8 @@ key "Minsky2006"
 
 \begin_layout Standard
 Not only are different aspects of a situation bound to different self-models,
- but future and past selves can be modeled as well, among many others (social,
- athletic, mathematical, musical, political, loving, sexual, professional
+ but many other selves can be modeled as well (social, athletic, mathematical,
+ musical, political, loving, sexual, professional
 \begin_inset Foot
 status open
 
@@ -11254,6 +11254,13 @@ key "Minsky2006"
  still relatively close to each other) changes what ways to think are available,
  because different brain centers are active and contributing to the functional
  processes generating the current self-model, and thus how we act and think.
+\end_layout
+
+\begin_layout Standard
+All of these variants can come in online and offline versions, but additionally,
+ there are also even more offline variants.
+ Future and past selves can be modeled as well, and fantastic selves can
+ be imagined and appreciated without much effort.
 \end_layout
 
 \begin_layout Standard
@@ -12362,11 +12369,13 @@ Modeling
 \emph on
 normative
 \emph default
- selves on the other hand always happens in an opaque manner, and they are
- available for introspection.
+ selves on the other hand always happens in an opaque manner, and they (just
+ like other kinds of imagined offline self-models) are available for introspecti
+on.
  However, the fact that our positive phenomenal self-model changes from
- one moment to the next is not necessarily available to us, since it is
- transparent, and in some regions even ineffable.
+ one moment to the next is not necessarily available to us, since our currently
+ active positive self-model is transparent, and some parts of it are even
+ ineffable.
  We can, as with other things, introspectively distance ourselves from our
  deeds and look at what we are doing; as exemplified in when we take a step
  back and realize we are just acting so rudely because we are jealous when
@@ -12377,30 +12386,17 @@ normative
 status open
 
 \begin_layout Plain Layout
-Of course, several things have to be kept in mind:
-\end_layout
+Nevertheless, we are of course still the same person, and thus the multiple
+ self-models can well be perceived as being merely aspects of one all-encompassi
+ng self.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-Models-Revisited"
 
-\begin_layout Itemize
-There will be overlapping areas where multiple self-models share similar
- or identical traits -- but of course, it is also possible that a person
- acts completely different in varying surroundings
-\end_layout
+\end_inset
 
-\begin_layout Itemize
-These self-models are not pure; the business self will mix with the household
- self when a businesswoman is talking with her kids on the phone during
- her lunch break
-\end_layout
-
-\begin_layout Itemize
-While there may be multiple such self-models, they are still part of the
- same self, and except in pathological cases will also be judged as belonging
- to the same person by the social environment
-\end_layout
-
-\begin_layout Plain Layout
-Nevertheless, a theory of multiple phenomenal self-models appears to be
- what fits the few known facts about how our brain works best.
+.
 \end_layout
 
 \end_inset
@@ -16500,6 +16496,132 @@ name "Multiple-Models-Revisited"
 Multiple models revisited
 \end_layout
 
+\begin_layout Standard
+We discussed Metzinger's theory of the phenomenal self-model,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "PSM"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ and Minsky's theory of how there are multiple selves to a person.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-Self-Models"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ These theories are compatible with each other in large parts, and we merged
+ them in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-Phenomenal-Self-Models"
+
+\end_inset
+
+, producing a theory of multiple phenomenal self-models.
+\end_layout
+
+\begin_layout Standard
+According to this theory, a person models multiple selves, normative and
+ descriptive ones, and has the capability to store aspects of them transtemporal
+ly.
+ This person then always has one active and transparent online self-model,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This statement is greatly simplified: In rare cases, several self-models
+ can be transparently active, for example when we are switching from one
+ activity to the next and are reorienting ourselves.
+ Furthermore, in pathological cases, several such self-models can be active
+ concurrently, sharing the same body.
+ Finally, it is not necessary to have a self online at all times, as chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Switching-off-the-Self"
+
+\end_inset
+
+ showed.
+\end_layout
+
+\end_inset
+
+ and can have several opaque offline self-models available for introspection
+ at the same time.
+ All these entities supervene locally on brain structures.
+\end_layout
+
+\begin_layout Standard
+Despite the apparent simplicity of this theory, it does not appear to be
+ fully adequate for some situations we regularly find ourselves in, and
+ all the different kinds of phenomenal self-models we possess:
+\end_layout
+
+\begin_layout Itemize
+There will be overlapping areas where multiple phenomenal self-models share
+ similar or identical traits.
+ It is possible that a person acts completely different in varying surroundings,
+ but that does not seem to happen all the time; we recognize our friends
+ whether they're playing sports or studying.
+\end_layout
+
+\begin_layout Itemize
+The various phenomenal self-models are not pure.
+ The business self will mix with the parent self when a businesswoman is
+ talking with her kids on the phone during her lunch break.
+ In such a situation, it is not so much the case that two phenomenal self-models
+ are active concurrently, but that the resources required by multiple phenomenal
+ self-models are simultaneously active in our brains and thus form a new,
+ merged phenomenal self-model.
+\end_layout
+
+\begin_layout Itemize
+While there may be multiple phenomenal self-models, they are still part
+ of the same conceptual self, and except in pathological cases will also
+ be judged as being the same person by the social environment.
+\end_layout
+
+\begin_layout Standard
+Consequently, what I called 
+\begin_inset Quotes eld
+\end_inset
+
+multiple phenomenal self-models
+\begin_inset Quotes erd
+\end_inset
+
+ could really be said to be merely aspects of 
+\emph on
+one
+\emph default
+ complete phenomenal self-model, not all of which are active at all times.
+ The difference between these two ways of naming the theory, however, appears
+ to be of merely linguistical nature.
+\end_layout
+
 \begin_layout Subsection
 The hard problem demystified?
 \end_layout
@@ -16583,7 +16705,7 @@ However, if we do not try to find out whether these other systems can be
 \end_layout
 
 \begin_layout Subsubsection
-Not demystification, but a novel approach
+A novel approach
 \end_layout
 
 \begin_layout Standard
