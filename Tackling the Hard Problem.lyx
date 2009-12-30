@@ -1287,9 +1287,63 @@ te between different levels of phenomenal experience, and how he shows that
 \end_layout
 
 \begin_layout Standard
-First, however, I want to introduce two other concepts that Metzinger improves
- our understanding of: Introspection, and how consciousness can't be anything
- but a process.
+First, however, I want to criticize Metzinger's choice of names, and then
+ introduce three other concepts that Metzinger improves our understanding
+ of: Introspection, how consciousness ca not be anything but a process,
+ and Metzinger's concept of local supervenience.
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Metzingers-Names"
+
+\end_inset
+
+Metzinger's choice of names
+\end_layout
+
+\begin_layout Standard
+I adopted Metzinger's numbering and choice of names for all of his constraints.
+ This does at first sight make it unnecessarily hard to understand what
+ exactly he means by some of those names, and my list of Metzinger's constraints
+ in this chapter can also be seen as an attempt to translate the concepts
+ he nominates into a more common philosophical vocabulary.
+\end_layout
+
+\begin_layout Standard
+Various critics have criticized both Metzinger's book
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The book 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, where Metzinger introduces the multilevel constraints presented in this
+ chapter.
+\end_layout
+
+\end_inset
+
+ and my thesis on the basis of unknown nomenclature and words that do not
+ appear to be English.
+ Metzinger being German does explain, but not necessarily justify his strange
+ choice of constraint names.
+ However, I believe that when introducing novel concepts, it makes sense
+ to name these with novel words as well -- and, that once they are named,
+ it makes sense to keep those names.
+\end_layout
+
+\begin_layout Standard
+Furthermore, I thought that the linguistic turn stopped our desparate clinging
+ to words and nomenclature, and opened our minds for appreciation of concepts
+ however they are named.
+ In this spirit, I kept Metzinger's nomenclature for his constraints.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2144,6 +2198,31 @@ However, they are all available, while they are experienced or remembered
  in the brain -- or, at least, that is how we experience it phenomenally.
 \end_layout
 
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+global availability
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+global availability
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to have access to all the relevant data from all its active
+ processes.
+\end_layout
+
 \begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
@@ -2820,15 +2899,8 @@ status open
 \begin_layout Plain Layout
 I am speaking of intuitions here and not opinions, because intuitions seem
  to be where the core misunderstandings between differing opinions lie,
- and unfortunately, there are few hard facts (with the reservations made
- in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Epistemology"
-
-\end_inset
-
-) that could otherwise serve as premises for opinions.
+ and unfortunately, there are few hard facts that could otherwise serve
+ as premises for opinions.
  Of course, the opinions fueled by those differing intuitions vary widely
  as well.
 \end_layout
@@ -4808,6 +4880,33 @@ multilevels constraints
 
  for his definitions of what could be described as preconditions that are
  necessary for a system to exhibit consciousness.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Even if, as we saw in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Metzingers-Names"
+
+\end_inset
+
+, I do not believe that names need to be well-known in order to make sense,
+ Metzinger still attempted to name his concepts in a way that explains some
+ of their meaning.
+ This meaning of the term 
+\begin_inset Quotes eld
+\end_inset
+
+multilevel constraints
+\begin_inset Quotes erd
+\end_inset
+
+ is what the current chapter attempts to explore.
+\end_layout
+
+\end_inset
+
  In order for it to make sense, we have to look at it this way: An otherwise
  completely unconstrained data processing system of any kind that satisfies
  a sufficient number of these constraints
@@ -4922,6 +5021,23 @@ physical-neurobiological
  level, investigating direct neural corellates of the constraint in usually
  human brains.
  This is a largely unexplored subject for many of Metzinger's constraints.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Also see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Conceptual-Dualism"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -16803,7 +16919,8 @@ reference "On-dualism"
  traceable causal links.
  This means that if there are domain borders to cross between the two kinds
  of entities, there need to be causally analyzable ways to cross these domain
- borders.
+ borders -- both bottom-up from neural pathways to mental concepts, and
+ top-down from phenomenal experience to brain structures and states.
 \end_layout
 
 \begin_layout Standard
@@ -16819,7 +16936,129 @@ reference "Local-supervenience"
 , this means that phenomenal presentational content, which is a kind of
  abstract conceptual content, is realized in electrical currents and layouts
  of neural networks.
- However, while it is possible to 
+ However, while it is possible to map from one of these kinds of content
+ to the other, this is not easy, and both levels can be analyzed rather
+ individually:
+\end_layout
+
+\begin_layout Itemize
+We can discuss and analyze biological neural networks and how the brain
+ works, figuring out the interdependences that various brain centers have,
+ and the functional responsibilities different areas of the brain assume.
+\end_layout
+
+\begin_layout Itemize
+We can (as this thesis does) discuss and analyze phenomenal experience and
+ mental states, abstract processes that lead to consciousness, and analyze
+ the concept formation and modeling tasks that the system is capable of.
+\end_layout
+
+\begin_layout Standard
+In theory, it is possible to 
+\begin_inset Quotes eld
+\end_inset
+
+translate
+\begin_inset Quotes erd
+\end_inset
+
+ from one level to the other.
+ Metzinger already did some research concerning the physical-neurobiological
+ implementation of each of his constraints,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+In fact, Metzinger wrote a chapter for each of his multilevel constraints,
+ attempting dissect its physical-neurobiological
+\emph on
+ 
+\emph default
+level, see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Metzinger's-nomenclature"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ but for many of them he could only offer speculations concerning where
+ and how exactly they are implemented.
+\end_layout
+
+\begin_layout Standard
+The interesting thing now is that this does not stop us from analyzing causal
+ dependencies between different abstract and conceptual mental entities.
+ We can base research about the phenomenal level entirely on observations
+ and even, to some extent,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The limits to basing research on personal experience were made explicit
+ by Dennett, see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Heterophenomenology"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ personal experience.
+ On the other hand, we can also research neural connections and brain structures
+ without even having to think about what supervenes on them.
+ In this way, the two levels are, while interconnected, also quite independent
+ of each other.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This is, interestingly, similar to how a programmer thinks about his computer
+ programs.
+ When I program, I do not think about how exactly my higher-level code will
+ be translated to bits and bytes, processor instructions and memory contents.
+ I do not need to know how the compiler exactly translates them.
+ A researcher who does not know the history of computing might take a seemingly
+ unbiased approach and say 
+\begin_inset Quotes eld
+\end_inset
+
+there is a spirit in this machine that allows it to process words and images,
+ for this is more than merely mathematical calculation
+\begin_inset Quotes erd
+\end_inset
+
+ -- particularly when he does not have the source code of programs at his
+ disposal, but only the compiled, cryptic and hardly decipherable end product.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+This in fact leads to a special kind of conceptual dualism that, I believe,
+ is implicit all of the work of all three philosophers
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+These three are of course Metzinger, Dennett and Minsky.
+\end_layout
+
+\end_inset
+
+ that are the foundation of this thesis, and consequently also implied in
+ my conclusions.
 \end_layout
 
 \begin_layout Subsection
