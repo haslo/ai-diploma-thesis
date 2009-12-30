@@ -1816,6 +1816,147 @@ reference "Levels-of-Consciousness"
 \begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
+name "Local-supervenience"
+
+\end_inset
+
+Local supervenience
+\end_layout
+
+\begin_layout Standard
+Local supervenience in humans, the way Metzinger uses it, is defined by
+ the content supervening on only some brain centers and not the entire brain,
+ while being at least partially independent from the environment.
+ The first time Metzinger mentions the concept is as follows:
+\end_layout
+
+\begin_layout Quote
+First, for phenomenal content the 
+\begin_inset Quotes eld
+\end_inset
+
+principle of local supervenience
+\begin_inset Quotes erd
+\end_inset
+
+ holds: 
+\emph on
+phenomenal
+\emph default
+ content is determined by internal and contemporaneous properties of the
+ conscious system, for example, by properties of its brain.
+ For 
+\emph on
+intentional
+\emph default
+ content (i.e., 
+\emph on
+representational
+\emph default
+ content as more traditionally conceived) this does not have to be true:
+ 
+\emph on
+What
+\emph default
+ and 
+\emph on
+if
+\emph default
+ it actually represents may change with what actually exists in the environment.
+ At the same time the phenomenal content, how things subjectively 
+\emph on
+feel
+\emph default
+ to you, may stay invariant, as does your brain state.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 13.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Metzinger refines the concept en passant:
+\end_layout
+
+\begin_layout Quote
+According to the principle of local supervenience, for every kind of phenomenal
+ content in humans there will be at least one minimally sufficient neural
+ correlate.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 170.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Mental states and phenomenal states, the things that supervene on brain
+ states, are merely abstract conceptual content.
+ Furthermore, this abstract conceptual content is always part of a process:
+ It is merely data that is being sent from one one functional center in
+ the brain to another, modified by the various algorithms that are wired
+ in the brain.
+ Seen on the physical layer, they are realized in nothing but electrical
+ currents running between neurons and clusters of neurons, modified and
+ controlled by the neural network layout that these neurons have.
+\end_layout
+
+\begin_layout Standard
+Phenomenal states are in a causal two-way relationship with the brain states
+ they supervene on: The processes that contain the abstract conceptual content
+ influence the brain states they supervene on, because the phenomenal states
+ are realized in these brain states.
+ The brain states on the other hand influence the abstract conceptual content,
+ because the processes are executed by means of changing physical states
+ in the brain.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Essentially, this is a kind of conceptual dualism.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Conceptual-Dualism"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
 name "Global-Availability"
 
 \end_inset
@@ -5627,9 +5768,26 @@ supervenience
 \begin_inset Quotes erd
 \end_inset
 
- Metzinger also uses, he constructed a theory that lacks scientific foundation
- and appears to be of mostly speculative nature, as all theories involving
- metaphysical and non-observable entities necessarily do).
+ Metzinger also uses,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Local-supervenience"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ he constructed a theory that lacks scientific foundation and appears to
+ be of mostly speculative nature, as all theories involving metaphysical
+ and non-observable entities necessarily do).
  But when Metzinger uses it, it translates to the assumption that the things
  our brains
 \begin_inset Foot
@@ -7699,8 +7857,24 @@ Qualia are reducible
 For Metzinger, qualia (understood as noncategorizable, but attentionally
  available forms of sensory content) are reducible in principle.
  He suggests tackling that issue by finding the physical structures upon
- which sensory content supervenes, and by functionally analyzing the causal
- role of these structures.
+ which sensory content locally supervenes,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Local-supervenience"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ and by functionally analyzing the causal role of these structures.
 \begin_inset Foot
 status open
 
@@ -7828,8 +8002,8 @@ you
 \end_layout
 
 \begin_layout Standard
-Presentational content also supervenes on internal physical and functional
- properties, like any other form of mental content.
+Presentational content also locally supervenes on internal physical and
+ functional properties, like any other form of mental content.
  Metzinger offers presentational content as a followup concept for qualia,
  or rather, a concept which would explain what seems to be so special about
  qualia.
@@ -9094,8 +9268,8 @@ res cogitans
 , and they are truthful representations of actual external entities, because
  God is not a deceiver.
  Both these (in this thesis, very bluntly put) argumentations rely on the
- truthfulness and benevolence of God, which is further proven earlier in
- Descartes' work.
+ truthfulness and benevolence of God, of which further proof is attempted
+ earlier in Descartes' work.
 \begin_inset Foot
 status open
 
@@ -9112,7 +9286,9 @@ key "Descartes1641"
 
 \end_inset
 
-
+ However, as soon as we include omnipotence in a theory, we can just as
+ well stop arguing about rational reasons and causes, so I would prefer
+ a theoretical framework that does not rely on metaphysics.
 \end_layout
 
 \begin_layout Standard
@@ -9159,6 +9335,17 @@ g essence (which builds the world, the body and the brain) and a nonphysical,
  thinking essence (which builds the mind).
  Thus, it is the separation of body and mind, and it did not really start
  with Descartes -- it dates back to Zarathushtra, Plato and Aristotle.
+\end_layout
+
+\begin_layout Standard
+Substance dualism is subject of further discussion in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "On-dualism"
+
+\end_inset
+
+.
 \end_layout
 
 \begin_layout Subsubsection
@@ -11608,7 +11795,24 @@ reference "On-dualism"
  scientific point of view.
  The other three views presented in this chapter might differ considerably
  in details, but they agree on one central thing: The self is an entity
- that emerges from mental processes and states, something that supervenes
+ that emerges from mental processes and states, something that locally supervene
+s
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Local-supervenience"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
  on brain states and neural correlates.
 \end_layout
 
@@ -11633,7 +11837,7 @@ name "On-dualism"
 
 \end_inset
 
-On dualism
+On substance dualism
 \end_layout
 
 \begin_layout Standard
@@ -11741,11 +11945,39 @@ key "Hilbert1897"
 Applied to philosophy of mind, this means the following: There is nothing
  that stops us from investigating logical interactions not available for
  introspection.
+ If the Cartesian 
+\emph on
+res cogitans
+\emph default
+ does however have causally analyzable interactions with the 
+\emph on
+res extensa
+\emph default
+, it is not a fundamentally different, non-physical kind of matter.
+ Assuming that it is amounts to a category error.
 \end_layout
 
 \begin_layout Standard
 Consequently, I will dismiss substance dualism as not relevant for this
  thesis.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Conceptual dualism on the other hand is arguably at the core of it.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Conceptual-Dualism"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -12218,7 +12450,7 @@ name "Multiple-Phenomenal-Self-Models"
 
 \end_inset
 
-Multiple Phenomenal Self-Models
+Multiple phenomenal self-models
 \end_layout
 
 \begin_layout Standard
@@ -12435,6 +12667,129 @@ reference "Difference-Appreciation-Description"
  I am still the very same person, I do not know anymore what it was like
  to be me back then.
  
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Multiple-Models-Revisited"
+
+\end_inset
+
+Multiple aspects of one self-model?
+\end_layout
+
+\begin_layout Standard
+According to the theory we now reached,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-Phenomenal-Self-Models"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ a person models multiple selves, normative and descriptive ones, and has
+ the capability to store aspects of them transtemporally.
+ This person then always has one active and transparent online self-model,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This statement is greatly simplified: In rare cases, several self-models
+ can be transparently active, for example when we are switching from one
+ activity to the next and are reorienting ourselves.
+ Furthermore, in pathological cases, several such self-models can be active
+ concurrently, sharing the same body.
+ Finally, it is not necessary to have a self online at all times, as chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Switching-off-the-Self"
+
+\end_inset
+
+ showed.
+\end_layout
+
+\end_inset
+
+ and can have several opaque offline self-models available for introspection
+ at the same time.
+ All these entities supervene locally
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Local-supervenience"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ on brain structures.
+\end_layout
+
+\begin_layout Standard
+Despite the apparent simplicity of this theory, it does not appear to be
+ fully adequate for some situations we regularly find ourselves in, and
+ all the different kinds of phenomenal self-models we possess:
+\end_layout
+
+\begin_layout Itemize
+There will be overlapping areas where multiple phenomenal self-models share
+ similar or identical traits.
+ It is possible that a person acts completely different in varying surroundings,
+ but that does not seem to happen all the time; we recognize our friends
+ whether they're playing sports or studying.
+\end_layout
+
+\begin_layout Itemize
+The various phenomenal self-models are not pure.
+ The business self will mix with the parent self when a businesswoman is
+ talking with her kids on the phone during her lunch break.
+ In such a situation, it is not so much the case that two phenomenal self-models
+ are active concurrently, but that the resources required by multiple phenomenal
+ self-models are simultaneously active in our brains and thus form a new,
+ merged phenomenal self-model.
+\end_layout
+
+\begin_layout Itemize
+While there may be multiple phenomenal self-models, they are still part
+ of the same conceptual self, and except in pathological cases will also
+ be judged as being the same person by the social environment.
+\end_layout
+
+\begin_layout Standard
+Consequently, what I called 
+\begin_inset Quotes eld
+\end_inset
+
+multiple phenomenal self-models
+\begin_inset Quotes erd
+\end_inset
+
+ could really be said to be merely aspects of 
+\emph on
+one
+\emph default
+ complete phenomenal self-model, not all of which are active at all times.
+ The difference between these two ways of naming the theory, however, appears
+ to be of merely linguistical nature.
 \end_layout
 
 \begin_layout Standard
@@ -13674,74 +14029,14 @@ bly the same.
 status open
 
 \begin_layout Plain Layout
-Local supervenience in humans, the way Metzinger uses it, is defined by
- the content supervening on only some brain centers and not the entire brain,
- while being at least partially independent from the environment.
- The first time Metzinger mentions the concept is in a footnote in 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Metzinger2003"
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Local-supervenience"
 
 \end_inset
 
-, on page 13:
-\end_layout
-
-\begin_layout Quote
-First, for phenomenal content the 
-\begin_inset Quotes eld
-\end_inset
-
-principle of local supervenience
-\begin_inset Quotes erd
-\end_inset
-
- holds: 
-\emph on
-phenomenal
-\emph default
- content is determined by internal and contemporaneous properties of the
- conscious system, for example, by properties of its brain.
- For 
-\emph on
-intentional
-\emph default
- content (i.e., 
-\emph on
-representational
-\emph default
- content as more traditionally conceived) this does not have to be true:
- 
-\emph on
-What
-\emph default
- and 
-\emph on
-if
-\emph default
- it actually represents may change with what actually exists in the environment.
- At the same time the phenomenal content, how things subjectively 
-\emph on
-feel
-\emph default
- to you, may stay invariant, as does your brain state.
-\end_layout
-
-\begin_layout Plain Layout
-Metzinger then refines the concept en passant, for example in 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Metzinger2003"
-
-\end_inset
-
-, page 170:
-\end_layout
-
-\begin_layout Quote
-According to the principle of local supervenience, for every kind of phenomenal
- content in humans there will be at least one minimally sufficient neural
- correlate.
+.
 \end_layout
 
 \end_inset
@@ -16486,140 +16781,45 @@ name "Conceptual-Dualism"
 Conceptual dualism?
 \end_layout
 
-\begin_layout Subsection
-\begin_inset CommandInset label
-LatexCommand label
-name "Multiple-Models-Revisited"
+\begin_layout Standard
+Chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Dualism"
 
 \end_inset
 
-Multiple models revisited
+ introduced substance dualism, and chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "On-dualism"
+
+\end_inset
+
+ explained my reasons for not including it in the summary: If we assume
+ that a causal connection between mental entities and physical entities
+ exists, which is necessary for our thoughts and wishes having any influence
+ over the way our body acts, it follows necessarily that they need potentially
+ traceable causal links.
+ This means that if there are domain borders to cross between the two kinds
+ of entities, there need to be causally analyzable ways to cross these domain
+ borders.
 \end_layout
 
 \begin_layout Standard
-We discussed Metzinger's theory of the phenomenal self-model,
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See chapter 
+Now, phenomenal entities, according to Metzinger, supervene locally on brain
+ properties.
+ As we found in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "PSM"
+reference "Local-supervenience"
 
 \end_inset
 
-.
-\end_layout
-
-\end_inset
-
- and Minsky's theory of how there are multiple selves to a person.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Multiple-Self-Models"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
- These theories are compatible with each other in large parts, and we merged
- them in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Multiple-Phenomenal-Self-Models"
-
-\end_inset
-
-, producing a theory of multiple phenomenal self-models.
-\end_layout
-
-\begin_layout Standard
-According to this theory, a person models multiple selves, normative and
- descriptive ones, and has the capability to store aspects of them transtemporal
-ly.
- This person then always has one active and transparent online self-model,
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-This statement is greatly simplified: In rare cases, several self-models
- can be transparently active, for example when we are switching from one
- activity to the next and are reorienting ourselves.
- Furthermore, in pathological cases, several such self-models can be active
- concurrently, sharing the same body.
- Finally, it is not necessary to have a self online at all times, as chapter
- 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Switching-off-the-Self"
-
-\end_inset
-
- showed.
-\end_layout
-
-\end_inset
-
- and can have several opaque offline self-models available for introspection
- at the same time.
- All these entities supervene locally on brain structures.
-\end_layout
-
-\begin_layout Standard
-Despite the apparent simplicity of this theory, it does not appear to be
- fully adequate for some situations we regularly find ourselves in, and
- all the different kinds of phenomenal self-models we possess:
-\end_layout
-
-\begin_layout Itemize
-There will be overlapping areas where multiple phenomenal self-models share
- similar or identical traits.
- It is possible that a person acts completely different in varying surroundings,
- but that does not seem to happen all the time; we recognize our friends
- whether they're playing sports or studying.
-\end_layout
-
-\begin_layout Itemize
-The various phenomenal self-models are not pure.
- The business self will mix with the parent self when a businesswoman is
- talking with her kids on the phone during her lunch break.
- In such a situation, it is not so much the case that two phenomenal self-models
- are active concurrently, but that the resources required by multiple phenomenal
- self-models are simultaneously active in our brains and thus form a new,
- merged phenomenal self-model.
-\end_layout
-
-\begin_layout Itemize
-While there may be multiple phenomenal self-models, they are still part
- of the same conceptual self, and except in pathological cases will also
- be judged as being the same person by the social environment.
-\end_layout
-
-\begin_layout Standard
-Consequently, what I called 
-\begin_inset Quotes eld
-\end_inset
-
-multiple phenomenal self-models
-\begin_inset Quotes erd
-\end_inset
-
- could really be said to be merely aspects of 
-\emph on
-one
-\emph default
- complete phenomenal self-model, not all of which are active at all times.
- The difference between these two ways of naming the theory, however, appears
- to be of merely linguistical nature.
+, this means that phenomenal presentational content, which is a kind of
+ abstract conceptual content, is realized in electrical currents and layouts
+ of neural networks.
+ However, while it is possible to 
 \end_layout
 
 \begin_layout Subsection
@@ -16641,7 +16841,7 @@ From a naturalist or rational-causalist background, the traditional theories
 status open
 
 \begin_layout Plain Layout
-I am here again talking of ontological dualism, not conceptual dualism like
+I am here again talking of substance dualism, not conceptual dualism like
  in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
