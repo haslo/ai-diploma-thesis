@@ -747,6 +747,15 @@
   timestamp = {2009.06.05}
 }
 
+@BOOK{2009,
+  title = {How your brain sees virtual you},
+  publisher = {New Scientist},
+  year = {2009},
+  note = {http://www.newscientist.com/article/dn18117-how-your-brain-sees-virtual-you.html},
+  owner = {haslo},
+  timestamp = {2010.01.01}
+}
+
 @BOOK{2008,
   title = {Commonsense Computing Initiative},
   year = {2008},

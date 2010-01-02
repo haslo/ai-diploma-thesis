@@ -2422,6 +2422,8 @@ If events are not only represented as being in temporal succession but are
  is only weakly structured.
  This can, for instance, happen if we do not experience a musical motive
  as a sequence of isolated sound events, but as a holistic temporal figure.
+ A psychological moment is not an extensionless point, but for beings like
+ us it possesses a culturally invariant duration of, maximally, three seconds.
 \begin_inset Foot
 status open
 
@@ -2444,37 +2446,71 @@ key "Metzinger2003"
 \begin_layout Standard
 For human beings, the concept of Now has a duration of maximally three seconds
  which is culturally invariant and thus must have biological causes.
- This fits in nicely with neurophysiological research.
- This is not the same as the resolution with which we can experience different
- events; we can distinguish them in much shorter time intervals, and depending
- on the context, longer or shorter intervals will be subjectively experienced
- as belonging to the same moment.
- Metzinger thus talks about a very specific meaning of Now when he introduces
- this three seconds rule -- three seconds appear to be the longest possible
- timespan that we can possibly still experience as being part of the same
- moment:
-\end_layout
-
-\begin_layout Quote
-A psychological moment is not an extensionless point, but for beings like
- us it possesses a culturally invariant duration of, maximally, three seconds.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Citation from 
+This proposal of Metzinger fits in nicely with neurophysiological research
+ for example by E.
+ Pöppel (see 
 \begin_inset CommandInset citation
 LatexCommand cite
-key "Metzinger2003"
+key "Poeppel1994"
 
 \end_inset
 
-, page 127.
+), which was summarized as follows by V.
+ Evans in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Evans2006"
+
+\end_inset
+
+, page 26:
+\end_layout
+
+\begin_layout Quote
+Pöppel (1994) has argued that two kinsd of perceptual moment can be distinguishe
+d.
+ The first, 
+\noun on
+primordial events
+\noun default
+, which last for a fraction of a second, serve in effect as a `linking activity,
+' to integrate or bind spatially distributed information in the brain between
+ and within different modalities.
+ This facilitates the integration of spatially-distributed sensory information
+ as primordial events, e.g., the perception of an object in which visual input,
+ auditory input and information from other modalities are integrated into
+ a coherent percept.
+ The second kind, the perceptual moment with an outer range of 2-3 seconds,
+ serves to link these primordial events into a coherent unity, which, he
+ argues forms the basis of our concept of the present.
+\end_layout
+
+\begin_layout Quote
+According to Pöppel, perceptual moments in the 2-3 second range involve
+ what he terms 
+\noun on
+temporal binding
+\noun default
+ (as opposed to the binding spatially-distributed activities).
+ He proposes that it is the perceptual moment of approximately 2-3 seconds
+ to which the concept of the present (our experience of now) can be traced.
 \end_layout
 
 \end_inset
 
-
+ This resolution of the cognitive moment is however not the same as the
+ resolution with which we can experience different events; we can distinguish
+ them in much shorter time intervals, and depending on the context, longer
+ or shorter intervals will be subjectively experienced as belonging to the
+ same moment.
+ Metzinger thus talks about a very specific meaning of Now when he introduces
+ this three seconds rule -- three seconds appear to be the longest possible
+ timespan that we can possibly still experience as being part of the same
+ moment:
 \end_layout
 
 \begin_layout Standard
@@ -2646,7 +2682,7 @@ This is the generalized case of constraint 1, global availability.
  facets have to be perceived as something global.
  The entirety of all those facets that are perceived as something global
  is what we call the coherent global state -- it is perceived as being the
- same all throughout all modalities.
+ same, all throughout all modalities.
 \end_layout
 
 \begin_layout Standard
@@ -2757,15 +2793,23 @@ key "Metzinger2003"
 
 , and that is more or less what Descartes describes with the concept of
  indivisibility, the unity of consciousness.
- We aren't aware that it is only a model, a representation (see more on
- the issue of our unawareness of this fact in chapter 
+ We aren't aware that it is only a model, a representation.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See more on the issue of our unawareness of this fact in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Transparency"
 
 \end_inset
 
- about transparency).
+ about transparency.
+\end_layout
+
+\end_inset
+
  Yet we experience the world as a lived real whole, with the building blocks
  not being elements, but parts with a multitude of part-whole relations
  of that reality.
@@ -2790,7 +2834,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, page 136, where he refers to 
+, page 136, where Metzinger refers to 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Leopold1999"
@@ -2813,6 +2857,39 @@ world zero
 \end_inset
 
 , the perceived (as unquestionably immediately) real world.
+\end_layout
+
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+integration into a coherent global state
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+integration into a coherent global state
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to perceive of its surroundings as belonging to one global
+ coherent whole, a 
+\begin_inset Quotes eld
+\end_inset
+
+world zero
+\begin_inset Quotes erd
+\end_inset
+
+ that is given to the system as unquestionably real.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2859,23 +2936,8 @@ key "Metzinger2003"
 
 \begin_layout Standard
 Convolved holism as a concept is not all too complicated.
- Simply put, it speaks of the world as being convolved (as in 
-\begin_inset Quotes eld
-\end_inset
-
-having parts within parts
-\begin_inset Quotes erd
-\end_inset
-
-) and a holism (as in 
-\begin_inset Quotes eld
-\end_inset
-
-being an entire complete whole
-\begin_inset Quotes erd
-\end_inset
-
-).
+ Simply put, it speaks of the world as being convolved (as in `having parts
+ within parts') and a holism (as in `being an entire complete whole').
  Everything is part of the big world model, yet within this, there are substruct
 ures; it is divided into concepts, objects, regions and a multitude of other,
  overlapping groupings.
@@ -2897,7 +2959,7 @@ levels of phenomenal granularity,
 status open
 
 \begin_layout Plain Layout
-Nomenclature by
+Citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
@@ -2948,17 +3010,77 @@ For convolved holism to be possible at all, it is necessary that we have
  global state.
  On the other hand, it is perfectly thinkable for a system to have a whole
  world model that is not partitioned at all, not even into the self-world
- distinction which is so important for us humans.
+ distinction which is so important for us humans, leading to 
+\begin_inset Quotes eld
+\end_inset
+
+a noncentered, maximally simple model of reality.
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 147.
+\end_layout
+
+\end_inset
+
+ Consequently, it makes sense to have 
+\begin_inset Quotes eld
+\end_inset
+
+convolved holism
+\begin_inset Quotes erd
+\end_inset
+
+ in a unique constraint and not working it into one of the earlier ones.
 \end_layout
 
 \begin_layout Standard
 The same set of part-whole relations of course applies to causal contexts
  in our environment, which makes convolved holism a functionally very adequate
  solution for the requirement for systems to be able to react quickly to
- small shifts in their perception of their environment.
- The same applies for shifts in those system's perceptions of themselves
- -- so in other words, introspection is essentially nothing but a special
- kind of experienced convolved holism.
+ small shifts in their perception of their environment, as well as for shifts
+ in those system's perceptions of themselves -- so in other words, introspection
+ is essentially nothing but a special kind of experienced convolved holism.
+\end_layout
+
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+convolved holism
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+convolved holism
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to be able to subpartition the world it is in (conceptually,
+ or in terms of time and place) into smaller wholes, which in turn can be
+ further subpartitioned.
+ Such partitions must still be experienced as a whole, but with potential
+ further parts.
 \end_layout
 
 \begin_layout Subsubsection
@@ -3052,22 +3174,8 @@ The subjective experience of time is dependent on attention and representational
 \end_layout
 
 \begin_layout Standard
-It is not easy to form a concept beyond this, and intuitions seem to differ
- widely.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-I am speaking of intuitions here and not opinions, because intuitions seem
- to be where the core misunderstandings between differing opinions lie,
- and unfortunately, there are few hard facts that could otherwise serve
- as premises for opinions.
- Of course, the opinions fueled by those differing intuitions vary widely
- as well.
-\end_layout
-
-\end_inset
-
+It is not easy to form a concept of the perception of dynamic time beyond
+ this.
  Steps leading to a lower-level representational explanation of this concept
  would include finding how events are individuated, then finding how patterns
  and sequences of such events are formed.
@@ -3103,6 +3211,34 @@ permanence
 \end_inset
 
 
+\end_layout
+
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+dynamicity
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+dynamicity
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to perceive of time as something that flows from the future
+ to the past, and of the phenomenal Now, the window of presence, embedded
+ in it.
+ It also needs to be able to model transtemporal identity of objects within
+ this perception of time.
 \end_layout
 
 \begin_layout Subsubsection
@@ -3171,7 +3307,7 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Metzinger point out that this is among the most interesting phenomena of
+Metzinger points out that this is among the most interesting phenomena of
  phenomenology, and I tend to agree.
  Perspectivalness, the specific nature of how our perception is always from
  a conscious and self-aware first-person point of view, was among the chief
@@ -3182,7 +3318,7 @@ Metzinger point out that this is among the most interesting phenomena of
 Earlier, I had been disappointed concerning what exactly subjectivity is
  while reading Dennett.
  He merely glosses over the functional aspect of this interesting point
- (as we'll see in chapter 
+ (as we will see in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Center-of-Narrative-Gravity"
@@ -3193,8 +3329,8 @@ reference "Center-of-Narrative-Gravity"
 \end_layout
 
 \begin_layout Standard
-Metzinger makes out several levels on which perspectivalness comes into
- play:
+Metzinger makes out several levels of subjectivity, the total of which makes
+ up perspectivalness:
 \end_layout
 
 \begin_layout Enumerate
@@ -3244,8 +3380,9 @@ reference "Prereflexive-Proto-Self"
 
 \begin_layout Enumerate
 The phenomenology of being someone, of consciously experienced selfhood,
- is the first explicit level -- it is potentially both cognitive and conceptual.
- This is what Metzinger's theory on the PSM (phenomenal self-model, see
+ is the first explicit level of subjectivity -- it is potentially both cognitive
+ and conceptual.
+ This is what Metzinger's theory on the phenomenal self-model (PSM, see
  chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -3268,7 +3405,7 @@ onal organization: In order to fully explain consciousness, we also need
 status open
 
 \begin_layout Plain Layout
-Metzinger explains this epistemic irreducibility in 
+Metzinger makes this epistemic irreducibility explicit in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
@@ -3294,7 +3431,7 @@ is
 \end_layout
 
 \begin_layout Plain Layout
-As an outlook, the miracle is solved in 
+The miracle is solved in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
@@ -3344,13 +3481,14 @@ another
 
 \end_inset
 
- -- a point which Dennett would probably disagree, since he does not believe
+ -- a point where Dennett would probably disagree, since he does not believe
  in irreducibility in any form.
 \end_layout
 
 \begin_layout Enumerate
-The second explicit level is the phenomenal property of perspectivalness
- itself, a structural feature of phenomenal space as a whole.
+The second explicit level of subjectivity is the phenomenal property of
+ perspectivalness itself, a structural feature of phenomenal space as a
+ whole.
  It is 
 \begin_inset Quotes eld
 \end_inset
@@ -3391,7 +3529,8 @@ reference "PMIR"
 \end_layout
 
 \begin_layout Enumerate
-On the third explicit level, social cognition (the untranscendable 
+On the third explicit level of subjectivity, social cognition (the untranscendab
+le 
 \begin_inset Quotes eld
 \end_inset
 
@@ -3496,6 +3635,34 @@ Metzinger lists 11 constraints, yet there are actually merely 10 plus the
  them and form the perspectivalness constraint.
 \end_layout
 
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+perspectivalness
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+perspectivalness
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to phenomenally perceive of itself as a self from a first-pers
+on perspective.
+ In addition, the system has to be able to model a self and an intentionality
+ relation reaching to arbitrary object components in an asymmetrical relationshi
+p to the self.
+\end_layout
+
 \begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
@@ -3515,18 +3682,39 @@ Transparency
 \end_layout
 
 \begin_layout Quote
-Transparency [...] is a property of active mental representations already satisfyin
-g the minimally sufficient constraints for conscious experience to occur.
- [...] The second defining characteristic postulates that what makes them transpare
-nt is the 
+Transparency in this sense is a property of active mental representations
+ already satisfying the minimally sufficient constraints for conscious experienc
+e to occur.
+ For instance, phenomenally transparent representations are always activated
+ within a virtual window of presence and integrated into a unified global
+ model of the world.
+ The second defining characteristic postulates that what makes them transparent
+ is the 
 \emph on
 attentional unavailability of earlier processing
 \emph default
  stages for introspection.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 165, emphasis his.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Quote
-[...] For any phenomenal state, the degree of phenomenal transparency is inversely
+For any phenomenal state, the degree of phenomenal transparency is inversely
  proportional to the introspective degree of attentional availability of
  earlier processing stages.
 \begin_inset Foot
@@ -3540,7 +3728,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, page 165, emphasis his.
+, page 165.
 \end_layout
 
 \end_inset
@@ -3588,7 +3776,7 @@ subtle residues of Cartesian dualism
 status open
 
 \begin_layout Plain Layout
-Nomenclature by
+Citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
@@ -3624,6 +3812,14 @@ key "Metzinger2003"
 \end_inset
 
 , page 170.
+ Also see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Local-supervenience"
+
+\end_inset
+
+ for local supervenience.
 \end_layout
 
 \end_inset
@@ -3646,11 +3842,8 @@ key "Metzinger2003"
 \end_inset
 
 , pages 166ff.
-\end_layout
-
-\begin_layout Plain Layout
-Metzinger in addition to these two talks about how phenomenal transparency
- is not equivalent to the kinds of transparency implemented in transparent
+ Metzinger, in addition to these two, also talks about how phenomenal transparen
+cy is not equivalent to the kinds of transparency implemented in transparent
  technical systems like proxy servers or email servers on the internet.
  Those systems have 
 \begin_inset Quotes eld
@@ -3698,9 +3891,9 @@ key "Metzinger2003"
 Transparency is a phenomenological concept, not an epistemological notion.
  So it is possible to be wrong about one's own mental contents; In fact,
  that happens rather often in pathological cases.
- It's however not possible to be aware of all of one's own faults when thinking
- about one's own consciousness, exactly because the core processes are hidden
- from introspection.
+ It's however not possible to be aware of all of one's own processes when
+ thinking about one's own consciousness, exactly because the core processes
+ are hidden from introspection.
 \end_layout
 
 \begin_layout Enumerate
@@ -3708,8 +3901,8 @@ Phenomenal transparency is subsymbolic and used as a concept in philosophical
  neurophenomenology, not as a part of formal semantics.
  As such it can exist in nonlinguistic creatures and is not a property of
  context nor referential in an ontological sense.
- Any conscious being can have (and probably has, because transparency will
- be shown to be a prerequisite for phenomenality in chapter 
+ Any conscious being can have (and necessarily has, because transparency
+ will be shown to be a prerequisite for phenomenality in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Levels-of-Consciousness"
@@ -3720,7 +3913,8 @@ reference "Levels-of-Consciousness"
 \end_layout
 
 \begin_layout Standard
-Transparency does seem to imply the existence of the entities represented.
+Transparency, for a system that employs it, seems to imply the existence
+ of the entities represented.
  This leads to the conclusion that a naive realism concerning these entities
  is intuitively very attractive for us humans by necessity -- after all,
  phenomenal realism is the way we experience the world.
@@ -3761,7 +3955,12 @@ key "Metzinger2003"
 status open
 
 \begin_layout Plain Layout
-Consequently, opaque phenomenal states are metarepresentations by necessity.
+Because this makes opaque phonomenal states representations of representations
+ under the aspect of awareness, opaque phenomenal states are 
+\emph on
+meta
+\emph default
+representations by necessity.
 \end_layout
 
 \end_inset
@@ -3782,6 +3981,42 @@ In standard, transparent cases of experience, we know while knowing that
 
 \begin_layout Itemize
 In opaque cases of experience, we know while knowing that we could be wrong.
+\end_layout
+
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+transparency
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+transparency
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to be unable to introspectively access all the processes
+ that build its consciousness.
+ Its surroundings, the 
+\begin_inset Quotes eld
+\end_inset
+
+world zero
+\begin_inset Quotes erd
+\end_inset
+
+ must be directly given.
+ Transparency can be gradual, some (opaque) processes can be available,
+ or made available, to the system via introspection.
 \end_layout
 
 \begin_layout Subsubsection
@@ -3948,6 +4183,31 @@ Interestingly, and as expected under naturalist assumptions, many of the
  offline activation of mental contents.
 \end_layout
 
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+offline activation
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+offline activation
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to be able to form models and representations independant
+ from external inputs.
+\end_layout
+
 \begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
@@ -4006,7 +4266,7 @@ reference "Metzinger-Qualia"
 
 \end_inset
 
- for Metzinger's distinction between different kinds of qualia.
+ for how Metzinger analyzes and classifies different kinds of qualia.
 \end_layout
 
 \end_inset
@@ -4048,10 +4308,10 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-In some cases, it is even possible to experience intensity without associated
- dimensions.
- For color, that would be hue and saturation -- Metzinger refers to Ganzfeld
- experiments,
+In some cases, it is even possible for us to experience intensity without
+ associated dimensions.
+ For color, that would be a human experiencing pure brightness without hue
+ and saturation -- Metzinger refers to Ganzfeld experiments,
 \begin_inset Foot
 status open
 
@@ -4085,14 +4345,112 @@ What is not possible, however, is that there is no analogue representation
  through physical sensors that detect certain modal qualities along with
  their intensities.
  Not detecting something (for example, no light in a dark room) merely has
- the associated sensors detect an intensity of zero.
+ the associated sensors detect an intensity of nearly zero (below the lowest
+ detectable threshold).
 \end_layout
 
 \begin_layout Standard
 Since intensity directly infers signal strength, it is highly adaptive for
  an organism to make those detected intensities globally available, too,
  and some qualities (like pain) are able to fixate the system's attention
- on certain specific aspects of its world model.
+ on certain specific aspects of its world model:
+\end_layout
+
+\begin_layout Quote
+To again give a concrete example, the biological function of consciously
+ experienced 
+\emph on
+pain
+\emph default
+ can convincingly be interpreted as 
+\begin_inset Quotes eld
+\end_inset
+
+attention fixation
+\begin_inset Quotes erd
+\end_inset
+
+ -- it locks the organism's attention onto whatever part of its own body
+ it is that has been damaged.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 187.
+ Also interesting in this context, as tangential as they are, are the elaboratio
+ns of Minsky in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 66, on how pain leads to suffering:
+\end_layout
+
+\begin_layout Quote
+Any pain will activate the goal 
+\emph on
+
+\begin_inset Quotes eld
+\end_inset
+
+Get rid of that pain
+\begin_inset Quotes erd
+\end_inset
+
+
+\emph default
+ -- and achieving this will also make that goal go away.
+ However, if that pain is intense and persistent enough, this will arouse
+ yet other resources that tend to suppress your other goals -- and if this
+ grows into a large-scale 
+\begin_inset Quotes eld
+\end_inset
+
+cascade,
+\begin_inset Quotes erd
+\end_inset
+
+ there won't be much left of the rest of your mind.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+representation of intensities
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+representation of intensities
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to represent an intensity dimension of phenomenally experience
+d entities as being one of the prime defining characteristics of its experience
+ of that entity.
 \end_layout
 
 \begin_layout Subsubsection
@@ -4194,7 +4552,7 @@ key "Sellars1963"
 
 \begin_layout Quote
 Putting it crudely, colour expanses in the manifest world consist of regions
- which are themselves color expanses, and these consist in their turn of
+ which are themselves colour expanses, and these consist in their turn of
  regions which are colour expanses, and so on; whereas the states of a group
  of neurons, though it has regions which are also states of groups of neurons,
  has ultimate regions which are 
@@ -4274,8 +4632,11 @@ key "Metzinger2003"
 \end_inset
 
  Consequently, there is not really a grain problem, because the experience
- of such surfaces itself is grainless and does not have all those subregions
- that would need to have neural analogons.
+ of such surfaces itself is grainless and does 
+\emph on
+not
+\emph default
+ have all those subregions that would need to have neural analogons.
 \end_layout
 
 \begin_layout Standard
@@ -4314,6 +4675,41 @@ key "Metzinger2003"
  Note the parallels to constraint 4, convolved holism: A homogenous perceptual
  object is always perceived as a whole with potential, arbitrary parts that
  it can, but need not be, split into.
+\end_layout
+
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+homogeneity of simple content
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+ultrasmoothness
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+homogeneity of simple content
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to be able to represent areas or regions of phenomenal
+ input data (also in a metaphorical sense, for other modalities than vision,
+ and also in counterfactuals) as homogenous, atomic and without further
+ subdivisions.
 \end_layout
 
 \begin_layout Subsubsection
@@ -4415,16 +4811,8 @@ key "Metzinger2003"
 The underlying issue is that artificial systems do not require any teleofunction
 alist properties; their goals and ideals (or rather, the corresponding represent
 ative mental states) do not necessarily have to make sense.
- This is one of the reasons why I stress the importance of evolution in
- chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Evolution"
-
-\end_inset
-
-: Evolution ensures that the development of goal states which are detrimental
- to an organism's reproduction do not enter the common gene pool of that
+ Only evolution ensures that the development of goal states which are detrimenta
+l to an organism's reproduction do not enter the common gene pool of that
  species.
  In other words, goal states in real intelligence do generally make sense.
 \begin_inset Foot
@@ -4449,15 +4837,8 @@ key "Blackmore2008"
 
 ) makes some of the goal states that were a result of genetic evolution
  occasionally outdated.
- Furthermore, as chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Evolution"
-
-\end_inset
-
- shows, things that are not detrimental (as opposed to necessarily beneficial)
- to a species' survival can also make it into the gene pool.
+ Furthermore, things that are not detrimental (as opposed to necessarily
+ beneficial) to a species' survival can also make it into the gene pool.
 \end_layout
 
 \end_inset
@@ -4486,6 +4867,22 @@ I want to distance myself from naturalistic fallacies and homophobic readings
 \begin_layout Standard
 This, by the way, should in no way trivialize the what-is-it-likeness of
  emotions.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Lewis-Qualia"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
  I merely mean to exemplify their functional role for the survival of a
  species, as normative value functions.
 \end_layout
@@ -4544,14 +4941,40 @@ reference "Adaptivity-Questioned"
 
 \end_inset
 
- and 
+ (where I question the necessity of the constraint) and 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Weaker-Adaptivity"
 
 \end_inset
 
-.
+ (where I propose a weaker adaptivity constraint instead).
+\end_layout
+
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+adaptivity
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+adaptivity
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to have a proper history, it needs to have grown and adapted
+ to primary evolutionary pressure, and it needs to exhibit behaviour that
+ is beneficial for the evolutionary niche it fits into.
 \end_layout
 
 \begin_layout Subsubsection
