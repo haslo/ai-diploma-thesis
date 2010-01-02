@@ -229,8 +229,8 @@ The Emotion Machine
 In this thesis, after looking at those philosopher's positions on the four
  parts of the hard problem in-depth and attempting to merge their positions
  on the four parts, I present a synopsis that attempts to unify their theories
- and categorizes the processes and prerequirements for a system to be able
- to experience subjective consciousness.
+ and categorizes the processes and prerequirements which a system needs
+ to satisfy in order to be able to experience subjective consciousness.
  In doing so, the thesis splits up the aforementioned four apparently time-prove
 n concepts into a total of seven new concepts where one clearly forms the
  basis for the next, and by that means untangles overlapping semantic fields.
@@ -329,18 +329,9 @@ Before we can get to the heart of the matter of what consciousness is all
 Scheinprobleme
 \emph default
 , it is important to avoid misunderstandings due to linguistic inconsistencies.
- For that end, and for the convenience of readers with less of a philosophical
- background, I will introduce and define the major terms that are important
- for the discussion in the appendix, in section 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Definitions"
-
-\end_inset
-
-.
- I will also regularly refer to that section when we come across subjects
- or terms that necessitate clarification.
+ I attempt to avoid such misunderstandings by defining major terms that
+ are important for the discussion when they first appear, and clarifying
+ my useage of more wide-reaching concepts.
 \end_layout
 
 \begin_layout Standard
@@ -406,11 +397,19 @@ status open
 \begin_layout Plain Layout
 While I am in no position to criticize Metzinger's mastery of the English
  language myself, he faced a lot of criticism for his nomenclature.
- Mainly, i twas said that his inventing his own words for novel concepts
+ Mainly, it was said that his inventing his own names for novel concepts
  or novel views on established concepts made it harder to understand what
  he really means.
  Nevertheless I will often use his nomenclature and semantics, and attempt
  to show up what he means by some particularly peculiar expressions.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Metzingers-Names"
+
+\end_inset
+
+.
 \end_layout
 
 \end_inset
@@ -447,16 +446,21 @@ The goals of this thesis
 \begin_layout Standard
 I want to focus on how Dennett and Metzinger (and, for subjectivity, Minsky)
  try to answer the four partial questions I mentioned, and present my arguments
- on what I perceive as shortcomings of their theories.
+ on what I perceive to be shortcomings of their theories.
  I will also attempt to combine all of their points of view into one model,
  where possible.
- Furthermore, I want to form a new model, based on the great research they
- provide, that might give a more solid foundation for further research.
 \end_layout
 
 \begin_layout Standard
-Finally, I want to provide a short outlook into what the future might hold
- for the philosophy of mind, and its hard problem.
+Finally, in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "The-Bigger-Picture"
+
+\end_inset
+
+, I form a new model, based on the great research they provide, that might
+ give a more solid foundation for further research.
 \end_layout
 
 \begin_layout Standard
@@ -477,13 +481,13 @@ The four questions
 \end_layout
 
 \begin_layout Standard
-When facing a really serious problem, it is often best to break it up into
- smaller, hopefully less difficult problems that can be solved individually
+When facing a really challenging problem, it is often best to break it up
+ into smaller, hopefully less difficult problems that can be solved individually
  -- if that is even possible at all.
- The problem known as the hard problem of consciousness, the question of
- how it can possibly be that our brain, being a mere clump of cells, can
- produce a kind of consciousness that develops things like feelings, thoughts,
- plans and fantasies, is one such difficult problem, and it 
+ The problem known as `the hard problem of consciousness,' the question
+ of how it can possibly be that our brain, being a mere clump of cells,
+ can produce a kind of consciousness that develops things like feelings,
+ thoughts, plans and fantasies, is one such difficult problem, and it 
 \emph on
 is
 \emph default
@@ -507,7 +511,11 @@ As I mentioned before, there are four major aspects to it.
 \end_layout
 
 \begin_layout Standard
-Of course, the four subjects cannot be looked at merely in isolation, yet
+Of course, the four subjects cannot be looked at merely in isolation.
+ For the time being, I do not yet intend to challenge the ways in which
+ other philosophers understand one particular concept or another, but rather
+ attempt to understand what different readings there are, what is the core
+ of those concepts and how they are linked together.
  I postpone looking at the bigger picture to chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -515,10 +523,10 @@ reference "The-Bigger-Picture"
 
 \end_inset
 
- -- where we will also abandon the ordering of these four parts again and
- look at the hard problem from a different perspective, ordering the resulting
- new parts in slightly different order compared to this part here, too,
- because some of the intuitions
+, where we will also abandon the ordering of these four parts again and
+ look at the hard problem from a different perspective.
+ The resulting new levels will be placed in slightly different order compared
+ to this part here, too, because some of the intuitions
 \begin_inset Foot
 status open
 
@@ -538,9 +546,9 @@ reference "Summary"
  Intentionality is, for some, what enables phenomenal experience, but for
  others, what phenomenal experience forms.
  With this in mind, I will nevertheless attempt to get a clear picture on
- what is unique and specific about these parts, and only later try to split
- them up and build one structure, where no interdependences between the
- resulting parts are necessary anymore.
+ what is unique and specific about these (for now, four) parts, and only
+ later try to split them up and build one structure, where no interdependences
+ between the resulting parts are necessary anymore.
 \end_layout
 
 \end_inset
@@ -554,23 +562,6 @@ It is important to keep in mind that what seems to be definitions in the
  philosophical debates on meanings, and thus do not contain any references.
  Please refer to the respective chapters for my attempts at clearing up
  what the terms actually mean.
-\end_layout
-
-\begin_layout Standard
-I do not intend to challenge the ways in which other philosophers understand
- one particular concept or another, but rather attempt to understand what
- different readings there are, what is the core of those concepts and how
- they're linked together.
- As a matter of fact, in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "The-Bigger-Picture"
-
-\end_inset
-
-, I put forth a revised list in which I more clearly define the terms I
- use to describe the concepts and processes that really produce subjective
- conscious experience.
 \end_layout
 
 \begin_layout Standard
@@ -666,9 +657,9 @@ Intentionality:
  The world is given to us, and we relate to it.
  In introspection, our inner workings are given to us, as seen from a point
  of view which stands in a relation to these inner workings.
- How and why is that so? How come that we feel we are in direct contact
- with (for example) an apple tree in the garden by means of some kind of
- 
+ How and why is that so? How come that we feel we are in direct metaphysical
+ contact with (for example) an apple tree in the garden by means of some
+ kind of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -688,10 +679,10 @@ mental focus
 \end_layout
 
 \begin_layout Standard
-I will dedicate a chapter to each of these four parts, defining what exactly
- is puzzling about them, what different readings there were, and then looking
- at possible explanations for their origins and constitution.
- In doing so, we will also look at philosophers who worked with those concepts
+I will dedicate a major chapter to each of these four parts, defining what
+ exactly is puzzling about them, what different readings there were, and
+ then looking at possible explanations for their origins and constitution.
+ In doing so, we will also look at philosophers who worked with these concepts
  and attempt to find out what they really are, at least according to those
  philosophers' definitions.
 \end_layout
@@ -702,7 +693,10 @@ When looking for a concise definition of the four big questions of what
  philosophers made proposals as to what they could be.
  I want to look at two of the most recent proposals, those of Dennett and
  Metzinger.
- Generally, Metzinger digs deeper and develops traditional ideas in entirely
+\end_layout
+
+\begin_layout Standard
+Generally, Metzinger digs deeper and develops traditional ideas in entirely
  new ways, while Dennett presents important counterpoints to these traditional
  views and has a more radically reductionist point of view.
 \end_layout
@@ -735,7 +729,7 @@ For
 \emph on
 qualia
 \emph default
-, we will look at how Clarence Irwing Lewis' introduction of the concept.
+, we will look at Clarence Irwing Lewis' introduction of the concept.
  Also, Thomas Nagel might not have named qualia as such, but his work certainly
  was an important multiplier of the idea that something is special about
  subjective experience, so we will briefly look at how he introduces the
@@ -748,15 +742,7 @@ The traditional view in regards to the origin of
 subjectivity
 \emph default
  has to be the dualism of René Descartes, which is implicit in many theories
- to this very day, often apparently without the proponents being aware of
- it themselves, as I will exemplify in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Hidden-Dualism"
-
-\end_inset
-
-.
+ to this very day.
 \end_layout
 
 \begin_layout Itemize
@@ -765,13 +751,26 @@ Concerning
 intentionality
 \emph default
 , Franz Brentano greatly influenced Husserl by fleshing out the traditional
- idea of immanent objectivity in our relationship to the world.
+ idea of 
+\begin_inset Quotes eld
+\end_inset
+
+immanent objectivity
+\begin_inset Quotes erd
+\end_inset
+
+ in our relationship to the world.
 \end_layout
 
 \begin_layout Standard
 Furthermore, I will add a short consolidatory chapter to all four sections,
  attempting to make sense of which ideas are the most promising for going
  forward from here.
+\end_layout
+
+\begin_layout Standard
+After this lengthy introduction, allow me to start with the first major
+ term of traditional phenomenology: phenomenality.
 \end_layout
 
 \begin_layout Section
@@ -841,7 +840,7 @@ t of what else there is to consciousness.
 \end_layout
 
 \begin_layout Standard
-I'd argue that phenomenality in this sense is the most basic thing that
+I would argue that phenomenality in this sense is the most basic thing that
  is special about consciousness, and as such it 
 \emph on
 is
@@ -853,8 +852,8 @@ is
 status open
 
 \begin_layout Plain Layout
-Since qualia are defined as the smallest possible atomic parts of experience,
- this seems entirely plausible.
+Since qualia are (for now) defined as the smallest possible atomic parts
+ of experience, this seems entirely plausible.
  More on this in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -1098,8 +1097,8 @@ key "Dennett1991"
 
 \begin_layout Standard
 Ultimately, it comes down to the following: In heterophenomenology, phenomenolog
-ical reports of individual agents are not taken at face value, but as theorist's
- fictions.
+ical reports of individual agents are not to be taken at face value, but
+ as theorist's fictions.
  Only after collecting and cataloguing them, looking for similarities and
  differences between different agent's fictions, can a researcher start
  attempting to explain the existence of these heterophenomenological reports.
@@ -1268,7 +1267,7 @@ reference "Metzinger's-nomenclature"
 I cannot discuss all those levels for each constraint, but I will try to
  explain each constraint individually nevertheless, glossing over the different
  levels and starting each constraint's discussion with a quote from Metzinger's
- book.
+ book,
 \begin_inset Foot
 status open
 
@@ -1279,7 +1278,12 @@ lly even merely paraphrase him.
 
 \end_inset
 
- I will not argue for the individual constraints here, as that would mostly
+ and close with a very short synopsis of how a system can satisfy the constraint
+ in question.
+\end_layout
+
+\begin_layout Standard
+I will not argue for the individual constraints here, as that would mostly
  be merely attempting to duplicate Metzinger's fine work.
  We will encounter some of the constraints again later in this thesis however,
  in other contexts.
@@ -1302,7 +1306,7 @@ te between different levels of phenomenal experience, and how he shows that
 \begin_layout Standard
 First, however, I want to criticize Metzinger's choice of names, and then
  introduce three other concepts that Metzinger improves our understanding
- of: Introspection, how consciousness ca not be anything but a process,
+ of: Introspection, how consciousness can not be anything but a process,
  and Metzinger's concept of local supervenience.
 \end_layout
 
@@ -1330,7 +1334,7 @@ Various critics have criticized both Metzinger's book
 status open
 
 \begin_layout Plain Layout
-The book 
+The book they criticized was 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
@@ -1508,7 +1512,7 @@ Introspection
 \begin_inset Formula $_{2}$
 \end_inset
 
- is the conceptual metarepresentation of the world model
+ is the conceptual (symbolic) metarepresentation of the world model.
 \end_layout
 
 \end_inset
@@ -1587,7 +1591,7 @@ Introspection
 \begin_inset Formula $_{3}$
 \end_inset
 
- is a conceptual metarepresentation of the self-model.
+ is a conceptual (symbolic) metarepresentation of the self-model.
 \end_layout
 
 \end_inset
@@ -1648,16 +1652,7 @@ introspection.
 However, as I already mentioned, I do not differentiate between these different
  kinds of introspection in my thesis.
  It is merely important to note that there are indeed different levels of
- introspective access to our mind's own internal workings, even beyond the
- principial difficulties concerning introspection that I explicate in chapter
- 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Epistemology-Relation-Introspection"
-
-\end_inset
-
-.
+ introspective access to our mind's own internal workings.
 \end_layout
 
 \begin_layout Subsubsection
@@ -1865,21 +1860,6 @@ key "Metzinger2003"
 
 \end_layout
 
-\begin_layout Standard
-With these important foundations in place, let us now turn towards Metzinger's
- multilevel constraints (using his nomenclature for the constraint's names),
- and try to understand them.
- In chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Levels-of-Consciousness"
-
-\end_inset
-
- we will then see which ones among them really are necessary for consciousness
- to what degree.
-\end_layout
-
 \begin_layout Subsubsection
 \begin_inset CommandInset label
 LatexCommand label
@@ -1955,7 +1935,11 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-Metzinger refines the concept en passant:
+Metzinger later refines the concept 
+\emph on
+en passant
+\emph default
+:
 \end_layout
 
 \begin_layout Quote
@@ -1985,12 +1969,31 @@ key "Metzinger2003"
 Mental states and phenomenal states, the things that supervene on brain
  states, are merely abstract conceptual content.
  Furthermore, this abstract conceptual content is always part of a process:
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Consciousness-as-Process"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
  It is merely data that is being sent from one one functional center in
  the brain to another, modified by the various algorithms that are wired
  in the brain.
- Seen on the physical layer, they are realized in nothing but electrical
- currents running between neurons and clusters of neurons, modified and
- controlled by the neural network layout that these neurons have.
+\end_layout
+
+\begin_layout Standard
+Seen on the physical layer, mental states are `realized' in nothing but
+ electrical currents running between neurons and clusters of neurons, modified
+ and controlled by the neural network layout that these neurons have.
 \end_layout
 
 \begin_layout Standard
@@ -2019,6 +2022,21 @@ reference "Conceptual-Dualism"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
+With these important foundations in place, let us now turn towards Metzinger's
+ multilevel constraints (using his nomenclature for the constraint's names),
+ and try to understand them.
+ In chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Levels-of-Consciousness"
+
+\end_inset
+
+ we will then see which ones among them really are necessary for consciousness
+ to what degree.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2055,7 +2073,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, page 117f.
+, pages 117f.
 \end_layout
 
 \end_inset
@@ -2064,9 +2082,31 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-The availability is global because every part of consciousness has access
- to them.
+Metzinger is talking about global availability of information for conscious
+ processes in a phenomenally experiencing system.
+ The information is 
+\emph on
+globally
+\emph default
+ available because every part of consciousness has access to them.
  According to Metzinger, there are three basic kinds of global availability:
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 124.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -2084,19 +2124,36 @@ Global availability for cognitive reference: We can think about things,
 \begin_layout Itemize
 Global availability for control of action: We can catch incoming balls,
  push buttons when stimuli occur, and also can act according to plans we
- have formed beforehand (that are then globally available as well).
+ have formed beforehand (which are then globally available as well).
 \end_layout
 
 \begin_layout Standard
-In addition to the above, the text also mentions speech control, autobiographica
-l memory, phenomenal cognition and others -- all of which are merely subcategori
-es of the three more basic kinds however.
+In addition to the above, Metzinger also mentions speech control, autobiographic
+al memory, phenomenal cognition and others
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 118.
+\end_layout
+
+\end_inset
+
+ -- all of which are merely subcategories of the three more basic kinds
+ however.
 \end_layout
 
 \begin_layout Standard
-Every such availability is likely to have different neural correlates, but
- their whole is experienced as embedded into one complete world model and
- available to processes of consciousness anyway.
+Every such kind of global availability is likely to have different neural
+ correlates, but their whole is experienced as embedded into one complete
+ world model and available to processes of consciousness anyway.
  The world model is all there is for a conscious mind, and its boundaries
  are the boundaries of the agent's reality.
 \end_layout
@@ -2121,7 +2178,11 @@ key "Metzinger2003"
 
 \end_inset
 
- The thus specified global availability enables the large number of specialized
+
+\end_layout
+
+\begin_layout Standard
+The thus specified global availability enables the large number of specialized
  modules of our brain to interact with those phenomenal states that are
  globally available.
  Vice versa, it provides an interface to many modules for new such phenomenal
@@ -2137,18 +2198,28 @@ Occasionally, some sensory contents might not be available for cognitive
 \begin_inset Quotes eld
 \end_inset
 
-exactly this colour;
+exactly this colour
 \begin_inset Quotes erd
 \end_inset
 
- chapter 
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
-reference "Qualia"
+reference "Simple-Forms-of-Content"
 
 \end_inset
 
- will continue on this issue).
+.
+\end_layout
+
+\end_inset
+
+).
  Occasionally, they are not even available for deliberately guided attention
  in early processing stages (like when we pull away a hand from a flame
  
@@ -2232,8 +2303,8 @@ global availability
 \begin_inset Quotes erd
 \end_inset
 
- constraint needs to have access to all the relevant data from all its active
- processes.
+ constraint needs to have access to all the information available in any
+ part of the system from all its active processes.
 \end_layout
 
 \begin_layout Subsubsection
@@ -2281,7 +2352,7 @@ key "Metzinger2003"
 \end_inset
 
 , page 126, emphasis his -- I will employ his capital Now to denote the
- concept he is talking about.
+ concept of this window of presence.
 \end_layout
 
 \end_inset
@@ -2338,6 +2409,38 @@ presentationality constraint.
 
 \end_layout
 
+\begin_layout Quote
+If events are not only represented as being in temporal succession but are
+ integrated into temporal figures [...], then a present emerges, because these
+ events are now internally connected.
+ They are not isolated atoms anymore, because they form a context for each
+ other.
+ [...] something like object formation takes place in which isolated events
+ are integrated into a Now.
+ One can describe the emergence of this Now as a process of segmentation
+ that separates a vivid temporal object from a temporal background that
+ is only weakly structured.
+ This can, for instance, happen if we do not experience a musical motive
+ as a sequence of isolated sound events, but as a holistic temporal figure.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 127.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
 \begin_layout Standard
 For human beings, the concept of Now has a duration of maximally three seconds
  which is culturally invariant and thus must have biological causes.
@@ -2353,19 +2456,7 @@ For human beings, the concept of Now has a duration of maximally three seconds
 \end_layout
 
 \begin_layout Quote
-If events are not only represented as being in temporal succession but are
- integrated into temporal figures [...], then a present emerges, because these
- events are now internally connected.
- They are not isolated atoms anymore, because they form a context for each
- other.
- [...] something like object formation takes place in which isolated events
- are integrated into a Now.
- One can describe the emergence of this Now as a process of segmentation
- that separates a vivid temporal object from a temporal background that
- is only weakly structured.
- This can, for instance, happen if we do not experience a musical motive
- as a sequence of isolated sound events, but as a holistic temporal figure.
- A psychological moment is not an extensionless point, but for beings like
+A psychological moment is not an extensionless point, but for beings like
  us it possesses a culturally invariant duration of, maximally, three seconds.
 \begin_inset Foot
 status open
@@ -2444,8 +2535,7 @@ key "Metzinger2003"
 
 \end_inset
 
- Or, as A.
- Einstein put it:
+ Or, as Einstein put it:
 \end_layout
 
 \begin_layout Quote
@@ -2455,8 +2545,8 @@ People like us, who believe in physics, know that the distinction between
 status open
 
 \begin_layout Plain Layout
-Citation from a etter to the family of his lifelong friend Michele Besso,
- after learning of his death, (March 1955) as quoted in 
+Citation from Albert Einstein's letter to the family of his lifelong friend
+ Michele Besso, after learning of his death, (March 1955) as quoted in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dyson1979"
@@ -2469,6 +2559,40 @@ key "Dyson1979"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Paragraph
+The 
+\begin_inset Quotes eld
+\end_inset
+
+activation within a window of presence
+\begin_inset Quotes erd
+\end_inset
+
+ or 
+\begin_inset Quotes eld
+\end_inset
+
+presentationality
+\begin_inset Quotes erd
+\end_inset
+
+ constraint thus means, simplified:
+\end_layout
+
+\begin_layout Standard
+A system that satisfies the 
+\begin_inset Quotes eld
+\end_inset
+
+activation within a window of presence
+\begin_inset Quotes erd
+\end_inset
+
+ constraint needs to experience current events and phenomenal impressions
+ as happening, and it needs to incorporate these into a window of presence
+ (the phenomenal Now) as happening together right now.
 \end_layout
 
 \begin_layout Subsubsection
@@ -4899,7 +5023,7 @@ Multilevel
 \begin_inset Quotes eld
 \end_inset
 
-Constraints
+constraints
 \begin_inset Quotes erd
 \end_inset
 
@@ -7863,7 +7987,7 @@ name "Kinds-of-Qualia"
 
 \end_inset
 
-Lewis Qualia, Raffman Qualia, Metzinger Qualia
+Lewis qualia, Raffman qualia, Metzinger qualia
 \end_layout
 
 \begin_layout Standard
