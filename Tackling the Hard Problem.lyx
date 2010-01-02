@@ -173,9 +173,9 @@ the hard problem of consciousness
 
 \begin_layout Abstract
 There are four important parts to this question, all of which warrant a
- closer look: First, how does the brain produce phenomenality? What are
- qualia? The most mystifying part: How does subjectivity emerge? Finally,
- what is intentionality? How does it all fit together?
+ closer look: How does the brain produce phenomenality? What are qualia?
+ The most mystifying part: How does subjectivity emerge? Finally, what is
+ intentionality? With all these in place, how does it all fit together?
 \end_layout
 
 \begin_layout Abstract
@@ -196,7 +196,11 @@ The Intentional Stance
 \emph default
  (1987) break not only with Cartesian dualism, but also with Husserlian
  phenomenology and its descendants.
- Metzinger published Being No One in 2003 as his first major work in English.
+ Metzinger published 
+\emph on
+Being No One
+\emph default
+ in 2003 as his first major work in English.
  He tries to reinterpret phenomenological views in a radically new way,
  and ends up even dismissing (at least from ontology in a stricter sense)
  the very thing that seems to be at the core of our subjectivity: the self.
@@ -210,7 +214,7 @@ ic research.
 \end_layout
 
 \begin_layout Abstract
-When looking at subjectivity, which to me seems to be the most miraculous
+When analyzing subjectivity, which to me seems to be the most miraculous
  achievement of consciousness, I looked beyond philosophical works and found
  Marvin Minsky, a pioneer of artificial intelligence, with his book 
 \emph on
@@ -222,10 +226,11 @@ The Emotion Machine
 \end_layout
 
 \begin_layout Abstract
-After looking at those philosopher's positions on the four parts of the
- hard problem, I present a synopsis that attempts to unify their theories
- and categorizes the processes and prerequirements for a system to be able
- to experience subjective consciousness.
+In this thesis, after looking at those philosopher's positions on the four
+ parts of the hard problem in-depth and attempting to merge their positions
+ on the four parts, I present a synopsis that attempts to unify their theories
+ and categorizes the processes and prerequirements which a system needs
+ to satisfy in order to be able to experience subjective consciousness.
  In doing so, the thesis splits up the aforementioned four apparently time-prove
 n concepts into a total of seven new concepts where one clearly forms the
  basis for the next, and by that means untangles overlapping semantic fields.
@@ -363,9 +368,9 @@ the hard problem of consciousness
 
 \begin_layout Standard
 There are four important parts to this question, all of which warrant a
- closer look: First, how does the brain produce phenomenality? What are
- qualia? The most mystifying part: How does subjectivity emerge? Finally,
- what is intentionality? How does it all fit together?
+ closer look: How does the brain produce phenomenality? What are qualia?
+ The most mystifying part: How does subjectivity emerge? Finally, what is
+ intentionality? With all these in place, how does it all fit together?
 \end_layout
 
 \begin_layout Standard
@@ -386,7 +391,15 @@ The Intentional Stance
 \emph default
  (1987) break not only with Cartesian dualism, but also with Husserlian
  phenomenology and its descendants.
- Metzinger published Being No One in 2003 as his first major work in English.
+ Metzinger published 
+\emph on
+Being No One
+\emph default
+ in 2003 as his first major work in English.
+ 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Foot
 status open
 
@@ -2427,6 +2440,30 @@ key "Metzinger2003"
 \end_inset
 
 , page 129.
+\end_layout
+
+\end_inset
+
+ Or, as A.
+ Einstein put it:
+\end_layout
+
+\begin_layout Quote
+People like us, who believe in physics, know that the distinction between
+ past, present, and future is only a stubbornly persistent illusion.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from a etter to the family of his lifelong friend Michele Besso,
+ after learning of his death, (March 1955) as quoted in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dyson1979"
+
+\end_inset
+
+.
 \end_layout
 
 \end_inset
@@ -11557,6 +11594,44 @@ key "Minsky2006"
  still relatively close to each other) changes what ways to think are available,
  because different brain centers are active and contributing to the functional
  processes generating the current self-model, and thus how we act and think.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+It is interesting to see that newer research in entirely different psychological
+ fields supports this theory: Players of online role playing games underwent
+ an MRI scan while they were describing their character both in the real
+ world and their avatars' character in an online game.
+ According to 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2009"
+
+\end_inset
+
+, the same brain areas that are responsible for modeling the subject's selves
+ were also active when they were modeling their avatars:
+\end_layout
+
+\begin_layout Quote
+When Caudle's looked for brain areas that were more active when volunteers
+ thought about themselves and their avatars compared with real and virtual
+ others, two regions stood out: the medial prefrontal cortex and the posterior
+ cingulate cortex.
+ That makes sense as prior research has linked the medial prefrontal cortex
+ to self-reflection and judgement.
+\end_layout
+
+\begin_layout Quote
+Interestingly, however, there was "next to no difference" in the activity
+ in these regions when people thought of themselves and of their avatar,
+ says Caudle, who presented the results at the annual meeting of the Society
+ for Neuroscience.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard

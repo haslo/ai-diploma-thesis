@@ -209,6 +209,14 @@
   timestamp = {2009.05.02}
 }
 
+@BOOK{Descartes1641,
+  title = {Meditationes de prima philosophia},
+  year = {1641},
+  author = {René Descartes},
+  owner = {haslo},
+  timestamp = {2009.12.18}
+}
+
 @BOOK{DeWitt2003,
   title = {Greater than 98% Chimp/human DNA similarity? Not any more. A common
 	evolutionary argument gets reevaluated -- by evolutionists themselves.},
@@ -217,6 +225,14 @@
   note = {http://www.answersingenesis.org/tj/v17/i1/DNA.asp},
   owner = {haslo},
   timestamp = {2009.06.01}
+}
+
+@BOOK{Dyson1979,
+  title = {Science and the Search for God Disturbing the Universe},
+  year = {1979},
+  author = {Freeman Dyson},
+  owner = {haslo},
+  timestamp = {2009.12.31}
 }
 
 @ARTICLE{Eldredge1972,
