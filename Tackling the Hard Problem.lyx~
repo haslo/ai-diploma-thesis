@@ -294,8 +294,9 @@ thank you
 \begin_inset Quotes erd
 \end_inset
 
- to Simon Bünzli and Stefan Aeschbacher, who cross-read the thesis and found
- plenty of errors and mistakes, and Daniela Reist, proofreader par excellence.
+ to Simon Bünzli and Stefan Aeschbacher, who cross-read the thesis, found
+ plenty of errors and mistakes, and inspired whole additional chapters,
+ and Daniela Reist, proofreader par excellence.
  
 \begin_inset Newpage pagebreak
 \end_inset
@@ -4974,7 +4975,7 @@ adaptivity
 
  constraint needs to have a proper history, it needs to have grown and adapted
  to primary evolutionary pressure, and it needs to exhibit behaviour that
- is beneficial for the evolutionary niche it is in.
+ is beneficial for the evolutionary niche it fits into.
 \end_layout
 
 \begin_layout Subsubsection
@@ -5004,14 +5005,7 @@ We need a new interdisciplinary approach that includes neurophysiology,
 status open
 
 \begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "2009j"
-
-\end_inset
-
-, where emergence is defined by means of a citation from Lewes in 
+Lewes defines emergence in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Lewes1875"
@@ -5250,7 +5244,18 @@ reference "Weaker-Adaptivity"
  Nevertheless, this does not mean that we would necessarily have to include
  it as a prerequisite for consciousness as well.
  It is only our cognition that is affected by the problem, not necessarily
- the concept of consciousness itself.
+ the concept of consciousness itself: We can only identify a conscious system
+ as such if it satisfies the adaptivity constraint.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I guess that Metzinger would not agree to this conclusion, however.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -5271,7 +5276,7 @@ name "Phenomenality-for-Metzinger"
 
 \end_inset
 
-Phenomenality for Metzinger
+Phenomenality is ineffable
 \end_layout
 
 \begin_layout Standard
@@ -5346,7 +5351,8 @@ key "Metzinger2003"
 Ineffability then comes naturally with the combination of at least perspectivaln
 ess and transparency.
  Other constraints (like global availability, activation within a window
- of presence, or convolved holism) make experiences even more ineffable.
+ of presence, or convolved holism) make parts of phenomenal experience even
+ more ineffable.
 \end_layout
 
 \begin_layout Standard
@@ -5358,15 +5364,14 @@ status open
 
 \begin_layout Plain Layout
 I am cautious here because while Metzinger does explicitly talk about levels
- of consciousness with the definitions that chapter 
+ of consciousness with the definitions (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Levels-of-Consciousness"
 
 \end_inset
 
- talks about, he does not explicitly draw the analogy that I am talking
- about here.
+), he does not explicitly draw the analogy I am suggesting here.
 \end_layout
 
 \end_inset
@@ -5458,42 +5463,15 @@ At first sight, it seems odd that Metzinger chooses the name
 \begin_inset Quotes eld
 \end_inset
 
-multilevels constraints
+multilevel constraints
 \begin_inset Quotes erd
 \end_inset
 
  for his definitions of what could be described as preconditions that are
  necessary for a system to exhibit consciousness.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Even if, as we saw in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Metzingers-Names"
-
-\end_inset
-
-, I do not believe that names need to be well-known in order to make sense,
- Metzinger still attempted to name his concepts in a way that explains some
- of their meaning.
- This meaning of the term 
-\begin_inset Quotes eld
-\end_inset
-
-multilevel constraints
-\begin_inset Quotes erd
-\end_inset
-
- is what the current chapter attempts to explore.
-\end_layout
-
-\end_inset
-
- In order for it to make sense, we have to look at it this way: An otherwise
- completely unconstrained data processing system of any kind that satisfies
- a sufficient number of these constraints
+ In order for this name to make sense, we have to look at it this way: An
+ otherwise completely unconstrained data processing system of any kind that
+ satisfies a sufficient number of these constraints
 \begin_inset Foot
 status open
 
@@ -5534,7 +5512,9 @@ multilevel
 \end_inset
 
  in that Metzinger attempts to capture all the important levels of description
- he considers to be important for consciousness research for each of them.
+ he considers to be important for research concerning the nature of consciousnes
+s for each of them.
+ He distinguishes the following levels:
 \begin_inset Foot
 status open
 
@@ -5551,7 +5531,7 @@ key "Metzinger2003"
 
 \end_inset
 
- He distinguishes the following levels:
+
 \end_layout
 
 \begin_layout Itemize
@@ -5616,7 +5596,8 @@ reference "Conceptual-Dualism"
 
 \end_inset
 
-.
+, where I explain why the theory presented in this thesis essentially amounts
+ to a conceptual dualism.
 \end_layout
 
 \end_inset
@@ -5636,7 +5617,7 @@ minimal (multilevel) preconditions
 .
  This holds true for all constraints except constraint 11, the adaptivity
  constraint, which is special in more than one way anyway however.
- I will explore this thought further in chapter 
+ I explore this thought further in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Adaptivity-Questioned"
@@ -5875,39 +5856,64 @@ global availability
 \begin_inset Quotes erd
 \end_inset
 
- (1) and 
+ and 
 \begin_inset Quotes eld
 \end_inset
 
-convolved holism
+convolved holism,
 \begin_inset Quotes erd
 \end_inset
 
- (4), he for the most part focusses on the phenomenal side of them.
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapters 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Global-Availability"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Convolved-holism"
+
+\end_inset
+
+ respectively.
+\end_layout
+
+\end_inset
+
+ he for the most part focusses on the phenomenal side of them.
  Minsky also suggests that things certainly 
 \emph on
 seem to be
 \emph default
- globally available, but does not agree that they actualy are.
+ globally available.
  Minsky quotes Newman:
 \end_layout
 
 \begin_layout Quote
 [In the Global Workspace theory] The theater becomes a workspace to which
- the entire audience of “experts” has potential access ...
- Awareness, at any moment, corresponds to the pattern of activity produced
- by the then most active coalition of experts, or modular processors.
- ...
+ the entire audience of “experts” has potential access, both to 
+\begin_inset Quotes eld
+\end_inset
+
+look at
+\begin_inset Quotes erd
+\end_inset
+
+ other inputs and contribute their own.
+ [...] Individual modules can pay as much or as little attention as suits them,
+ based upon their particular expertise and proclivities.
  At any one moment, some may be dozing in their seats, others busy on stage
- ...
- [but] each can potentially contribute to the direction the play takes.
- ...
- Each expert has a “vote”, and by forming coalitions with other experts
- can contribute to deciding which inputs receive immediate attention and
- which are “sent back to committee”.
- Most of the work of this deliberative body is done outside the workspace
- (i.e., non- consciously).
- Only matters of central import gain access to center stage.
+ [...] [but] each can potentially contribute to the direction the play takes.
+ In this sense the global workspace resembles more a deliberative body than
+ an audience.
 \begin_inset Foot
 status open
 
@@ -5926,7 +5932,7 @@ key "Minsky2006"
 
 \end_inset
 
-, page 125.
+, pages 125f.
 \end_layout
 
 \end_inset
@@ -5935,7 +5941,39 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Standard
-However, global availability should not be overrated:
+Minsky however goes on to criticize just the complete global availability
+ that Metzinger suggests:
+\end_layout
+
+\begin_layout Quote
+However, this raises several questions about the extent to which different
+ resources can speak the same language, and [I] argue that different resources
+ will need to use multiple levels of representations and different short-term
+ memory systems to keep track of various kinds of contexts.
+ Besides, if each specialist could broadcast signals to all the rest, the
+ workspace would become so noisy that the system would need to develop ways
+ to restrict the amount of communication.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, page 126.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Global availability should also not be overrated:
 \end_layout
 
 \begin_layout Quote
@@ -5986,7 +6024,7 @@ seem
 \emph default
  as if we had everything globally available, what in fact happens is that
  sensory inputs are processed in parallel by a wide variety of processes,
- and many brain centers (which Minsky calls “critics” and “experts”) have
+ and many brain centers (which Minsky calls “critics” and “selectors”) have
  access to parts of these processes and can potentially process them further.
 \end_layout
 
@@ -6055,12 +6093,29 @@ perspectivalness
 \begin_inset Quotes erd
 \end_inset
 
- constraint (constraint 6) seems to be quite straightforward.
- The constraint describes a first-person point of view which is nonconceptual,
- happens before cognitive processing, and is automatic and requires no effort
- whatsoever.
- It consists of a nonconceptual prereflexive proto self-consciousness, a
- PSM
+ constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Perspectivalness"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ seems to be quite straightforward.
+ The constraint describes a first-person point of view which starts out
+ with a proto self-model which is nonconceptual, happens before cognitive
+ processing, and is automatic and requires no effort whatsoever.
+ The complete constraint then consists of a nonconceptual prereflexive proto
+ self-consciousness, a PSM
 \begin_inset Foot
 status open
 
@@ -6112,10 +6167,17 @@ y small area, and perceive their entire surroundings via a single viewpoint.
 \end_layout
 
 \begin_layout Standard
-I have no solution to offer.
- It will require empirical experiments with postbiotic or artificial systems
- to truly advance in this matter.
- Nevertheless, it is certainly a worthy topic for future research.
+Finding this prereflexive proto self-model will require empirical experiments
+ with postbiotic or artificial systems to truly advance in this matter,
+ as today very little about it is known.
+ I analyze this further in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Prereflexive-Proto-Self"
+
+\end_inset
+
+, after discussing Metzinger's PSM.
 \end_layout
 
 \begin_layout Subsubsection
@@ -6145,8 +6207,25 @@ adaptivity
 \begin_inset Quotes erd
 \end_inset
 
- constraint (constraint 11): He says that in order to be truly conscious,
- a postbiotic or artificial system also has to fully satisfy this constraint.
+ constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Adaptivity"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+: He says that in order to be truly conscious, a postbiotic or artificial
+ system also has to fully satisfy this constraint.
  He goes even further and quotes Davidson's 
 \begin_inset Quotes eld
 \end_inset
@@ -6193,8 +6272,8 @@ This does bear some similarities to the paradox of the ship of Theseus,
  experiments, an exact physical replication is created while the original
  is destroyed, and the question is what traits that replication shares with
  the original.
- It all comes down to what transtemporal aspects the properties in question
- have of course, and that's rarely well-defined.
+ It all comes down to what transtemporal aspects the traits in question
+ have of course, and that is rarely well-defined.
 \end_layout
 
 \end_inset
@@ -6206,7 +6285,7 @@ This does bear some similarities to the paradox of the ship of Theseus,
 The aim of this thought experiment is showing that an exact replica of a
  human being might move, think, talk, and argue just like the original,
  it might even have the exact same kind of phenomenality.
- Yet it lacks is the original Davidson's intentional content.
+ Yet it lacks the original Davidson's intentional content.
  Metzinger writes:
 \end_layout
 
@@ -6253,13 +6332,13 @@ reference "The-Intentional-Stance"
 , but also seems to contradict other parts of Metzinger's work.
  I do not see how the requirement for some kind of original intentionality
  here is compatible with Metzinger claiming that all that intentionality
- really is, is a phenomenal model 
+ really is, is a phenomenal model .
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-The PMIR or phenomenal model of the intentionality relation, which will
- be explained in chapter 
+The phenomenal model in question is the PMIR (or phenomenal model of the
+ intentionality relation), which will be explained in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "PMIR"
@@ -6271,7 +6350,7 @@ reference "PMIR"
 
 \end_inset
 
-.
+
 \end_layout
 
 \begin_layout Standard
@@ -6460,7 +6539,14 @@ key "Metzinger2003"
 
 \begin_layout Standard
 Teleology may not be the best approach for everything (and in fact, when
- Sehon used it along with the term 
+ Sehon used it in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Sehon2005"
+
+\end_inset
+
+ along with the term 
 \begin_inset Quotes eld
 \end_inset
 
@@ -6488,8 +6574,11 @@ reference "Local-supervenience"
  he constructed a theory that lacks scientific foundation and appears to
  be of mostly speculative nature, as all theories involving metaphysical
  and non-observable entities necessarily do).
- But when Metzinger uses it, it translates to the assumption that the things
- our brains
+\end_layout
+
+\begin_layout Standard
+But when Metzinger uses it, it translates to the assumption that the things
+ our brains do
 \begin_inset Foot
 status open
 
@@ -6500,7 +6589,7 @@ As a matter of fact, he is not only talking about our brains, but all organic
 
 \end_inset
 
- do must be good for something -- because if they were not, they would not
+ must be good for something -- because if they were not, they would not
  have been a fitness criterion for evolution, and consequently would not
  have survived the last few million years.
 \end_layout
@@ -6524,8 +6613,14 @@ Even if we have to ignore for now that teleological explanations are not
  I do not agree with Metzinger's assumption that million years of evolution
  are a necessary prerequisite for something being a fitness criterion however,
  nor do I agree with the assumption that merely because a fit system has
- been duplicated (as Davidson's Swampman was) it suddenly loses some kind
- of metaphysical fitness 
+ been duplicated (as Davidson's Swampman was, see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Proto self-model"
+
+\end_inset
+
+) it suddenly loses some kind of metaphysical fitness 
 \emph on
 pre
 \emph default
@@ -6574,7 +6669,9 @@ proper history
 \end_inset
 
  cannot be a criterion for the degree of intentionality a system possesses.
- 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Quotes eld
 \end_inset
 
@@ -6614,8 +6711,11 @@ good
 \begin_inset Quotes erd
 \end_inset
 
- implies them being good for something, unless we want Platonian ideas entering
- the discussion.
+ implies them being good 
+\emph on
+for something
+\emph default
+, unless we want Platonian ideas entering the discussion.
  The argument is prone to becoming circular if 
 \begin_inset Quotes eld
 \end_inset
