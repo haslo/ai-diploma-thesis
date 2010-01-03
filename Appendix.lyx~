@@ -36,9 +36,807 @@
 \tracking_changes false
 \output_changes false
 \author "" 
+\author "" 
 \end_header
 
 \begin_body
+
+\begin_layout Part*
+\start_of_appendix
+Outlook
+\end_layout
+
+\begin_layout Standard
+What do the conclusions from this thesis mean in the bigger context of philosoph
+y of mind? What are paths we could now pursue to support or disprove my
+ conclusions? How could these conclusions be used in other scientific fields?
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Artificial-Intelligence"
+
+\end_inset
+
+Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+When I set out to write this diploma thesis, I planned sections about artificial
+ intelligence -- where we stand, what positions and approaches there are,
+ and how we can attempt to incorporate the findings from philosophy of mind
+ into research from computer science.
+ Unfortunately, I had to cut these parts eventually -- there just wasn't
+ enough place to talk about all of that as well.
+\end_layout
+
+\begin_layout Standard
+Nevertheless, I do believe that artificial intelligence is one of the scientific
+ fields of research that can help philosophy of mind, and vice versa.
+ Computer science is where a philosopher of mind can experiment and put
+ his theories to the test.
+ And conversely, philosophy of mind is where a computer scientist can draw
+ inspiration for experiments in artificial intelligence from.
+\end_layout
+
+\begin_layout Subsubsection
+Weak and Strong Artificial Intelligence
+\end_layout
+
+\begin_layout Standard
+I may not agree with the point about strong artificial intelligence being
+ impossible that John Searle makes in his Chinese Room thought experiment.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Searle1980"
+
+\end_inset
+
+ for his argument, and 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gloor2007"
+
+\end_inset
+
+ for my discussion of it.
+\end_layout
+
+\end_inset
+
+ But in the discussion following the article, he does put forth a very important
+ and necessary distinction: The one between weak and strong artificial intellige
+nce.
+\end_layout
+
+\begin_layout Standard
+Weak artificial intelligence is a mere simulation of intelligent behaviour.
+ It might fool us, it might even pass the Turing Test,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2009g"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ or it might be different altogether from the way us humans act and think
+ and reliably solve problems us humans can't solve.
+ Weak artificial intelligence basically is any kind of systematic behaviour
+ that seems as if it was intelligent to us.
+\end_layout
+
+\begin_layout Standard
+Interestingly, all (or at least, most) of today's efforts that go towards
+ producing artificial intelligence are purely behaviourist.
+ We try to replicate human-like behaviour, and think that the machines that
+ we produce will then automatically become intelligent and (more importantly)
+ conscious.
+ I think that this thesis shows up at least some hints as to why this approach
+ will not necessarily lead to truly conscious systems.
+\end_layout
+
+\begin_layout Standard
+Strong artificial intelligence on the other hand is true intelligence that
+ includes subjectivity, phenomenality and intentionality, one that can feel
+ qualia.
+ Essentially, it is artificial intelligence after we've solved the hard
+ problem of consciousness, and successfully applied the solution to an artificia
+l system.
+ As Metzinger rightly points out
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, pages 206f.
+\end_layout
+
+\end_inset
+
+, that doesn't necessarily have to be a purely technological system -- it
+ can well be a postbiotic one, with artificially grown neurons, or maybe
+ with quantum computers, or a technology we haven't discovered yet.
+\end_layout
+
+\begin_layout Subsubsection
+The Need for a New Approach
+\end_layout
+
+\begin_layout Standard
+Minsky is a proponent of an older tradition of artificial intelligence,
+ a more formal one that puts less focus on self-learning systems.
+ Let's hear what he has to say about genetic algorithms and neural networks:
+\end_layout
+
+\begin_layout Quotation
+I'd like to argue that if you're interested in artificial intelligence these
+ days you're exposed to a lot of arguments that ...
+ well, in the early days, people tried to do things with symbolic AI, sometimes
+ contemptuously called old-fashioned AI, and that was too rigid and rule-based
+ and mechanical, and it had to be programmed.
+ What happened starting around 1980 was that most AI researchers tried to
+ move in the direction of making machines smart without programming them,
+ by using neural networks or genetic algorithms or statistical models.
+ The value of that is that you're hoping that your machine can learn to
+ be smart without your knowing how it does it.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2007"
+
+\end_inset
+
+, 8:40-9:45.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+While neither him nor me want to diminish the value of the many achievements
+ of artificial intelligence research in recent years, he does have a point:
+ We cannot expect from our machines to learn to be smart without us knowing
+ how not only it'll do that, but also how it could even learn that.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Unless we happen to have a few million years at our disposal -- see chapter
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Deficiencies-of-Bio-Evolution"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ We have to set some guidelines, and for that we have to find out what those
+ guidelines will have to be first.
+\end_layout
+
+\begin_layout Subsubsection
+How This Thesis Fits In
+\end_layout
+
+\begin_layout Standard
+I do believe that this thesis here does help in going towards a new approach.
+ Arguably, we need a framework, a base that allows all the other important
+ parts of current research in artificial intelligence to work together,
+ to form a bigger whole.
+ They are the Ways to Think of a porential future postbiotic or artificial
+ consciousness.
+ They are what enables it.
+ But in addition to these Ways to Think, we need something they are embedded
+ in.
+ A thing producing phenomenality, a transparent representation system.
+\end_layout
+
+\begin_layout Standard
+To say it with Minsky, when he talks about how all of the currently employed
+ strategies and methods of producing (weak) artificial intelligence have
+ this weakness:
+\end_layout
+
+\begin_layout Quotation
+In fact, all of these methods are very useful for certain problems.
+ What we don't know in general is: For what kind of problem is it good to
+ use a statistical inference system? What kinds of problems are ones that
+ can be learned and handled by neural networks or by genetic algorithms?
+\end_layout
+
+\begin_layout Quotation
+What I'm proposing along with Gerry Sussman and Hal Abelson is to develop
+ a new kind of AI system that has places in which we can insert all of the
+ useful results that tens of thousands of AI researchers have made.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2007"
+
+\end_inset
+
+, 30:08-30:55.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+What conclusions we reached from the theories of Dennett, Metzinger and
+ Minsky could well be part of that foundation.
+ If not, at least I hope they are part of our way there, even if I am completely
+ mistaken with my conclusions.
+ Because as Dennett says:
+\end_layout
+
+\begin_layout Quotation
+Making mistakes is the key to making progress.
+ [...] Instead of turning away in denial when you make a mistake, you should
+ become a connoisseur of your own mistakes, turning them over in your mind
+ as if they were works of art, which in a way they are.
+ You should seek out opportunities to make grand mistakes, just so you can
+ then recover from them.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Brockman1995"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "The-Less-Hard-Problems"
+
+\end_inset
+
+The Less Hard, But Still Hard Problems
+\end_layout
+
+\begin_layout Standard
+While I attempted to look at what it is that enables phenomenality and subjectiv
+ity in conscious systems, there are plenty of other things that are required
+ for a truly conscious system like us humans are.
+ Most of these subjects are already topic of extensive research.
+ Many of them are in the prime focus of today's attempts to produce artificial
+ intelligence, while others are subject of psychological, neurophysiological,
+ or even didactical fields of science.
+\end_layout
+
+\begin_layout Standard
+I will only briefly touch all these subjects, while giving some pointers
+ as to what research I found that helps enlighten our understanding of them,
+ but keep in mind that there is much more that could be said about any of
+ them.
+ I would even go so far as to say that we do not fully understand any of
+ them -- we're not able to, exactly because they all are so interwoven with
+ the hard problem of consciousness itself.
+\end_layout
+
+\begin_layout Subsubsection
+Presentational Content Generation
+\end_layout
+
+\begin_layout Standard
+This is, as a matter of fact, one of the prime topics of today's research
+ into (deliberately weak) artificial intelligence.
+ Pattern recognition tasks are necessary for conceptualization of sensory
+ input (in the case of artificial intelligence, often through cameras, scanners
+ or in the form of text or other prepared data) -- and exactly these pattern
+ recognition tasks are what the modeled (trivial versions of) neurons in
+ neural networks are particularly good at.
+\end_layout
+
+\begin_layout Standard
+Nevertheless, today's artificial algorithms are nowhere near as good as
+ the ones evolution gave us humans.
+ As it turns out, and as was not expected at first, it really is the case
+ that those things that appear to be easiest to us humans seem to be really
+ hard for a computer, while obviously complex things like playing chess
+ are comparably trivial.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+At least until we attempt to model the half-intuitive way us humans play
+ chess -- a traditional computer program does it through raw computational
+ power and predefined libraries.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+These pattern matching tasks are so close to what we will need for forming
+ presentational content for one reason: Our brain only works with concepts,
+ not with sensory data itself.
+ And in order to be able to work with these concepts, they have to be formed
+ -- they have to be grouped and categorized.
+ This grouping and categorization 
+\emph on
+is
+\emph default
+ a kind of pattern matching, and it is exactly what optical character recognitio
+n (OCR) or similar tasks where pattern matching is employed are about.
+\end_layout
+
+\begin_layout Subsubsection
+Integration of Memory
+\end_layout
+
+\begin_layout Standard
+The kind of memory that a mind like ours requires is pretty complex.
+ It consists of way more than just the raw, abstract and atomic pieces of
+ data we currently use for storing data in computers.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+That isn't to say that it would be impossible in principle to store such
+ semantic data on current-day computer hard drives, but there would need
+ to be an abstraction layer between this semantic and a trivial raw representati
+on of said data.
+\end_layout
+
+\end_inset
+
+ The resourcefulness capabilities of a human brain are vast and diverse
+ -- we do not directly access our knowledge, but often reason by analogies,
+ and certainly associate by such analogies.
+ Minsky calls the structures we use for this kind of reasoning “panalogies,”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, pages 168f and 260ff.
+\end_layout
+
+\end_inset
+
+ for “parallel analogies.”
+\end_layout
+
+\begin_layout Itemize
+Analogies because every entity in our memory, every bit of knowledge is
+ linked to multiple other bits -- to similar objects, to properties, to
+ a time and place if it is an episodic memory, to solutions if the entity
+ is a known problem, and generally to other related entities and concepts.
+\end_layout
+
+\begin_layout Itemize
+Parallel because every bit of knowledge is embedded in different realms
+ (physical, dominion, mental, and more) with such analogies.
+\end_layout
+
+\begin_layout Standard
+This kind of knowledge representation also requires quite a broad basis
+ of “common sense” knowledge,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A very nice overview over current efforts to construct such a basis can
+ be found at 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "2008"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ as for being able to form analogies like that we need something the new
+ piece of knowledge could be analog to.
+\end_layout
+
+\begin_layout Standard
+Furthermore, there are different kinds of memory -- episodic and semantic
+ memory
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+As Metzinger points out in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 415 (referring to 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Craik1999"
+
+\end_inset
+
+), “episodic memory, of course, is a process of 
+\emph on
+re
+\emph default
+constructing what was here termed a PMIR, because one necessary constituent
+ of memory retrieval is not smiply the simulation of a past event, but an
+ association of this simulation with a 
+\emph on
+self
+\emph default
+-representation.”
+\end_layout
+
+\end_inset
+
+ to name but one distinction, long-term and short-term to name another dimension
+, there is “knowing that” versus “knowing how.”
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Squire2004"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+Learning
+\end_layout
+
+\begin_layout Standard
+The process of learning itself, the way memories are gained and obtained,
+ is everything but trivial.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See for example 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hacker2005"
+
+\end_inset
+
+, pages 738ff.
+\end_layout
+
+\end_inset
+
+ Learning essentially simplifies decision-making by storing context-relative
+ data (patterns, knowledge, motor behaviour) in ways that are then retrievable
+ later in the relevant (or relevantly similar) contexts.
+\end_layout
+
+\begin_layout Standard
+There are quite some steps in memory formation -- the process flow consists
+ of at least encoding, storage, consolidation, recall and oblivion.
+ “Learning” is a suitcase word
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Suitcase-Words"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ that encompasses all of the processes up to recall -- encoding and storage
+ are obvious, but consolidation is definitely an important part of it as
+ well; it is embedding atomic facts in the panalogies that make them available
+ for context-relative retrieval later on.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+This means that I do not believe that there is such a thing as properly
+ non-associative learning.
+ Semantic memory may not be stored associated to the context it was learned
+ in, but it certainly is associated with the contexts it is potentially
+ useful in.
+ Otherwise, I do not see how it could possibly be retreived later on.
+ As such, there is probably a gradual and not a binary difference between
+ episodic and semantic memory -- a memory is episodic to the extent that
+ it is associated (semantically, or at least experienced as such) with the
+ circumstances it was obtained in.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+The benefits of learning are many.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Hacker2005"
+
+\end_inset
+
+, pages 742ff.
+\end_layout
+
+\end_inset
+
+ They all mean but one thing:
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+My apologies for being horribly brief here and not giving Hacker's theory
+ the space it deserves.
+\end_layout
+
+\end_inset
+
+ We need less time to reorient (in the sense of having to form new counterfactua
+l self-models, often with motor simulations, that we then need to compare
+ with the goal state) and thus can spend more time on executing behaviour
+ that is efficient in regards to reaching a goal state.
+ This can go so far that we are able to execute that behaviour while being
+ consciously engaged with an entirely different subject.
+ The behaviour itself is also more efficient, because learning allows us
+ to anticipate common problems and avoid errors we made in earlier attempts
+ of executing the action we improved through the learning process.
+\end_layout
+
+\begin_layout Standard
+This makes it clear why teaching an action is often difficult for people
+ who learned to do that action really well: They no longer need to think
+ about the (motor or lower-level mental) behaviours they are performing,
+ they internalized them to a large extent and thus are no longer necessarily
+ able to make these deliberations and motor behaviours explicit.
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Goal-Representations"
+
+\end_inset
+
+Goal Representations
+\end_layout
+
+\begin_layout Standard
+One kind of panalogy, and one that fundamentally influences at least our
+ normative self-models, is what we call “goal.” But, what are goals, with
+ what are they linked, and how do we go about pursuing them?
+\end_layout
+
+\begin_layout Standard
+Obviously, goals are in a hierarchical structure -- leaving intuition aside,
+ this directly follows from the convolved holism constraint (4).
+ The nature of goals then is more of a subject for psychological and didactical
+ research than for philosophy or neurophysiology.
+ Arguably, goals are not much more than bits of memory (grouped in panalogies)
+ that have normative force.
+\end_layout
+
+\begin_layout Standard
+The bits of memory that can serve as goals are, so it seems, always (partial)
+ self-models or (partial) world models -- a lot of money, a happy state
+ of mind, love, peace on earth with fluffy bunnies everywhere.
+ While executing actions, we can then as per the offline activation constraint
+ (8) access those goal models, run mental simulations and compare the results
+ of the actions in world zero to the goal states.
+ Minsky describes this as a constent process where we describe the current
+ state, compare it with a description of the desired state, select a difference
+ through built-in difference detectors
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, pages 195ff.
+\end_layout
+
+\end_inset
+
+ in the brain and then go and change the situation to reduce that difference.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, pages 267ff -- and note how this is closely related to our learning process,
+ that Minsky mentions there as well.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Creativity"
+
+\end_inset
+
+Creativity
+\end_layout
+
+\begin_layout Standard
+Creativity is a subject that often comes up when the hard problem is being
+ discussed, and indeed it is an important part of intelligence.
+ As a matter of fact, Minsky goes even further and claims that resourcefulness
+ (which he describes as having many ways to think available and thus being
+ able to approach problems from many different angles -- which is arguably
+ the same thing as creativity) is one of the three defining characteristics
+ of intelligence, together with persistence and aim.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, pages 188f.
+\end_layout
+
+\end_inset
+
+ He points out that a resourceful mind really has the following benefits:
+\end_layout
+
+\begin_layout Itemize
+We can see things from many points of view.
+\end_layout
+
+\begin_layout Itemize
+We have ways to rapidly switch among these.
+\end_layout
+
+\begin_layout Itemize
+We have developed special ways to learn very quickly.
+\end_layout
+
+\begin_layout Itemize
+We learn efficient ways to retrieve relevant knowledge.
+\end_layout
+
+\begin_layout Itemize
+We keep extending the range of our Ways to Think.
+\end_layout
+
+\begin_layout Itemize
+We have many different ways to represent things.
+\end_layout
+
+\begin_layout Itemize
+We develop good ways to organize these representations.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+List cited from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Minsky2006"
+
+\end_inset
+
+, pages 256f.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Since all these things rely on representations of memories and goals, on
+ how many ways to think were obtained how and what goals and subgoals are
+ active at the moment, this leads to a very unpredictable behaviour, particularl
+y from a third-person point of view.
+ And unpredictability is exactly the thing that makes creativity special,
+ and that makes it intuitively impossible for machines to have it.
+\end_layout
+
+\begin_layout Standard
+Arguably however, given sufficiently chaotic inputs (and maybe some deeper
+ forms of randomness than our current approaches handle, since quantum effects
+ will most probably influence what's happening in the brain), it is not
+ impossible for another resourceful system to exhibit creative behaviour.
+\end_layout
 
 \begin_layout Part*
 \start_of_appendix

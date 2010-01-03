@@ -6929,7 +6929,7 @@ ess, because the entities that are now directed at each other are of the
 \end_layout
 
 \begin_layout Standard
-I don not think I even deviated that much from Husserl's ideas with those
+I do not think I even deviated that much from Husserl's ideas with those
  suggestions.
 \begin_inset Foot
 status open
@@ -6994,9 +6994,9 @@ what-is-it-like
  structure of experience.
  Opinions on what exactly this structure is, and how to best research it,
  differ widely.
- What is common to most notions of qualia is that they are among the most
- basic available bits of epistemic knowledge concerning conscousness, and
- that they seem to be indivisible from a first-person point of view.
+ What is common to most notions of qualia is that they are supposed to be
+ among the most basic available bits of epistemic knowledge concerning conscousn
+ess, and that they seem to be indivisible from a first-person point of view.
 \end_layout
 
 \begin_layout Standard
@@ -7232,13 +7232,45 @@ what-it-is-like-ness,
  which further exemplified what is special about simple sensory content.
  For instance, taking his most prominent example, we face serious problems
  when we attempt to imagine what it is like to be a bat:
+\end_layout
+
+\begin_layout Quote
+In so far as I can imagine this (which is not very far), it tells me only
+ what it would be like for me to behave as a bat behaves.
+ But that is not the question.
+ I want to know what it is like for a bat to be a bat.
+ Yet if I try to imagine this, I am restricted to the resources of my own
+ mind, and those resources are inadequate to the task.
+ I cannot perform it either by imagining additions to my present experience,
+ or by imagining segments gradually subtracted from it, or by imagining
+ some combination of additions, subtractions, and modifications.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Nagel1974"
+
+\end_inset
+
+, page 3.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
 It is worth noting that Nagel was not anti-physicalist, nor anti-reductionist,
  even though this quote seems to imply this.
- He merely pointed out that 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Nagel merely pointed out that 
 \begin_inset Quotes eld
 \end_inset
 
@@ -7265,35 +7297,6 @@ key "Nagel1974"
  current position, we have to rely on empathy for emulation and proper appreciat
 ion of other minds and have no way of easily and objectively formalizing
  them.
-\end_layout
-
-\end_inset
-
-
-\end_layout
-
-\begin_layout Quote
-In so far as I can imagine this (which is not very far), it tells me only
- what it would be like for me to behave as a bat behaves.
- But that is not the question.
- I want to know what it is like for a bat to be a bat.
- Yet if I try to imagine this, I am restricted to the resources of my own
- mind, and those resources are inadequate to the task.
- I cannot perform it either by imagining additions to my present experience,
- or by imagining segments gradually subtracted from it, or by imagining
- some combination of additions, subtractions, and modifications.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Citation from 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Nagel1974"
-
-\end_inset
-
-, page 3.
 \end_layout
 
 \end_inset
@@ -7345,17 +7348,10 @@ key "Dennett1988"
 
 \end_inset
 
- There is nothing irreducibly, inexplicably special about 
-\begin_inset Quotes eld
-\end_inset
-
-atomic
-\begin_inset Quotes erd
-\end_inset
-
- entities of phenomenal qualities of subjective experience.
+ There is nothing irreducibly, inexplicably special about supposedly atomic
+ phenomenal qualities of subjective experience.
  He proposes a fresh start, one without the history of the discussion about
- qualia and their special atomic nature:
+ qualia and their special nature:
 \end_layout
 
 \begin_layout Quote
@@ -7392,7 +7388,7 @@ key "Dennett1991"
 
 \begin_layout Standard
 Let us examine this Multiple Drafts model in detail, and establish why Dennett
- believes it can replace qualia.
+ believes that it can replace qualia.
 \end_layout
 
 \begin_layout Subsubsection
@@ -7407,7 +7403,7 @@ Orwellian vs.
 \end_layout
 
 \begin_layout Standard
-It is a fact that sometimes we misrepresent past happenings.
+It is a fact that sometimes, we misrepresent past happenings.
  This is not only true for things which happened days or months ago, but
  sometimes we even seem to have experienced them differently to how they
  actually and observably happened, right after the fact, or even seemingly
@@ -7458,7 +7454,7 @@ key "Dennett1991"
 \end_layout
 
 \begin_layout Standard
-Dennett tries to find out how that can happen.
+Dennett tries to find out how this can happen.
  He suggests two seemingly mutually exclusive alternatives:
 \end_layout
 
@@ -7522,18 +7518,19 @@ in the past
 status open
 
 \begin_layout Plain Layout
-Mental content like appears to be formed, as Metzinger rightly (albeit often
- implicitly) emphasizes, by ever-changing physical representations where
- the current form of the vehicle is actually part of and forms the content.
- For example, he does this in 
+Mental content appears to be formed by ever-changing physical representations
+ where the current form of the vehicle is actually part of and forms the
+ content.
+ Metzinger agrees with Dennett on this.
+ For example, in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
 
 \end_inset
 
-, page 114, when talking about how an intentionality relation is internally
- modeled:
+, page 114, when Metzinger is talking about how an intentionality relation
+ is internally modeled:
 \end_layout
 
 \begin_layout Quote
@@ -7543,9 +7540,10 @@ Intended cognition now means that a system actively -- corresponding to
 \end_layout
 
 \begin_layout Plain Layout
-This goes even further, because the brain actively remodels neuron connections
- in processes like learning or forming memories, and those very connections
- are what forms the mental content in the first place.
+This alteration of the physical basis goes even further, because the brain
+ actively remodels neuron connections in processes like learning or forming
+ memories, and those very connections are what forms the mental content
+ in the first place.
 \end_layout
 
 \end_inset
@@ -7586,26 +7584,90 @@ status open
 In a psychological experiment where a red and a green dot next to each other
  were alternately flashing, subjects experienced a dot that moved back and
  forth, changing color inbetween.
- Whenever they were probed, there was no experience of flashing and not
- moving dots, at least if they were flashing with a certain minimum speed.
+ Whenever they were probed, there was no experience of flashing dots, only
+ moving ones, at least if they were flashing with a certain minimum speed.
 \end_layout
 
 \end_inset
 
  it appears that the answer must be a compromise that incorporates aspects
  of both.
- Furthermore, what we saw in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Cartesian-Theater"
+\end_layout
+
+\begin_layout Standard
+Furthermore, there is no Cartesian theater,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The Cartesian theater is Dennett's proposal for the traditional dualist
+ answer to the following problem as formulated in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
 
 \end_inset
 
- (which is that there is no Cartesian theater, but mainly the 
+, page 107:
+\end_layout
+
+\begin_layout Quote
+It seems that if we could say 
+\emph on
+exactly
+\emph default
+ where, we could say exactly when the experience happened.
+ And vice versa: If we could say exactly when it happened, we could say
+ where in the brain conscious experience was located.
+\end_layout
+
+\begin_layout Plain Layout
+According to Dennett's interpretation of Descartes (see 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Descartes1641"
+
+\end_inset
+
+), there is a locus of understanding in traditional dualist theories, like
+ a theater where everything is presented to an internal audience, the place
+ where all the data collected by other mechanisms in the brain comes together
+ and 
+\emph on
+makes sense
+\emph default
+.
+ This would make the understanding of experience a lot easier.
+\end_layout
+
+\begin_layout Plain Layout
+However, the idea of the Cartesian theater has multiple problems concerning
+ interpretation of things that are presented within the theater, it would
+ require substance dualism (see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "On-dualism"
+
+\end_inset
+
+), and it would fail to account for the different experimental findings
+ concerning when change in memories happens (see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Orwellian-Stalinesque"
+
+\end_inset
+
+).
+\end_layout
+
+\end_inset
+
+ Dennett merely finds a 
 \begin_inset Quotes eld
 \end_inset
 
-spatiatemporal smearing of the observer's point of view in the brain
+spatiatemporal smearing of the observer's point of view in the brain.
 \begin_inset Quotes erd
 \end_inset
 
@@ -7626,8 +7688,8 @@ key "Dennett1991"
 
 \end_inset
 
- that Dennett finds) suggests that there is no such point that would allow
- us to decide whether a revision has been made 
+ This suggests that there is no such point that would allow us to decide
+ whether a revision has been made 
 \emph on
 before
 \emph default
@@ -7785,10 +7847,10 @@ key "Dennett1991"
 
 \end_inset
 
- And all those judgements don't necessarily come together somewhere in one
- locus for a final review (although they can, in memory, where they can
- then be overwritten or incorporated in other contents in a continuous editorial
- process).
+ And all those judgements do not necessarily come together somewhere in
+ one locus for a final review (although they can, in memory, where they
+ can then be overwritten or incorporated in other contents in a continuous
+ editorial process).
  Rather, they are rather directly available for further processing and,
  potentially, actions.
 \begin_inset Foot
@@ -7886,16 +7948,16 @@ status open
 
 \begin_layout Plain Layout
 A particularly striking example and one of my favourites among the experiments
- Dennett brings forth to support his theory is one by Libet which he introduces
- in 
+ Dennett brings forth to support his theory is one by Libet, which Dennett
+ introduces in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett1991"
 
 \end_inset
 
-, pages 154ff (of which alledgedly a reproduction was never attempted) --
- see 
+, pages 154ff (of which experiment alledgedly a reproduction was never attempted
+) -- see 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Libet1981"
@@ -7933,8 +7995,8 @@ hand
 \emph default
  was stimulated, which one would tend to think would surely give rise to
  two felt tingles: first right hand (cortically induced) and then left hand.
- In fact, however, the subjective report was reversed: “first left, then
- right.””
+ In fact, however, the subjective report was reversed: `first left, then
+ right.'”
 \end_layout
 
 \end_inset
@@ -8022,12 +8084,13 @@ Dennett starts with the observations that led him to his multiple drafts
 An important point of Dennett's theory regarding qualia is that feature
  detectors which make us experience something as “blue” or “bitter” co-evolved
  with the features they detect.
- Color vision evolved because there were features distinguishable by color,
- or rather, because color happens to be a concept that is able to interpret
- random side features of chemical composition of certain aspects of our
- ancient predecessor's surroundings in a way that is beneficial for an individua
-l's survival in that it makes the individual able to draw distinctions that
- happen to correlate with what is now known as color differences.
+ Color vision evolved because there were features distinguishable by color.
+ More precisely, it evolved because color happens to be a concept that is
+ able to interpret random side features of chemical compositions of certain
+ aspects of our ancient predecessor's surroundings, and able to do that
+ in a way that is beneficial for an individual's survival -- in that it
+ makes the individual able to draw distinctions that happen to correlate
+ with (what is now known as) color differences.
 \end_layout
 
 \begin_layout Standard
@@ -8108,9 +8171,37 @@ key "Dennett1991"
 \begin_layout Standard
 This does not explain the particular way things feel for us.
  The common term describing what makes this feeling special seems to be
- the expression that we “enjoy” something -- this nomenclature stresses
- the difference between neuroanatomy and experience, between information
- and qualia.
+ the expression that we `enjoy' something
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+For example, Dennett uses this nomenclature in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1987"
+
+\end_inset
+
+, page 290, to illustrate what defenders of original (as opposed to derived)
+ intentionality as a concept might say: 
+\begin_inset Quotes eld
+\end_inset
+
+Any computer program, any robot we might design and build, no matter how
+ strong the illusion we may create that it has become an genuine agent,
+ could never be a truly autonomous thinker with the same sort of original
+ intentionality we enjoy.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ -- this nomenclature stresses the difference between neuroanatomy and experienc
+e, between information and qualia.
  Qualia (which Dennett does not support) cannot be divided into mechanical
  parts, while mere information can be split up without losing anything.
  Dennett believes that Qualia do not exist insofar as that there are no
@@ -8121,9 +8212,9 @@ This does not explain the particular way things feel for us.
 To prove that these differences between the individual experiences of different
  people are explicable in their entirety, Dennett proposes another thought
  experiment.
- He has people want to experience Bach as if it was the very first time
- they were, without being tainted by more recent musical developments or
- other advances in the meantime.
+ He has people want to experience Bach as if they were his contemporaries,
+ without being tainted by more recent musical developments or other advances
+ in the meantime.
  He claims that:
 \end_layout
 
@@ -8162,9 +8253,25 @@ reference "Difference-Appreciation-Description"
 
 \begin_layout Standard
 Noteworthy is furthermore that inverted qualia do not seem to exist: People
- who wear goggles that turn the world upside down (always for extended periods
- of time) adapt to that after a while, and are able to ski downhill or drive
- bicycles through city traffic.
+ who wear goggles that turn the world upside down (always, for extended
+ periods of time) adapt to that after a while, and are able to ski downhill
+ or drive bicycles through city traffic.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 393.
+\end_layout
+
+\end_inset
+
  Asked whether they have adapted to their experiential world being upside
  down, or whether they are mentally turning it right side up again, subjects
  answer that this is not the right question.
@@ -8178,6 +8285,32 @@ As Dennett points out, this is perfectly in line with the multiple drafts
  completely independent of the orientation of the environment, while others
  (like ducking the right way when something is thrown at you) will probably
  take much longer to adapt than regular orientation and navigation.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 397.
+ Dennett writes ibd: 
+\begin_inset Quotes eld
+\end_inset
+
+The more complete [their adaptation] was, the more the subjects dismiss
+ the question as improper or unanswerable.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
  Parts of the brain will necessarily disagree with each other
 \begin_inset Foot
 status open
@@ -8274,9 +8407,9 @@ Qualia are inefficient
 \end_layout
 
 \begin_layout Standard
-From a computational point of view, it makes sense that not all experiences
- have such qualia (in terms of maximally simple mental content) that they
- automatically produce:
+From a computational point of view, it makes sense that not all phenomenal
+ experiences have such qualia (in terms of maximally simple mental content)
+ that they automatically produce:
 \end_layout
 
 \begin_layout Quote
@@ -8320,7 +8453,7 @@ name "Simple-Forms-of-Content"
 
 \end_inset
 
-Most simple forms of content don't exist
+Most simple forms of content do not exist
 \end_layout
 
 \begin_layout Standard
@@ -8339,21 +8472,22 @@ It is interesting how here, a failure of the project he undertakes actually
 
 \end_inset
 
- While we can certainly distinguish two particular, barely noticeably different
- shades of red when faced with them (they are available for attention),
- we cannot identify or recognize them transtemporally.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-He refers to 
+ D.
+ Raffman shows in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Raffman1995"
 
 \end_inset
 
-, where Diana Raffman finds that 
+ that we can certainly distinguish two particular, barely noticeably different
+ shades of red when faced with them, they are available for attention.
+ However, we cannot identify or recognize them transtemporally.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Diana Raffman finds that 
 \begin_inset Quotes eld
 \end_inset
 
@@ -8365,7 +8499,14 @@ our ability to judge whether two or more stimuli are the same or different
 \begin_inset Quotes erd
 \end_inset
 
- Citation as per 
+ Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Raffman1995"
+
+\end_inset
+
+ as quoted in 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
@@ -8567,8 +8708,8 @@ reference "Simple-Forms-of-Content"
 
 \end_inset
 
-, where a pure red would be a Lewis qualia, while a a non-pure color would
- be a Raffman qualia.
+, where a pure red would be a Lewis quale, while a a non-pure color would
+ be a Raffman quale.
  Examples of Metzinger qualia (that would be immediately destroyed if the
  subject were to report them, since that would require making them available
  for motor control) are “highly abstract forms of consciously experienced
@@ -8604,7 +8745,7 @@ Andrea Borsato in the flow of thought, feels as if he had plugged the finger
 \begin_inset Quotes erd
 \end_inset
 
-) That is the kind of feeling Metzinger must mean.
+) This is the kind of feeling Metzinger must mean.
 \end_layout
 
 \end_inset
@@ -8618,8 +8759,8 @@ There are more logically possible alternatives, of which only some make
  catching a ball, which is available for motor output, but not necessarily
  for cognition or attention -- notably, this is not a function of the brain,
  but of the autonomic nervous system).
- The combinations mentioned here however are “identifying the phenomenologically
- most interesting terms.”
+ The combinations mentioned here however are, according to Metzinger, “identifyi
+ng the phenomenologically most interesting terms.”
 \begin_inset Foot
 status open
 
@@ -8632,7 +8773,7 @@ key "Metzinger2003"
 \end_inset
 
 , page 90.
- The three not mentioned (counting 
+ The three combinations not mentioned (counting 
 \begin_inset Quotes eld
 \end_inset
 
@@ -8656,8 +8797,8 @@ Qualia are reducible
 \begin_layout Standard
 For Metzinger, qualia (understood as noncategorizable, but attentionally
  available forms of sensory content) are reducible in principle.
- He suggests tackling that issue by finding the physical structures upon
- which sensory content locally supervenes,
+ He suggests tackling the issue of reducing them to physicalist terms by
+ finding the physical structures upon which sensory content locally supervenes,
 \begin_inset Foot
 status open
 
@@ -8757,19 +8898,7 @@ l content) is
 \emph on
 ineffable
 \emph default
-.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-Metzinger exclaims in 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Metzinger2003"
-
-\end_inset
-
-, page 95:
+:
 \end_layout
 
 \begin_layout Quote
@@ -8794,6 +8923,18 @@ you
  information, and in the fine structure exhibited by the temporal dynamics
  characterizing it, it is at the same time limited by being hidden from
  the interpersonal world of linguistic communication.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Metzinger2003"
+
+\end_inset
+
+, page 95, emphasis his.
 \end_layout
 
 \end_inset
@@ -8854,7 +8995,11 @@ reference "Convolved-holism"
 \begin_layout Standard
 Phenomenal presentational content then is experienced from a first-person
  point of view, but it is important to recognize that this can not mean
- that it is presented to an entity (say, a homunculus).
+ that it is presented 
+\emph on
+to
+\emph default
+ an entity (say, a homunculus).
  Moreover, it is not simply property exemplification -- because that would
  already imply that those properties could be compared to each other, requiring
  transtemporal and logical identity criteria.
@@ -8962,8 +9107,8 @@ key "Metzinger2003"
 
 \begin_layout Standard
 This is a rather mathematical description.
- However, the idea that qualia as such don't exist, but rather every recognizabl
-e quale corresponds to a (non-divisible by introspection) volume in this
+ However, the idea that qualia as such do not exist, but rather every recognizab
+le quale corresponds to a (non-divisible by introspection) volume in this
  
 \begin_inset Quotes eld
 \end_inset
@@ -9008,7 +9153,11 @@ the way a piano sounds
 \end_inset
 
  As such, presentational content is always temporal content, too, in that
- it presents what happens right now.
+ it presents what happens 
+\emph on
+right now
+\emph default
+.
 \end_layout
 
 \begin_layout Standard
@@ -9064,7 +9213,7 @@ For Metzinger, my approach (and in particular the order of the chapters)
  It is not phenomenality that enables the perception of qualia, but rather,
  presentational content (which can be experienced as qualia) is the foundation
  of phenomenality.
- This is one of the major changes I made to the order of partial concepts
+ This is one of the major changes I make to the order of partial concepts
  in the summary in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
@@ -9082,9 +9231,15 @@ Consolidation
 \begin_layout Standard
 Qualia were a somewhat diffuse topic when they were first introduced, and
  the issue is still quite complex.
+ Evidence and thought experiments contradict the idea that qualia are atomic
+ metaphysical entities that experience is made of.
  Dennett felt this was sufficient to totally abandon the term, while Metzinger
- on the other hand redefined them and gave them a less metaphysical meaning.
- Let us look closer at how exactly their views differ.
+ on the other hand redefined `qualia' and gave them a less metaphysical
+ meaning.
+\end_layout
+
+\begin_layout Standard
+Let us look closer at how exactly their views differ.
  Both philosopher's concepts share some similarities:
 \end_layout
 
@@ -9113,7 +9268,7 @@ qualia
 \end_inset
 
  an ontological legimitation, namely, that of a specific categorizable and
- transtermporally comparable volume in quality space.
+ transtemporally comparable volume in quality space.
  Still, Metzinger attempts to analyze them and says that that there is nothing
  atomical about them; rather, they are merely paradigmatic definitions of
  arbitrary abstraction.
@@ -9133,10 +9288,46 @@ ly specified and conceptualized.
 \begin_layout Standard
 Metzinger allows an intersubjective view at qualia, and even presentational
  content: These entities can be intersubjectively individuated by means
- of the neural correlates they supervene on, and their functional role.
- However, the specific what-is-it-like-ness is only available from the first
- person point of view.
- Dennett goes a lot further and states that all such experiential content
+ of the neural correlates they supervene on,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Local-supervenience"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ and their functional role.
+ However, the specific what-is-it-like-ness
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Lewis-Qualia"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ is only available from the first person point of view.
+\end_layout
+
+\begin_layout Standard
+Dennett goes a lot further and states that all such experiential content
  is not only intersubjectivizable, but understandable in its entirety by
  any other conscious system, even if this other system has completely different
  dispositions and experiential contents.
@@ -9153,15 +9344,7 @@ The difference between appreciation and description
 \end_layout
 
 \begin_layout Standard
-Essentially, Dennett postulates that 
-\begin_inset Quotes eld
-\end_inset
-
-appreciation
-\begin_inset Quotes erd
-\end_inset
-
- (see chapter 
+Essentially, Dennett postulates that `appreciation' (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Dennett-Disqualifying-Qualia"
@@ -9170,23 +9353,8 @@ reference "Dennett-Disqualifying-Qualia"
 
 ) is the same as understanding a description, meaning that a description
  is able to comprise all aspects of an experiential content, and that reading
- such a description enables a conscious system to 
-\begin_inset Quotes eld
-\end_inset
-
-fully relive
-\begin_inset Quotes erd
-\end_inset
-
- (which seems to be the proper way to read 
-\begin_inset Quotes eld
-\end_inset
-
-appreciate
-\begin_inset Quotes erd
-\end_inset
-
-) those contents.
+ such a description enables a conscious system to `fully relive' (which
+ seems to be the proper way to read `appreciate') those contents.
 \end_layout
 
 \begin_layout Standard
@@ -9279,8 +9447,8 @@ status open
 
 \begin_layout Plain Layout
 Note that due to the fact that the brain rarely does only one thing at once,
- even this task will be hard -- although not impossible, probably best achievabl
-e through differential analysis of a series of tests.
+ even this task will be hard -- yet not impossible, probably best achievable
+ through differential analysis of a series of tests.
 \end_layout
 
 \end_inset
@@ -9310,38 +9478,38 @@ key "Dawkins1982"
 \end_inset
 
 ) we are talking about, not a genotype.
- Thus even completely understanding the human brain
+ Thus even completely understanding the human brain in general (and not
+ the specific brain that had the experience in-depth) would not be enough.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Assuming we are talking about the kinds of qualia that specific humans have.
+This argumentation is assuming that we are talking about the kinds of qualia
+ that 
+\emph on
+specific
+\emph default
+ humans have.
+ Since the particular kinds of memories and associations any event triggers
+ is different from human to human, this appears to make sense.
 \end_layout
 
 \end_inset
 
- in general (and not the specific brain that had the experience in-depth)
- would not be enough.
+
 \end_layout
 
 \begin_layout Standard
 Moreover, if we were ever to obtain such a complete description of all functiona
 l roles and neural correlates of a certain experiential content, the only
- way to 
-\begin_inset Quotes eld
-\end_inset
-
-relive
-\begin_inset Quotes erd
-\end_inset
-
-
+ way to `relive'
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-This would need to be an exact repetition of all the conceptual and nonconceptua
-l mental contents, including a sense of self-identification.
+Really appreciating and thus reliving a description would need to be an
+ exact repetition of all the conceptual and nonconceptual mental contents,
+ including a sense of self-identification.
 \end_layout
 
 \end_inset
@@ -9362,6 +9530,41 @@ same
  Ultimately, this means that a brain which is exactly the same has to be
  the one reliving the content, as otherwise, at least some of the (many
  and complex) functional roles will be different.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I made an example of this in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Gloor2007"
+
+\end_inset
+
+, page 24, referring to Searle using a hamburger in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Searle1980"
+
+\end_inset
+
+:
+\end_layout
+
+\begin_layout Quote
+There's other things too that aren't even intersubjective (or, even less
+ intersubjective than the attributes already mentioned).
+ For instance, one person might like hamburgers while another one doesn't,
+ for one person the first intuition with hamburgers is Krusty Burgers while
+ another one thinks of Burger Queen first, one attributes “tastes good”
+ and another one “makes fat” as a first thought -- human memory systems
+ are very different in that aspect, just like any other, and every person
+ has a different mental image when thinking about the same things.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -9408,11 +9611,27 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Subsubsection
-Dennett's multiple drafts and qualia
+Dennett's 
+\begin_inset Quotes eld
+\end_inset
+
+multiple drafts
+\begin_inset Quotes erd
+\end_inset
+
+ and qualia
 \end_layout
 
 \begin_layout Standard
-Dennett's multiple drafts model from chapter 
+Dennett's 
+\begin_inset Quotes eld
+\end_inset
+
+multiple drafts
+\begin_inset Quotes erd
+\end_inset
+
+ model from chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Multiple-drafts"
@@ -9420,11 +9639,28 @@ reference "Multiple-drafts"
 \end_inset
 
  seems to be an adequate description of what happens in the brain, and can
- and should act as a replacement for the concept of cartesian theaters.
+ and should act as a replacement for the concept of Cartesian theaters.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+I described Dennett's concept of the Cartesian theater in a footnote in
+ chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Multiple-drafts"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
  It takes the massive distributed parallelism in our brains into account,
- and computational models based on it (or rather, based on the same thoughts
- and paradigms) seem to prove the case for Dennett's theory -- a fine example
- is Watt's research into auditory pathways,
+ and computational models based on it (or rather, models based on the same
+ thoughts and paradigms) seem to prove the case for Dennett's theory.
+ A fine example is Watt's research into auditory pathways,
 \begin_inset Foot
 status open
 
@@ -9458,6 +9694,47 @@ key "Kurzweil2001"
  where intermediate representations are reliably constructed and multiple
  versions of the data are available for further processing (which versions,
  in his case, include visualization and probably logging).
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+An interesting difference is that in this case, the observing the process
+ does not alter it, which is a big difference to observing our own internal
+ processes through introspection.
+ Dennett points this out in 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 407, referring to the thought experiment I cited in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Qualia"
+
+\end_inset
+
+: 
+\begin_inset Quotes eld
+\end_inset
+
+Had we probed earlier -- had the author picked up a tape recorder while
+ he sat rocking, and produced the text there and then -- it would surely
+ have been quite different.
+ Not only richer in detail, and messier, but also, of course, reshaped and
+ redirected by the author's own reactions to the very process of creating
+ the text -- listening to the actual sounds of his own words instead of
+ musing silently.
+\begin_inset Quotes erd
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -9548,8 +9825,8 @@ occurrent pink
 \begin_inset Quotes erd
 \end_inset
 
- would need to be included in popular science -- because unlike Sellars,
- but like Metzinger,
+ would need to be included in popular science.
+ Unlike Sellars, but like Metzinger,
 \begin_inset Foot
 status open
 
@@ -9581,7 +9858,9 @@ key "Dennett1991"
 \end_inset
 
  Dennett is not opposed to the idea that us making judgements about a color
- is all there is to color vision.
+ is all there is to color vision, but he is also convinced that color vision
+ (or rather, our capabilities of making judgements about a color influenced
+ by the external world) co-evolved with colored entities in the world.
 \end_layout
 
 \begin_layout Standard
@@ -9760,7 +10039,7 @@ onal point of view.
 
 \end_inset
 
-It is, however, not a theory that really makes qualia obsolete.
+ It is, however, not a theory that really makes qualia obsolete.
 \end_layout
 
 \begin_layout Subsubsection
@@ -9782,8 +10061,8 @@ According to Metzinger, qualia are reducible in principle, once we agree
 \begin_layout Standard
 However, they still are a necessary discriminatory step.
  We have a metaphorical quality space in which phenomenal presentational
- content occurs, and we are able to conceptualize volumes within that quality
- space transtemporally.
+ content occurs, and we are able to phenomenally conceptualize volumes within
+ that quality space transtemporally.
 \begin_inset Foot
 status open
 
@@ -9838,24 +10117,7 @@ key "Dennett1991"
 \end_inset
 
  Regardless of whether they are primary or secondary however, there are
- ontologically legitimate
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-With the reservations that I made in chapter 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Epistemology"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
- qualia of 
+ ontologically legitimate qualia of 
 \begin_inset Quotes eld
 \end_inset
 
@@ -9878,15 +10140,14 @@ To conclude, qualia are at the same time reducible and necessary -- a rather
 \end_layout
 
 \begin_layout Standard
-And, being categorizable unlike many forms of direct sensory perception,
- qualia
+And, being categorizable
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-At least Lewis qualia are, whereas Metzinger and Raffman qualia are precisely
- the kinds of sensory perception that are non-categorizable -- see chapter
- 
+At least Lewis qualia are categorizable, whereas Metzinger and Raffman qualia
+ are precisely the kinds of sensory perception that are non-categorizable
+ -- see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Kinds-of-Qualia"
@@ -9898,7 +10159,8 @@ reference "Kinds-of-Qualia"
 
 \end_inset
 
- are what our memories are made of.
+ unlike many forms of direct sensory perception, qualia are what our memories
+ are made of.
 \end_layout
 
 \begin_layout Standard
