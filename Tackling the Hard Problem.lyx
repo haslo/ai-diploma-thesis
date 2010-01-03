@@ -16639,7 +16639,7 @@ Conclusions
 The goal of this thesis is an analysis of the semantic field that surrounds
  consciousness.
  Phenomenology, qualia, subjectivity, intentionality -- they all have common
- sense meanings (see chapter 
+ sense meanings (see part 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "The-Four-Questions"
@@ -16709,7 +16709,7 @@ reference "Prereflexive-Proto-Self"
 
 \end_inset
 
- while simultaneously is also what enables the higher levels of the self-model.
+ while it simultaneously is what enables the higher levels of the self-model.
 \begin_inset Foot
 status open
 
@@ -16785,7 +16785,7 @@ reference "PMIR"
 \begin_layout Standard
 With this knowledge in place, it becomes apparent that we need to structure
  our summary with some differences to the analysis itself, and that we have
- to introduce some added complexity as well.
+ to introduce some additional levels.
 \end_layout
 
 \begin_layout Standard
@@ -16846,8 +16846,8 @@ reference "Perspectivalness"
 \end_inset
 
  as well.
- I am of course referring to the still not fully understood prereflexive
- proto self-model (see chapter 
+ I am referring to the still not fully understood prereflexive proto self-model
+ (see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Prereflexive-Proto-Self"
@@ -17337,20 +17337,34 @@ reference "Six-levels-of-self"
 \end_layout
 
 \begin_layout Enumerate
-`Learned Reactions' - forming a simple self-model that has the bipartition
+`Learned Reactions' - forming a simple self-model that includes the bipartition
  between self and world.
 \end_layout
 
 \begin_layout Standard
 These levels are necessarily entirely transparent, because as soon as we
  want to add opacity, we need a way to relate to the opaque parts -- which
- is only possible if we can model intentionality.
+ is only possible if we can model intentionality, and intentionality is
+ only added in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Summary-Intentionality"
+
+\end_inset
+
+.
  Basic subjectivity, however, is more than the prereflexive proto self-model,
  in that it incorporates sensory input and allows processing it in various
  ways.
 \end_layout
 
 \begin_layout Subsection
+\begin_inset CommandInset label
+LatexCommand label
+name "Summary-Intentionality"
+
+\end_inset
+
 Intentionality
 \end_layout
 
@@ -17404,8 +17418,11 @@ reference "Phenomenalizing-Intentionality"
  Thus, if we want a rational theory, we have but one choice: The theory
  has to refrain from relying on intrinsic intentionality, and consequently,
  we need a replacement.
- Conveniently, we have one in Metzinger's phenomenal model of the intentionality
- relation:
+\end_layout
+
+\begin_layout Standard
+Conveniently, we have a replacement in Metzinger's phenomenal model of the
+ intentionality relation:
 \begin_inset Foot
 status open
 
@@ -17476,7 +17493,7 @@ kind
  of such relation -- having an attitude specificator (for propositional
  attitude psychology) or intentional content (for Husserlian phenomenality).
  These kinds of relations in turn are presented as equivalence classes that
- the system can represent and consequently analyze by making them object
+ the system can represent, and consequently analyze, by making them object
  components of a phenomenal model of an intentionality relation of their
  own.
 \end_layout
@@ -17585,7 +17602,7 @@ does
 \emph default
  subdivide it (meaning that qualia cannot possibly be atomic and undivisible),
  qualia still have legitimation as the concept of volumes of qualitative
- space, as borders of concept formative capabilities of a system.
+ space, as borders of the concept formative capabilities of a system.
 \end_layout
 
 \begin_layout Standard
@@ -18152,7 +18169,10 @@ The modified form of the adaptivity constraint built upon this criterion
  phenomenal subjective experience if it does not exhibit any behaviours
  that we would expect from a system capable of that, which is, behaviours
  that are beneficial for the survival and integrity of the system.
- Conversely, an instinct-driven system that exhibits all the characteristics
+\end_layout
+
+\begin_layout Standard
+Conversely, an instinct-driven system that exhibits all the characteristics
  of one, but also has phenomenal subjective experience that is unrelated
  to the capability to survive, would be classified as merely instinct-driven
  and again, we would not perceive it as being conscious.
@@ -18181,6 +18201,8 @@ Such a system would probably vanish within a relatively short time frame.
 \end_inset
 
  and one that we would classify as a conscious system.
+ The modified adaptivity constraint is what consciousness visible from outside
+ the system.
 \end_layout
 
 \begin_layout Subsection
@@ -18212,7 +18234,11 @@ reference "On-dualism"
  that a causal connection between mental entities and physical entities
  exists, which is necessary for our thoughts and wishes having any influence
  over the way our body acts, it follows necessarily that they need potentially
- traceable causal links.
+ 
+\emph on
+traceable
+\emph default
+ causal links.
  This means that if there are domain borders to cross between the two kinds
  of entities, there need to be causally analyzable ways to cross these domain
  borders -- both bottom-up from neural pathways to mental concepts, and
@@ -18342,8 +18368,23 @@ there is a spirit in this machine that allows it to process words and images,
 \end_layout
 
 \begin_layout Standard
-This in fact leads to a special kind of conceptual dualism that, I believe,
- is implicit all of the work of all three philosophers
+This is a more thorough way of stating what chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Qualia-Still-Necessary"
+
+\end_inset
+
+ hinted at: Phenomenal presentational content might be reducible in principle,
+ but not necessarily easily so.
+ Thus qualia simplify talking about the abstract, supervening level, without
+ having to worry about the physicalist and complex details.
+\end_layout
+
+\begin_layout Standard
+This conclusion in fact leads to this thesis defending a special kind of
+ conceptual dualism which, I believe, is implicit all of the work of all
+ three philosophers
 \begin_inset Foot
 status open
 
@@ -18353,8 +18394,7 @@ These three are of course Metzinger, Dennett and Minsky.
 
 \end_inset
 
- that are the foundation of this thesis, and consequently also implied in
- my conclusions.
+ that are the foundation of my argumentation.
 \end_layout
 
 \begin_layout Subsection
@@ -18365,7 +18405,7 @@ The hard problem demystified?
 Certainly I do not mean to claim that I have given all the answers, or that
  I have been able to give more than just some hints of what exactly it is
  that makes subjective consciousness possible and phenomenally interesting.
- Yet I believe that I have made these first pointers explicit.
+ Yet I believe that I have made some first pointers to that end explicit.
 \end_layout
 
 \begin_layout Standard
@@ -18398,21 +18438,16 @@ Personally, I never understood why we should be so convinced that we are
  special in some way, nor why other, artificial or postbiotic systems should
  be excluded from the club of the entities that can potentially be intelligent.
  There is just no rational reason for that.
- There is a legitimation of course, the all too human fear that we could
- suddenly be superfluous.
-\begin_inset Foot
-status open
+ There is a 
+\emph on
+legitimation
+\emph default
+ of course, the all too human fear that we could suddenly be superfluous:
+\end_layout
 
-\begin_layout Plain Layout
-Quoting Bill Joy in 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Joy2000"
-
-\end_inset
-
-: “What we do suggest is that the human race might easily permit itself
- to drift into a position of such dependence on the machines that it would
+\begin_layout Quote
+What we do suggest is that the human race might easily permit itself to
+ drift into a position of such dependence on the machines that it would
  have no practical choice but to accept all of the machines' decisions.
  As society and the problems that face it become more and more complex and
  machines become more and more intelligent, people will let machines make
@@ -18421,7 +18456,19 @@ key "Joy2000"
  Eventually a stage may be reached at which the decisions necessary to keep
  the system running will be so complex that human beings will be incapable
  of making them intelligently.
- At that stage the machines will be in effective control.”
+ At that stage the machines will be in effective control.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Joy2000"
+
+\end_inset
+
+.
 \end_layout
 
 \end_inset
@@ -18430,12 +18477,19 @@ key "Joy2000"
 \end_layout
 
 \begin_layout Standard
-However, if we do not try to find out whether these other systems can be
- intelligent, and then talk about what exactly the premises are that make
- it impossible for them to be intelligent based on information and not doubt,
- we can nott possibly know, and we should admit that.
- Arguably, Searle's “special causal powers” do not explain a lot, particularly
- not if they are defined as the unexplicable things that make it impossible
+However, all we can do is try to find out whether these other systems can
+ be intelligent, and then talk about what exactly the premises are (if there
+ are any) that make it impossible for them to be intelligent, based on informati
+on and not doubt.
+ We should admit that as long as no proof either way exists, we do not know
+ for sure which systems can potentially be conscious.
+ This thesis and the theory presented certainly points towards more kinds
+ of systems having this potential than previously suggested.
+\end_layout
+
+\begin_layout Standard
+Arguably, Searle's “special causal powers” do not explain a lot, particularly
+ not if they are defined as the inexplicable things that make it impossible
  for these other systems to be intelligent.
 \end_layout
 
@@ -18455,7 +18509,7 @@ We need to be on the way towards a better understanding of the hard problem
 \end_layout
 
 \begin_layout Standard
-I believe that the summary from chapter 
+I hope that the summary from chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Summary"
