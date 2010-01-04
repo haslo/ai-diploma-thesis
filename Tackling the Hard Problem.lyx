@@ -21,14 +21,31 @@
 \graphics default
 \paperfontsize default
 \spacing single
-\use_hyperref false
-\papersize default
-\use_geometry false
+\use_hyperref true
+\pdf_title "Tackling the Hard Problem of Consciousness"
+\pdf_author "Guido Gloor Modjib"
+\pdf_subject "What it is that makes us phenomenal subjects of experience, from a rational-causalist point of view"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen false
+\pdf_bookmarksopenlevel 1
+\pdf_breaklinks true
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref false
+\pdf_pdfusetitle true
+\papersize a4paper
+\use_geometry true
 \use_amsmath 1
 \use_esint 1
 \cite_engine basic
 \use_bibtopic false
 \paperorientation portrait
+\leftmargin 3cm
+\topmargin 3.5cm
+\rightmargin 3cm
+\bottommargin 3.5cm
+\footskip 1cm
 \secnumdepth 3
 \tocdepth 3
 \paragraph_separation indent
@@ -6672,36 +6689,15 @@ reference "Transparency"
 I do not deny the importance of evolution for today's kind of intelligence.
  It certainly seems to have been essential, both as a driving force and
  a shaping constraint.
- However, even from a purely teleofunctionalist point of view, 
-\begin_inset Quotes eld
-\end_inset
-
-proper history
-\begin_inset Quotes erd
-\end_inset
-
+ However, even from a purely teleofunctionalist point of view, `proper history'
  cannot be a criterion for the degree of intentionality a system possesses.
 \end_layout
 
 \begin_layout Standard
-\begin_inset Quotes eld
-\end_inset
-
-Fitness for purpose,
-\begin_inset Quotes erd
-\end_inset
-
- however, can be, even if we are talking about intuitively non-replicable
- things like emotions (which, essentially, are nothing but 
-\begin_inset Quotes eld
-\end_inset
-
-logic of survival
-\begin_inset Quotes erd
-\end_inset
-
- indicators) or qualia -- and as such, I would like to propose a weaker
- form of Metzinger's adaptivity constraint.
+`Fitness for purpose,' however, can be, even if we are talking about intuitively
+ non-replicable things like emotions (which, essentially, are nothing but
+ `logic of survival' indicators) or qualia -- and as such, I would like
+ to propose a weaker form of Metzinger's adaptivity constraint.
  While an organism may pursue the goals of its ancestors, while this may
  be important for all of today's biological sentient systems (including
  humans), it is not necessary for other, as of yet unknown, kinds of proper
@@ -6736,24 +6732,9 @@ good
 \begin_inset Quotes erd
 \end_inset
 
- is defined as 
-\begin_inset Quotes eld
-\end_inset
-
-beneficial for survival
-\begin_inset Quotes erd
-\end_inset
-
-.
- Metzinger does not explore this further, but 
-\begin_inset Quotes eld
-\end_inset
-
-fitness for purpose
-\begin_inset Quotes erd
-\end_inset
-
- seems to be a fitting description of his intentions at this point.
+ is defined as `beneficial for survival.' Metzinger does not explore this
+ further, but `fitness for purpose' seems to be a fitting description of
+ his intentions at this point.
 \end_layout
 
 \end_inset
@@ -6913,24 +6894,9 @@ Mental objects can be directed at objects in the world
 status open
 
 \begin_layout Plain Layout
-These models are in turn created by things in the world that 
-\begin_inset Quotes eld
-\end_inset
-
-enter
-\begin_inset Quotes erd
-\end_inset
-
- the 
-\begin_inset Quotes eld
-\end_inset
-
-mental space
-\begin_inset Quotes erd
-\end_inset
-
- via physically analyzable pathways, for example light hitting light-detecting
- nerve cells in the eye.
+These models are in turn created by things in the world that `enter' the
+ `mental space' via physically analyzable pathways, for example light hitting
+ light-detecting nerve cells in the eye.
 \end_layout
 
 \end_inset
@@ -8309,7 +8275,7 @@ key "Dennett1991"
 \end_inset
 
 , page 397.
- Dennett writes ibd: 
+ Dennett writes ibd.: 
 \begin_inset Quotes eld
 \end_inset
 
@@ -9993,52 +9959,23 @@ M
 status open
 
 \begin_layout Plain Layout
-Even though it has multiple steps, these are processed in parallel, except
- when one process has to wait for the results of another.
+Even though the detecting procedure has multiple steps, these are processed
+ in parallel, except when one process has to wait for the results of another.
 \end_layout
 
 \end_inset
 
- which finds 
-\begin_inset Quotes eld
-\end_inset
-
-easy
-\begin_inset Quotes erd
-\end_inset
-
- properties first and 
-\begin_inset Quotes eld
-\end_inset
-
-hard
-\begin_inset Quotes erd
-\end_inset
-
- properties later.
+ which finds `easy' properties first and `hard' properties later.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Note how 
-\begin_inset Quotes eld
-\end_inset
-
-easy
-\begin_inset Quotes erd
-\end_inset
-
- and 
-\begin_inset Quotes eld
-\end_inset
-
-hard
-\begin_inset Quotes erd
-\end_inset
-
- do not have to correspond to the perceived complexity of the processing
- steps involved, but rather with how optimized the system in question is
- for solving them.
+Note how `easy' and `hard' do not have to correspond to the 
+\emph on
+perceived
+\emph default
+ complexity of the processing steps involved, but rather with how optimized
+ the system in question is for solving them.
  Things like detecting that the shape in front of us is a face which is
  looking to the right and belongs to your grandmother is a very complex
  and complicated thing, while playing chess is comparably easy, from a computati
@@ -10350,8 +10287,9 @@ res extensa
 
 \begin_layout Standard
 These entities are distinct from each other because Descartes can perceive
- them clearly as being distinct, and God can form such distinct entities
- that are nonetheless linked.
+ them clearly as being distinct (which would not be allowed by God if it
+ were not true), and God can form such distinct entities that are nonetheless
+ linked.
  Furthermore, ideas of external entities are only formed within the 
 \emph on
 res cogitans
@@ -10361,23 +10299,6 @@ res cogitans
  Both these (in this thesis, very bluntly put) argumentations rely on the
  truthfulness and benevolence of God, of which further proof is attempted
  earlier in Descartes' work.
-\begin_inset Foot
-status open
-
-\begin_layout Plain Layout
-See 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Descartes1641"
-
-\end_inset
-
-.
-\end_layout
-
-\end_inset
-
-
 \end_layout
 
 \begin_layout Standard
@@ -10387,8 +10308,7 @@ However, as soon as we include omnipotence in a theory, we can just as well
 \end_layout
 
 \begin_layout Standard
-There are more modern dualist argumentations that do not require supernatural
- entities (and thus better satisfy Occam's Razor).
+There are more modern dualist argumentations
 \begin_inset Foot
 status open
 
@@ -10402,6 +10322,21 @@ Those more modern theories include, among others: epiphenomenalism (first
 
 \end_inset
 
+ that do not require supernatural entities (and thus better satisfy Occam's
+ Razor
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Attributed to William of Ockham, Occam's Razor is the postulation that “entities
+ must not be multiplied beyond necessity,” a guideline that states that
+ often, simpler theories with less dogmating settings are better than more
+ complicated ones, if both kinds are able to explain the same results.
+\end_layout
+
+\end_inset
+
+).
  But even if we assume a rational explanation and proper scientific methodology,
  substance dualism, which is the kind of dualism at the focus of this discussion
 ,
@@ -14175,7 +14110,7 @@ suitcase words
 status open
 
 \begin_layout Plain Layout
-Suitcase words are a concept that Minsky introduces.
+“Suitcase words” are a concept that Minsky introduces.
  Essentially, an entire suitcase of concepts fits onto one word, which we
  learned to know without thinking about it; dissecting that word is hardly
  possible because the concepts the word implies do not even necessarily
@@ -14254,17 +14189,9 @@ I believe that it is a slight bit of a philosopher's delusion to presume
  that everybody thinks about it with that intentional arrow pointing out
  of our heads.
  When talking with fellow computer scientists, I often find it hard to persuade
- them that it is not merely a case of 
-\begin_inset Quotes eld
-\end_inset
-
-wandering focus.
-\begin_inset Quotes erd
-\end_inset
-
- I believe that both descriptions hold merit, but will stay true to the
- philosophical nature of this thesis and use the intentional experience
- of 
+ them that it is not merely a case of `wandering focus.' I believe that both
+ descriptions hold merit, but will stay true to the philosophical nature
+ of this thesis and use the intentional experience of 
 \emph on
 directedness
 \emph default
@@ -15979,7 +15906,7 @@ Well, then, what does rotting chicken smell like to a turkey vulture? [...]
 status open
 
 \begin_layout Plain Layout
-Citation from 
+Citation from the online version of 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett1995"
@@ -17728,8 +17655,9 @@ setcounter{enumi}{3}
 status open
 
 \begin_layout Plain Layout
-Or rather, the processes currently executing those process descriptions
- that enable the system to satisfy the dynamicity constraint.
+More specificially, what I am talking about here are the processes currently
+ executing those process descriptions that enable the system to satisfy
+ the dynamicity constraint.
 \end_layout
 
 \end_inset
@@ -17739,12 +17667,16 @@ Or rather, the processes currently executing those process descriptions
 status open
 
 \begin_layout Plain Layout
-A stream of thought is just such a process in the brain, initiated originally
+A stream of thought is just such a process in the brain, often initiated
  by some form of sensory input (which is experienced as presentational content
  and conceptualized as qualia).
- This sensory input can be of system-internal origin -- after all, our bodies
- never are truly immobile, at least the heart is beating incessantly.
- Self-initiated motor action also can lead to sensory inputs.
+ Arguably, all such processes are originally initiated by either another
+ process in the brain or some kind of sensory input (maybe triggered by
+ the autonomic nervous system), as something 
+\emph on
+must
+\emph default
+ be their origin.
 \end_layout
 
 \end_inset
@@ -18027,7 +17959,7 @@ reference "Summary-Basic-Phenomenality"
 status open
 
 \begin_layout Plain Layout
-Citation from 
+Citation from the online version of 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Searle1980"
@@ -18401,7 +18333,7 @@ This conclusion in fact leads to this thesis defending a special kind of
 status open
 
 \begin_layout Plain Layout
-These three are of course Metzinger, Dennett and Minsky.
+These three philosophers are of course Metzinger, Dennett and Minsky.
 \end_layout
 
 \end_inset
