@@ -1,4 +1,4 @@
-#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
+#LyX 1.6.5 created this file. For more info see http://www.lyx.org/
 \lyxformat 345
 \begin_document
 \begin_header
@@ -4450,8 +4450,9 @@ representation of intensities
 \end_inset
 
  constraint needs to represent an intensity dimension of phenomenally experience
-d entities as being one of the prime defining characteristics of its experience
- of that entity.
+d entities.
+ For each such represented entity, this intensity dimension must be the
+ prime defining characteristic.
 \end_layout
 
 \begin_layout Subsubsection
