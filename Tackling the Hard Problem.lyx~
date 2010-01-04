@@ -1026,7 +1026,7 @@ first
 status open
 
 \begin_layout Plain Layout
-Citation from 
+Citation from the online version of 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett2003"
@@ -2521,7 +2521,7 @@ key "Evans2006"
 Metzinger thus talks about a very specific meaning of Now when he introduces
  this three seconds rule -- three seconds appear to be the longest possible
  timespan that we can possibly still experience as being part of the same
- epistemical moment.
+ phenomenal moment.
 \end_layout
 
 \begin_layout Standard
@@ -4126,7 +4126,7 @@ internal representation of goal states
 status open
 
 \begin_layout Plain Layout
-Nomenclature by 
+Citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
@@ -4303,7 +4303,7 @@ analogue representation.
 status open
 
 \begin_layout Plain Layout
-Nomenclature by 
+Citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Metzinger2003"
@@ -4334,7 +4334,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, page 101f, where Metzinger refers to 
+, pages 101f, where Metzinger refers to 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Hochberg1951"
@@ -4937,7 +4937,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, page 200f.
+, pages 200f.
 \end_layout
 
 \end_inset
@@ -5261,7 +5261,24 @@ reference "Weaker-Adaptivity"
 status open
 
 \begin_layout Plain Layout
-I guess that Metzinger would not agree to this conclusion, however.
+I guess that Metzinger would not agree with this conclusion, considering
+ the effort he put into stressing the importance of the adaptivity constraint.
+ He would probably see it as a prerequisite for any consciousness whatsoever.
+ See chapters 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Adaptivity"
+
+\end_inset
+
+ and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Adaptivity-Questioned"
+
+\end_inset
+
+.
 \end_layout
 
 \end_inset
@@ -5670,7 +5687,7 @@ Lone-wolf autophenomenology, in which the subject and experimenter are one
 status open
 
 \begin_layout Plain Layout
-Citation from 
+Citation from the online version of 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett2003"
@@ -10908,7 +10925,7 @@ center of narrative gravity for a narrative-spinning human body,
 status open
 
 \begin_layout Plain Layout
-Nomenclature by 
+Citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett1991"
