@@ -1,4 +1,4 @@
-#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
+#LyX 1.6.5 created this file. For more info see http://www.lyx.org/
 \lyxformat 345
 \begin_document
 \begin_header
@@ -2445,34 +2445,33 @@ key "Metzinger2003"
 \end_layout
 
 \begin_layout Standard
-For human beings, the concept of Now has a duration of maximally three seconds
- which is culturally invariant and thus must have biological causes.
+For human beings, the concept of Now thus has a duration of maximally three
+ seconds which is culturally invariant and thus must have biological causes.
+ This proposal of Metzinger fits in nicely with neurophysiological research
+ for example by E.
+ Pöppel,
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-This proposal of Metzinger fits in nicely with neurophysiological research
- for example by E.
- Pöppel (see 
+See 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Poeppel1994"
 
 \end_inset
 
-), which was summarized as follows by V.
- Evans in 
-\begin_inset CommandInset citation
-LatexCommand cite
-key "Evans2006"
+.
+\end_layout
 
 \end_inset
 
-, page 26:
+ which was summarized as follows by V.
+ Evans:
 \end_layout
 
 \begin_layout Quote
-Pöppel (1994) has argued that two kinsd of perceptual moment can be distinguishe
+Pöppel (1994) has argued that two kinds of perceptual moment can be distinguishe
 d.
  The first, 
 \noun on
@@ -2499,25 +2498,36 @@ temporal binding
  (as opposed to the binding spatially-distributed activities).
  He proposes that it is the perceptual moment of approximately 2-3 seconds
  to which the concept of the present (our experience of now) can be traced.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Citation from 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Evans2006"
+
+\end_inset
+
+, page 26.
 \end_layout
 
 \end_inset
 
- This resolution of the cognitive moment is however not the same as the
- resolution with which we can experience different events; we can distinguish
- them in much shorter time intervals, and depending on the context, longer
- or shorter intervals will be subjectively experienced as belonging to the
- same moment.
- Metzinger thus talks about a very specific meaning of Now when he introduces
- this three seconds rule -- three seconds appear to be the longest possible
- timespan that we can possibly still experience as being part of the same
- moment:
+
 \end_layout
 
 \begin_layout Standard
-On the other hand, as Metzinger also points out, a complete physical description
- of the universe would not have to include any notion of Now -- the concept
- merely creates 
+Metzinger thus talks about a very specific meaning of Now when he introduces
+ this three seconds rule -- three seconds appear to be the longest possible
+ timespan that we can possibly still experience as being part of the same
+ epistemical moment.
+\end_layout
+
+\begin_layout Standard
+As Metzinger also points out, a complete physical description of the universe
+ would not have to include any notion of Now -- the concept merely creates
+ 
 \begin_inset Quotes eld
 \end_inset
 
@@ -4450,8 +4460,9 @@ representation of intensities
 \end_inset
 
  constraint needs to represent an intensity dimension of phenomenally experience
-d entities as being one of the prime defining characteristics of its experience
- of that entity.
+d entities.
+ For each such represented entity, this intensity dimension must be the
+ prime defining characteristic.
 \end_layout
 
 \begin_layout Subsubsection
