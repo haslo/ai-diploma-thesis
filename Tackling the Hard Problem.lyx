@@ -95,6 +95,18 @@ From a Rational-Causalist Point of View
 \begin_inset Newline newline
 \end_inset
 
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
 Diploma Thesis
 \begin_inset Newline newline
 \end_inset
@@ -106,6 +118,18 @@ phil.
 \end_inset
 
 University of Berne, Switzerland
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
 \begin_inset Newline newline
 \end_inset
 
@@ -157,6 +181,18 @@ Guido Gloor Modjib
 \begin_inset Newline newline
 \end_inset
 
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
+
+\begin_inset Newline newline
+\end_inset
+
 to Prof.
  Dr.
  Gerd Graßhoff
@@ -164,6 +200,36 @@ to Prof.
 \end_inset
 
 Department of Philosophy
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+thispagestyle{empty}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{Roman}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{0}
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -314,7 +380,9 @@ thank you
  to Daniela Reist, proofreader par excellence, and to Simon Bünzli and Stefan
  Aeschbacher, who cross-read the thesis, found plenty of errors and mistakes,
  and inspired whole additional chapters.
- 
+\end_layout
+
+\begin_layout Standard
 \begin_inset Newpage pagebreak
 \end_inset
 
@@ -329,6 +397,29 @@ LatexCommand tableofcontents
 
 \begin_layout Standard
 \begin_inset Newpage pagebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+pagenumbering{arabic}
+\end_layout
+
+\begin_layout Plain Layout
+
+
+\backslash
+setcounter{page}{1}
+\end_layout
+
 \end_inset
 
 
@@ -963,6 +1054,29 @@ key "GloorModjib2008"
 
 \begin_layout Itemize
 Immanent content, which is raw perceptive data.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Raw perceptive data in this sense is everything that reaches the system
+ from the outside, just the way it is first processed by the system's sensory
+ organs.
+ This means that the same object, perceived in to different situations,
+ will produce the same intentional object and potentially the same intentional
+ content, but not the same immanent content.
+ See 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Zahavi2003"
+
+\end_inset
+
+, pages 24-26.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -2847,8 +2961,45 @@ reference "Transparency"
 
 \begin_layout Standard
 Having just one single world model is a pretty efficient way of reducing
- chaos from incoming sensory data, reducing ambiguity, with the side effect
- of also reducing data and thus computational load.
+ chaos from incoming sensory data,
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+`Sensory data' here denotes all the data which is produced by sensory input
+ of any kind, the data produced by the nerve endings in sensory organs.
+ The distinction between sensory data and other kinds of data is not enormously
+ important however, particularly once the 
+\begin_inset Quotes eld
+\end_inset
+
+offline activation
+\begin_inset Quotes erd
+\end_inset
+
+ constraint is introduced in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Offline-activation"
+
+\end_inset
+
+.
+ For lower-level processes in the brain, it is all just data anyway.
+ See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Conceptual-Dualism"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ reducing ambiguity, with the side effect of also reducing data and thus
+ computational load.
  This is supported by empirical evidence: If two sources of contradictory
  information are made available to a human through different sensory channels,
 \begin_inset Foot
@@ -18210,7 +18361,21 @@ reference "Local-supervenience"
 \begin_layout Itemize
 We can discuss and analyze biological neural networks and how the brain
  works, figuring out the interdependences that various brain centers have,
- and the functional responsibilities different areas of the brain assume.
+ and the functional responsibilities which can be attributed to different
+ areas of the brain.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+At this level of description, what supervenes on the brain is, for the most
+ part, merely represented as abstract data contained in electric charges
+ of nerve cells.
+ The supervening `meaning' however is not important.
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Itemize
@@ -18220,15 +18385,7 @@ We can (as this thesis does) discuss and analyze phenomenal experience and
 \end_layout
 
 \begin_layout Standard
-In theory, it is possible to 
-\begin_inset Quotes eld
-\end_inset
-
-translate
-\begin_inset Quotes erd
-\end_inset
-
- from one level to the other.
+In theory, it is possible to `translate' from one level to the other.
  Metzinger already did some research concerning the physical-neurobiological
  implementation of each of his constraints,
 \begin_inset Foot
@@ -18304,6 +18461,14 @@ there is a spirit in this machine that allows it to process words and images,
 
  -- particularly when he does not have the source code of programs at his
  disposal, but only the compiled, cryptic and hardly decipherable end product.
+ Again, failure of imagination is not an insight into necessity (see 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 401).
 \end_layout
 
 \end_inset
@@ -18476,7 +18641,7 @@ reference "Summary"
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "Hard_Problem_References"
-options "plainnat"
+options "abbrvnat"
 
 \end_inset
 
