@@ -79,11 +79,22 @@
   timestamp = {2009.05.03}
 }
 
+@BOOK{2009,
+  title = {How your brain sees virtual you},
+  publisher = {New Scientist},
+  year = {2009},
+  author = {Ewen Callaway},
+  note = {http://www.newscientist.com/article/dn18117-how-your-brain-sees-virtual-you.html},
+  owner = {haslo},
+  timestamp = {2010.01.01}
+}
+
 @ARTICLE{Chrudzimski2005,
   author = {Arkadiusz Chrudzimski},
   title = {Brentano, Husserl und Ingarden über die intentionalen Gegenstände},
   journal = {Existence, culture, and persons},
   year = {2005},
+  note = {Available online at http://www.roman-ingarden.phils.uj.edu.pl/pliki/arkadiusz_chrudzimski_brentano_husserl_ingarden.pdf},
   owner = {haslo},
   timestamp = {2009.05.08}
 }
@@ -148,7 +159,7 @@
 
 @BOOK{Dawkins1976,
   title = {The Selfish Gene},
-  publisher = {Oxford University Press},
+  publisher = {Oxford: Oxford University Press},
   year = {1976},
   author = {Richard Dawkins},
   owner = {haslo},
@@ -193,7 +204,7 @@
 
 @BOOK{Dennett1991,
   title = {Consciousness Explained},
-  publisher = {Penguin Science},
+  publisher = {London: Penguin Science},
   year = {1991},
   author = {Daniel C. Dennett},
   owner = {haslo},
@@ -202,7 +213,7 @@
 
 @BOOK{Dennett1987,
   title = {The Intentional Stance},
-  publisher = {The MIT Press},
+  publisher = {Massachusetts: The MIT Press},
   year = {1987},
   author = {Daniel C. Dennett},
   owner = {haslo},
@@ -211,7 +222,8 @@
 
 @BOOK{Descartes1641,
   title = {Meditationes de prima philosophia},
-  year = {1641},
+  publisher = {Apud Danielem Elsevirium},
+  year = {1642},
   author = {René Descartes},
   owner = {haslo},
   timestamp = {2009.12.18}
@@ -227,14 +239,6 @@
   timestamp = {2009.06.01}
 }
 
-@BOOK{Dyson1979,
-  title = {Science and the Search for God Disturbing the Universe},
-  year = {1979},
-  author = {Freeman Dyson},
-  owner = {haslo},
-  timestamp = {2009.12.31}
-}
-
 @ARTICLE{Eldredge1972,
   author = {Eldredge, Niles and Gould, Stephen Jay},
   title = {Punctuated Equilibria: An Alternative to Phyletic Gradualism},
@@ -247,8 +251,8 @@
 
 @BOOK{Evans2006,
   title = {The structure of time: language, meaning, and temporal cognition},
-  publisher = {John Benjamins Publishing Co},
-  year = {2006},
+  publisher = {Amsterdam: John Benjamins Publishing Co},
+  year = {2003},
   author = {Vyvyan Evans},
   owner = {haslo},
   timestamp = {2010.01.02}
@@ -256,7 +260,7 @@
 
 @BOOK{Freud1923,
   title = {Das Ich und das Es},
-  publisher = {Internationaler Psychoanalytischer Verlag},
+  publisher = {Wien: Internationaler Psychoanalytischer Verlag},
   year = {1923},
   author = {Sigmund Freud},
   owner = {haslo},
@@ -316,10 +320,13 @@
   timestamp = {2009.06.05}
 }
 
-@BOOK{Hilbert1897,
-  title = {Zahlbericht},
-  year = {1897},
+@ARTICLE{Hilbert1897,
   author = {David Hilbert},
+  title = {Die Theorie der algebraischen Zahlkörper},
+  journal = {Jahresbericht der Deutschen Mathematikervereinigung},
+  year = {1897},
+  volume = {4},
+  pages = {175-546},
   owner = {haslo},
   timestamp = {2009.08.19}
 }
@@ -410,11 +417,20 @@
   timestamp = {2009.05.02}
 }
 
+@BOOK{Dyson1979,
+  title = {Science and the Search for God},
+  publisher = {New York: Lantern Books},
+  year = {2003},
+  author = {Gary Kowalsky},
+  owner = {haslo},
+  timestamp = {2009.12.31}
+}
+
 @BOOK{Kurzweil2001,
   title = {The Law of Accelerating Returns},
   year = {2001},
   author = {Ray Kurzweil},
-  note = {Available online at http://www.kurzweilai.net/articles/art0134.html?printable=1},
+  note = {http://www.kurzweilai.net/articles/art0134.html?printable=1},
   owner = {haslo},
   timestamp = {2009.05.20}
 }
@@ -431,8 +447,8 @@
 }
 
 @BOOK{Lewes1875,
-  title = {Problems of Life and Mind (First Series)},
-  publisher = {Trübner},
+  title = {Problems of Life and Mind: First Series: The Foundation of a Creed},
+  publisher = {London: Trübner},
   year = {1875},
   author = {George H. Lewes},
   volume = {2},
@@ -501,7 +517,7 @@
 
 @BOOK{Metzinger2003,
   title = {Being No One: The Self-Model Theory of Subjectivity},
-  publisher = {The MIT Press},
+  publisher = {Massachusetts: The MIT Press},
   year = {2003},
   author = {Thomas Metzinger},
   owner = {haslo},
@@ -513,7 +529,7 @@
 	the Future of the Human Mind},
   year = {2007},
   author = {Marvin Minsky},
-  note = {Available online at http://mitworld.mit.edu/video/484},
+  note = {http://mitworld.mit.edu/video/484},
   owner = {haslo},
   timestamp = {2009.05.01}
 }
@@ -527,6 +543,16 @@
 	minsky/},
   owner = {haslo},
   timestamp = {2009.05.08}
+}
+
+@ARTICLE{Moran2009,
+  author = {Moran, J.M., Heatherton, T.F., and Kelley, W.M.},
+  title = {Modulation of cortical midline structures by implicit and explicit
+	self-relevance evaluation},
+  journal = {Social Neuroscience},
+  year = {2009},
+  owner = {haslo},
+  timestamp = {2010.01.03}
 }
 
 @ARTICLE{Mori1970,
@@ -597,7 +623,8 @@
 }
 
 @BOOK{Platoa,
-  title = {Republic},
+  title = {The Republic},
+  year = {380 B.C.E.},
   author = {Plato},
   volume = {VII},
   owner = {haslo},
@@ -638,7 +665,7 @@
 
 @BOOK{Searle1992,
   title = {The Rediscovery of the Mind},
-  publisher = {The MIT Press},
+  publisher = {Massachusetts: The MIT Press},
   year = {1992},
   author = {John R. Searle},
   owner = {haslo},
@@ -660,7 +687,7 @@
 
 @BOOK{Sehon2005,
   title = {Teleological Realism},
-  publisher = {The MIT Press},
+  publisher = {Massachusetts: The MIT Press},
   year = {2005},
   author = {Scott Sehon},
   owner = {haslo},
@@ -696,6 +723,15 @@
   timestamp = {2009.06.05}
 }
 
+@BOOK{2008a,
+  title = {Otto the octopus wreaks havoc},
+  year = {2008},
+  author = {Telegraph.co.uk},
+  note = {http://www.telegraph.co.uk/news/newstopics/howaboutthat/3328480/Otto-the-octopus-wrecks-havoc.html},
+  owner = {haslo},
+  timestamp = {2009.05.02}
+}
+
 @ARTICLE{Mather2003,
   author = {Turk Charles, Susan and Mather, Mara and Carstensen, Laura L.},
   title = {Aging and Emotional Memory: The Forgettable Nature of Negative Images
@@ -721,10 +757,10 @@
 }
 
 @BOOK{Watts2009,
-  title = {Lloyd Watts: Neuroscience},
+  title = {Lloyd Watts Neuroscience},
   year = {2009},
   author = {Lloyd Watts},
-  note = {Available online at http://www.lloydwatts.com/neuroscience.shtml},
+  note = {http://www.lloydwatts.com/neuroscience.shtml},
   owner = {haslo},
   timestamp = {2009.05.20}
 }
@@ -776,27 +812,10 @@
   timestamp = {2009.06.05}
 }
 
-@BOOK{2009,
-  title = {How your brain sees virtual you},
-  publisher = {New Scientist},
-  year = {2009},
-  note = {http://www.newscientist.com/article/dn18117-how-your-brain-sees-virtual-you.html},
-  owner = {haslo},
-  timestamp = {2010.01.01}
-}
-
 @BOOK{2008,
   title = {Commonsense Computing Initiative},
   year = {2008},
   note = {http://xnet.media.mit.edu/},
-  owner = {haslo},
-  timestamp = {2009.05.02}
-}
-
-@BOOK{2008a,
-  title = {Otto the octopus wreaks havoc},
-  year = {2008},
-  note = {http://www.telegraph.co.uk/news/newstopics/howaboutthat/3328480/Otto-the-octopus-wrecks-havoc.html},
   owner = {haslo},
   timestamp = {2009.05.02}
 }

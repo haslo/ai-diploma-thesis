@@ -1,4 +1,4 @@
-#LyX 1.6.5 created this file. For more info see http://www.lyx.org/
+#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 345
 \begin_document
 \begin_header
@@ -17982,7 +17982,7 @@ Even better, we even have some slight idea what those causal powers could
  and in a slightly more complex layering.
  The special causal powers of the brain that make us conscious subjects
  are the very same that make us able to experience the world phenomenally
- as a subject.
+ from a first-person point of view.
 \end_layout
 
 \begin_layout Standard
@@ -18470,10 +18470,13 @@ reference "Summary"
 \end_inset
 
 
+\end_layout
+
+\begin_layout Standard
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "Hard_Problem_References"
-options "plain"
+options "jtb"
 
 \end_inset
 
