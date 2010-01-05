@@ -1,4 +1,4 @@
-#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
+#LyX 1.6.5 created this file. For more info see http://www.lyx.org/
 \lyxformat 345
 \begin_document
 \begin_header
@@ -1061,7 +1061,7 @@ status open
 Raw perceptive data in this sense is everything that reaches the system
  from the outside, just the way it is first processed by the system's sensory
  organs, but also already processed by the system's object formative and
- integrative capabilities and thus perceived as `an object now out there
+ integrative capabilities and thus perceived as `an entity now out there
  in the world.' This is the lowest level of data that can be accessed by
  introspection in cases of phenomenal perception.
  The implication of this definition is that the same object, perceived in
@@ -2989,15 +2989,26 @@ reference "Offline-activation"
 \end_inset
 
 .
- For lower-level processes in the brain, it is all just data anyway.
- See chapter 
+ For lower-level processes in the brain, it is all just data anyway (see
+ chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Conceptual-Dualism"
 
 \end_inset
 
-.
+).
+ However, what remains important is that sensory data is what drives the
+ 
+\begin_inset Quotes eld
+\end_inset
+
+world zero,
+\begin_inset Quotes erd
+\end_inset
+
+ it is the only kind of data that is (in non-pathological cases) perceived
+ as unquestionably given.
 \end_layout
 
 \end_inset
@@ -11021,7 +11032,19 @@ key "Dennett1991"
 
 \begin_layout Standard
 Dennett also points out that a self can not plausibly be an all-or-nothing
- phenomenon, and that absolutism is misguided:
+ phenomenon, and that absolutism
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Absolutism here is intended to mean seeing things only in absolutes, i.e.
+ when it comes to selves, only allowing systems that have a full self and
+ systems that have no self at all.
+\end_layout
+
+\end_inset
+
+ is misguided:
 \end_layout
 
 \begin_layout Quote
@@ -15864,7 +15887,9 @@ status open
 \begin_layout Plain Layout
 Whether naturalizing consciousness is the only approach that makes sense
  is of course to some extent a matter of opinion, but it seems to me that
- reductive naturalism is the most reasonable and logical approach available.
+ reductive naturalism (i.e.
+ everything is reducible to purely physically analyzable components) is
+ the most reasonable and logical approach available.
 \end_layout
 
 \begin_layout Plain Layout
