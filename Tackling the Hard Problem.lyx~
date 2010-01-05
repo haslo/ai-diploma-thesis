@@ -1060,10 +1060,14 @@ status open
 \begin_layout Plain Layout
 Raw perceptive data in this sense is everything that reaches the system
  from the outside, just the way it is first processed by the system's sensory
- organs.
- This means that the same object, perceived in to different situations,
- will produce the same intentional object and potentially the same intentional
- content, but not the same immanent content.
+ organs, but also already processed by the system's object formative and
+ integrative capabilities and thus perceived as `an object now out there
+ in the world.' This is the lowest level of data that can be accessed by
+ introspection in cases of phenomenal perception.
+ The implication of this definition is that the same object, perceived in
+ to different situations, will produce the same intentional object and potential
+ly the same intentional content (if the situations are very similar), but
+ not the same immanent content.
  See 
 \begin_inset CommandInset citation
 LatexCommand cite
@@ -2966,8 +2970,8 @@ Having just one single world model is a pretty efficient way of reducing
 status open
 
 \begin_layout Plain Layout
-`Sensory data' here denotes all the data which is produced by sensory input
- of any kind, the data produced by the nerve endings in sensory organs.
+`Sensory data' here denotes all the data which is directly produced by sensory
+ input of any kind, the data produced by the nerve endings in sensory organs.
  The distinction between sensory data and other kinds of data is not enormously
  important however, particularly once the 
 \begin_inset Quotes eld
@@ -18461,6 +18465,14 @@ there is a spirit in this machine that allows it to process words and images,
 
  -- particularly when he does not have the source code of programs at his
  disposal, but only the compiled, cryptic and hardly decipherable end product.
+ Again, failure of imagination is not an insight into necessity (see 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Dennett1991"
+
+\end_inset
+
+, page 401).
 \end_layout
 
 \end_inset
