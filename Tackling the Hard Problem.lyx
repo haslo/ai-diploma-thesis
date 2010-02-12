@@ -1,4 +1,4 @@
-#LyX 1.6.5 created this file. For more info see http://www.lyx.org/
+#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
 \lyxformat 345
 \begin_document
 \begin_header
@@ -496,10 +496,6 @@ The Intentional Stance
 Being No One
 \emph default
  in 2003 as his first major work in English.
- 
-\end_layout
-
-\begin_layout Standard
 \begin_inset Foot
 status open
 
@@ -524,8 +520,8 @@ reference "Metzingers-Names"
 \end_inset
 
  He tries to reinterpret phenomenological views in a radically new way,
- and ends up even dismissing (at least from ontology in a stricter sense)
- the very thing that seems to be at the core of our subjectivity: the self.
+ and ends up even dismissing (at least from physical ontology) the very
+ thing that seems to be at the core of our subjectivity: the self.
 \end_layout
 
 \begin_layout Standard
@@ -745,7 +741,17 @@ Subjectivity:
 \emph default
  The way we see everything from a first-person perspective.
  We experience both ourselves and our fellow humans as agents, and we believe
- that our fellow human beings experience themselves as persons as well.
+ that our fellow human beings experience themselves as persons
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+A person here is nothing more than an agent that is aware of his agency.
+\end_layout
+
+\end_inset
+
+ as well.
  How is such a first-person perspective generated, and what else is included
  when someone speaks of 
 \begin_inset Quotes eld
@@ -2644,7 +2650,7 @@ key "Evans2006"
 
 \end_inset
 
-, page 26.
+, page 26, emphasis his.
 \end_layout
 
 \end_inset
@@ -4697,7 +4703,7 @@ key "Metzinger2003"
 
 \end_inset
 
-, page 189f.
+, pages 189f.
 \end_layout
 
 \end_inset
@@ -5128,24 +5134,6 @@ key "Metzinger2003"
 
 \end_layout
 
-\begin_layout Standard
-The adaptivity constraint is further discussed in chapters 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Adaptivity-Questioned"
-
-\end_inset
-
- (where I question the necessity of the constraint) and 
-\begin_inset CommandInset ref
-LatexCommand ref
-reference "Weaker-Adaptivity"
-
-\end_inset
-
- (where I propose a weaker adaptivity constraint instead).
-\end_layout
-
 \begin_layout Paragraph
 The 
 \begin_inset Quotes eld
@@ -5170,6 +5158,30 @@ adaptivity
  constraint needs to have a proper history, it needs to have grown and adapted
  to primary evolutionary pressure, and it needs to exhibit behaviour that
  is beneficial for the evolutionary niche it fits into.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The adaptivity constraint is further discussed in chapters 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Adaptivity-Questioned"
+
+\end_inset
+
+ (where I question the necessity of the constraint) and 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Weaker-Adaptivity"
+
+\end_inset
+
+ (where I propose a weaker adaptivity constraint instead).
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsubsection
@@ -5416,12 +5428,14 @@ Note that this list does not include some constraints.
 \end_layout
 
 \begin_layout Standard
-Adaptivity (11) itself,
+Adaptivity (11) itself, which is also not included, might be necessary for
+ us to even recognize a system as being conscious at all.
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Or at least the weaker adaptivity that I suggest in chapter 
+At least, this applies to the weaker adaptivity constraint that I suggest
+ in chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Weaker-Adaptivity"
@@ -5433,8 +5447,6 @@ reference "Weaker-Adaptivity"
 
 \end_inset
 
- which is also not included, might be necessary for us to even recognize
- a system as being conscious at all.
  Nevertheless, this does not mean that we would necessarily have to include
  it as a prerequisite for consciousness as well.
  It is only our cognition that is affected by the problem, not necessarily
@@ -5510,7 +5522,7 @@ ineffability
  ineffable entity.
  Because it is not possible to form a concept of such things, it is also
  not possible to communicate or remember them.
- This seems to be the way Metzinger uses the term as well.
+ This appears to be the way Metzinger uses the term as well.
 \end_layout
 
 \end_inset
@@ -5704,6 +5716,149 @@ reference "Levels-of-Consciousness"
  The things Metzinger describes are apparently not so much minimal preconditions
 , but really restrictions that can be applied to any system that is able
  to perceive, process and output data.
+\end_layout
+
+\begin_layout Standard
+To use more traditional philosophical nomenclature, Metzinger's multilevel
+ constraints are entities of which there are known combinations that are
+ necessary restrictions (and process descriptions) to an unconstrained data
+ processing system, enabling different levels of consciousness.
+\end_layout
+
+\begin_layout Standard
+However, some of his constraints also imply that a system that satisfies
+ them needs to be able to process data.
+ Particularly the presentationality constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Window-of-Presence"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ not only talks about the way that things have to be presented, but also
+ that they have to be presented at all (and thus, a system satisfying the
+ presentationality constraint needs to be able to present things).
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Interestingly, the presentationality constraint is already included in 
+\begin_inset Quotes eld
+\end_inset
+
+minimal consciousness
+\begin_inset Quotes erd
+\end_inset
+
+(see chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Levels-of-Consciousness"
+
+\end_inset
+
+), thus all levels of consciousness require the system to be able to present
+ things.
+\end_layout
+
+\end_inset
+
+ The dynamicity constraint 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Dynamicity"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ and the offline activation constraint
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Offline-activation"
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+ extend this and require the system to be able to represent a dynamical
+ environment.
+\end_layout
+
+\begin_layout Standard
+Metzinger does not further discuss these implicit premises, but for this
+ wider reading of his multilevel constraints, they are also sufficient for
+ the levels of consciousness that they are prerequisites for.
+\end_layout
+
+\begin_layout Standard
+Metzinger's multilevel constraints are not sufficient, as there needs to
+ be this somewhat vague unconstrained data processing system in the first
+ place.
+ Furthermore, there are many more processes outside the scope of his theory
+ that are nevertheless necessary for producing consciousness as well.
+ Two examples of such further processes which are necessary for producing
+ consciousness:
+\end_layout
+
+\begin_layout Itemize
+Obtaining of sensory data: There need to be sensory organs that give the
+ system data input that it is then able to process.
+ Naïvely, they provide a window to the external world and make the entities
+ that actually are available to the system.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+Whether this is true or not, it is the way it has to appear to the system
+ if it is to satisfy constraint .
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Itemize
+The presentation layer: It is necessary to pre-process sensory input data
+ into forms that are compatible with the system's way of processing phenomenal
+ contents.
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Standard
@@ -6255,7 +6410,7 @@ global availability
 status open
 
 \begin_layout Plain Layout
-I use “dynamical hardware” here due to a distinct lack of a better term
+I use `dynamical hardware' here due to a distinct lack of a better term
  when it comes to process descriptions implemented in neurons -- that are
  both rigid in the short term and dynamic in the long term.
 \end_layout
@@ -6331,7 +6486,7 @@ reference "Perspectivalness"
 status open
 
 \begin_layout Plain Layout
-Phenomenal self-model, see chapter 
+The acronym `PSM' stands for the phenomenal self-model, see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "Being-No-One"
@@ -6348,7 +6503,8 @@ reference "Being-No-One"
 status open
 
 \begin_layout Plain Layout
-Phenomenal model of the intentionality relation, see chapter 
+The acronym `PMIR' stands for the phenomenal model of the intentionality
+ relation, see chapter 
 \begin_inset CommandInset ref
 LatexCommand ref
 reference "PMIR"
@@ -6484,7 +6640,8 @@ This does bear some similarities to the paradox of the ship of Theseus,
  is destroyed, and the question is what traits that replication shares with
  the original.
  It all comes down to what transtemporal aspects the traits in question
- have of course, and that is rarely well-defined.
+ have of course; these transtemporal aspects are rarely well-defined and
+ usually easy to disagree about.
 \end_layout
 
 \end_inset
@@ -8258,7 +8415,7 @@ Dennett starts with the observations that led him to his multiple drafts
 
 \begin_layout Standard
 An important point of Dennett's theory regarding qualia is that feature
- detectors which make us experience something as “blue” or “bitter” co-evolved
+ detectors which make us experience something as `blue' or `bitter' co-evolved
  with the features they detect.
  Color vision evolved because there were features distinguishable by color.
  More precisely, it evolved because color happens to be a concept that is
@@ -12300,9 +12457,12 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Enumerate
-`Instinctive Reactions': These are reactions to stimuli that we are genetically
- predisposed to do -- and which often do not fit into the fast-paced modern
- world.
+
+\emph on
+Instinctive Reactions:
+\emph default
+ These are reactions to stimuli that we are genetically predisposed to do
+ -- and which often do not fit into the fast-paced modern world.
 \begin_inset Foot
 status open
 
@@ -12320,10 +12480,14 @@ Notably, this modern and fast-paced time period includes not just a few
 \end_layout
 
 \begin_layout Enumerate
-`Learned Reactions': This involves considerable brain power already, because
- several aspects of the situation at hand (which parts of it have to be
- remembered, which steps would lead to success), and in what ways the memorizati
-on necessary for learning can happen, need to be analyzed
+
+\emph on
+Learned Reactions:
+\emph default
+ This involves considerable brain power already, because several aspects
+ of the situation at hand (which parts of it have to be remembered, which
+ steps would lead to success), and in what ways the memorization necessary
+ for learning can happen, need to be analyzed
 \begin_inset Foot
 status open
 
@@ -12357,8 +12521,11 @@ want
 \end_layout
 
 \begin_layout Enumerate
-`Deliberative Thinking': At this level, we already must be able to plan
- ahead.
+
+\emph on
+Deliberative Thinking:
+\emph default
+ At this level, we already must be able to plan ahead.
  We have to be able to imagine things and situations, including counterfactuals,
  and have the ability to decide between alternatives.
  With these features in place, we can decide between multiple possible ways
@@ -12366,22 +12533,33 @@ want
 \end_layout
 
 \begin_layout Enumerate
-`Reflective Thinking': This is a continuous monitoring of our own activities
- which allows glimpses into both the past and the present within short-term
- memory, and even allows us to imagine the immediate future.
+
+\emph on
+Reflective Thinking:
+\emph default
+ This is a continuous monitoring of our own activities which allows glimpses
+ into both the past and the present within short-term memory, and even allows
+ us to imagine the immediate future.
  On this level, we are able to think about our own actions, and decide on
  better ways to handle things the next time we are in a similar situation.
 \end_layout
 
 \begin_layout Enumerate
-`Self-Reflective Thinking': Here, not just regular activities, but own thought
- processes are reflected upon -- including own mental states (like confusion).
+
+\emph on
+Self-Reflective Thinking:
+\emph default
+ Here, not just regular activities, but own thought processes are reflected
+ upon -- including own mental states (like confusion).
 \end_layout
 
 \begin_layout Enumerate
-`Self-Conscious Reflection': The final level adds moral values and enables
- comparisons between who we are (and what we do) and who we want to be (and
- what this 
+
+\emph on
+Self-Conscious Reflection:
+\emph default
+ The final level adds moral values and enables comparisons between who we
+ are (and what we do) and who we want to be (and what this 
 \begin_inset Quotes eld
 \end_inset
 
@@ -12456,13 +12634,20 @@ I will borrow quite some of Metzinger's philosophical terminology here.
 \end_layout
 
 \begin_layout Enumerate
-`Instinctive Reactions' do not require any form of phenomenal self-model
- at all.
+
+\emph on
+Instinctive Reactions
+\emph default
+ do not require any form of phenomenal self-model at all.
  The reactions themselves do not need a phenomenal representation, either.
 \end_layout
 
 \begin_layout Enumerate
-`Learned Reactions' require a relatively simple form of a self-model.
+
+\emph on
+Learned Reactions
+\emph default
+ require a relatively simple form of a self-model.
  It is enough if there is a self-world distinction that is stringent enough
  to allow remembering which sensory inputs belonged to the self.
  Furthermore, if they were initiating motor behaviour, the actions leading
@@ -12470,9 +12655,12 @@ I will borrow quite some of Metzinger's philosophical terminology here.
 \end_layout
 
 \begin_layout Enumerate
-`Deliberative Thinking' requires a fairly complex phenomenal self-model
- which includes knowledge about what the body and mind constituting the
- self
+
+\emph on
+Deliberative Thinking
+\emph default
+ requires a fairly complex phenomenal self-model which includes knowledge
+ about what the body and mind constituting the self
 \begin_inset Foot
 status open
 
@@ -12504,9 +12692,12 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Enumerate
-`Reflective Thinking' does not add to the required complexity of the phenomenal
- self-model, since offline activation was already necessary for the previous
- level.
+
+\emph on
+Reflective Thinking
+\emph default
+ does not add to the required complexity of the phenomenal self-model, since
+ offline activation was already necessary for the previous level.
  It does however pose bigger challenges to the equivalent of Metzinger's
  
 \begin_inset Quotes eld
@@ -12555,10 +12746,14 @@ reference "Window-of-Presence"
 \end_layout
 
 \begin_layout Enumerate
-`Self-Reflective Thinking' adds to the required complexity of the self-model
- in that more contents of it (namely, mental states, goal representations
- and some emotional states) have to be available for introspection, thus
- they have to be part of the (potentially) opaque component
+
+\emph on
+Self-Reflective Thinking
+\emph default
+ adds to the required complexity of the self-model in that more contents
+ of it (namely, mental states, goal representations and some emotional states)
+ have to be available for introspection, thus they have to be part of the
+ (potentially) opaque component
 \begin_inset Foot
 status open
 
@@ -12582,8 +12777,12 @@ reference "Transparency"
 \end_layout
 
 \begin_layout Enumerate
-`Self-Conscious Reflection' finally requires that multiple self-models can
- be inspected at the same time.
+
+\emph on
+Self-Conscious Reflection
+\emph default
+ finally requires that multiple self-models can be inspected at the same
+ time.
  At least the normative 
 \emph on
 goal
@@ -12861,10 +13060,17 @@ When Caudle's looked for brain areas that were more active when volunteers
 \end_layout
 
 \begin_layout Quote
-Interestingly, however, there was "next to no difference" in the activity
- in these regions when people thought of themselves and of their avatar,
- says Caudle, who presented the results at the annual meeting of the Society
- for Neuroscience.
+Interestingly, however, there was 
+\begin_inset Quotes eld
+\end_inset
+
+next to no difference
+\begin_inset Quotes erd
+\end_inset
+
+ in the activity in these regions when people thought of themselves and
+ of their avatar, says Caudle, who presented the results at the annual meeting
+ of the Society for Neuroscience.
 \end_layout
 
 \end_inset
@@ -12933,19 +13139,29 @@ key "Minsky2006"
 \end_layout
 
 \begin_layout Itemize
-`Inborn Characteristics' we were born with (genetic predispositions).
+
+\emph on
+Inborn Characteristics
+\emph default
+ we were born with (genetic predispositions).
 \end_layout
 
 \begin_layout Itemize
-`Learned Characteristics' that correspond to the goals we try to achieve
- and priorities we have set, which also influence emotive responses to sensory
- input.
+
+\emph on
+Learned Characteristics
+\emph default
+ that correspond to the goals we try to achieve and priorities we have set,
+ which also influence emotive responses to sensory input.
 \end_layout
 
 \begin_layout Itemize
-`Investment Principle' -- if we learned a way of performing an action that
- works, it is usually not efficient to learn another way that would also
- work.
+
+\emph on
+Investment Principle
+\emph default
+ -- if we learned a way of performing an action that works, it is usually
+ not efficient to learn another way that would also work.
  This is because the way we know works well, and renders another learning
  period unnecessary or at least inefficient.
 \begin_inset Foot
@@ -12979,13 +13195,21 @@ Once we learn an effective way to do some job, we'll resist learning other
 \end_layout
 
 \begin_layout Itemize
-`Archetypes and Self-Ideals', essentially our normative self-models, that
- shape positive ones by means of the higher levels of mental activities
- (those that correspond to the Freudian Super-Ego).
+
+\emph on
+Archetypes and Self-Ideals
+\emph default
+, essentially our normative self-models, that shape positive ones by means
+ of the higher levels of mental activities (those that correspond to the
+ Freudian Super-Ego).
 \end_layout
 
 \begin_layout Itemize
-`Self-Control', constraining short-term urges for longer-term goals.
+
+\emph on
+Self-Control
+\emph default
+, constraining short-term urges for longer-term goals.
  This serves both being predictable for others, but also becoming self-predictab
 le and thus being able to 
 \begin_inset Quotes eld
@@ -15484,7 +15708,7 @@ key "Metzinger2003"
 \end_inset
 
  fearing, and many others.
- They also have a direction -- the “arrow of attention” points outwards
+ They also have a direction -- the `arrow of attention' points outwards
  (in regular perception) or inwards (in introspection), from the first-person
  perspective, but always originates from the subject component, thus putting
  subject and object into the aforementioned asymmetrical relationship.
@@ -17653,9 +17877,9 @@ kind
 This means that the PMIR has to be able to accomodate large classes of both
  object components and attitude specificators.
  It has to be able to present all of these object components as the same
- kind of object component -- the kind of “the entity that I currently relate
- to.” And it has to present all of these attitude specificators as “the way
- in which I relate to that entity.”
+ kind of object component -- the kind of `the entity that I currently relate
+ to.' And it has to present all of these attitude specificators as `the way
+ in which I relate to that entity.'
 \end_layout
 
 \begin_layout Subsection
@@ -18560,6 +18784,9 @@ status open
 
 \begin_layout Plain Layout
 These three philosophers are of course Metzinger, Dennett and Minsky.
+ For a theory like Minsky's, who has the goal of researching consciousness
+ in a way that enables artificial intelligence resembling our kind of consciousn
+ess, any other approach would even be ironically misguided.
 \end_layout
 
 \end_inset
