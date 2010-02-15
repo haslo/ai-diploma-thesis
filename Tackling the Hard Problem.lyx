@@ -1,4 +1,4 @@
-#LyX 1.6.3 created this file. For more info see http://www.lyx.org/
+#LyX 1.6.5 created this file. For more info see http://www.lyx.org/
 \lyxformat 345
 \begin_document
 \begin_header
@@ -1167,14 +1167,14 @@ first
 status open
 
 \begin_layout Plain Layout
-Citation from the online version of 
+Citation from the 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett2003"
 
 \end_inset
 
-, emphasis his.
+, page 19, emphasis his.
 \end_layout
 
 \end_inset
@@ -5981,14 +5981,14 @@ Lone-wolf autophenomenology, in which the subject and experimenter are one
 status open
 
 \begin_layout Plain Layout
-Citation from the online version of 
+Citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett2003"
 
 \end_inset
 
-.
+, page 23.
 \end_layout
 
 \end_inset
@@ -16278,14 +16278,26 @@ key "Nagel1991"
 \end_layout
 
 \begin_layout Quote
-Well, then, what does rotting chicken smell like to a turkey vulture? [...]
- We can uncover the corresponding family of reactive dispositions in the
- vulture by the same methods that work for me, and as we do, we will learn
- more and more about the no doubt highly idiosyncratic relations a vulture
- can form to a set of olfactory stimuli.
- But we already know a lot that we won't learn.
+Well, then, what 
+\emph on
+does
+\emph default
+ rotting chicken smell like to a turkey vulture? [...] We can uncover the correspon
+ding family of reactive dispositions in the vulture by the same methods
+ that work for me, and as we do, we will learn more and more about the no
+ doubt highly idiosyncratic relations a vulture can form to a set of olfactory
+ stimuli.
+ But we already know a lot that we 
+\emph on
+won't
+\emph default
+ learn.
  We will never find a vulture being provoked by those stimuli to wonder,
- as a human being might, whether the chicken is not just slightly off tonight.
+ as a human being might, whether the chicken is not just slightly 
+\emph on
+off
+\emph default
+ tonight.
  And we won't find any amusement or elaborate patterns of association or
  Proustian reminiscence.
  Am I out in front of the investigations here? A little bit, but note what
@@ -16298,14 +16310,14 @@ Well, then, what does rotting chicken smell like to a turkey vulture? [...]
 status open
 
 \begin_layout Plain Layout
-Citation from the online version of 
+Citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Dennett1995"
 
 \end_inset
 
-.
+, pages 705f.
  Personally, I find it puzzling that Dennett should say that consciousness
  is a gradual phenomenon and then assume that vultures have no dispositional
  stances in their intentional relations that are similar to our amusement
@@ -18346,19 +18358,19 @@ reference "Summary-Basic-Phenomenality"
 \end_inset
 
  we now have a fully conscious system that has, to quote Searle, “causal
- powers equivalent to those of the brain.”
+ powers equal to those of the brain.”
 \begin_inset Foot
 status open
 
 \begin_layout Plain Layout
-Citation from the online version of 
+Citation from 
 \begin_inset CommandInset citation
 LatexCommand cite
 key "Searle1980"
 
 \end_inset
 
-.
+, page 417.
  Notably, he used the term to attempt to show what it is that a computer
  necessarily lacks for producing intentionality and ultimately consciousness.
 \end_layout
