@@ -3831,8 +3831,21 @@ reference "PMIR"
 
 \begin_layout Standard
 Metzinger lists 11 constraints, yet there are actually merely 10 plus the
- aforementioned prereflexive proto self-model .The PSM and PMIR follow from
- them and form the perspectivalness constraint.
+ aforementioned prereflexive proto self-model.
+ The PSM and PMIR follow from them and are constitutive requirements
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+The PSM and the PMIR are not the sole constititutive requirements of course.
+ The prereflexive proto self-model and the embodiment constraint, the requiremen
+t for the system to be experientially centered, also contribute to shaping
+ the full perspectivalness constraint.
+\end_layout
+
+\end_inset
+
+ for the perspectivalness constraint.
 \end_layout
 
 \begin_layout Paragraph
@@ -6501,6 +6514,17 @@ reference "Prereflexive-Proto-Self"
 \end_inset
 
 , after discussing Metzinger's PSM.
+ I try to avoid interdependencies between different levels of my analysis
+ of the complex of consciousness in this thesis -- consequently, the partial
+ concepts in the summary in chapter 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "Summary"
+
+\end_inset
+
+ will not include the full perspectivalness constraint, but merely parts
+ of it, in its levels of analysis.
 \end_layout
 
 \begin_layout Subsubsection
@@ -11421,8 +11445,7 @@ The self is not an illusion
 
 \begin_layout Standard
 In order to avoid misunderstandings, I regard it important, at this point,
- to make clear that it is wrong to say that it is wrong to say that the
- self is 
+ to make clear that it is wrong to say that the self is 
 \emph on
 an illusion
 \emph default
@@ -16960,6 +16983,17 @@ reference "The-Intentional-Stance"
 \end_inset
 
 .
+ Both Dennett and Metzinger thus conclude that models of intentionally acting
+ systems are all there is to us perceiving intentionality in systems other
+ than ourselves.
+ Metzinger makes a difference between these empathic models and the PMIR,
+ a system's model of its own intentionality relation, while Dennett does
+ not.
+ The difference is subtle yet important: For Dennett, everything appears
+ to be a simulation.
+ For Metzinger, the (online) PMIR has ineffable components of which the
+ phenomenal contents can not be fully intersubjectively (empathically) appreciat
+ed.
 \end_layout
 
 \end_inset
@@ -17676,12 +17710,20 @@ reference "Six-levels-of-self"
 \end_layout
 
 \begin_layout Enumerate
-`Instinctive Reactions' - requiring no self-model yet.
+
+\emph on
+Instinctive Reactions
+\emph default
+ - requiring no self-model yet.
 \end_layout
 
 \begin_layout Enumerate
-`Learned Reactions' - forming a simple self-model that includes the bipartition
- between self and world.
+
+\emph on
+Learned Reactions
+\emph default
+ - forming a simple self-model that includes the bipartition between self
+ and world.
 \end_layout
 
 \begin_layout Standard
@@ -18047,14 +18089,22 @@ setcounter{enumi}{3}
 
 \end_inset
 
-`Deliberative Thinking' - adding phenomenality and offline activation to
- the requirements for the self-model, and adding the requirement for a model
- of the intentionality relation to the system as a whole.
+
+\emph on
+Deliberative Thinking
+\emph default
+ - adding phenomenality and offline activation to the requirements for the
+ self-model, and adding the requirement for a model of the intentionality
+ relation to the system as a whole.
 \end_layout
 
 \begin_layout Enumerate
-`Reflective Thinking' - not really adding complexity, but requiring the
- dynamicity constraint's processes
+
+\emph on
+Reflective Thinking
+\emph default
+ - not really adding complexity, but requiring the dynamicity constraint's
+ processes
 \begin_inset Foot
 status open
 
@@ -18089,13 +18139,21 @@ must
 \end_layout
 
 \begin_layout Enumerate
-`Self-Reflective Thinking' - requiring parts of the self-model to be opaque,
- or at least the possibility to make them opaque.
+
+\emph on
+Self-Reflective Thinking
+\emph default
+ - requiring parts of the self-model to be opaque, or at least the possibility
+ to make them opaque.
 \end_layout
 
 \begin_layout Enumerate
-`Self-Conscious Reflection' - requiring that multiple self-models have to
- be available in parallel and can be compared.
+
+\emph on
+Self-Conscious Reflection
+\emph default
+ - requiring that multiple self-models have to be available in parallel
+ and can be compared.
 \end_layout
 
 \begin_layout Standard
@@ -18549,8 +18607,8 @@ Such a system would probably vanish within a relatively short time frame.
 \end_inset
 
  and one that we would classify as a conscious system.
- The modified adaptivity constraint is what consciousness visible from outside
- the system.
+ The modified adaptivity constraint is what makes consciousness visible
+ from outside the system.
 \end_layout
 
 \begin_layout Subsection
